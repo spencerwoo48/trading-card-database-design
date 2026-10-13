@@ -1,0 +1,303 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+3573,Gilt-Leaf Palace,,,Land,,,,Lorwyn,Rare,Christopher Moeller,,268,301,,"As Gilt-Leaf Palace comes into play, you may reveal an Elf card from your hand. If you don't Gilt-Leaf Palace comes into play tapped.
+{T}: Add {B} or {G} to yoru mana pool.","Dawn's Light, greatest palace of Gilt-Leaf Wood, is built on tiers of wood and power.",,,,3
+3574,"Ishgard, the Holy See",,,Land,Town,,,Universes Beyond: Final Fantasy,Rare,Kohei Yamada,,283,,,"This land enters tapped.
+{T}: Add {W}.","A great and proud nation devoted to Halone, the Fury.",,,,1
+3575,"Lindblum, Industrial Regency",,,Land,Town,,,Universes Beyond: Final Fantasy,Rare,Piotr Dura,,285,,,"This land enters tapped.
+{T}: Add {R}.",A city encircled by the ramparts of a massive castle.,,,,1
+3576,Sunpetal Grove,,,Land,,,,M12,Rare,Jason Chan,,229,249,,"Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W} to your mana pool.",,,,,1
+3577,Brushland,,,Land,,,,,,Tom Wänerstrand,,,,,"{T}: Add one colorless mana to your mana pool.
+{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.",,,,,1
+3578,Murmuring Rock,,,Land,Forest,,,Morningtide,Rare,John Avon,,147,150,,"({T}: Add {G} to your mana pool.)
+As Murmuring Bosk comes into play, you may reveal a Treefolk card from your hand. IF you don't, Murmuring Bosk comes into play tapped.
+{T}: Add {W} or {B} to your mana pool. Murmuring Bosk deals 1 damage to you.",,,,,2
+3579,Copperline Gorge,,,Land,,,,Scars of Mirrodin,Rare,Zoltan Boros,Gabor Szikszai,225,249,,"Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {R} or {G} to your mana pool.","Where the Tanlge overruns the Oxidda mountains, metallic beasts scratch their territories in the verdigris.",,,,1
+3580,Swarmyard,,,Land,,,,Time Spiral,Rare,Thomas M. Baxa,,278,301,,"{T}: Add 1 to your mana pool.
+{T}: Regenerate target Insect, Rat, Spider, or Squirrel.","Where scavengers nest in hollowed-out rib cages and chittering crawlers peer from empty eye sockets, few dare to trespass.",,,,1
+3581,Karpulsan Forest,,,Land,,,,Tenth Edition,Rare,John Avon,,365,383,,"{T}: Add 1 to your mana pool.
+{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.",,,,,1
+3582,Pillar of the Paruns,,,Land,,,,Dissension,Rare,Dany Orizio,,176,180,,{T}: Add one mana of any color to your mana pool. Spend this mana only to play a multicolored spell.,"Built on the very ground where the Ten signed the Guildpact, the tower is a monument to the past and a reminder of who holds power in the present.",,,,1
+3583,Shivan Reef,,,Land,,,,Tenth Edition,Rare,Rob Alexander,,357,383,,"{T}: Add {1} to your mana pool.
+{T}: Add {U} or {R} to your mana pool. Shivan Reef deals 1 damage to you.",,,,,1
+3584,Mosswort Bridge,,,Land,,,,Lorwyn,Rare,Jeremy Jarvis,,270,301,,"Hideaway (This land comes into play tapped. When it does, look at the top four cards of your library, remove one from teh game faced own, then put the rest on the bottom of your library.)
+{T}: Add {G} to your mana pool.
+{G}, {T}: You may play the removed card without paying its mana cost if creatures you control have total power 10 or greater.",,,,,1
+3585,Reflecting Pool,,,Land,,,,Shadowmoor,Rare,Fred Fields,,278,301,,{T}: Add to your mana pool one mana of any type that a land you control could produce.,Does it reflect hte future that once was or the past that can never be?,,,,3
+3586,Graven Cairns,,,Land,,,,Futuresight,Rare,Anthony S. Waters,,175,180,,"{T}: Add {1} to your mana pool.
+{B/R}, {T} Add {B}{B}, {B}{R}, or {R}{R} to your mana pool.",Shamans of Kar-Sengir claim that their sun sets because it can no longer bear the gaze of those pain-carved cliffs.,,,,3
+3587,Shimmering Grotto,,,Land,,,,Lorwyn,Common,Alan Pollack,,273,301,,"{T}: Add {1} to your mana pool.
+{1}, {T}: Add one mana of any color to your mana pool.","Once each year, the sun's rays reach the hidden cahmber of Velis Vel, and the changelings congregate from afar to bathe in the ever-shifting light.",,,,1
+3588,Fire-Lit Thicket,,,Land,,,,Shadowmoor,Rare,Ralph Horsley,,271,301,,"{T}: Add {1} to your mana pool.
+{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G} to your mana pool.",Occupancy of the den changes from night to night as boggart gangs fight for control of a place they aren't willing to simply eat.,,,,1
+3589,Alchemist's Refuge,,,Land,,,,Avacyn Restored,Rare,Dan Scott,,225,244,,"{T}: Add {1} to your mana pool.
+{G}{U}, {T}: You may cast nonland cards this turn as though they had flash.","Persecuted alchemists fled deep into Kesig's wilds, seeking solitude to continue their ghoulish craft.",,,,1
+3590,Drowned Catacomb,,,Land,,,,M12,Rare,Dave Kendall,,226,249,,"Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B} to your mana pool.
+",,,,,1
+3591,Flooded Grove,,,Land,,,,Eventide,Rare,Dave Kendall,,177,180,,"{T}: Add {1} to your mana pool.
+{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U} to your mana pool.","At full moon, the river seeps over its banks and crawls through the woods like a blanket of serpents.",,,,1
+3592,Graven Cairns,,,Land,,,,Shadowmoor,Rare,Rob Alexander,,272,301,,"{T}: Add {1} to your mana pool.
+{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R} to your mana pool.","""Here did the Extinguisher steal the light from the world. Here will we sacrifice her to bring the Great Rekindling to our people.""
+—Illulia of Nighthearth
+",,,,1
+3593,,,,,,,,,,,,,,,,,,,,
+3594,Wanderwine Hub,,,Land,,,,Land,Rare,Warren Mahy,,280,301,,"As Wanderwine Hub comes into play, you may reveal a Merfolk card from your hand. IF you don't Wanderwine Hub comes into play tapped.
+{T}: Add {W} or {U} to your mana pool.","Below the great river, a bustling hub of channels the flow of merrow trade.",,,,2
+3595,Spinerock Knoll,,,Land,,,,Lorwyn,Rare,Steve Prescott,,274,301,,"Hideaway (This land comes into play tapped. When it does, look at the top four cards of your library, remove on efrom the game face down, then put hte rest on the bottom of your library.",,,,,1
+3596,Fetid Heath,,,Land,,,,Eventide,Rare,Daarken,,176,180,,"{T}: Add {1} to you rmana pool.
+{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B} to your mana pool.","""Do not linger in such places, child. There the gwyllions dance. If they find you, you will join in their revels for eternity.""
+—Talara, elvish safewright",,,,1
+3597,Raging Ravine,,,Land,,,,Worldwake,Rare,Todd Lockwood,,141,145,,"Raging Ravine enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.
+{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with ""Whenever this creature attacks, put a +1/+1 counter on it.""
+It's still a land.",,,,,4
+3598,Howltooth Hollow,,,Land,,,,Lorwyn,Rare,John Howe,,269,301,,"Hideaway (This land comes into play tapped. When it does, look at the top four cards of your library, remove one from the game face down, then put the rest on the bottom of your library.",,,,,1
+3599,Windbrisk Heights,,,Land,,,,Lorwyn,Rare,Omar Rayyan,,381,301,,"Hideaway (This land comes into play tapped. When it does, look at the top four cards of your library, remove one from the game face down, then put the rest on the bottom of your library.)
+{T}: Add {W} to your mana pool.
+{W}, {T}: You may play the removed card without paying its mana cost if you attacked with three or more creatures this turn.
+",,,,,2
+3600,Mosswort Bridge,,,Land,,,,Lorwyn,Rare,Jeremy Jarvis,,270,301,,"Hideaway (This land comes into play tapped. WHen it does, look at the top four cards of your library, remove one from the game face down, then put the rest on the bottom of your library.)
+{T}: Add {G} to your mana pool.
+{G}, {T}: You may play the removed card without paying its mana cost if creatures you control have total power 10 or greater.
+",,,,,2
+3601,Shineshadow Snarl,,,Land,,,,Strixhaven,Rare,Sam Burley,,272,275,,"As Shineshadow Snarl enters the battlefield, you may rveal a Plains or Swamp card from your hand. If you don't Spineshadow Snarl enters the battlefield tapped.
+{T}: Add {W} or {B}.",A flickering beacon of righteous corruption.,,,,1
+3602,Vineglimmer Snarl,,,Land,,,,Strixhaven,Rare,Sam Burley,,274,275,,"As Vineglimmer Snarl enters the battlefield, you may reveal a Forest or Island card from your hand. If you don't, Vineglimmer Snarl enters the battlefield tapped.
+{T}: Add {G} or {U}.",A verdant paradox of primal logic.,,,,1
+3603,The Biblioplex,,,Land,,,,Strixhaven,Rare,Piotr Dura,,264,275,,"{T}: Add {C}.
+{2}, {T}: Look at the top card of your library. If it's an instant or sorcery card, you may reveal it and put it into yoru hand. If you don't put hte card into yoru hand, you may put it into your graveyard. Activate only if you have exactly zero or zeven cards in hand.",,,,,1
+3604,Kher Keep,Legendary,,Land,,,,Time Spiral,Rare,Parente,,175,301,,"{T}: Add {1} to your mana pool.
+{1}{R}, {T}: Put a 0/1 red Kobold creature token named Kobolds of Kher Keep into play.","""They're still here?! The cockroach may hve finally met its match.""
+—Teferi
+",,,,1
+3605,Cascade Bluffs,,,Land,,,,Eventide,Rare,Brandon Kitkouski,,175,180,,"{T}: Add {1} to your mana pool.
+{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R} to your mana pool.",Travelers bathe in the falls to wash away curses from the pucas who lurk nearby.,,,,1
+3606,Angel of Jubilation,,,Creature,Angel,,,Avacyn Restored,Rare,Terese Nielsen,,2,244,{1}{W}{W}{W},"Flying
+Other nonblack creatures you control get +1/+1.
+Players can't pay life or sacrifice creatures to cast spells or activate abilities.
+","""Though Innistrad is not cleansed of evil, we finally have cause to rejoice.""",3,3,,3
+3607,Idyllic Tutor,,,Sorcery,,,,Morningtide,Rare,Howard Lyon,,12,150,{2}{W},"Search your library for an enchantment card, reveal it, and put it into your hand. Then shuffle your library.","""If one's life is blessed, solutions to all life's problems will appear at the right moment.""
+—The Book of Kith and Kin",,,,1
+3608,Restore Balance,,,Sorcery,,,,Time Spiral,Rare,Mark Poole,,38,301,,"Restore Balance is white.
+Suspend 6—{W}
+Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players sacrifice creatures and discard cards the same way.",,,,,1
+3609,Kinsbaile Cavalier,,,Creature,Kithkin,Knight,,Morningtide,Rare,Wayne Reynolds,,15,150,{3}{W},Knight creatures you control have double strike.,"Ambidexterity is common among kithkin. The thoughtweft links the minds of the left- and right-handed, giving each the knack of the other.",2,2,,1
+3610,Student of Warfare,,,Creature,Human,Knight,,Rise of Eldrazi,Rare,Student of Warfare,,47,248,{W},Level up {W} ({W}: Put a level counter on this. Level up only as a sorcery.),,1,1,,1
+3611,Opal Guardian,,,Enchantment,,,,Time Spiral,Rare,Christopher Rush,,30,301,{W}{W}{W},"When an opponent plays a creature spell, if Opal Guardian becomes a 3/4 Gargoyle creature with flying and protection from red.","It was a moment in time, cast in stone—a moment whose time had come again.",,,,1
+3612,Breath of Life,,,Sorcery,,,,Starter 2000,Rare,DiTerlizzi,,,,{3}{W},Return target creature card from your graveyard to play.,,,,,1
+3610,Geist-Honored Monk,,,Creature,Human,Monk,,Innistrad,Rare,Clint Cearley,,17,264,{3}{W}{W},"Vigilance
+Geist-Honored Monk's power and toughness are each equal to the number of creatures you control.
+When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+",,X,X,,1
+3611,Lightwielder Paladin,,,Creature,Human,Knight,,M10,Rare,D. Alexander Gregory,,19,249,{3}{W}{W},"First strike (This creature deals combat damage before creatures without first strike.)
+Whenever Lightwielder Paladin deals combat damage to a player, you may exile target black or red permanent that player controls.",,4,4,,1
+3612,"Cho-Manno, Revolutionary",Legendary,,Creature,Human,Rebel,,Tenth Edition,Rare,Steven Belledin,,12,383,{2}{W}{W},"Prevent all damage that would be dealt to Cho-Manno, Revolutionary.","""Mercadia's masks can no longer hide the truth. Our day has come at last.""",2,2,,4
+3613,Angel of Glory's Rise,,,Creature,Angel,,,Avacyn Restored,Rare,James Ryman,,1,244,{5}{W}{W},"Flying
+When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.","""Justice isn't done until undeath is undone.""",4,6,,1
+3614,Pariah,,,Enchantment,Aura,,,Tenth Edition,Rare,Jon J Muth,,33,383,{2}{W},"Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.)
+All damage that would be dealt to you is dealt to enchanted creature instead.",,,,,1
+3615,Silverblade Paladin,,,Creature,Human,Knight,,Avacyn Restored,Rare,Jason Chan,,36,244,{1}{W}{W},"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Silverblade Paladin is paired with another creature, both creatures have double strike.",,2,2,,1
+3616,Captain of the Watch,,,Creature,Human,Soldier,,M13,Rare,Greg Staples,,8,249,{4}{W}{W},"Vigilance (Attacking doesn't cause this creature to tap.)
+Other Soldier creatures you control get +1/+1 and have vigilance.
+When Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield.",,3,3,,1
+3617,Nomads' Assembly,,,Sorcery,,,,Rise of Eldrazi,Rare,Erica Yang,,39,248,{4}{W}{W},"Put a 1/1 white Kor Soldier creature token onto the battlefield for each creature you control.
+Rebound (If you cast thsi spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",,,,,1
+3618,Righteousness,,,Instant,,,,Ninth Edition,Rare,Mike Dringenberg,,36,350,{W},Target blocking creature gets +7/+7 until end of turn.,Sometimes the greatest strength is the strength of conviction.,,,,1
+3619,Archon of Justice,,,Creature,Archon,,,M12,Rare,Jason Chan,,6,249,{3}{W}{W},"Flying
+When Archon of Justice dies, exile target permanent.
+In dark times, Truth bears a blade.",,4,4,,1
+3620,Chancellor of the Annex,,,Creature,Angel,,,New Phyrexia,Rare,Min Yum,,6,175,{4}{W}{W}{W},"You may reveal this card from your opening hand. If you do, when each opponent casts his or her first spell of the game, counter that spell unless that player pays 1.
+Flying
+Whenever an opponent casts a spell, counter it unless that player pays {1}.",,5,6,,1
+3621,Battletide Alchemist,,,Creature,Kithkin,Cleric,,Morningtide,Rare,Steve Prescott,,2,150,{3}{W}{W},"If a source would deal damage to a player, you may prevent X of that damage, where X is the number of Clerics you control.","""I do not heal. Healing means that the pain has already been felt. To stop suffering, one must prevent the world's wounds altogether.""",3,4,,1
+3622,Near-Death Experience,,,Enchantment,,,,Rise of Eldrazi,Rare,Dan Scott,,38,248,{2}{W}{W}{W},"At the beginning of your upkeep, if you have exactly 1 life, you win the game.","Lands ravaged, cities in ruins, so many lives sacrificed, and yet there was no other word for it but victory.",,,,1
+3623,White Sun's Zenith,,,Instant,,,,Mirrodin Besieged,Rare,Mike Bierek,,19,155,{X}{W}{W}{W},Put X 2/2 white Cat creature tokens onto the battlefield. Shuffle White Sun's Zenith into its owner's library.,"After the Battle of Liet Field, the white sun crested above Taj-Nar, bringing hope to all who survived the carnage.",,,,1
+3624,Righteousness,,,Instant,,,,Tenth Edition,Rare,Wayne England,,36,383,{W},Target blocking creature gets +7/+7 until end of turn.,Sometimes the greatest strength is the strength of conviction.,,,,1
+3625,Thoughtweft Trio,,,Creature,Kithkin,Soldier,,Lorwyn,Rare,Wayne Reynolds,,44,301,{2}{W}{W},"First strike, vigilance
+Champion a Kithkin (When this comes into play, ,sacrifice it unless you remove another Kithkin you control from the game. When this leaves play, that card returns to play.)
+Thoughtweft Trio can block any number of creatures.",,5,5,,2
+3626,"Brigid, Hero of Kinsbaile",Legendary ,,Creature,Kithkin,Archer,,Lorwyn,Rare,Steve Prescott,,6,301,{2}{W}{W},"First strike
+{T}: Brigid, Hero of Kinsbaile deals 2 damage to each attacking or blocking creature target player controls.","Thanks to one champion archer, the true borders of Kinsbaile extend an arrow's flight beyond the buildings.",2,3,,2
+3627,Terra Eternal,,,Enchantment,,,,Worldwake,Rare,Daniel Ljunggren,,22,145,{2}{W},All lands are indestructible.,"""If this world could make a wish, it would be to survive the parasites who loot its treasures and threaten its life force.""
+—Saidah, Joraga hunter",,,,1
+3628,Riders of Gavony,,,Creature,Human,Knight,,Avaycn Restored,Rare,Volkan Baga,,33,244,{2}{W}{W},"Vigilance
+As Riders of Gavony enters the battlefield, choose a creature type.
+Human creatures you control have protection from creatures of the chosen type.",,3,3,,1
+3629,Mark of Asylum,,,Enchantment,,,,Conflux,Rare,Sal Villagran,,10,145,{1}{W},Prevent all noncombat damage that would be dealt to creatures you control.,"A paragon of honor, Galo Aher fell to a blast of fire. The Order of the White Orchid was so saddened that they forged a new sigil in his likeness.",,,,1
+3630,Kor Spiritdancer,,,Creature,Kor,Wizard,,Rise of Eldrazi,Rare,Scott Chou,,31,248,{1}{W},"Kor Spiritdancer gets +2/+2 for each Aura attached to it.
+Whenever you cast an Aura spell, you may draw a card.","She reaches beyond the physical realm, touching th eideals from which all creatures draw their power.",0,2,,1
+3631,Mesa Enchantress,,,Creature,Human,Druid,,M12,Rare,Randy Gallegos,,25,249,{1}{W}{W},"Whenever you cast an enchantment spell, you may draw a card.","""Scholars seek to understand the way the world is. I wish to shape the world into what it should be.""",0,2,,1
+3632,Champion Lancer,,,Creature,Knight,,,Starter 1999,Rare,Chippy,,11,173,{4}{W}{W},Prevent all damage that would be dealt to Champion Lancer by creatures.,The flash of his lance projects the pure radiance to his honor.,3,3,,1
+3633,Devastating Mastery,,,Sorcery,,,,Strixhaven,Rare,Jake Murray,,14,275,{2}{W}{W}{W}{W},"You may pay {2}{W}{W} rather than pay this spell's mana cost.
+If the {2}{W}{W} cost was paid, an opponent chooses up to two nonland permanents they control and returns them to their owner's hand.
+Destroy all nonland permanents.",,,,,1
+3634,Ephemerate,,,Instant,,,,Strixhaven: Mystical Archive,Rare,Rovina Cai,,5,63,{W},"Exile target creature you control, then return it to the battlefield under its owner's control.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",,,,,1
+3635,Mana Tithe,,,Instant,,,,Strixhaven: Mystical Archive,Rare,Robbie Trevino,,8,63,{W},Counter target spell unless its controller pays {1}.,"""The tyrant's bellow of rage trailed off into a whimper as the last of his fortune escaped his grasp.""
+—The Dethroner's Grimoire",,,,1
+3636,Elite Spellbinder,,,Creature,Human,Cleric,,Strixhaven,Rare,Ryan Pancoast,,17,275,{2}{W},"Flying
+When Elite Spellbinder enters the battlefield, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.",,3,1,,1
+3637,Leonin Lightscribe,,,Creature,Cat,Cleric,,Strixhaven,Rare,Steven Belledin,,20,275,{1}{W},"Magecraft — Whenever you cast or copy an instant or sorcery spell, creatures you control get +1/+1 until end of turn.",All who hear his inspiring words are filled with hope and pride.,2,2,,1
+3638,Selfless Glyphweaver,,,Creature,Human,Cleric,,Strixhaven,Rare,Johannes Voss,,157,275,{2}{W},Exile Selfless Glyphweaver: Creatures you control gain indestructible until end of turn.,He offered his light ot make sure no others would be dimmed.,2,3,,1
+3639,Flamescroll Celebrant,,,Creature,Human,Shaman,,Strixhaven,Rare,Uriah Voth,,157,275,{1}{R},"Whenever an opponent activates an ability that isn't a mana ability, Flamescroll Celebrant deals 1 damage to that player.
+{1}{R}: Flamescroll Celebrant gets +2/+0 until end of turn.","""Stand up and fight!""",2,1,,1
+3640,Arcanis the Omnipotent,Legendary,,Creature,Wizard,,,Tenth Edition,Rare,Justin Sweet,,66,383,{3}{U}{U}{U},"{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.
+","""Do not concern yourself with my origin, my reace, or my ancestry. Seek my record in the pits, and then make your wager.""",3,4,,1
+3641,Denizen of the Deep,,,Creature,Serpent,,,Tenth Edition,Rare,Jim Pavelec,,80,383,{6}{U}{U},"When Denizen of the Deep comes into play, return each other creature you control to its owner's hand.","According to merfolk legend, a denizen of the deep swallows the horizon at the end of each day, bringing on the cold blanket of night.",11,11,,2
+3642,Sphinx of Uthuun,,,Creature,Sphinx,,,M12,Rare,Kekai Kotaki,,76,249,{5}{U}{U},"Flying
+When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",,5,6,,1
+3643,Nix,,,Instant,,,,Futuresight,Rare,Brian Despain,,55,180,{U},Counter target spell if no mana was spent to play it.,"""There is no shortcut to work done true and well. The Creators learned this to their sorrow, the firs ttime they made the world.""
+—Githri the Prisoner",,,,1
+3644,Undead Alchemist,,,Creature,Zombie,,,Innistrad,Rare,Michael C. Hayes,,84,264,{3}{U},"If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the otp of his or her library into his or her graveyard.
+Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.",,4,2,,1
+3645,Lunar Mystic,,,Creature,Human,Wizard,,Avacyn Restored,Rare,Wesley Burt,,65,244,{2}{U}{U},"Whenever you cast an instant spell, you may pay {1}. If you do, draw a card.","""I'm pleased this world has learned the moon affects more than the tides.""
+—Tamiyo, the Moon Sage",2,2,,2
+3646,Captain of the Mists,,,Creature,Human,Wizard,,Avacyn Restored,Rare,Allen Williams,,45,244,{2}{U},"Whenever another Human enters the battlefield under your control, untap Captain of the Mists.
+{1}{U}, {T}: You may tap or untap target permanent.","""I am no mere ship's captain. The north wind is my accomplice. The tide is my first mate.""",2,3,,1
+3647,"Braids, Conjurer Adept",Legendary,,Creature,Human,Wizard,,Planar Chaos,Rare,Zoltan Boros,Gabor Szikszai,36,165,{2}{U}{U},"At the beginning of each player's upkeep, that player may put an artifact, creature, or land card from his or her hand into play.","The rifted multiverse became a sea of conflicting realities, each peopled by possible versions of every living being.",2,2,,1
+3648,Dreamborn Mage,,,Creature,Spirit,,,Tenth Edition,Rare,Kev Walker,,82,383,{2}{U}{U},"At the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.","""Her voice is insight, piercing and true.""
+—Ixidor, reality sculptor",2,2,,1
+3649,Blue Sun's Zenith,,,Instant,,,,Mirrodin Besieged,Rare,Izzy,,20,155,{X}{U}{U}{U},Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.,"""The Origin Query will wait. We must ensure we survive to return to it.""
+—Polyus, vedalken ordinar",,,,1
+3650,Infinite Reflection,,,Enchantment,Aura,,,Avacyn Restored,Rare,Igor Kieryluk,,61,244,{5}{U},"Enchant creature
+When Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature.
+Nontoken creatures you control enter the battlefield as a copy of enchanted creature.",,,,,1
+3651,Stolen Goods,,,Sorcery,,,,Avacyn Restored,Rare,Anthony Francisco,,78,244,{3}{U},"Target opponent exiles cards from the top of his or her library until he or she exiles a nonland card. Until end of turn, you may cast that card without paying its mana cost.",,,,,1
+3652,Arcane Melee,,,Enchantment,,,,Avacyn Restored,Rare,Jaime Jones,,44,244,{4}{U},Instant and sorcery spells cost {2} less to cast.,Debates between wizards are never purely acacdemic.,,,,1
+3653,Lone Revenant,,,Creature,Spirit,,,Avacyn Restored,Rare,Jaime Jones,,64,244,{3}{U}{U},"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at hte top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",,4,4,,1
+3654,Psychic Surgery,,,Enchantment,,,,New Phyrexia,Rare,Anthony Francisco,,44,175,{1}{U},"Whenever an opponent shuffles his or her library, you may look at the top two cards of that library You may exile one of those cards. Then put the rest on top of that library in any order.",,,,,1
+3655,Deadeye Navigator,,,Creature,Spirit,,,Avacyn Restored,Rare,Tomasz Jedruszek,,47,244,{4}{U}{U},"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Deadeye Navigator is paired with another creature, each of those creatures has ""{1}{U}: Exile this creature, then return it to the battlefield under your control.""",,5,5,,3
+3656,Notorious Throng,,,Tribal,Sorcery,Rogue,,Morningtide,Rare,Thomas Denmark,,45,150,{3}{U},"Prowl {5}{U} (You may play this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Put X 1/1 black Faerie Rogue creature tokens with flying into play, where X is the damage dealt to your opopnents thsi turn. If Notorious Throng's prowl cost was paid, take an extra turn after this one.",,,,,1
+3657,Scion of Oona,,,Creature,Faerie,Rogue,,Lorwyn,Rare,Eric Fortune,,83,301,{2}{U},"Flash
+Flying
+Other Faerie creatures you control get +1/+1.
+Other Faeries you control have shroud. (A permanent with shroud can't be the target of spells or abilities.)",,1,1,,1
+3658,Knacksaw Clique,,,Creature,Faerie,Rogue,,Shadowmoor,Rare,Steven Belledin,,42,301,{2}{U},"Flying
+{1}{U}, {Q}: Target opponent removes the top card of his or her library from the game. Until end of turn, you may play that card. ({Q} is the untap symbol.)",Most of the Knacksaw cliquie's skills were hewn from the minds of others.,1,4,,1
+3659,Inundate,,,Sorcery,,,,Eventide,Rare,Mark Zug,,25,180,{3}{U}{U},Return all nonblue creatures to their owner's hands.,"""For years, the landfolk have emptied their refuse into the waters. it's time to return teh favor.""",,,,2
+3660,Time Stop,,,Instant,,,,Tenth Edition,Rare,Scott M. Fischer,,117,383,{4}{U}{U},"End of turn. (Remove all spells and abilities on the stack from teh game, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and ""this turn"" and ""until end of turn"" effects end.)",,,,,1
+3661,Waterspout Elemental,,,Creature,Elemental,,,Planeshift,Rare,Mark Romanoski,,38,143,{3}{U}{U},"Kicker {U} (You may pay an additional {U} as you play this spell.)
+Flying
+When Waterspout Elemental comes into play, if you paid the kicker cost, return all other creatures to their owners' hands and you skip your next turn.",,3,4,,1
+3662,Guile,,,Creature,Elemental,Incarnation,,Lorwyn,Rare,Zoltan Boros,Gabor Szikszai,69,301,{3}{U}{U}{U},"Guile can't be blocked except by three or more creatures.
+If a spell or ability you control would counter a spell, instead remove that spell, instead remove that spell from the game and you may play that card without paying its mana cost.
+When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.",,6,6,,1
+3663,Renegade Doppelganger,,,Creature,Shapeshifter,,,Rise of Eldrazi,Rare,James Ryman,,84,248,{1}{U},"Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. (If it does, it los,es this ability for the rest of the turn.)","To truly know a creature, slither a mile in its tentacles.",0,1,,1
+3664,Hatching Plans,,,Enchantment,,,,Guildpact,Rare,Heather Hudson,,27,165,{1}{U},"When Hatching Plans is put into a graveyard from play, draw three cards.","So wondrous to behold, so delicate and finely crafted—and yet, such a pleasure to smash.",,,,1
+3665,Supreme Exemplar,,,Creature,Elemental,,,Morningtide,Rare,Mark Tedin,,51,150,{6}{U},"Flying
+Champion an Elemental (When this comes into play, sacrifice it unless you remove another Elemental you control from the game. When this leaves play, that card returns to play.)",,10,10,,1
+3666,Isleback Spawn,,,Creature,Kraken,,,Shadowmoor,Rare,Mark Tedin,,40,301,{5}{U}{U},"Shroud
+Isleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.
+","The more deadly the lake monster, teh shorter the tale.",4,8,,1
+3667,Sibilant Spirit,,,Creature,Spirit,,,Sixth Edition,Rare,Ron Spencer,,98,350,{5}{U},"Flying
+Whenever Sibilant Spirit attacks, defending player may draw a card.","She had expected death to roar, to thunder, to growl. She did not recognize it when it came hissing to her side.",5,6,,1
+3668,Sphinx of Magosi,,,Creature,Sphinx,,,Rise of Eldrazi,Rare,James Ryman,,89,248,{3}{U}{U}{U},"Flying
+{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.","""A riddle is nothing more than a trap for small minds, baited with the promise of understanding.""",6,6,,1
+3669,Counterbore,,,Instant,,,,Shadowmoor,Rare,Wayne England,,33,301,{3}{U}{U},"Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that sell and remove them from the game. Then that player shuffles his or her library.",,,,,1
+3670,Memory Lapse,,,Instant,,,,Strixhaven: Mystical Archive,Rare,Kristina Collantes,,16,63,{1}{U},"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.","""Where do our forgotten thoughts go? I knew once, bu tI can't remember.""
+—Director Taiva, journal entry",,,,1
+3671,Tezzeret's Gambit,,,Sorcery,,,,Strixhaven: Mystical Archive,Rare,Jason Felix,,21,63,{3}{P/U},"({P/U} can be paid with either {U} or 2 life.)
+Draw two cards, then proliferate.
+(Choose any number of permanents and/or players, then give each another counter of each kind already there.)",,,,,
+3672,Brainstorm,,,Instant,,,,Strixhaven: Mystical Archive,Rare,Justin Hernandez,Alexis Hernandez,13,63,{U},"Draw three cards, then put two cards from your hand on top of your library in any order.","""Infinite ideas flow through teh Multiverse, waiting for an open mind.""
+—The Biblioplex: An Introduction
+",,,,1
+3673,Time Warp,,,Sorcery,,,,Strixhaven: Mystical Archive,Mythic,Dominik Mayer,,22,63,{3}{U}{U},Target player takes an extra turn after this one.,"""Chronomancers have a rather different definition of living in the moment.""
+—The Millennium Tome",,,,1
+3674,Multiple Choice,,,Sorcery,,,,Strixhaven,Rare,Campbell White,,48,275,{X}{U},"If X is 1, scry 1, then draw a card.
+If X is 2, you may choose a player. They return a creature they control to its owner's hand.
+If X is 3, create a 4/4 blue and red Elemental creature token.
+If X is 4 or more, do all of the above.",,,,,1
+3675,Dream Strix,,,Creature,Bird,Illusion,,Strixhaven,Rare,YW Tang,,42,275,{X}{U},"Flying
+When Dream Strix becomes the target of a spell, sacrifice it.
+When Dream Strix dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)",,3,2,,1
+3676,Torrent Sculptor,,,Creature,Merfolk,Wizard,,Strixhaven,Rare,Slawomir Maniak,,159,275,{2}{U},"Flying
+When Dream Strix becomes the target of a spell, sacrifice it.
+When Dream Strix dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)",,3,2,,1
+3677,Echoing Equation,,,Sorcery,,,,Strixhaven,Rare,Volkan Baga,,147,275,{3}{U}{U},"Choose target creature you control. Each other creature you control becomes a copy of it until end of turn, except those creatures aren't legendary if the chosen creature is legendary.","""Any good experiment is repeatable.""",,,,1
+3678,"Jill, Shiva's Dominant",Legendary,,Creature,Human,Noble,Warrior,Universes Beyond: Final Fantasy,Rare,Arie Wijaya,,58,,{2}{U},"When Jill enters, return up to one other target nonland permanent to its owner's hand.
+{3}{U}{U}, {T}: Exile Jill, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery.","""I'm going to help you. To give you what you need to protect us all.""",2,2,,1
+3679,Exquisite Blood,,,Enchantment,,,,Avacyn Restored,Rare,Cynthia Sheppard,,102,244,{4}{B},"Whenever an opponent loses life, you gain that much life.","Even as humans regained the upper hand, some still willingly traded their lives for a chance at immortality.",,,,1
+3680,Grave Titan,,,Creature,Giant,,,M12,Mythic,Nils Hamm,,98,249,{4}{B}{B},"Deathtouch
+Whenever Grave Titan enters the battlefield or attacks, put atwo 2/2 black Zombie creature tokens onto the battlefield.",Death in form and function.,6,6,,2
+3681,Maralen of the Mornsong,Legendary,,Creature,Elf,Wizard,,Morningtide,Rare,Mark Zug,,65,150,{1}{B}{B},"Players can't draw cards.
+At the beginning of each player's draw step, that player loses 3 life, searches his or her library for a card, puts it into his or her hand, then shuffles his or her library.","Maralen sent Veesa, Endry, and Iliona—the Vendilion clique—on the gravest of tasks.",2,3,,1
+3682,"Sheoldred, Whispering One",Legendary,,Creature,Praetor,,,New Phyrexia,Mythic,Jana Schirmer,Johannes Voss,73,175,{5}{B}{B},"Swampwalk
+At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+At the beginning of each opponent's upkeep, that player sacrifices a creature.",,6,6,,1
+3683,Dread,,,Creature,Elemental,Incarnation,,Lorwyn,Rare,Matt Cavotta,,107,301,{3}{B}{B}{B},"Fear
+Whenever a creature deals damage to you, destroy it.
+When Dread is put into a graveyard from anywhere, shuffle it into its owner's library.",,6,6,,1
+3684,Profane Command,,,Sorcery,,,,Lorwyn,Rare,Wayne England,,135,301,{X}{B}{B},Choose two — Taraget player loses X life; or return target creature card with converted mana cost X or less from your graveyard to play; or target creature gets -X/-X until end of turn; or up to X target creatures gain fear until end of turn.,,,,,3
+3685,Plague of Vermin,,,Sorcery,,,,Shadowmoor,Rare,Carl Critchlow,,73,301,{6}{B},"Starting with you, each player may pay any amount of life. Repeat this process until no one pays life. Each player puts a 1/1 black Rat creature token into play for each 1 life he or she paid this way.",,,,,2
+3686,Massacre Wurm,,,Creature,Wurm,,,Mirrodin Besieged,Mythic,Jason Chan,,16,155,{3}{B}{B}{B},"When Massacre Wurm enters the battlefield, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls is put into a graveyard from the battlefield, that player loses 2 life.",,6,5,,1
+3687,Dread Slaver,,,Creature,Zombie,Horror,,Avacyn Restored,Rare,Dave Kendall,,98,244,{3}{B}{B},"Whenever a creature dealt damage by Dread Sliver this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",Half a brain rules the mindless.,3,5,,1
+3688,Harvester of Souls,,,Creature,Demon,,,Avacyn Restored,Rare,Slawomir Maniak,,107,244,{4}{B}{B},"Deathtouch
+Whenever another nontoken creature dies, you may draw a card.","""He is judge, jury, and executioner because he killed them all.""
+—Bishop Cawle of Elgaud",5,5,,1
+3689,Magus of the Abyss,,,Creature,Human,Wizard,,Futuresight,Rare,Kev Walker,,70,180,{3}{B},"At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.","He climbs a staircase of falling souls, fighting the continuous pull of the void.",4,3,,1
+3690,Cemetery Reaper,,,Creature,Zombie,,,M12,Rare,,,86,249,{1}{B}{B},"Other Zombie creatures you control get +1/+1.
+{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.",Every grave cradles a recruit.,2,2,,1
+3691,Curse of Misfortunes,,,Enchantment,Aura,Curse,,Dark Ascension,Rare,Terese Nielsen,,56,158,{4}{B},"Enchant player
+At the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library.",,,,,1
+3692,Gloom Surgeon,,,Creature,Spirit,,,Avacyn Restored,Rare,Volkan Baga,,104,244,{1}{B},"If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.",He roams the streets of Havengul seeking the sick and delirious to that he may cure them of their lives.,2,1,,1
+3693,Vengeful Pharaoh,,,Creature,Zombie,,,M12,Rare,Igor Kieryluk,,116,249,{2}{B}{B}{B},"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever combat damage is dsealt to you or a planeswalker you control, if Vengeful Pharaoh is in your graveyard, destroy target attacking creature, then put Vengeful Pharaoh on top of your library.",,5,4,,1
+3694,Treacherous Pit-Dweller,,,Creature,Demon,,,Avacyn Restored,Rare,Svetlin Velinov,,121,244,{B}{B},"When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it.","Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.",4,3,,2
+3695,Midnight Banshee,,,Creature,Spirit,,,Shadowmoor,Rare,Daarken,,72,301,{3}{B}{B}{B},"Wither (This deals damage to creatures in the form of -1/-1 counters.)
+At the beginning of your upkeep, put a -1/-1 counter on each nonblack creature.","Many have heard the beginning of its low, sustained shriek bu tfew the end.",5,5,,1
+3696,Call to the Grave,,,Enchantment,,,,M12,Rare,Daarken,,85,249,{4}{B},"At the beginning of each player's upkeep, that player sacrifices a non-Zombie creature.
+At the beginning of the end step, if no creatures are on the battlefield, sacrifice Call to the Grave.",,,,,3
+3697,Nightmare Incursion,,,Sorcery,,,,Eventide,Rare,Chuck Lukacs,,40,180,{5}{B},"Search target players library for up to X cards, where X is the number of Swamps you control, and remove them from the game. Then that player shuffles his or her library.",,,,,1
+3698,Umbra Stalker,,,Creature,Elemental,,,Eventide,Rare,Daarken,,48,180,{4}{B}{B}{B},Chroma — Umbra Stalker's power and toughness are each equal to the numebr of black mana symbols in the mana costs of cards in your graveyard.,"Don't venture into the darkness, lest it decide not to let you leave.",X,X,,1
+3699,Mind Shatter,,,Sorcery,,,,M10,Rare,Michael Sutfin,,106,249,{X}{B}{B},Target player discards X cards at random.,"Dark toughts hatch and twist within the mind, straining to take wing.",,,,2
+3700,Sanguine Blood,,,Enchantment,,,,M10,Rare,Jaime Jones,,111,249,{3}{B}{B},"Whenever you gani life, target opponent loses that much life.","""Blood is constant. Eery drop I drink, someone must bleed.""
+—Vradeen, vampire nocturnus",,,,1
+3701,Bridge from Below,,,Enchantment,,,,Modern Masters,Rare,Daarken,,74,229,{B}{B}{B},"Whenever a nontoken creature is put into your graveyard from the battlefield, if Bridge from Below is in your graveyard, put a 2/2 black Zombie creature token onto the battlefield.
+When a creature is put into an opponent's graveyard from the battlefield, if Bridge from Below is in your graveyard, exile Bridge from Below.",,,,,1
+3702,Dark Impostor,,,Creature,Vampire,Assassin,,Avacyn Restored,Rare,Johannes Voss,,92,244,{2}{B},"{4}{B}{B}: Exile target creature and put a +1/+1 coutner on Dark Impostor.
+Dark Impostor has all activated abilities of all creature cards exiled with it.","""Ah, this is a nice life. I can see why you were so desperate to keep it.""",2,2,,1
+3703,Chancellor of the Dross,,,Creature,Vampire,,,New Phyrexia,Rare,Stephan Martiniere,,54,175,{4}{B}{B}{B},"You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.
+Flying, lifelink",,6,6,,1
+3704,Life's Finale,,,Sorcery,,,,New Phyrexia,Rare,Svetlin Velinov,,65,175,{4}{B}{B},"Destroy all creatures, then search target opponent's library for up to three creature cards and put them into his or her graveyard. Then that player shuffles his or her library.",The feeble resistance of the flesh is over. Phyrexia spreads its shadow over all.,,,,1
+3705,Demonic Rising,,,Enchantment,,,,Avacyn Restored,Rare,Trevor Claxton,,94,244,{3}{B}{B},"At the beginning of your end step, if you control exactly one creature, put a 5/5 black Demon creature token with flying onto the battlefield.","Which is the greater folly, summoning the demon or expecting gratitude from it?",,,,1
+3706,Empty the Catacombs,,,Sorcery,,,,Ravnica,Rare,Mark A. Nelson,,86,306,{3}{B},Each player returns all creature cards from his or her graveyard to his or her hand.,"When the dead are laid to rest in Ravnica, it's usually just a nap.",,,,1
+3707,Mirri the Cursed,Legendary,,Creature,Vampire,Cat,,Planar Chos,Rare,Kev Walker,,75,165,{2}{B}{B},"Flying, first strike, haste
+Whenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 counter on Mirri the Cursed.","A hero fails, a martyr falls. Time twists and destinies interchange.",3,2,,2
+3708,Sedgemoor Witch,,,Creature,Human,Warlock,,Strixhaven,Rare,Igor Kieryluk,,86,275,{2}{B},"Menace
+Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, cuonter it unless that player pays 3 life.)
+Magecraft — Whenever you cast or copy an instant or sorcery spell, create a 1/1 black and green Pest creature token with ""When this creature dies, you gain 1 life.""",,3,2,,1
+3709,Stenchskipper,,,Creature,Elemental,,,Morningtide,Rare,Howard Lyon,,79,150,{3}{B},"Flying
+At end of turn, if you control no Goblins sacrifice Stenchskipper.","""Many believe it is to be the manifestation of all that is vile about the boggarts. I believe it should be avoided—from upwind, if possible.""
+—Cenn Deagan",6,5,,1
+3710,Hollowborn Barghest,,,Creature,Demon,Hound,,Shadowmoor,Rare,Eric Fortune,,68,301,{5}{B}{B},"At the beginning of your upkeep, if you have no cards in hand, each opponent loses 2 life.
+At the beginning of each opponent's upkeep, if that player has no cards in hand, he or she loses 2 life.",It leaves a trail of crumpled trees and dashed dreams.,7,6,,1
+3711,Lord of the Pit,,,Creature,Demon,,,Tenth Edition,Rare,Michael Sutfin,,154,383,{4}{B}{B}{B},"Flying, trample (This creature can't be blocked except by creatures with flying or reach. If this creature would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.)
+At the beginning of your upkeep, sacrifice a creature other than Lord of hte Pit. If you can't Lord of the Pit deals 7 damage to you.",,7,7,,1
+3712,Weirding Shaman,,,Creature,Goblin,Shaman,,Morningtide,Rare,Matt Cavotta,,84,150,{1}{B},"{3}{B}, Sacrifice a Goblin: Put two 1/1 black Goblin Rogue creature tokens into play.","All boggarts have an auntie, but they don't all have a mum.",2,1,,1
+3713,Cairn Wanderer,,,Creature,Shapeshifter,,,Lorwyn,Rare,Nils Hamm,,105,301,{4}{B},"Changeling (This card is every creature type at all times.)
+As long as a creature card with flying is in a graveyard, Cairn Wanderer has flying. The same is true for fear, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, and vigilance.",,4,4,,1
+3714,Mad Auntie,,,Creature,Goblin,Shaman,,Lorwyn,Rare,Wayne Reynolds,,123,301,{2}{B},"Other Goblin creatures you control get +1/+1.
+{T}: Regenerate another target Goblin.","One part cunning, one part wise, and many, many parts demented.",2,2,,1
+3715,Knucklebone Witch,,,Creature,Goblin,Shaman,,Lorwyn,Rare,Jim Pavelec,,120,301,{B},"Whenever a Goblin you control is put into a graveyard from play, you may put a +1/+1 counter on Knucklebone Witch.",Each bone honors its owner's best pranks.,1,1,,1
+3716,Scarblade Elite,,,Creature,Elf,Assassin,,Morningtide,Rare,Greg Staples,,77,150,{B}{B},"{T}, Remove an Assassin card in your graveyard from the game: Destroy target creature.","""Rejoice, eyeblight. In your last hours above the earth, those who bury you will finally make you beautiful.""",2,2,,1
+3717,Confront the Past,,,Sorcery,Lesson,,,Strixhaven,Rare,Kieran Yanner,,67,275,{X}{B},"Choose one —
+Return target planeswalker card with mana value X or less from your graveyard to the battlefield.
+Remove twice X loyalty counters from target planeswalker an opponent controls.","""Why, Gideon? Of all people, why save me?""",,,,1
+3718,Demnic Tutor,,,Sorcery,,,,Strixhaven: Mystical Archive,Mythic,Anato Finnstark,,27,63,{1}{B},"Search your library for a card, put that card into your hand, then shuffle.","""Demons prefer to deal with those who believe themselves too wise to be fooled.""
+—Scroll case inscription",,,,1
+3719,Dusk Urchins,,,Creature,Ouphe,,,Shadowmoor,Rare,Darrel Riche,,65,301,{2}{B},"Whenever Dusk Urchins attacks or blocks, put a -1/-1 counter on it.
+When Dusk urchins is put into a graveyard from play, draw a card for each -1/-1 counter on it.","They spawn from shadow, wreaking chaos until shadow claims them again.",4,3,,1
+3720,Endless Ranks of the Dead,,,Enchantment,,,,Innistrad,Rare,Ryan Yee,,99,264,{2}{B}{B},"At the beginning of yoru upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down.","With Thraben's army recalled to its city walls, outlying villages were left to fend for themselves.",,,,1
+3721,The Darkness Crystal,Legendary,Artifact,,,,,Universes Beyond: Final Fantasy,Rare,Pablo Mendoza,,96,,{2}{B}{B},"Black spells you cast cost {1} less to cast.
+If a nontoken creature an opponent controls would die, instead exile it and you gain 2 life.
+{4}{B}{B}, {T}: Put target creature card exiled with The Darkness Crystal onto the battlefield tapped under your control with two additional +1/+1 counters on it.",,,,,1
+,"Rowan, Scholar of Sparks",Legendary,,Planeswalker,Rowan,,,Strixhaven,Mythic,Anna Steinbauer,,278,,{2}{R},Instant and sorcery spells you cast cost 1 less to cast.,,,,2,1

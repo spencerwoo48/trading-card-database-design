@@ -1,0 +1,320 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,expansion_symbol,rarity,artist_information,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+1,Essence Flare,,,Enchantment,Aura,,Ice Age,Common,Richard Kane Ferguson,69,383,U,"Enchant Creature
+Enchanted creature gets +2+0.
+At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.",Never underestimate the poweor of the soul unleashed.,,,,1
+2,Iceberg,,,Enchantment,,,Ice Age,Uncommon,Jeff A. Menges,73,383,XUU,"Iceberg comes into play with X ice counters on it.
+3: Put an ice counter on Iceberg.
+Remove an ice counter from Iceberg: Add 1 to your mana pool.",,,,,1
+3,Mistfolk,,,Creature,Illusion,,Ice Age,Common,Quinton Hoover,84,383,UU,B: Counter target spell that targets mistfolk.,"""Although my official log will state there is no evidence pointing to the existence of the mistfolk, my certainty is lessened by the cursed consistency of the expedition's eyewitness accounts.""
+—Disa the restless, journal entry",1,2,,1
+4,Snow Devil,,,Enchantment,Aura,,Ice Age,Common,"Ken Meyer, Jr.",100,383,1U,"Enchant creature
+Enchanted creature has flying.
+Enchanted creature has first strike as long as it's blocking and you control a snow land.","""Give me wings to fly and speed to strike. In return, the glory I earn shall be yours.""
+—Steinar Icefist, Balduvian shaman",,,,1
+5,Arcum's Weathervane,,Artifact,,,,Ice Age,Uncommon,Tom Wänerstrand,310,383,2,"2, T: Target snow land is no longer snow.
+2, T: Target nonsnow basic land becomes snow.",,,,,1
+6,Phantasmal Fiend,,,Creature,Illusion,,Alliances,Common,Scott Kirschner,57a,144,3B,"B: Phantasmal Fiend gets +1/-1 until end of turn.
+1U: Switch Phantasmal Fiend's power and toughness until end of turn.",,1,5,,1
+7,Resistance Fighter,,,Creature,Soldier,,Visions,Common,Cecil Fernando,18,,W,Sacrifice Resistance Fighter: Target creature deals no combat damage this turn.,"""My soldiers fought without hesitation, died without doubt.""
+—Sidar Jabari",1,1,,1
+8,Fireblast,,,Instant,,,Visions,Common,Michael Danza,79,,4RR,"You may sacrifice two mountains instead of paying Fireblast's casting cost.
+Fireblast deals 4 damage to target creature or player.",Embermages aren't well known for their diplomatic skills.,,,,1
+9,Lichenthrope,,,Creature,Lichenthrope,,Visions,Common,Bob Eggleton,112,,3GG,"For each 1 damage dealt to Lichenthrope, put a -1/-1 counter on it instead.
+During your upkeep, remove one of these -1/-1 counters from Lichenthrope.",,5,5,,4
+10,Quirion Ranger,,,Creature,Elf,,Visions,Common,Tom Kyffin,117,,G,Return a forest you control to owners's hand: Untap target creature. Use this ability only once each turn.,"""Respect the earth, for it will one day be your shield and another day your blanket.""
+—Liefellen, Quirion exarch",1,1,,2
+11,Stampeding Wildebeests,,,Creature,Wildebeests,,Visions,Common,Randy Gallegos,121,,2GG,"Trample
+During your upkeep, return a green creature you control to owner's hand.",Prayers for rain are answered with the thunder of hooves,5,4,,1
+12,Lava Axe,,,Sorcery,,,Portal,Uncommon,Adrian Smith,137,,4R,Lava Axe deals 5 damage to your opponent,"Swing your axe as a broom, to sweep away the foe",,,,1
+13,Volcanic Hammer,,,Sorcery,,,Portal,Uncommon,Christopher Rush,154,,1R,Volcanic Hammer deals 3 damage to any one creature or player,"Cast the weight as though it were a die, to see a rival's fate.",,,,1
+14,Contemplation,,,Enchantment,,,Stronghold,Common,Brom,4,,1WW,"Whenever you successfully cast a spell, gain 1 life.","""How fascinating it is to watch the machinations of one's own mind play themselves out.""
+—Volrath",,,,1
+15,Soul Warden,,,Creature,Ceric,,Exodus,Uncommon,Randy Gallegos,21,,W,"Whenever any other creature comes into play, gain 1 life.","Count carefully the souls and see that none are lost.
+—Vec teaching",1,1,,4
+16,Talas Merchant,,,Creature,Merchant,,Portal 2,Common,Lubov,50,,1U,,The trader let loose a laugh that made all around him check their purses,1,3,,2
+17,Air Elemental,,,Creature,Elemental,,Portal 2,Uncommon,Doug Chaffee,31,,3UU,Flying,"As insubstantial, and as powerful, as the wind that carries it.",4,4,,2
+18,Touch of Brilliance,,,Sorcery,,,Portal 2,Common,Kaja Foglio,58,,3U,,,,,,2
+19,Talas Researcher,,,Creature,Wizard,,Portal 2,Rare,Kaja Foglio,66,,4U,"On your turn, before you attack, you may tap Talas Researcher to draw a card.","From time, knowledge.
+From knowledge, power.",1,1,,1
+20,False Summoning,,,Sorcery,,,Portal 2,Common,DiTerlizzi,40,,1U,"Play False Summoning only in response to another player playing a creature. That creature card has no effect, and that player puts it into his or her graveyard.",,,,,2
+21,Talas Air Ship,,,Creature,Ship,,Portal 2,Common,Mark Tedin,48,,3U,Flying,"""Their ships pollute our air as they themselves pollute our forest.""
+—Arathel, elvish queen",3,2,,2
+22,Mystic Denial,,,Sorcery,,,Portal 2,Uncommon,Di'Terlizzi,41,,1UU,"Play Mystic Denial only in response to another player playing a creature or a sorcery. That card has no effect, and that player puts it into his or her graveyard.",,,,,2
+23,Talas Scout,,,Creature,Pirate,,Portal 2,Common,Heather Hudson,52,,1U,Flying,"""Scouting a battle before you fight it is just good business.""
+—Jefan, Talas ship captain",1,2,,2
+24,Apprentice Sorcerer,,,Creature,Wizard,,Portal 2,Uncommon,Christopher Rush,32,,2U,"On your turn, before you attack, you may tap Apprentice Sorcerer to have it deal 1 damage to any one creature or player.",,1,1,,2
+25,Exhaustion,,,Sorcery,,,Portal 2,Rare,Kaja Foglio,37,,2U,"At the beginning of your opponent's next turn, he or she skips untapping creatures and lands.",,,,,1
+26,Talas Explorer,,,Creature,Merchant,,Portal 2,Common,Douglas Shuler,49,,1U,Flying,"When Talas Explorer comes into play from your hand, look at your opponent's hand.",1,1,,2
+27,Time Ebb,,,Sorcery,,,Portal 2,Common,Sam Wood,57,,2U,Return any one creature from play to the top of its owner's library.,"""The ogre had come from out of the blue, so that's where I sent it back.""
+—Talas wizard",,,,2
+28,Talas Warrior,,,Creature,Pirate,,Portal 2,Rare,Douglas Shuler,53,,1UU,Talas Warrior can't be blocked,The sea is in their blood. Literally.,2,2,,1
+29,Monstrous Growth,,,Sorcery,,,Portal 2,Common,Una Fricker,133,,1G,Any one creature gets +4/+4 until the end of the turn.,The nightstalker's little game of tease-the-squirrel suddenly took an unexpected turn.,,,,2
+30,Alluring Scent,,,Sorcery,,,Portal 2,Rare,Melissa A. Benson,121,,1GG,"Choose any one creature. This turn, all creatures able to block it do so.",No earthly armor is protection against this sweetness.,,,,1
+31,Wild Ox,,,Creature,Ox,,Portal 2,Uncommon,Jeffrey R. Busch,150,,3G,"Swampwalk (If defending player has any swamps in play, Wild Ox can't be blocked.)","It has the run of the swamps, and it knows it.",3,3,,2
+32,Sylvan Basalisk,,,Creature,Basilisk,,Portal 2,Uncommon,Ron Spencer,146,,3GG,"If Sylvan Basilisk attacks and is blocked, destroy all creatures blocking it. (Destroy the creatures before they deal damage. The  Basilisk doesn't damage your opponent.)",,2,4,,1
+33,River Bear,,,Creature,Bear,,Portal 2,Uncommon,Una Fricker,144,,3G,"Islandwalk (If defending player has any islands in play, River Bear can't be blocked.)","The bears had been isolated on an island for hundreds of years, until the island sank and the bears didn't.",3,3,,2
+34,Norwood Riders,,,Creature,Elves,,Portal 2,Common,Rebecca Guay,139,,3G,Norwood Riders can't be blocked by more than one creature.,"""Trade my moose? Sure—when I find a horse that can spear ten goblins at a time!""",3,3,,2
+35,Norwood Ranger,,,Creature,Elf,,Portal 2,Common,Ron Spencer,138,,G,,Some trees bear deadly fruit.,1,2,,2
+36,Norwood Archers,,,Creature,Elves,,Portal 2,Common,Rebecca Guay,136,,3G,Norwood Archers can block creatures with flying.,"""'Air superiority?' Not while our archers scan the skies.""",3,3,,2
+37,Golden Bear,,,Creature,Bear,,Portal 2,Common,Una Fricker,127,,3G,,The elvish scout was scrupulous about the truth. She told the traders that the gold lay nearby.,4,3,,2
+38,Bear Cub,,,Creature,Bear,,Portal 2,Common,Ron Spencer,123,,1G,,Every little cub has its mother's teeth to guard it.,2,2,,3
+39,Ironhoof Ox,,,Creature,Ox,,Portal 2,Common,Una Fricker,130,,3GG,Ironhoof Ox can't be blocked by more than one creature.,The good news is it's vegetarian. The bad news is it just doesn't like you.,4,4,,2
+40,Angel of Fury,,,Creature,Angel,,Portal 2,Rare,Keith Parkinson,7,,4WW,"Flying
+If Angel of Fury is put into your graveyard from play, you may choose to shuffle Angel of Fury into your library.",,3,5,,1
+41,Righteous Charge,,,Sorcery,,,Portal 2,Uncommon,Jeffrey R. Busch,20,,1WW,All your creatures get +2/+2 until the end of the turn.,,,,,1
+42,Dragon Blood,,Artifact,,,,Urza's Saga,Uncommon,Greg Simanson,293,350,3,"3, T: Put a +1/+1 counter on target creature.","Fire in the blood, fire in the belly.",,,,1
+43,Songstitcher,,,Creature,Cleric,,Urza's Saga,Uncommon,Berry,52,350,W,1W: Target attacking creature with flying deals no combat damage this turn.,The true names of birds are songs woven into their souls.,1,1,,1
+44,Waylay,,,Instant,,,Urza's Saga,Uncommon,Greg Staples,56,350,2W,"Put three Knight tokens into play.
+Treat these tokens as 2/2 white creatures. Remove them from the game at end of turn.","""You reek of corruption,"" spat the knight. ""Why are you even here?""",,,,1
+45,Crazed Skirge,,,Creature,Imp,,Urza's Saga,Uncommon,Ron Spencer,125,350,3B,"Flying
+Crazed Skirge is unaffected by summoning sickness.",They are Phyrexia's couriers; the messages they carry are inscribed in teir slick hides.,2,2,,1
+46,Viashino Runner,,,Creature,Viashino,,Urza's Saga,Common,Steve White,224,350,3R,Viashino Runner cannot be blocked by only one creature.,"""It moved this way, an' that way, an' then before I could stick it, it jumped over my head an' was gone.""
+—Jula, goblin raider",3,2,,4
+47,Treetop Rangers,,,Creature,Elves,,Urza's Saga,Common,Daren Bader,279,350,2G,Treetop Rangers cannot be blocked except by creatures with flying.,"""If you can't catch them, cut the trees down from beneath them. Force them to fight on our terms.""
+—Mishra",2,2,,4
+48,Sluggishness,,,Enchantment,,,Urza's Legacy,Common,Pete Venters,92,143,1R,"Enchanted creature cannot block.
+When Sluggishness is put into a graveyard from play, return Sluggishness to owner's hand.",Vark decided to lie down and think of a good excuse to quit working.,,,,3
+49,Lone Wolf,,,Creature,Wolf,,Starter 1999,Common,Una Fricker,130,173,2G,You may have Lone Wolf deal its combat damage to defending player as though it weren't blocked.,,2,2,,1
+50,Norwood Archers,,,Creature,Elf,,Starter 1999,Common,Rebecca Guay,137,173,3G,Norwood Archers can block as though it had flying.,"""'Air superiority?' Not while our archers scan the skies.""
+—Elvish scout",3,3,,1
+51,Sacred Nectar,,,Sorcery,,,Starter 1999,Common,Janine Johnston,26,173,1W,You gain 4 life.,"""For he on honey-dew hath fed, And drunk the milk of Paradise.""
+—Samuel Taylor Coleridge, ""Kubla Khan""",,,,1
+52,Stone Rain,,,Sorcery,,,Starter 1999,Common,John Matson,118,173,2R,Destroy target land.,,,,,1
+53,Breath of Life,,,Sorcery,,,Starter 1999,Uncommon,Di'Terlizzi,10,173,3W,Put target creature card from your graveyard into play.,,,,,1
+54,Veteran Cavalier,,,Creature,Knight,,Starter 1999,Uncommon,rk post,30,173,WW,Attacking doesn't cause Veteran cavalier to tap.,"Spirit is the sword and experience the sharpening stone.
+—Arabian proverb",2,2,,1
+55,Wild Griffin,,,Creature,Griffin,,Starter 1999,Common,Jeff Miracola,31,173,2W,Flying,"Two little goblins, out in the sun. Down came a griffin, and then there was one.",2,2,,1
+56,Extinguish,,,Instant,,,Starter 1999,Common,Douglas Shuler,37,173,1U,Counter target sorcery spell.,,,,,1
+57,Ingenious Thief,,,Creature,Thief,,Starter 1999,Common,Dan Frazier,40,173,1U,"Flying
+When Ingenious Thief comes into play, look at target player's hand.",,1,1,,1
+58,Sleight of Hand,,,Sorcery,,,Starter 1999,Common,Phil Foglio,51,173,U,Look at the top two cards of your library. Put one of them into your hand and the other one on the bottom of your library.,,,,,1
+59,Bog Raiders,,,Creature,Zombie,,Starter 1999,Common,Carl Critchlow,66,173,2B,Swampwalk (This creature is unblockable as long as defending player has a swamp in play.),Those who live amid decay must expect scavengers,2,2,,1
+60,Muck Rats,,,Creature,Rat,,Starter 1999,Common,Una Fricker,84,173,B,,"""Just as some fool said it couldn't get worse, the rats began to show up.""
+—Foot soldier",1,1,,1
+61,Jhovall Queen,,,Creature,Rebel,,Mercadian Masques,Rare,Michael Sutfin,25,350,4WW,Attacking doesn't cause Jhovall Queen to tap.,War-trained jhovalls eat twice their weight in war-trained soldiers daily.,4,7,,4
+62,Ardent Militia,,,Creature,Soldier,,Sixth Edition,Uncommon,Zina Saunders,3,350,4W,Attacking doesn't cause Ardent Militia to tap.,"Some fight for honor and some for gold, but the militia fight for hearth and home.",2,5,,1
+63,Armored Pegasus,,,Creature,Pegasus,,Sixth Edition,Common,Andrew Robinson,5,350,1W,Flying,"Asked how it survived a run-in with a bog imp, the pegasus just shok its mane and burped.",1,2,,1
+64,Castle,,,Enchantment,,,Sixth Edition,Uncommon,Dameon Willich,6,350,3W,Untapped creatures you control get +0/2.,"""Hang out our banners on the outward walls;/The cry is still, 'They come'; our castle's strength /Will laugh a siege to scorn.""
+—William Shakespeare, Macbeth",,,,1
+65,Circle of Protection: White,,,Enchantment,,,Sixth Edition,Common,Gerry Grace,12,350,1W,"1: The next time a white source of your choice would deal damage to you this turn, prevent that damage.",,,,,1
+66,D'Avenant Archer,,,Creature,Soldier,,Sixth Edition,Common,Douglas Shuler,15,350,2W,T: D'Avenant Archer deals 1 damage to target attacking or blocking creature.,"Avenant's archers are also trained as poets, so that each arrow is guided by a fragment of verse.",1,2,,1
+67,Disenchant,,,Instant,,,Sixth Edition,Common,Brian Snoddy,16,350,1W,Destroy target artifact or enchantment,,,,,3
+68,Healing Salve,,,Instant,,,Sixth Edition,Common,Dan Frazier,22,350,W,Choose one—Target player gains 3 life; or prevent the next 3 damage to target creature or player this turn.,,,,,2
+69,Hero's Resolve,,,Enchantment,,,Sixth Edition,Common,Pete Venters,24,350,1W,Enchanted creature gets +1/+5.,"""Destiny, chance, fate, fortune—they're all just ways of claiming your successes without claiming your failures.""
+—Gerrard of the Weatherlight",,,,1
+70,Mesa Falcon,,,Creature,Bird,,Sixth Edition,Common,Mark Poole,31,350,1W,"Flying
+1W: Mesa Falcon gets +0/+1 until end of turn.","""The faith of Serra is borne on wings of hope.""
+—Gulsen, abbey matron",1,1,,1
+71,Samite Healer,,,Creature,Cleric,,Sixth Edition,Common,Tom Wänerstrand,40,350,1W,T: Prevent the next 1 damage to target creature or player this turn.,Healers ultimatelly acquire the divine gifts of spiritual and physical wholeness. The most devout are also granted the ability to pass physical wholeness onto others.,1,1,,1
+72,Venerable Monk,,,Creature,Cleric,,Sixth Edition,Common,D. Alexander Gregory,50,350,2W,"When Venerable Monk comes into play,  you gain 2 life.",His presence brings not only a strong arm but also renewed hope.,2,2,,1
+73,Warrior's Honor,,,Instant,,,Sixth Edition,Common,D. Alexander Gregory,53,350,2W,Creatures you control get +1/+1 until end of turn.,,,,,1
+74,Prodigal Sorcerer,,,Creature,Wizard,,Sixth Edition,Common,Douglas Shuler,88,350,2U,T: Prodigal sorcerer deals 1 damage to target creature or player.,Occasionally members of the Institute of Arcane Study acquire a taste for worldly pleasures. Seldom do they have trouble finding employment.,1,1,,1
+75,Tidal Surge,,,Sorcery,,,Sixth Edition,Common,Doug Chaffee,102,350,1U,Tap up to three target creatures without flying.,"""It is nature that gives us our boundaries and nature that enforces them.""
+—Eladamri, Lord of Leaves",,,,1
+76,Wind Drake,,,Creature,Drake,,Sixth Edition,Common,Zina Saunders,106,350,2U,Flying,"""No bird soars too high, if he soars with his own wings.""
+—William blake,
+The Marriage of Heaven and Hell",2,2,,1
+77,Blood Pet,,,Creature,Thrull,,Sixth Edition,Common,Brom,115,350,B,Sacrifice Blood Pet: Add B to your mana pool.,"""You are wrong,"" Volrath said. ""I do not hate the living. They often prove quite useful to me."" And then he laughed.",1,1,,1
+78,Drudge Skeletons,,,Creature,Skeleton,,Sixth Edition,Common,Ian Miller,123,350,1B,B: Regenerate Drudge Skeletons.,"""The dead make good soldiers. They can't disobey orders, they never surrender, and they don't stop fighting when a random body part falls off.""
+—Nevinyrral, Necromancer's Handbook",1,1,,1
+79,Enfeeblement,,,Enchantment,,,Sixth Edition,Common,John Bolton,125,350,BB,Enchanted creature gets -2/-2.,"""If it is weak, either kill it or ignore it. Anything else honors it.""
+—Kaervek",,,,1
+80,Gravebane Zombie,,,Creature,Zombie,,Sixth Edition,Uncommon,Gary Leach,133,350,3B,"When Gravebane Zombie would be put into a graveyard from play, instead put Gravebane Zombie on top of its owner's library.",,3,2,,1
+81,Hidden Horror,,,Creature,Horror,,Sixth Edition,Uncommon,Clint Langley,137,350,1BB,"When Hidden Horror comes into play, choose and discard a creature card from your hand. If you don't sacrifice Hidden Horror.",,4,4,,1
+82,Mischievous Poltergeist,,,Creature,Ghost,,Sixth Edition,Uncommon,Di'Terlizzi,144,350,2B,"Flying
+Pay 1 life: Regenerate Mischievous Poltergeist.","""The past is a ghost that haunts you from the moment it exists until the moment you don't.""
+—Gerrard of the Weatherlight",1,1,,1
+83,Anaba Bodyguard,,,Creature,Minotaur,,Sixth Edition,Common,Anson Maddocks,164,350,3R,"First strike
+""Not all minotaurs are tribal. Some are freelance.""
+—Eron the Relentless",,2,3,,1
+84,Fit of Rage,,,Sorcery,,,Sixth Edition,Common,Douglas Shuler,178,350,1R,Target creature gets +3/+3 and gains first strike until end of turn.,"""Anger is fleeting; remorse is eternal.""
+—Karn, silver golem",,,,1
+85,Lightning Blast,,,Instant,,,Sixth Edition,Common,Richard Thomas,193,350,3R,Lightning Blast deals 4 damage to target creature or player.,"""Those who fear the darkness have never seen what the light can do.""
+—Selenia, dark angel",,,,1
+86,Pyrotechnics,,,Sorcery,,,Sixth Edition,Common,Anson Maddocks,199,350,4R,Pyrotechnics deals 4 damage divided any way you choose among any number of target creatures and/or players.,"""Hi!ni!ya! Behold the man of flint, that's me! / Four lightnings zigzag from me, strike and return.""
+—Navajo war chant",,,,1
+87,Sabretooth Tiger,,,Creature,Tiger,,Sixth Edition,Common,Melissa A. Benson,203,350,2R,"First strike
+""Not all minotaurs are tribal. Some are freelance.""
+—Eron the Relentless","""I fear anything with teeth measured in handspans!""
+—Norin the Wary",2,1,,1
+88,Shock,,,Instant,,,Sixth Edition,Common,Randy Gallegos,206,350,R,Shock deals 2 damage to target creature or player.,"Lightning tethers souls to the world.
+—Kor saying",,,,1
+89,Tremor,,,Sorcery,,,Sixth Edition,Common,Pete Venters,211,350,R,Tremor deals 1 damage to each creature without flying.,"""Where do you run when the earth becomes your enemy?""
+—Naimag, Femeref philosopher",,,,1
+90,Wall of Fire,,,Creature,Wall,,Sixth Edition,Uncommon,Richard Thomas,216,350,1RR,"(Walls can't attack.)
+R: Wall of Fire gets +1/+0 until end of turn.","""Struggle, and you will only fan the flames.""
+—Talibah, embermage",0,5,,1
+91,Creeping Mold,,,Sorcery,,,Sixth Edition,Uncommon,David Seeley,220,350,2GG,"Destroy target artifact, land, or enchantment.","""Mold could catch you.""
+—Suq'Ata insult",,,,1
+92,Giant Growth,,,Instant,,,Sixth Edition,Common,Di'Terlizzi,233,350,G,Target creature gets +3/+3 until end of turn.,,,,,1
+93,Giant Spider,,,Creature,Spider,,Sixth Edition,Common,Randy Gallegos,234,350,3G,Giant Spider can block as though it had flying.,"It's not far into the trap, as the crow flies.",2,4,,1
+94,Llanowar Elves,,,Creature,Elf,,Sixth Edition,Common,Anson Maddocks,239,350,G,T: Add G to your mana pool.,"One bone broken for every twig snapped underfoot.
+—LLanowar penalty for trespassing",1,1,,1
+95,Panther Warriors,,,Creature,Cat,Warrior,Sixth Edition,Common,Eric Peterson,243,350,4G,,The dogs of war are nothing compared to the cats.,6,3,,2
+96,Rampant Growth,,,Sorcery,,,Sixth Edition,Common,Tom Kyffin,246,350,1G,Search your library for a basic land card and put that card into play tapped. Then shuffle your library.,Rath forces plants from its surface as one presses whey from cheese.,,,,1
+97,Scaled Wurm,,,Creature,Wurm,,Sixth Edition,Common,Daniel Gelon,251,350,7G,,"""Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.""
+—Kjeldor: Ice Civilization",7,6,,1
+98,Trained Armodon,,,Creature,Elephant,,Sixth Edition,Common,Gary Leach,257,350,1GG,,These are its last days. Better to grow broad and heavy. Better that the enemy is crushed beneath its carcass.,3,3,,1
+99,Mana Prism,,Artifact,,,,Sixth Edition,Uncommon,Margaret Organ-Kean,297,350,3,"T: Add one colorless mana to your mana pool.
+1,T: Add one mana of a color of your choice to your mana pool.",,,,,1
+100,Obsianus Golem,,Artifact,Creature,Golem,,Sixth Edition,Uncommon,Jesper Myrfors,303,350,6,,"""The foot stone is connected to the ankle stone, the ankle stone isi connected to the leg stone....""
+—""Song of the Artificer""",4,6,,1
+101,Rod of Ruin,,Artifact,,,,Sixth Edition,Uncommon,Christopher Rush,309,350,4,"3, T: Rod of Ruin deals 1 damage to target creature or player.",,,,,1
+102,Fresh Volunteers,,,Creature,Rebel,,Mercadian Masques,Common,Jeff Miracola,20,350,1W,,"Every Cho-Arrim villager is a potential warrior; when they are called, they abandon their peaceful way of life and take up arms to defend it.",2,2,,1
+103,Chameleon Spirit,,,Creature,Illusion,,Mercadian Masques,Uncommon,Bradley Williams,65,350,3U,"As Chameleon Spirit comes into play, choose a color.
+Chameleon Spirit's power and toughness are each equal to the number of permanents of the chosen color your opponents control.",,X,X,,1
+104,Diplomatic Immunity,,,Enchantment,,,Mercadian Masques,Common,Terese Nielsen,75,350,1U,"Enchanted creature can't be the target of spells or abilities.
+Diplomatic Immunity can't be the target of spells or abilities.",,,,,1
+105,Bog Smugglers,,,Creature,Mercenary,,Mercadian Masques,Common,Mike Ploog,117,350,1BB,Swampwalk (This creature is unblockable as long as defending player controls a swamp.),They slide over the bog like oil across glass.,2,2,,1
+106,Deepwood Ghoul,,,Creature,Zombie,,Mercadian Masques,Common,Alan Pollack,131,350,2B,Pay 2 life: Regenerate Deepwood Ghoul.,They feed on the living to stay undead.,2,1,,1
+107,Flaming Sword,,,Enchantment,,,Mercadian Masques,Common,Randy Gallegos,190,350,1R,"You may play Flaming Sword any time you could play an instant
+Target creature gets +1/+0 and has first strike.","""It's not Talruum crystal, but I must admit—it gets the job done.""
+—Tahngarth",,,,1
+108,Uphill Battle,,,Enchantment,,,Mercadian Masques,Uncommon,Pete Venters,222,350,2R,Creatures your opponents play come into play tapped.,"Cho-Manno knew he had no choice but to ally with Gerrard. If that's what it took to free his people, he'd pay the price.",,,,1
+109,Rushwood Herbalist,,,Creature,Spellshaper,,Mercadian Masques,Common,Terese Nielsen,265,350,2G,"G, T, Discard a card from you hand: Regenerate target creature","When generals gather their armies, healers gather their herbs.",2,2,,1
+110,Fountain of Cho,,,Land,,,Mercadian Masques,Uncommon,Scott Hampton,317,350,,"Fountain of Cho comes into play tapped.
+T: Put a storage counter on Fountain of Cho.
+T, Remove any number of storage counters from Fountain of Cho: Add one white mana to your mana pool for each storage counter removed this way.",,,,,4
+111,"Lin Sivvi, Defiant Hero",Legend,,Creature,Rebel,,Nemesis,Rare,rk post,12,143,1WW,"X, T: Search your library for a Rebel card with converted mana cost X or less and put that card into play. Then shuffle your library.
+3: Put target Rebel card from your graveyard on the bottom of your library.",,1,3,,4
+112,Mana Cache,,,Enchantment,,,Nemesis,Rare,rk post,92,143,1RR,"At the end of each player's turn, put a charge counter on Mana Cache for each untapped land that player controls.
+Remove a charge counter from Mana Cache: Add one colorless mana to your mana pool. Any player may play this ability but only during his or her turn before the end phase.",,,,,1
+113,Murderous Betrayal,,,Enchantment,,,Nemesis,Rare,Randy Gallegos,61,143,BBB,"BB, Pay half your life rounded up: Destroy target nonblack creature. It can't be regenerated.","In darkness, the assassin sneaked into the village and destroyed what Eladamri loved most: his daughter.",,,,1
+114,Skyshroud Behemoth,,,Creature,Beast,,Nemesis,Rare,Eric Peterson,116,143,5GG,"Fading 2 (This creature comes into play with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Skyshroud Behemoth comes into play tapped.",,10,10,,1
+115,Defiant Falcon,,,Creature,Rebel,Bird,Nemesis,Common,Heather Hudson,6,143,1W,"Flying
+4, T: Search your library for a Rebel card with converted mana cost 3 or less and put that card into play. Then shuffle your library.",,1,1,,4
+116,Reveille Squad,,,Creature,Rebel,,Prophecy,Uncommon,Greg & Tim Hildebrandt,18,143,2WW,"Whenever you're attacked, if Reveille Squad is untapped, you may untap all creatures you control.","""To arms! To arms! The Lion roars!""",3,3,,4
+117,Sky Weaver,,,Creature,Wizard,,Invasion,Uncommon,Christopher Moeller,74,350,1U,2: Target white or black creature gains flying until end of turn.,"""Let my wisdom give you wings.""",2,1,,1
+118,Quirion Elves,,,Creature,Elf,,Invasion,Common,Douglas Shuler,203,350,1G,"As Quirion Elves comes into play, choose a color.
+T: Add G to your mana pool.
+T: Add one mana of the chosen color to your mana pool.",,1,1,,1
+119,Wandering Stream,,,Sorcery,,,Invasion,Common,Quinton Hoover,224,350,2G,You gain 2 life for each basic land type among lands you control.,"""Dominaria touches us all.""
+—Molimo, maro-sorcerer",,,,1
+120,Soul Net,,Artifact,,,,Seventh Edition,Uncommon,Ron Spencer,317,350,1,"Whenever a creature is put into a graveyard from play, you may pay 1. If you do, you gain 1 life.",,,,,1
+121,Spined Wurm,,,Creature,Wurm,,Seventh Edition,Common,Carl Critchlow,270,350,4G,,"""I wouldn't stand in front of that wurm, son. 'Course, I wouldn't stand behind it neither. In fact, standing anywhere near that wurm's not much of a plan. Running, now that's a plan!""
+—Wandering mage",5,4,,1
+122,Wood Elves,,,Creature,Elf,,Seventh Edition,Common,Christopher Moeller,284,350,2G,"When Wood Elves comes into play, search your library for a forest card and put that card into play. Then shuffle your library.","Every branch a crossroads, every vine a swift steed.",1,1,,1
+123,Slay,,,Instant,,,Planeshift,Uncommon,Ben Thompson,55,143,2B,"Destroy target green creature. It can't be regenerated.
+Draw a card.","The elves had the edge in guile, skill, and valor. But in the end, only sheer numbers mattered.",,,,1
+124,Cavern Harpy,,,Creature,Beast,,Planeshift,Common,Daren Bader,97,143,UB,"Flying
+When Cavern Harpy comes into play, return a blue or black creature you control to its owner's hand.
+Pay 1 life: Return Cavern Harpy to its owner's hand.",,2,1,,2
+125,Horned Kavu,,,Creature,Kavu,,Planeshift,Common,Michael Sutfin,110,143,RG,"When Horned Kavu comes into play, return a red or green creature you control to its owner's hand.","""That didn't happen naturally,"" said Multani. ""Rath's overlay is interfering with the AEther itself.""",3,4,,2
+126,Silver Drake,,,Creature,Drake,,Planeshift,Common,Alan Pollack,125,143,1WU,"Flying
+When Silver Drake comes into play, return a white or blue creature you control to its owner's hand.",,3,3,,1
+127,Beloved Chaplain,,,Creature,Cleric,,Odyssey,Uncommon,Darrel Riche,11,350,1W,Protection from creatures,"Nomad and Nantuko, eagle and elephant; all the birds and beasts are charmed by his quiet dignity.",1,1,,2
+128,Mystic Penitent,,,Creature,Nomad,Mystic,Odyssey,Uncommon,Larry Elmore,34,350,W,"Attacking doesn't cause Mystic Penitent to tap.
+Threshold—Mystic Penitent gets +1/+1 and has flying. (You have threshold as long as seven or more cards are in your graveyard.)",,1,1,,2
+129,Nomad Decoy,,,Creature,Nomad,,Odyssey,Uncommon,Pete Venters,37,350,2W,"W, T: Tap target creature.
+Threshold—WW, T: Tap two target creatures. (Play this ability only if seven or more cards are in your graveyard.)","If you can take something from a nomad, it's probably that.",1,2,,2
+130,Aven Cloudchaser,,,Creature,Bird,Soldier,Odyssey,Common,Justin Sweet,7,350,3W,"Flying
+When Aven Cloudchaser comes into play, destroy target enchantment.","""At the Reapportionment, Eagle begged to be human. The ancestor granted half that prayer.""
+—Nomad myth",2,2,,2
+131,Dedicated Martyr,,,Creature,Cleric,,Odyssey,Common,Dave Dorman,16,350,W,"W, Sacrifice Dedicated Martyr: You gain 3 life.","""If he's willing to suffer for his cause, then by all means, let us oblige him.""
+—Cabal Patriarch",1,1,,1
+132,Embolden,,,Instant,,,Odyssey,Common,Rebecca Guay,22,350,2W,"Prvent the next 4 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+Flashback 1W (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,1
+133,Life Burst,,,Instant,,,Odyssey,Common,John Avon,30,350,1W,"Target player gains 4 life, then gains 4 life for each Life Burst card in each graveyard.",As uplifting as a mystic's dreams.,,,,3
+134,Patrol Hound,,,Creature,Hound,,Odyssey,Common,Daren Bader,38,350,1W,Discard a card from your hand: Patrol Hound gains first strike until end of turn.,"To the camp, it was a fierce and loyal protector. To the sentry's youngest daughter, it would always be her ""Wuv Muffin.""",2,2,,3
+135,Shelter,,,Instant,,,Odyssey,Common,Christopher Moeller,46,350,1W,"Target creature you control gains protection from the color of your choice until end of turn.
+Draw a card.","Good strategists seize opportunities.
+Great strategists make their own.",,,,3
+136,Deep Reconnaissance,,,Sorcery,,,Odyssey,Uncommon,Jeff Remmer,236,350,2G,"Search your library for a basic land card and put that card into play tapped. Then shuffle your library.
+Flashback 4G (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,2
+137,Nantuko Elder,,,Creature,Insect,Druid,Odyssey,Uncommon,Daren Bader,254,350,2G,T: Add 1G to your mana pool,"Plant a field with wishes, and you will grow more wishes.
+—Nantuko teaching",1,2,,2
+138,Roar of the Wurm,,,Sorcery,,,Odyssey,Uncommon,Kev Walker,266,350,6G,"Put a 6/6 green Wurm creature token into play.
+Flashback 3G (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,2
+139,Diligent Farmhand,,,Creature,Druid,,Odyssey,Common,Gary Ruddell,237,350,G,"1G, Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card into play tapped. Then shuffle your library.
+If Diligent Farmhand is in a graveyard, Muscle Burst's effect counts it as a Muscle Burst.",,1,1,,3
+140,Krosan Avenger,,,Creature,Druid,,Odyssey,Common,D. Alexander Gregory,247,350,2G,"Trample
+Threshold—1G: Regenerate Krosan Avenger. (Play this ability only if seven or more cards are in your graveyard.)",She'd have a fearsome reputation if she left any survivors.,3,1,,2
+141,Moment's Peace,,,Instant,,,Odyssey,Common,Rebecca Guay,251,350,1G,"Prevent all combat damage that would be dealt this turn.
+Flashback 2G (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,3
+142,Rabid Elephant,,,Creature,Elephant,,Odyssey,Common,Dave Dorman,263,350,4G,"Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.","When in doubt, stomp.",3,4,,2
+143,Seton's Desire,,,Enchantment,,,Odyssey,Common,Ciruelo,268,350,2G,"Enchanted creature gets +2/+2.
+Threshold—All creatures able to block enchanted creature do so.
+(You have threshold as long as seven or more cards are in your graveyard.)
+",,,,,1
+144,Militant Monk,,,Creature,Cleric,,Torment,Common,Mark Brill,9,143,1WW,"Attacking doesn't cause Militant Monk to tap.
+T: Prevent the next 1 damage that would be dealt to target creature or player this turn.",,2,1,,3
+145,Commander Eesha,Legend,,Creature,Bird,Soldier,Judgement,Rare,Rebecca Guay,9,143,2WW,"Flying, protection from creatures","""War glides on the simplest updrafts while peace struggles against hurricane winds. It is the way of the world. It must change.""",2,4,,1
+146,Selfless Exorcist,,,Creature,Cleric,,Judgement,Rare,Christopher Moeller,21,143,3WW,T: Remove target creature card in a graveyard from the game. That card deals damage equal to its power to Selfless Exorcist. (A X on a card not in play is 0.),,3,4,,1
+147,Battle Screech,,,Sorcery,,,Judgement,Uncommon,Randy Gallegos,3,143,2WW,Put two 1/1 white Bird creature tokens with flying into play.,,,,,2
+148,Spurmage Advocate,,,Creature,Nomad,,Judgement,Uncommon,Ron Spears,27,143,W,T: Return two target cards in an opponent's graveyard to his or her hand. Destroy target attacking creature.,"""Our unity humbles our foes.""",1,1,,2
+149,Unquestioned Authority,,,Enchantment,,,Judgement,Uncommon,Alex Horley,31,143,2W,"When Unquestioned Authority comes into play, draw a card.
+Enchanted creature has protection from creatures.","""Only the Ancestor should be revered.""
+—Mystic heretic",,,,2
+150,Valor,,,Creature,Incarnation,,Judgement,Uncommon,Kev Walker,32,143,3W,"First strike
+As long as Valor is in your graveyard and you control a plains, creatures you control have first strike.","""The cracks widened, the shell crumbled, and Valor spread throughout the land.""
+—Scroll of Beginnings",2,2,,1
+151,Wormfang Turtle,,,Creature,Nightmare,Beast,Judgement,Uncommon,John Avon,60,143,2U,"When Wormfang Turtle comes into play, remove a land you control from teh game.
+When Wormfang Turtle leaves play, return the removed card to play under its owner's control.",Chainer's admirers keep his dreams alive.,2,4,,1
+152,Wormfang Crab,,,Creature,Nightmare,Crab,Judgement,Uncommon,Glen Angus,56,143,3U,"Wormfang Crab is unblockable.
+When Wormfang Crab comes into play, an opponent chooses a permanent you control and removes it from the game.
+When Wormfang Crab leaves play, return the removed card to play under its owner's control.",,3,6,,1
+153,Tunneler Wurm,,,Creature,Wurm,,Judgement,Uncommon,Jeff Easley,135,143,6GG,Discard a card from your hand: Regenerate Tunneler Wurm.,"If an anurid's lucky, it'll find a warm tunnel for bedtime. If a wurm's lucky, it'll find a warm anurid for breakfast.",6,6,,2
+154,Exoskeletal Armor,,,Enchantment,,,Judgement,Uncommon,Wayne England,114,143,1G,"Enchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.","""We use only what we need—but in times of strife, our need becomes great.""
+—Centaur warror",,,,3
+155,Brawn,,,Creature,Incarnation,,Judgement,Uncommon,Matt Cavota,107,143,3G,"Trample
+As long as Brawn is in your graveyard and you control a forest, creatures you control have trample.","""'I have arrived,' bellowed Brawn, and the plane shuddered.""
+—Scroll of Beginnings",3,3,,2
+156,Anurid Swarmsnapper,,,Creature,Beast,,Judgement,Uncommon,John Matson,105,143,2G,"Anurid Swarmsnapper may block as though it had flying.
+1G: Anurid Swarmsnapper may block an additional creature this turn.",Anurids have the problem of airborne invaders licked.,1,4,,2
+157,Benevolent Bodyguard,,,Creature,Cleric,,Judgement,Common,Roger Raupp,5,143,W,Sacrifice Benevolent Bodyguard: Target creature you control gains protection from the color of your choice until end of turn.,"""My destiny is to save others so their destinies may be achieved.""",1,1,,3
+158,Funeral Pyre,,,Instant,,,Judgement,Common,Carl Critchlow,10,143,W,Remove target card in a graveyard from the game. Its owner puts a 1/1 white Spirit creature token with flying into play.,"""Raze the body. Raise the soul.""
+—Mystic elder",,,,1
+159,Guided Strike,,,Instant,,,Judgement,Common,Dave Dorman,13,143,1W,"Target creature gets +1/+0 and gains first strike until end of turn.
+Draw a card.","""May the Ancestor strengthen my hand and guide my blade.""
+—Nomad war prayer",,,,3
+160,Lead Astray,,,Instant,,,Judgement,Common,Adam Rex,14,143,1W,Tap up to two target creatures,"""Never underestimate our enemy's strength, brutality,... or stupidity.""
+—Commander Eesha",,,,1
+161,Prismatic Strands,,,Instant,,,Judgement,Common,Eric Peterson,18,143,2W,"Prevent all damage that sources of the color of your choice would deal this turn.
+Flashback—Tap an untapped white creature you control. (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,1
+162,Shieldmage Advocate,,,Creature,Cleric,,Judgement,Common,Christopher Moeller,22,143,2W,T: Return target card in an opponent's graveyard to his or her hand. Prevent all damage that would be dealt to target creature or player this turn by a source of your choice.,"""Our unity conquers all fears.""",1,3,,1
+163,Suntail Hawk,,,Creature,Bird,,Judgement,Common,Heather Hudson,28,143,W,Flying,"""Our forebears once flew like this—carefree, needing nothing but a warm nest and a full belly. Our intellect may be more burden than blessing.""
+—Commander Eesha",1,1,,5
+164,Defy Gravity,,,Instant,,,Judgement,Common,Ben Thompson,38,143,U,"Target creature gains flying until end of turn.
+Flashback U (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)","Magical or not, it's still a cloud.",,,,1
+165,Arcane Teachings,,,Enchantment,,,Judgement,Common,Mark Brill,78,143,2R,"Enchanted creature gets +2/+2 and has ""T: This creature deals 1 damage to target creature or player.""","Dwarves may teach at the speed of stone, but their results are solid.",,,,1
+166,Barbarian Bully,,,Creature,Barbarian,,Judgement,Common,Mike Ploog,79,143,2R,Discard a card at random from your hand: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to him or her. Play this ability only once each turn.,"""Out of my way!""",2,2,,1
+167,Lava Dart,,,Instant,,,Judgement,Common,Darrel Riche,94,143,R,Lava Dart deals 1 damage to target creature or player.,"Flashback—Sacrifice a mountain.
+(You may play this card from your graveyard for its flashback cost. Then remove it from the 
+game.)",,,,1
+168,Spellgorger Barbarian,,,Creature,Nightmare,Barbarian,Judgement,Common,Mark Romanoski,100,143,3R,"When Spellgorger Barbarian comes into play, discard a card at random from your hand.
+When Spellgorger Barbarian leaves play, draw a card.",The epidemic insanity had a lasting effect on certain barbarians—but no one noticed.,3,1,,1
+169,Anurid Barkripper,,,Creature,Beast,,Judgement,Common,Randy Gallegos,104,143,1GG,Threshold—Anurid Barkripper gets +2/+2. (You have threshold as long as seven or more cards are in your graveyard.),"When it croaks, so do you.",2,2,,1
+170,Battlefield Scrounger,,,Creature,Centaur,,Judgement,Common,Daren Bader,106,143,3GG,Threshold—Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Play this ability only once each turn. (Play this ability only if seven or more cards are in your graveyard.),,3,3,,2
+171,Giant Warthog,,,Creature,Beast,,Judgement,Common,Kev Walker,118,143,5G,Trample,"""When the Ancestor saw the cruelty her human children were capable of, Her fury shook the world. From this outburst sprang the warthogs.""
+—Nomad myth",5,5,,4
+172,Harvester Druid,,,Creature,Druid,,Judgement,Common,David Martin,120,143,1G,T: Add to your mana pool one mana of any color that a land you control could produce.,"""In the end, the same soil lies atop the field, within the mountain, and under the sea.""",1,1,,1
+173,Krosan Wayfarer,,,Creature,Druid,,Judgement,Common,"Edward P. Beard, Jr.",123,143,G,Sacrifice Krosan Wayfarer: Put a land card from your hand into play.,"""The Krosan Forest lives, and druids are its seeds.""",1,1,,2
+174,Nantuko Tracer,,,Creature,Insect,Druid,Judgement,Common,Greg Staples,125,143,1G,"When Nantuko Tracer comes into pay, you may put target card from a graveyard on the bottom of its owner's library.","Your past is a map to where you will go.
+—Nantuko teaching",2,1,,2
+175,Phantom Tiger,,,Creature,Cat,Spirit,Judgement,Common,Brian Snoddy,129,143,2G,"Phantom Tiger comes into play with two +1/+1 counters on it.
+If damage would be dealt to Phantom Tiger, prevent the damage. Remove a +1/+1 counter from Phantom Tiger",,1,0,,1
+176,Sudden Strength,,,Instant,,,Judgement,Common,Alan Pollack,132,143,3G,"Target creature gets +3/+3 until end of turn.
+Draw a card.",The Mirari's magic transformed the Krosan Forest—and its inhabitants.,,,,2
+177,Willbender,,,Creature,Wizard,,Legions,Uncommon,Eric Peterson,58,145,1U,"Morph 1U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+When Willbender is turned face up, change target of target spell or ability with a single target.",,1,2,,2
+178,Branchsnap Lorian,,,Creature,Beast,,Legions,Uncommon,Heather Hudson,118,145,1GG,"Trample
+Morph G (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Lorians treat trees and prey the same way: by ripping them limb from limb.",,4,1,,1
+179,Pemmin's Aura,,,Enchantment,,,Scourge,Uncommon,Greg Staples,45,143,1UU,"U: Untap enchanted creature
+U: Enchanted creature gains flying until end of turn.
+U: Enchanted creature can't be the target of spells or abilities this turn.
+1: Enchanted creature gets +1/-1 or -1/+1 until end of turn.",,,,,4
+180,Flayed Nim,,,Creature,Skeleton,,Mirrodin,Uncommon,Trevor Hairsine,65,306,3B,"Whenever Flayed Nim deals combat damage to a creature, that creature's controller loses that much life.
+2B: Regenerate Flayed Nim.",,2,2,,1
+181,Great Furnace,,Artifact,Land,,,Mirrodin,Common,Rob Alexander,282,306,,"(Great Furnace isn't a spell.)
+T: Add R to your mana pool.","Kuldotha, wellspring of molten metal, temple of the goblin horde.",,,,4
+182,Neurok Hoversail,,Artifact,Equipment,,,Mirrodin,Common,Alan Pollack,218,306,,"Equipped creature has flying.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)",,,,,1
+183,Steel Wall,,Artifact,Creature,,,Mirrodin,Common,David Day,248,306,,"(Walls can't attack.)
+","""We sculpt the land into what we need—homes, armament, fortresses of war. Our strength comes not only from knowing, but from commanding the terrain.""
+—Raksha Golden Cub, leonin kha",0,4,,3
+184,Viridian Longbow,,Artifact,Equipment,,,Mirrodin,Common,Jeremy Jarvis,270,306,,"Equipped creature has ""T: This creature deals 1 damage to target creature or player.""
+Equip 3 (3:Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)",,,,,1
+185,Vulshok Gauntlets,,Artifact,Equipment,,,Mirrodin,Common,Richard Sardinha,273,306,,"Equipped creature gets +4+2 and doesn't untap during its controller's untap step.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)",,,,,3

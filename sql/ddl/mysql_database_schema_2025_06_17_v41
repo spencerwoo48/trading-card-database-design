@@ -1,0 +1,174 @@
+CREATE TABLE permanent (
+	permanent_id INT AUTO INCREMENT,
+	card_name VARCHAR(),
+	-- mana_cost VARCHAR(),
+	-- supertype VARCHAR(),
+	type_line_fk VARCHAR(),
+	-- subtype VARCHAR(),
+	expansion_symbol_fk VARCHAR(),
+	rarity_fk VARCHAR(),
+	-- text_box VARCHAR(),
+	-- flavor_text VARCHAR(),
+	-- power INT,
+	-- toughness INT,
+	-- starting_loyalty INT,
+	artist_information_fk VARCHAR(),
+	collectors_number INT,
+	PRIMARY KEY (permanent_id),
+	FOREIGN KEY (type_line_fk) REFERENCES type_line(type_line_id),
+	FOREIGN KEY (expansion_symbol_fk) REFERENCES expansion_symbol(expansion_symbol_id),
+	FOREIGN KEY (rarity_fk) REFERENCES rarity(rarity_id),
+	FOREIGN KEY (artist_information_fk) REFERENCES artist_information(artist_information_id)
+);
+
+-- PARENT TABLE FOR COMPLETE LIST OF MANA COSTS
+CREATE TABLE mana_cost (
+	mana_cost_id INT AUTO INCREMENT,
+	mana_cost VARCHAR(),
+	PRIMARY KEY (mana_cost_id)
+);
+-- PARENT TABLE FOR ALL SUPERTYPES
+CREATE TABLE supertype (
+	supertype_id INT AUTO INCREMENT,
+	supertype VARCHAR(),
+	PRIMARY KEY (supertype_id)
+);
+-- LINKING TABLE CONNECTING PERMANENT TO ONE SUPERTYPE
+CREATE TABLE permanent_supertype (
+	permanent_fk INT,
+	supertype_fk INT,
+	PRIMARY KEY (permanent_fk),
+	FOREIGN KEY (permanent_fk) REFERENCES permanent(permanent_id),
+	FOREIGN KEY (supertype_fk) REFERENCES supertype(supertype_id)
+);
+-- PARENT TABLE FOR ALL TYPES
+CREATE TABLE type_line (
+	type_line_id INT AUTO INCREMENT,
+	type_line VARCHAR(),
+	PRIMARY KEY (type_line_id)
+);
+-- PARENT TABLE FOR ALL SUBTYPES
+CREATE TABLE subtype (
+	subtype_id INT AUTO INCREMENT,
+	subtype VARCHAR(),
+	PRIMARY KEY (subtype_id)
+);
+-- LINKING TABLE CONNECTING PERMANENT TO MULTIPLE SUBTYPES
+CREATE TABLE permanent_subtype (
+	subtype_fk,
+	permanent_fk,
+	PRIMARY KEY (subtype_fk, permanent_fk)
+	FOREIGN KEY (subtype_fk) REFERENCES subtype(subtype_id),
+	FOREIGN KEY (permanent_fk) REFERENCES permanent(permanent_id)
+);
+-- PARENT TABLE FOR ALL EXPANSIONS
+CREATE TABLE expansion_symbol (
+	expansion_symbol_id INT AUTO INCREMENT,
+	expansion_symbol VARCHAR(),
+	PRIMARY KEY (expansion_symbol_id)
+);
+
+-- PARENT TABLE FOR ALL RARITIES
+CREATE TABLE rarity (
+	rarity_id INT AUTO INCREMENT,
+	rarity VARCHAR(),
+	PRIMARY KEY (rarity_id)
+);
+
+-- LINKING TABLE CONNECTING TEXT BOX TO PERMANENT
+CREATE TABLE text_box (
+	text_box_id INT,
+	text_box VARCHAR(),
+	PRIMARY KEY (text_box_id),
+	FOREIGN KEY (text_box_id) REFERENCES permanent(permanent_id)
+);
+-- LINKING TABLE CONNECTING FLAVOR TEXT TO PERMANENT
+CREATE TABLE flavor_text (
+	flavor_text_id INT,
+	flavor_text VARCHAR(),
+	PRIMARY KEY (flavor_text_id),
+	FOREIGN KEY (flavor_text_id) REFERENCES permanent(permanent_id)
+);
+
+-- PARENT TABLE FOR ALL ARTIST INFORMATION
+CREATE TABLE artist_information (
+	artist_information_id INT AUTO INCREMENT,
+	artist_information VARCHAR(),
+	PRIMARY KEY (artist_information_id)
+);
+-- LINKING TABLE CONNECTING NONCREATURE INFORMATION TO PERMANENT
+CREATE TABLE noncreature (
+	noncreature_fk INT,
+	mana_cost_fk INT,
+	PRIMARY KEY (noncreature_fk),
+	FOREIGN KEY (noncreature_fk) REFERENCES permanent(permanent_id),
+	FOREIGN KEY (mana_cost_fk) REFERENCES mana_cost(mana_cost_id)
+);
+-- LINKING TABLE CONNECTING CREATURE INFORMATION TO PERMANENT
+CREATE TABLE creature (
+	creature_fk INT,
+	mana_cost_fk INT,
+	power INT,
+	toughness INT,
+	PRIMARY KEY (creature_fk),
+	FOREIGN KEY (creature_fk) REFERENCES permanent(permanent_id),
+	FOREIGN KEY (mana_cost_fk) REFERENCES mana_cost(mana_cost_id)
+);
+-- LINKING TABLE CONNECTING PLANESWALKER INFORMATION TO PERMANENT
+CREATE TABLE planeswalker (
+	planeswalker_fk INT,
+	mana_cost_fk INT,
+	starting_loyalty INT,
+	PRIMARY KEY (planeswalker_fk),
+	FOREIGN KEY (planeswalker_fk) REFERENCES permanent(permanent_id),
+	FOREIGN KEY (mana_cost_fk) REFERENCES mana_cost(mana_cost_id)
+);
+
+INSERT INTO permanent(card_name, type_line_fk, expansion_symbol_fk, rarity_fk, artist_information_fk, collectors_number) VALUES();
+INSERT INTO mana_cost(mana_cost) VALUES();
+INSERT INTO supertype(supertype) VALUES();
+INSERT INTO permanent_supertype(permanent_fk, supertype_fk) VALUES();
+INSERT INTO type_line(type_line) VALUES();
+INSERT INTO subtype(subtype) VALUES();
+INSERT INTO permanent_subtype(subtype_fk, permanent_fk) VALUES();
+INSERT INTO expansion_symbol(expansion_symbol) VALUES();
+INSERT INTO rarity(rarity) VALUES();
+INSERT INTO text_box(text_box_id, text_box) VALUES();
+INSERT INTO flavor_text(flavor_text_id, flavor_text) VALUES();
+INSERT INTO artist_information(artist_information) VALUES();
+INSERT INTO noncreature(noncreature_fk, mana_cost_fk) VALUES();
+INSERT INTO creature(creature_fk, mana_cost_fk, power, toughness) VALUES();
+INSERT INTO planeswalker(planeswalker_fk, mana_cost_fk, starting_loyalty) VALUES();
+
+SELECT permanent.permanent_id, permanent.card_name, noncreature.mana_cost, creature.mana_cost, planeswalker.mana_cost, supertype.supertype, type_line.type_line, subtype.subtype, expansion_symbol.expansion_symbol, rarity.rarity, text_box.text_box, flavor_text.flavor_text, creature.power, creature.toughness, planeswalker.starting_loyalty
+FROM permanent
+LEFT JOIN noncreature
+ON permanent.permanent_id = noncreature.noncreature_fk
+LEFT JOIN creature
+ON permanent.permanent_id = creature.creature_fk
+LEFT JOIN planeswalker
+ON permanent.permanent_id = planeswalker.planeswalker_fk
+LEFT JOIN mana_cost
+ON noncreature.mana_cost_fk = mana_cost.mana_cost_id
+LEFT JOIN mana_cost
+ON creature.mana_cost_fk = mana_cost.mana_cost_id
+LEFT JOIN mana_cost
+ON planeswalker.mana_cost_fk = mana_cost.mana_cost_id
+LEFT JOIN permanent_supertype
+ON permanent.permanent_id = permanent_supertype.permanent_fk
+LEFT JOIN supertype
+ON permanent_supertype.supertype_fk = supertype.supertype_id
+LEFT JOIN type_line
+ON permanent.type_line_fk = type_line.type_line_id
+LEFT JOIN permanent_subtype
+ON permanent.permanent_id = permanent_subtype.permanent_fk
+LEFT JOIN subtype
+ON permanent_subtype.subtype_fk = subtype.subtype_id
+LEFT JOIN expansion_symbol
+ON permanent.expansion_symbol_fk = expansion_symbol.expansion_symbol_id
+LEFT JOIN rarity
+ON permanent.rarity_fk = rarity.rarity_id
+LEFT JOIN text_box
+ON permanent.permanent_id = text_box.text_box_id
+LEFT JOIN flavor_text
+ON permanent.permanent_id = flavor_text.flavor_text_id

@@ -1,0 +1,590 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+1823,Barbed Battlegear,,Artifact,Equipment,,,,Scars of Mirrodin,Uncommon,Steve Argyle,,139,249,3,"Equipped creature gets +4/-1.
+Equip 2
+","""One need only look at the inhabitants of this world to see that they are forged halfway to perfection. All they need is a whisper of the Glorious Word.""
+—Urabrask the Hidden",,,,1
+1824,Darksteel Axe,,Artifact,Equipment,,,,Scars of Mirrodin,Uncommon,Daniel Ljunggren,,149,249,1,"Darkstseel Axe is indestructible. (Effects that say ""destrooy"" don't destroy it.)
+Equipped creature gets +2/+0.
+Equip 2","Heavier than it looks, tricky to wield, guaranteed to last.",,,,1
+1825,Darksteel Myr,,Artifact,Creature,Myr,,,Scars of Mirrodin,Uncommon,Randis Albion,,151,249,3,"Darksteel Myr is indestructible.
+(Lethal damage and effects that say ""destroy"" don't destroy it. If it's toughness is 0 or less, it's still put into its owner's graveyard.)",,0,1,,1
+1826,Golem Artisan,,Artifact,Creature,Golem,,,Scars of Mirrodin,Uncommon,Nic Klein,,159,249,5,"2: Target artifact creature gets +1/+1 until end of turn.
+2: Target artifact creature gains your choice of flying, trample, or haste until end of turn.",Better living through metallurgy.,3,3,,1
+1827,Memnite,,Artifact,Creature,Construct,,,Scars of Mirrodin,Uncommon,Sverlin Velinov,,174,249,0,,"Reminders of Memnarch's reign still skirr across Mirrodin, reminiscent of his form if not his power.",1,1,,3
+1828,Palladium Myr,,Artifact,Creature,,,,Scars of Mirrodin,Uncommon,Alan Pollack,,190,249,3,T: Add 2 to your mana pool.,The myr are like the Glimmervoid: blank canvases on which to build grand creations.,2,2,,2
+1829,Throne of Geth,,Artifact,,,,,Scars of Mirrodin,Uncommon,Jana Schirmer,Johannes Voss,211,249,2,"T, Sacrifice an artifact: Proliferate.
+(You choose any umber of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+","At the heart of Ish Sah, Geth stokes the dark fires of Phyrexia.",,,,1
+1830,Trigon of Rage,,Artifact,,,,,Scars of Mirrodin,Uncommon,Marc Simonetti,,216,249,2,"Trigon of Rage enters the battlefield with three charge counters on it.
+RR, T: Put a charge counter on Trigon of Rage.
+2, T, Remove a charge counter from Trigon of Rage: Target creature gets +3/+0 until end of turn.",,,,,4
+1831,Abuna Acolyte,,,Creature,Cat,Cleric,,Scars of Mirrodin,Uncommon,Igor Kieryluk,,1,249,1W,"T: Prevent the next 1 damage that woudl be dealt to target creature or player this turn.
+T: Preven the next 2 damage that would be dealt to target artifact creature this turn.","""You can break nothing I cannot mend.""",1,1,,1
+1832,Auriok Edgewright,,,Creature,Human,Soldier,,Scars of Mirrodin,Uncommon,Mike Bierek,,3,249,WW,Metalcraft — Auriok Edgewright has double strike as long as you control three or more artifacts.,"Auriok soldiers craft their own weapons, forging a connection to the steel with each blow of the hammer.",2,2,,2
+1833,Dispense Justice,,,Instant,,,,Scars of Mirrodin,Uncommon,Austin Hsa,,5,249,2W,"Target player sacrifices an attacking creature.
+Metalcraft — That player sacrifices two attacking creatures instead if you control three or more artifacts.","The accorders never strike first, but they always strike back.",,,,3
+1834,Twisted Image,,,Instant,,,,Scars of Mirrodin,Uncommon,Izzy,,50,249,U,"Switch target creature's power and toughness until end of turn.
+Draw a card.","""True strength is in the mind, for the body is too malleable a form.""
+—Politus, vedalken emisar",,,,1
+1835,Corrupted Harvester,,,Creature,Horror,,,Scars of Mirrodin,Uncommon,Izzy,,59,249,4BB,"B, Sacrifice a creature: Regenerate Corrupted Harvester.","""Before the blessd assault begins, we must seek specimens that are well-adapted to our way of...life.""
+—Sheoldred, Whispering One",6,3,,2
+1836,Bloodshot Trainee,,,Creature,Goblin,Warrior,,Scars of Mirrodin,Uncommon,Matt Stewart,,85,249,3R,T: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is a 4 or greater.,"""Just think how strong I'll be if my arms don't tear off!""",2,3,,2
+1837,Ogre Geargrabber,,,Creature,Ogre,Warrior,,Scars of Mirrodin,Uncommon,David Rapoza,,99,249,4RR,"Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equpment, unattach it.","Long reach, short attention span.",4,4,,1
+1838,Tangle Angler,,,Creature,Horror,,,Scars of Mirrodin,Uncommon,Igor Kieryluk,,128,249,3G,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+G: Target creature blocks Tangle Angler this turn if able.",A plague on the curious.,1,5,,3
+1839,Glint Hawk,,,Creature,Bird,,,Scars of Mirrodin,Common,Dave Allsop,,10,249,W,"Flying
+When Glint Hawk enters the battlefield, sacrifice it unless you return an artifact you control to its owner's hand.
+It's eyes burned nearly blind by the Whitesun, it hunts by metallic gleam.",,2,2,,2
+1840,Kemba's Skyguard,,,Creature,Cat,Knight,,Scars of Mirrodin,Common,Whit Brachna,,13,249,1WW,"Flying
+When Kemba's Skyguard enters the battlefield, you gain 2 life..","""We're now to dispense aid to any Mirran we see battling anything...'strange.'
+—Ranya, skyhunter captain",2,2,,2
+1841,Loxodon Wayfarer,,,Creature,Elephant,Monk,,Scars of Mirrodin,Common,Steven Belledin,,15,249,2WW,,"The Mirran elders vanished with Memnarch, leaving behind a generation of wayward orphans.",1,5,,2
+1842,Soul Parry,,,Instant,,,,Scars of Mirrodin,Common,Igor Kieryluk,,21,249,1W,Prevent all damage one or two target creatures would deal this turn.,"""I was called to this world of steel, and it will be my steel that answers.""
+—Elspeth Tirel",,,,3
+1843,Whitesun's Passage,,,Instant,,,,Scars of Mirrodin,Common,John Avon,,27,249,1W,You gain 5 life.,"All over the Razor Fields, Whitesun is celebrated. Even the followers of the rebel Juryan, far from the Cave of Light, bow their heads in reverence.",,,,3
+1844,Neurok Ivisimancer,,,Creature,Human,Wizard,,Scars of Mirrodin,Common,Izzy,,37,249,1UU,"Neurok Invisimancer is unblockable.
+When Neurok Invisimancer enters the battlefield, target creature is unblockable this turn.","""They won't see your shadow or hear your breath, but they will feel your blade.""",2,1,,1
+1845,Scrapdiver Serpent,,,Creature,Serpent,,,Scars of Mirrodin,Common,Adrian Smith,,41,249,5UU,Scrapdiver Serpent is unblockable as long as defending player controls an artifact.,Smart artificers clean up after themselves.,5,5,,5
+1846,Screeching Silcaw,,,Creature,Bird,,,Scars of Mirrodin,Common,Mike Bierek,,42,249,1U,"Flying
+Metalcraft — Whenever Screeching Silclaw deals combat damage to a player, if you control three or more artifacts, that player puts the top four cards of his or her library into his or her graveyard.",It's adaptively deaf to its own cries.,1,2,,2
+1847,Steady Progress,,,Instant,,,,Scars of Mirrodin,Common,Efrem Palacios,,45,249,2U,"Proliferate. (You choose any umber of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Draw a card.","""More of that strange oil...It's probably nothing.""",,,,2
+1848,Turn Aside,,,Instant,,,,Scars of Mirrodin,Common,Shelly Wan,,49,249,U,Counter target spell that targets a permanent you control.,"It's not my job to ask our leaders about their experiments at the Knowledge Pool. It's my job to make sure they can continue performing them.""",,,,3
+1849,Vault Skyward,,,Instant,,,,Scars of Mirrodin,Common,Dan Scott,,51,249,U,Target creature gains flying until end of turn. Untap it.,"""The edges of the Quicksilver Sea run dark with the spread of the Mephidross. Two more aerial passes before I can be sure what I'm seeing...""
+—Lafarius, Neurok sky agent",,,,1
+1850,Blackcleave Goblin,,,Creature,Goblin,Zombie,,Scars of Mirrodin,Common,Nils Hamm,,54,249,3B,"Haste
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players int eh form of poison counters.)","""Bitten? Save time, amputate now.""
+—Lephar, loxdon surgeon",2,1,,1
+1851,Bleak Coven Vampires,,,Creature,Vampire,Warrior,,Scars of Mirrodin,Common,Randis Albion,,99,249,3BB,"Metalcraft — When Bleak Coven Vampires enters the battlefield, if you control three or more artifacts, target player loses 4 life and you gain 4 life.","As the shadow of the Mephidross spread over the Tanlge, the vampires' territory expanded.",4,3,,2
+1852,Blistergrub,,,Creature,Horror,,,Scars of Mirrodin,Common,Daarken,,56,249,2B,"Swampwalk
+When Blistergrub is put into a graveyard from the battlefield, each opponent loses 2 life.","""The sooner you join Phyrexia, the sooner you'll forget your painful rebirth.""
+—Shelodred, Whispering One",2,2,,2
+1853,Fume Spitter,,,Creature,Horror,,,Scars of Mirrodin,Common,Nils Hamm,,63,249,B,Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.,"""Our archers made sport of it as it fumbled its way up the slag ridge. As it collapsed we thought ourselves safe, but the foul thing carried more than necrogen.""
+—Adaran, Tangle hunter",1,1,,2
+1854,Assault Strobe,,,Sorcery,,,,Scars of Mirrodin,Common,Kev Walker,,82,249,R,Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.),hen breaking someone's face once just isn't enough.,,,,1
+1855,Blade-Tribe Berserkers,,,Creature,Human,Berserker,,Scars of Mirrodin,Common,Kev Walker,,84,249,3R,"Metalcraft — When Blade-Tribe Berserkers enters the battlefield, if you control three or more artifacts, Blade-Tribe Berserkers gets +3/+3 and gains haste until end of turn.",,3,3,,1
+1856,Shatter,,,Instant,,,,Scars of Mirrodin,Common,jD,,103,249,1R,Destroy target artifact,"""I am an artist, a builder, a creator...I create the biggest explosions around.""
+—Krol, goblin furnace-priest",,,,2
+1857,Vulshok Heartstoker,,,Creature,Human,Shaman,,Scars of Mirrodin,Common,Shelly Wan,,167,249,2R,"When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 until end of turn.",He fashions stirring words with a as much passion as a smith fashioning a warhammer.,2,2,,1
+1858,Alpha Tyrranax,,,Creature,Beast,,,Scars of Mirrodin,Common,Dave Kendall,,109,249,4GG,,"Hunger seized the tyrrana, and the Sylvok's vision quest ended in disaster.",6,5,,1
+1859,Blunt the Assault,,,Instant,,,,Scars of Mirrodin,Common,Matt Stewart,,113,249,3G,You gain 1 life for each creature on the battlefield. Prevent all combat damage that would be dealt this turn.,"""Much can be gained from the appearance of vulnerability.""
+—Ezuri, renegade leader",,,,3
+1860,Cystbearer,,,Creature,Beast,,,Scars of Mirrodin,Common,Kev Walker,,117,249,2G,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),"Phyrexia strives to simulate natural life, but it can't resist improving on the design.",2,3,,3
+1861,Ezuri's Archers,,,Creature,Elf,Archer,,Scars of Mirrodin,Common,Shelly Wan,,120,249,G,"Reach (This creature can block creatures with flying.)
+Whenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets +3/+0 until end of turn.",,1,2,,3
+1862,Molder Beast,,,Creature,Beast,,,Scars of Mirrodin,Common,Randis Albion,,125,249,4G,"Trample
+Whenever an artifact is put into a gaveyard from the battlefield, Molder Beast gets +2/+0 until end of turn.","""A trail of scrap metal can lead it into an ambush. But take care not to overfeed it.""
+—Adaran, Tangle hunter",5,3,,1
+1863,Wing Puncture,,,Instant,,,,Scars of Mirrodin,Common,jD,,133,249,G,Target creature you control deals damage equal to its power to target creature with flying.,"""If I were the air, I wouldn't taunt the ground. It has the weight advantage.""
+—Konnos, Sylvok sage",,,,2
+1864,Accorder's Shield,,Artifact,Equipment,,,,Scars of Mirrodin,Common,Alan Pollack,,136,249,0,"Equipped creature gets +0/+3 and has vigilance.
+Equip 3","An Auriok shield is polished to a mirror finish even on the inside, enabling its bearer to watch foes ahead and behind.",,,,2
+1865,Chrome Steed,,Artifact,Creature,Horse,,,Scars of Mirrodin,Common,Jana Schirmer,Johannes Voss,142,249,4,Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more artifacts.,"According to Auriok myth, it collects scrap in order to reassemble its lost rider.",2,2,,3
+1866,Copper Myr,,Artifact,Creature,Myr,,,Scars of Mirrodin,Common,Alan Pollack,,146,249,2,T: Add G to your mana pool.,The myr are like verdigris: an ever-present patina on the surface of a metal world.,1,1,,3
+1867,Echo Circlet,,Artifact,Equipment,,,,Scars of Mirrodin,Common,Daarken,,143,249,2,"Equipped creature can block an additional creature.
+Equip 1","After th evanishing of the elder generations, the Anvil Tribe developed creative solutions to their personnel shortages.",,,,4
+1868,Glint Hawk Idol,,Artifact,,,,,Scars of Mirrodin,Common,Dave Allsop,,156,249,2,"Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 artifact creature with flying until end of turn.
+W: Glint Hawk Idol becomes a 2/2 artifact creature with flying until end of turn.",,,,,1
+1869,Golden Urn,,Artifact,,,,,Scars of Mirrodin,Common,Charles Urbach,,158,249,1,"At the beginning of your upkeep, you may put a charge counter on Golden Urn.
+T, Sacrifice Golden Urn: You gain life equal to the number of charge countesr on Golden Urn.",,,,,2
+1870,Gold Myr,,Artifact,Creature,Myr,,,Scars of Mirrodin,Common,Alan Pollack,,157,249,2,T: Add W to your mana pool.,"The myr are like razorgrass: numberless metal figures, reflecting each other's light.",1,1,,7
+1871,Golem Foundry,,Artifact,,,,,Scars of Mirrodin,Common,Nic Klein,,160,249,3,"Whenever you cast an artifact spell, you may puut a charge counter on Golem Foundry.
+Remove three charge counters from Golem Foundr: Put a 3/3 colorless Golem artifact creature token onto the battlefield.",,,,,1
+1872,Leaden Myr,,Artifact,Creature,Myr,,,Scars of Mirrodin,Common,Alan Pollack,,170,249,2,T: Add B to your mana pool.,The myr are like necrogen: a transformative force unconcerned with the changes they wreak.,1,1,,2
+1873,Necrogen Censer,,Artifact,,,,,Scars of Mirrodin,Common,Pete Venters,,184,249,3,"Necrogen Censer enters the battlefield with two charge counters on it.
+T, Remove a charge counter from Necrogen Censer: Taget player loses 2 life.","Moriok necromancers actively spread necrogen, encouraging the transformation from mirran to nim.",,,,2
+1874,Neurok Replica,,Artifact,Creature,Wizard,,,Scars of Mirrodin,Common,Zoltan Boros,Gabor Szikszai,186,249,3,"1U, Sacrifice Neurok Replica: Return target creature to its owner's hand.",All the curiosity of the Neurok with only a trace of their duplicity.,1,4,,1
+1875,Perilous Myr,,Artifact,Creature,Myr,,,Scars of Mirrodin,Common,Jason Felix,,192,249,2,"When Perilous Myr is put into a graveyard from the battlefield, it deals 2 damage to target creature or player.","To Mirrodin, an explosive, To Phyrexia, a missionary.",1,1,,2
+1876,Saberclaw Golem,,Artifact,Creature,Golem,,,Scars of Mirrodin,Common,Mike Bierek,,200,249,5,R: Saberclaw Golem gains first strike until end of turn.,"The warriors of the Blade Tribe charged the golem, twenty strong. They returned numbering ten...and a half.",4,2,,2
+1877,Snapsail Glider,,Artifact,Creature,Construct,,,Scars of Mirrodin,Common,Efrem Palacios,,203,249,3,Metalcraft — Snapsail Glider has flying as long as you control three or more artifacts.,"Built from a reconfigured thresher, it charges with light reflected off the golden plain, ready to take to the air in case of danger.",2,2,,1
+1878,Silver Myr,,Artifact,Creature,Myr,,,Scars of Mirrodin,Common,Alan Pollack,,202,249,2,T: Add U to your mana pool.,The myr are like quicksilver: malleable in function and adaptable in form.,1,1,,1
+1879,Strider Harness,,Artifact,Equipment,,,,Scars of Mirrodin,Common,Matt Stewart,,207,249,3,"Equipped creature gets +1/+1 and has haste.
+Equip 1",Each journey begins with a single step—and sometimes ends with that single step as well.,,,,4
+1880,Sylvok Replica,,Artifact,Creature,Shaman,,,Scars of Mirrodin,Common,Zoltan Boros,Gabor Szikszai,210,249,3,"G, Sacrifice Sylvok Replica: Destroy target artifact or enchantment.",All the zeal of the Sylvok with only a trace of their conservancy.,1,3,,3
+1881,Vector Asp,,Artifact,Creature,Snake,,,Scars of Mirrodin,Common,Erica Yang,,219,249,1,B: Vector Asp gains infect until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),"Phyrexia's machines take inspiration from nature. Twisted, disturbing inspiration.",1,1,,2
+1882,Core Prowler,,Artifact,Creature,Horror,,,Mirrodin Besieged,Uncommon,Dave Allsop,,103,155,4,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Core Prowler is put into a graveyard from the battlefield, proliferate. (You choose any number of permanent and/or players with counters on them, then give each another counter of a kind already there.)",,2,2,,2
+1883,Mortarpod,,Artifact,Equipment,,,,Mirrodin Besieged,Uncommon,Eric Deschamps,,115,155,2,"Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets+0/+1 and has ""Sacrifice this creature: This creature deals 1 damage to target creature or player.""
+Equip 2",,,,,6
+1884,Peace Strider,,Artifact,Creature,Construct,,,Mirrodin Besieged,Uncommon,Igor Kieryluk,,119,155,4,"When Peace Strider enters the battlefield, you gain 3 life.","""The Vanished must have sent it from beyond to aid us in this struggle.""
+—Kessla, Sylvok shaman",3,3,,1
+1885,Phyrexian Juggernaut,,Artifact,Creature,Juggernaut,,,Mirrodin Besieged,Uncommon,Kev Walker,,121,155,6,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players int eh form of poison counters.)
+Phyrexian Juggernaut attacks each turn if able.","Where nature impedes, Phyrexians overcome.",5,5,,3
+1886,Pierce Strider,,Artifact,Creature,Construct,,,Mirrodin Besieged,Uncommon,Igor Kieryluk,,123,155,4,"When Pierce Strider enters the battlefield, target opponent loses 3 life.","""Pain isn't a negative stimulus. Pain is a sign of your imperfection.""
+—Sheoldred, Whispering One",3,3,,2
+1887,Piston Sledge,,Artifact,Equipment,,,,Mirrodin Besieged,Uncommon,Pete Venters,,124,155,3,"When Piston Sledge enters the battlefield, attach it to target creature you control.
+Equipped creature gets +3/+1
+Equip—Sacrifice an artifact.",Only the goblins could make a simple machine so complex.,,,,4
+1888,Skinwing,,Artifact,Equipment,,,,Mirrodin Besieged,Uncommon,Igor Kieryluk,,133,155,4,"Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +2/+2 and has flying.
+Equip 6",,,,,3
+1889,Strandwalker,,Artifact,Equipment,,,,Mirrodin Besieged,Uncommon,Igor Kieryluk,,137,155,5,"Living weapon (Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +2/+4 and has reach.
+Equip 4",,,,,2
+1890,Viridian Claw,,Artifact,Equipment,,,,Mirrodin Besieged,Uncommon,Mare Simonetti,,143,155,2,"Equipped creature gets +1/+0 and has first strike.
+Equip 1","""Phyrexians can't corrupt what they can't get close enough to touch.""",,,,2
+1891,Choking Fumes,,,Instant,,,,Mirrodin Besieged,Uncommon,Scott Chou,,4,155,2W,Put a -1/-1 counter on each attacking creature.,"""Fall to your knees and welcome our embrace.""
+—Qal-Sha, Priest of Norn",,,,2
+1892,Kemba's Legion,,,Creature,Cat,Soldier,,Mirrodin Besieged,Uncommon,Anthony Francisco,,9,155,5WW,"Vigilance
+Kemba's Legion cann block as an additional creature for each Equipment attached to Kemba's Legion.`",The squabble over succession was quickly replaced by the struggle to survive.,4,6,,3
+1893,Leonin Relic-Warder,,,Creature,Cat,Cleric,,Mirrodin Besieged,Uncommon,Greg Staples,,10,155,WW,"When Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment.
+When Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.",,2,2,,5
+1894,Treasure Mage,,,Creature,Human,Wizard,,Mirrodin Besieged,Uncommon,Ryan Pancoast,,14,155,2U,"When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.",,2,2,,1
+1895,Vedalken Anatomist,,,Creature,Vedalken,Wizard,,Mirrodin Besieged,Uncommon,Greg Staples,,36,155,2U,"2U, T: Put a -1/-1 counter on target creature. you may tap or untap that creature.","""Specimen 211 examination report. Observation: graft sublimation incomplete. Result: death. Prepare specimen 212.""",1,2,,3
+1896,Gruesome Encore,,,Sorcery,,,,Mirrodin Besieged,Uncommon,Adrian Smith,,44,155,2B,"Put target creature card from an opponent's graveyard onto the btattlefield under your control. It gains haste. Exile it at the beginning of the next end step. If that creature would leave the battlefield, exile it instead of putting it anywhere else.",,,,,2
+1897,Nested Ghoul,,,Creature,Zombie,Warrior,,Mirrodin Besieged,Uncommon,Dave Kendall,,48,155,3BB,"Whenever a source deals damage to Nested Ghoul, put a 2/2 black Zombie creature token onto the battlefield.","""The chest cavity is cleared of useless meat. I know just what to do with the space.""
+—Gyed, Vault Priest",4,2,,1
+1898,Septic Rats,,,Creature,Rat,,,Mirrodin Besieged,Uncommon,Cos Koniotis,,55,155,1BB,"Infect (This creature deals damage to creatures in the form of poison counters.)
+Whenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 until end of turn.",,2,2,,3
+1899,Goblin Wardriver,,,Creature,Goblin,Warrior,,Mirrodin Besieged,Uncommon,Chippy,,64,155,RR,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)","""A true warrior fights with whatever's handy.""
+—Qerk of the Secret Warren",2,2,,1
+1900,Into the Core,,,Instant,,,,Mirrodin Besieged,Uncommon,Whit Brachna,,67,155,2RR,Exile two target artifacts.,"""They believe they're driving us back, but we're leading them to their doom.""
+—Kethek, furnace stoker",,,,1
+1901,Spiraling Duelist,,,Creature,Human,Berserker,,Mirrodin Besieged,Uncommon,Karl Kopinski,,76,155,2RR,Metalcraft — Spiraling Duelist has double strike as long as you control three or more artifacts.,"""I never move the same way twice. Those rotters can't grasp chaos.""",3,1,,5
+1902,Melira's Keepers,,,Creature,Human,Warrior,,Mirrodin Besieged,Uncommon,Eric Deschamps,,83,155,4G,Melira's Keepers can't have counters placed on it.,Her warriors are the last defense against the coming storm.,4,4,,4
+1903,Plaguemaw Beast,,,Creature,Beast,,,Mirrodin Besieged,Uncommon,Whit Brachna,,87,155,3GG,"T, Sacrifice a creature: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",Phyrexia's spiral of consumption grows ever wider and darker.,4,3,,3
+1904,Quilled Slagwurm,,,Creature,Wurm,,,Mirrodin Besieged,Uncommon,Matt Stewart,,89,155,4GGG,,Vorinclex removed its teeth so it wouldn't waste time chewing before moving to the next kill.,8,8,,3
+1905,Bladed Sentinel,,Artifact,Creature,Construct,,,Mirrodin Besieged,Common,Tomasz Jeruszek,,98,155,4,W: Bladed Sentinel gains vigilance until end of turn.,The Mirran partisans created hundreds of patrol sentinels to divert Phyrexian assaults from the Tangle.,2,4,,6
+1906,Copper Carapace,,Artifact,Equipment,,,,Mirrodin Besieged,Common,Franz Vohwinkel,,102,155,1,"Equipped creature gets +2/+2 and can't block.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)","""We will fight as they do: our flesh protected behind metal.""
+—Tae Aquil, Viridian weaponsmith",,,,3
+1907,Dross Ripper,,Artifact,Creature,Hound,,,Mirrodin Besieged,Common,David Rapoza,,106,155,4,2B: Dross Ripper gets +1/+1 until end of turn.,"""Such a creation serves no purpose other than exterminating every one of us.""
+—Sadra Alic, Neurok strategist",3,3,,4
+1908,Flayer Husk,,Artifact,Equipment,,,,Mirrodin Besieged,Common,Igor Kieryluk,,107,155,1,"Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +1/+1.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)",,,,,9
+1909,Gust-Skimmer,,Artifact,Creature,Insect,,,Mirrodin Besieged,Common,Dan Scott,,108,155,2,U: Gust-Skimmer gains flying until end of turn.,"Phyrexian smog clouds choked the skies, threatening creatures who couldn't comprehend the menace below.",2,1,,5
+1910,Hexplate Golem,,Artifact,Creature,Golem,,,Mirrodin Besieged,Common,Matt Cavotta,,109,155,7,,"""Use everything. Iron, rust, scrap...even the ground must join our cause.""
+—Ezuri, renegade leader",5,7,,5
+1911,Ichor Wellspring,,Artifact,,,,,Mirrodin Besieged,Common,Steven Belledin,,110,155,2,"When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.","""Our glorious infection has taken hold.""
+—Elesh Norn, Grand Cenobite
+",,,,6
+1912,Myr Sire,,Artifact,Creature,Myr,,,Mirrodin Besieged,Common,Jaime Jones,,116,155,2,"When Myr Sire is put into a graveyard from the battlefield, put a 1/1 colorless Myr artifact creature token onto the battlefield.","For the Phyrexians, death is not an end, nor a one-time occurrence.",1,1,,4
+1913,Phyrexian Digester,,Artifact,Creature,Construct,,,Mirrodin Besieged,Common,Dave Allsop,,120,155,3,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),"""Our cause will ripen in the fertile flesh of the unworthy.""
+—Sheldred, Whispering One",2,1,,2
+1914,Razorfield Rhino,,Artifact,Creature,Rhino,,,Mirrodin Besieged,Common,Kekai Kotaki,,127,155,6,Metalcraft — Razorfield Rhino gets +2/+2 as long as you control three or more artifacts.,"Adapted to tread on razorgrass, the rhino proved adept at treading on Phyrexians as well.",4,4,,4
+1915,Rusted Slasher,,Artifact,Creature,Horror,,,Mirrodin Besieged,Common,Adrian Smith,,128,155,4,Sacrifice an artifact: Regenerate Rusted Slasher.,"""It's a beautiful vision. Discarded debris is reborn as a singular entity.""
+—Urabrask the Hidden",4,1,,3
+1916,Spin Engine,,Artifact,Creature,Construct,,,Mirrodin Besieged,Common,Pete Venters,,135,155,3,R: Target creature can't block Spin Engine this turn.,"""It will be battle-ready before our strike at Oxid Ridge, and it will guarantee our victory.""
+—Ketuc of the Helm",3,1,,3
+1917,Tangle Hulk,,Artifact,Creature,Beast,,,Mirrodin Besieged,Common,Mark Zug,,139,155,5,2G: Regenerate Tangle Hulk.,"""A true Phyrexian predator. It will never know death, just as nature intended.""
+—Vorinclex, Voice of Hunger",5,3,,3
+1918,Training Drone,,Artifact,Creature,Drone,,,Mirrodin Besieged,Common,Matt Cavotta,,142,155,3,Training Drone can't attack or block unless it's equipped.,"""Vulshok flail, Viridian shield, loxodon blade...Tazzir, bring the Moriok hook and assemble the rookies.""
+—Vy Covalt, Neurok agent",4,4,,5
+1919,Divine Offering,,,Instant,,,,Mirrodin Besieged,Common,Terese Nielsen,,5,155,1W,Destroy target artifact. You gain life equal to its converted mana cost.,"""The Phyrexians are vulnerable. Do not despair. We will prevail!""
+—Juryan, rebel leader",,,,5
+1920,Frantic Salvage,,,Instant,,,,Mirrodin Besieged,Common,Scott Chou,,6,155,3W,"Put any number of target artifact cards from your graveyard on top of your library.
+Draw a card.","""We will mourn ther is time. For now, we survive.""",,,,7
+1921,Leonin Skyhunter,,,Creature,Cat,Knight,,Mirrodin Besieged,Common,Jana Schirmer,Johannes Voss,11,155,WW,Flying,"""The infection has spread farther than we could glimpse from the heights of Taj-Nar.",2,2,,17
+1922,Loxodon Partisan,,,Creature,Elephant,Soldier,,Mirrodin Besieged,Common,Matt Stewart,,12,155,4W,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)","""This war is not about loxodon or leonin, Sylvok or Auriok. To defeat these rotters, we must do it together.""",3,4,,5
+1923,Master's Call,,,Instant,,,,Mirrodin Besieged,Common,David Rapoza,,13,155,2W,Put two 1/1 colorless Myr artifact creature tokens onto the battlefield.,The need to obey was inscribed on every plate in their bodies.,,,,3
+1924,Priests of Norn,,,Creature,Cleric,,,Mirrodin Besieged,Common,Igor Kieryluk,,16,155,2W,"Vigilance
+Infect (This creature deals damage to creatures in the form of-1/-1 counters and to players int eh form of poison counters.)","""May our blessings sever the tongues of the forsaken.""
+—Elesh Norn, Grand Cenobite",1,4,,6
+1925,Tine Shrike,,,Creature,Bird,,,Mirrodin Besieged,Common,Adrian Smith,,17,155,3W,"Flying
+Infect (This creature deals damage to creatures in the form of poison counters.)",A new bird of prey—one that hunts sentience.,2,1,,10
+1926,Fuel for the Cause,,,Instant,,,,Mirrodin Besieged,Common,Steven Belledin,,25,155,2UU,"Counter target spell, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)","""Your ideas will be discarded and your will repurposed.""",,,,6
+1927,Mirran Spy,,,Creature,Drone,,,Mirrodin Besieged,Common,Dave Kendall,,26,155,2U,"Flying
+Whenever you cast an artifact spell, you may untap target creature.",Accurate information is a precious commodity in times of war.,1,3,,5
+1928,Oculus,,,Creature,Homunculus,,,Mirrodin Besieged,Common,Dan Scott,,29,155,1U,"When Oculus is put into a graveyard from the battlefield, you may draw a card.","""In its gaze I saw no mercy, no recognition that I was worthy to exist.""
+—Kara Vrist, Neurok agent",1,1,,3
+1929,Quicksilver Geyser,,,Instant,,,,Mirrodin Besieged,Common,Erica Yang,,30,155,4U,Return up to two target nonland permanents to their owner's hands.,"""Phyrexians are tenacious. That's not the same thing as clever.""
+—Tezzeret",,,,3
+1930,Serum Raker,,,Creature,Drake,,,Mirrodin Besieged,Common,Austin Hsu,,31,155,2UU,"Flying
+When Serum Raker is put into a graveyard from the battlefield, each player discards a card.",The serum from the blinkmoths they gather greases the joints of witch engines.,3,2,,7
+1931,Spire Serpent,,,Creature,Serpent,,,Mirrodin Besieged,Common,Johann Bodin,,32,155,4U,"Defender
+Metalcraft — As long as you control three or more artifacts, Spire Serpent gets +2/+2 and can attack as though it didn't have defender.","A mirror to draw its eye, a rod to rouse its rage, and a sword to break its bonds.",3,5,,2
+1932,Steel Sabotage,,,Instant,,,,Mirrodin Besieged,Common,Daarken,,33,155,U,Choose one — Counter target artifact spell; or return target artifact to its owner's hand.,"""You are hopelessly obsolete, my brothers. Come and join the Great Work.""
+—Rhmir, Hnad of the Augur",,,,5
+1933,Vivisection,,,Sorcery,,,,Mirrodin Besieged,Common,Anthony Francisco,,38,155,3U,"As an additional cost to cast Vivisection, sacrifice a creature.
+Draw three cards.",Phyrexians research with the grace of surgeons and finesse of butchers.,,,,3
+1934,Caustic Hound,,,Creature,Hound,,,Mirrodin Besieged,Common,Dave Allsop,,40,155,5B,"When Caustic Hound is put into a graveyard from the battlefield, each player loses 4 life.","At first, the Mirrans aimed for its exposed gut. The survivors quickly learned to do otherwise.",4,4,,6
+1935,Flensermite,,,Creature,Gremlin,,,Mirrodin Besieged,Common,Dave Allsop,,41,155,1B,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Lifelink (Damage dealt to this creature also causes you to gain that much life.)",,1,1,,6
+1936,Horrifying Revelation,,,Sorcery,,,,Mirrodin Besieged,Common,Shelly Wan,,45,155,B,"Target player discards a card, then puts the top card of his or her library into his or her graveyard.","""Ours is a glorious transmission! Behold a future where all bow to the Father of Machines.""
+—Isila, Priest of Sheoldred",,,,5
+1937,Morbid Plunder,,,Sorcery,,,,Mirrodin Besieged,Common,Mike Bierek,,47,155,1BB,Return up to two target creature cards from your graveyard to your hand.,Even the dead are raw materials for the Phyrexian vision of perfectionism.,,,,8
+1938,Phyresis,,,Enchantment,Aura,,,Mirrodin Besieged,Common,Izzy,,49,155,1B,"Enchant creature
+Enchanted creature has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)","""Perfectionism is at hand. You have been freed of weakness and made compleat.""
+—Sheoldred, Whispering One",,,,3
+1939,Phyrexian Rager,,,Creature,Horror,,,Mirrodin Besieged,Common,Stephan Martiniere,,51,155,2B,"When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.","""I believe many worlds will bow to Phyrexia. Mirrodin is merely the first.""
+—Sheoldred, Whispering One",2,2,,7
+1940,Scourge Servant,,,Creature,Zombie,,,Mirrodin Besieged,Common,Daarken,,54,155,4B,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),"""The union of the oil and necrogen has produced many pleasing reactions.""
+—Sheoldred, Whispering One",3,3,,3
+1941,Spread the Sickness,,,Sorcery,,,,Mirrodin Besieged,Common,Jaime Jones,,56,155,4B,"Destroy target creature, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)","Life is ephemeral, Phyrexia is eternal.",,,,4
+1942,Blisterstick Shaman,,,Creature,Goblin,Shaman,,Mirrodin Besieged,Common,Svetlin Velinov,,58,155,2R,"When Blisterstick Shaman enters the battlefield, it deals 1 damage to target creature or player.",A productive warren requires a good deal of prodding.,2,1,,2
+1943,Concussive Bolt,,,Sorcery,,,,Mirrodin Besieged,Common,Johann Bodin,,60,155,3RR,"Concussive Bolt deals 4 damage to target player.
+Metalcraft — If you control three or more artifacts, creatures that player controls can't block this turn.","Shock one, awe the rest.",,,,3
+1944,Crush,,,Instant,,,,Mirrodin Besieged,Common,Matt Stewart,,61,155,R,Destroy target noncreature artifact.,A golem's hands know no tenderness.,,,,5
+1945,Gnathosaur,,,Creature,Lizard,,,Mirrodin Besieged,Common,Jason Chan,,63,155,4RR,Sacrifice an artifact: Gnathosaur gains trample until end of turn.,Mirran creatures that could withstand the Phyrexian oil found an abundance of crunchy snacks.,5,4,,6
+1946,Koth's Courier,,,Creature,Human,Rogue,,Mirrodin Besieged,Common,Wayne Reynolds,,68,155,1RR,Forestwalk,Koth sent partisans into the Tangle to bring survivors to the safe haven of the tunnels below Kuldotha.,2,3,,6
+1947,Kuldotha Ringleader,,,Creature,Giant,Berserker,,Mirrodin Besieged,Common,Greg Staples,,70,155,4R,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Kuldotha Ringleader attacks each turn if able.",Being surrounded by goblis in less objectionable when they're fighting for you.,4,4,,6
+1948,Ogre Register,,,Creature,Ogre,,,Mirrodin Besieged,Common,Efrem Palacios,,72,155,2RR,,"He didn't have a word for ""home,"" but he knew it was something to be defended.",4,3,,5
+1949,Rally the Forces,,,Instant,,,,Mirrodin Besieged,Common,Steven Belledin,,73,155,2R,Attacking creatures get +1/+0 and gain first strike until end of turn.,"""Drive them back! Make their underworld into their grave!""
+—Koth of the Hammer",,,,4
+1950,Blightwidow,,,Creature,Spider,,,Mirrodin Besieged,Common,Daniel Ljunggren,,77,155,3G,"Reach (This creature can block creatures with flying.)
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",,2,4,,4
+1951,Fangren Marauder,,,Creature,Beast,,,Mirrodin Besieged,Common,James Ryman,,79,155,5G,"Whenever an artifact is put into a graveyard from the battlefield, you may gain 5 life.","""The fangren fight without comfort of any kind. We can ask no less of ourselves.""
+—Tilien, Sylvok partisan",5,5,,2
+1952,Glissa's Courier,,,Creature,Horror,,,Mirrodin Besieged,Common,Dave Kendall,,80,155,1GG,Mountainwalk,"""So, the survivors from Oxid Ridge are on the move. Let them come and witness predation in its purest form.
+—Glissa",2,3,,7
+1953,Mirran Mettle,,,Instant,,,,Mirrodin Besieged,Common,Karl Kopinski,,84,155,G,"Target creature gets +2/+2 until end of turn.
+Metalcraft — That creature gets +4/+4 until end of turn instead if you control three or more artifacts.","""Our land will not yield to Phyrexian corruption!""",,,,6
+1954,Pistus Strike,,,Instant,,,,Mirrodin Besieged,Common,Jaime Jones,,86,155,2G,"Destroy target creature with flying.
+Its controller gets a poison counter.","""Even a nuisance such as the pistus fly has a purpose in our new world.""
+—Glissa",,,,4
+1955,Tangle Mantis,,,Creature,Insect,,,Mirrodin Besieged,Common,Chris Rahn,,91,155,2GG,Trample,The fiercest hunters in the Tangle don't seek out the mantises. They are the mantises.,3,4,,6
+1956,Unnatural Predation,,,Instant,,,,Mirrodin Besieged,Common,Shelly Wan,,93,155,G,Target creature gets +1/+1 and gains trample until end of turn.,"""Domination by the strongest—that is all that matters in the Tangle now.""
+—Vorniclex, Voice of Hunger",,,,7
+1957,Viridian Emissary,,,Creature,Elf,Scout,,Mirrodin Besieged,Common,Matt Stewart,,95,155,1G,"When Viridian Emissary is put into a graveyard from the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",,2,1,,4
+1958,Brass Squire,,Artifact,Creature,Myr,,,Mirrodin Besieged,Uncommon,Ryan Pancoast,,101,155,3,T: Attach target Equipment you control to target creature you control.,"""I admire it. Few pull of pluck and subservience at the same time.""
+—Ezuri, renegade leader",1,3,,1
+1959,Lumengrid Gargoyle,,Artifact,Creature,Gargoyle,,,Mirrodin Besieged,Uncommon,Randis Albion,,112,155,6,Flying,"""Anything that watches without sleep and fights without fear is a valuable ally against the Phyrexians.""
+—Kara Vrist, Neurok agent",4,4,,2
+1960,Plague Myr,,Artifact,Creature,Myr,,,Mirrodin Besieged,Uncommon,Efrem Palacios,,125,155,2,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+T: Add 1 to your mana pool.","They watch for a new master, one more sinister than the last.",1,1,,2
+1961,Silverskin Armor,,Artifact,Equipment,,,,Mirrodin Besieged,Uncommon,Terese Nielsen,,132,155,2,"Equipped creature gets +1/+1 and is an artifact in addition to its other types.
+Equip 2",Partisan spies warned that no armor would protect the body from Phyrexian infection. Neurok strategists took that as a challenge.,,,,1
+1962,Sphere of the Suns,,Artifact,,,,,Mirrodin Besieged,Uncommon,Jana Schirmer,Johannes Voss,134,155,2,"Sphere of the Suns enters the battlefield tapped and with three charge counters on it.
+T, Remove a charge counter from Sphere of the Suns: Add one mana of any color to your mana pool.",,,,,1
+1963,Accorder Paladin,,,Creature,Human,Knight,,Mirrodin Besieged,Uncommon,Kekai Kotaki,,1,155,1W,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)","""I fight for the suns, the surface, and everything in between.""",3,1,,2
+1964,Gore Vassal,,,Creature,Hound,,,Mirrodin Besieged,Uncommon,Matt Cavotta,,7,155,2W,"Sacrifice Gore Vassal: Put a -1/-1 counter on target creature. Then if that creature's toughness is 1 or greater, regenerate it.","""Rid them of their unfaithful organs. Bring new hearts to the unbelievers.""
+—Tome of Machines, verse 1703",2,1,,1
+1965,Neurok Commando,,,Creature,Human,Rogue,,Mirrodin Besieged,Uncommon,Matt Stewart,,28,155,1UU,"Shroud
+Whenever Neurok Commando deals combat damage to a player, you may draw a card.","""There's no more time for secluded study. Answers are there only for those with the courage to take them.""",2,1,,4
+1966,Vedalken Infuser,,,Creature,Vedalken,Wizard,,Mirrodin Besieged,Uncommon,Ryan Pancoast,,37,155,3U,"At the beginning of your upkeep, you may put a charge counter on target artifact.","""All plans begin as dreams. I intend to awaken them.""",1,4,,1
+1967,Flesh-Eater Imp,,,Creature,Imp,,,Mirrodin Besieged,Uncommon,Johann Bodin,,42,155,3B,"Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Sacrifice a creature: Flesh-Eater Imp gets +1/+1 until end of turn.",,2,2,,2
+1968,Go for the Throat,,,Instant,,,,Mirrodin Besieged,Uncommon,David Rapoza,,43,155,1B,Destroy target nonartifact creature.,Having flesh is increasingly a liability on Mirrodin.,,,,2
+1969,Kuldotha Flamefiend,,,Creature,Elemental,,,Mirrodin Besieged,Uncommon,Raymond Swanland,,65,155,4RR,"When Kuldotha Flamefiend enters the battlefield, you may sacrifice an artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you choose among any number of target creatures and/or players.",,4,4,,2
+1970,Shriekhorn,,Artifact,,,,,Mirrodin Besieged,Common,Erica Yang,,130,155,1,"Shriekhorn enters the battlefield with three charge counters on it.
+T, Remove a charge counter from Shriekhorn: Target player puts the top two cards of his or her library into his or her graveyard.",,,,,5
+1971,Ardent Recruit,,,Creature,Human,Soldier,,Mirrodin Besieged,Common,Mike Bierek,,2,155,W,Metalcraft — Ardent Recruit gets +2/+2 as long as you control three or more artifacts.,"""We lost our homes and our kin. We won't let those rotters take our future as well.""",1,1,,8
+1972,Banishment Decree,,,Instant,,,,Mirrodin Besieged,Common,James Ryman,,3,155,3WW,"Put target artifact, creature, or enchantment on top of its owner's library.","""Unworthy of conservation.""
+—Axsh, lesser cenobite",,,,2
+1973,Turn the Tide,,,Instant,,,,Mirrodin Besieged,Common,Jason Felix,,35,155,1U,Creatures your opponents control get -2/-0 until end of turn.,"""Let their mindless armies come and face the night of genius.""
+—Varil, Neurok partisan",,,,5
+1974,Virulent Wound,,,Instant,,,,Mirrodin Besieged,Common,Whit Brachna,,57,155,B,"Put a -1/-1 counter on target creature. When tha tcreature is put into a graveyard this turn, its controller gets a poison counter.","Sadly, the extent of Gerkk's healing knowledge was ""don't pick at it.""",,,,4
+1975,Burn the Impure,,,Instant,,,,Mirrodin Besieged,Common,Nic Klein,,59,155,1R,"Burn the Impure deals 3 damage to target creature. If that creature has infect, Burn the Impure deals 3 damage to that creature's controller.",Flame doesn't kneel to Phyrexia.,,,,6
+1976,Metallic Mastery,,,Sorcery,,,,Mirrodin Besieged,Uncommon,Erica Yang,,71,155,2R,Gain control of target artifact until end of turn. Untap that artifact. It gains haste until end of turn.,"""All will be reforged in the fires of glory.""
+—Urabrask the Hidden",,,,1
+1977,Rot Wolf,,,Creature,Wolf,,,Mirrodin Besieged,Common,Nils Hamm,,90,155,2G,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in teh form of poison counters.)
+Whenever a creature dealt damage by Rot Wolf this turn is put into a graveyard, you may draw a card.",,2,2,,3
+1978,Contagion Clasp,,Artifact,,,,,Scars of Mirrodin,Uncommon,Anthony Palumbo,,144,249,2,"When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature.
+4, T: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",,,,,1
+1979,Grafted Exoskeleton,,Artifact,Equipment,,,,Scars of Mirrodin,Uncommon,Allen Williams,,162,249,4,"Equipped creature gets +2/+2 and has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of -1/-1 counters and to players in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice that permanent.
+Equip 2",,,,,2
+1980,Liquimetal Coating,,Artifact,,,,,Scars of Mirrodin,Uncommon,Johann Bodin,,171,249,2,"T: Target permanent becomes an artifact in addition to its other types until end of turn.
+""They'll soon become accustomed to wearing skin that is not their own.""
+—Elesh Norn, Grand Cenobite",,,,,2
+1981,Necropede,,Artifact,Creature,Insect,,,Scars of Mirrodin,Uncommon,Nic Klein,,185,249,2,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Necropede is put into a graveyard from the battlefield, you may put a -1/-1 counter on target creature.",,1,1,,1
+1982,Rust Tick,,Artifact,Creature,Insect,,,Scars of Mirrodin,Uncommon,Carl Critchlow,,198,249,3,"You may choose not to untap Rust Tick during your untap step.
+1, T: Tap target artifact. It doesn't untap during its controller's untap step for as long as Rust Tick remains tapped.",,1,3,,2
+1983,Trigon of Mending,,Artifact,,,,,Scars of Mirrodin,Uncommon,Igor Kieryluk,,215,249,2,"Trigon of Mending enters the battlefield with three charge counters on it.
+WW, T: Put a charge counter on Trigon of Mending.
+2, T, Remove a charge counter from Trigon of Mending: Target player gains 3 life.",,,,,1
+1984,Trigon of Thought,,Artifact,,,,,Scars of Mirrodin,Uncommon,Mike Bierek,,217,249,5,"Trigon of Thought enters the battlefield with three charge counters on it.
+UU, T: Put a charge counter on Trigon of Thought.
+2, T, Remove a charge counter from Trigon of Thought: Draw a card.",,,,,2
+1985,Vigil for the Lost,,,Enchantment,,,,Scars of Mirrodin,Uncommon,Igor Kieryluk,,26,249,3W,"Whenever a creature you control is put into a graveyard from the battlefield, you may pay X. If you do, you gain X life.","""As she grew cold in my arms, I swore an oath that her funeral pyre would be dwarfed by a bonfire of our enemies.""",,,,2
+1986,Thrummingbird,,,Creature,Bird,Horror,,Scars of Mirrodin,Uncommon,Efrem Palacios,,47,249,1U,"Flying
+Whenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with coutners on them, then give each another coutner of a kind already there.)",,1,1,,2
+1987,Trinket Mage,,,Creature,Human,Wizard,,Scars of Mirrodin,Uncommon,Scott Chou,,48,249,2U,"When Trinket Mage enters the battelfield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.",,2,2,,2
+1988,Necrogen Scudder,,,Creature,Horror,,,Scars of Mirrodin,Uncommon,Raymond Swanland,,71,249,2B,"Flying
+When Necrogen Sucdder enters the battlefield, you lose 3 life.","Contrary to popular belief, it's kept aloft by necrogen gas, not the screaming agony of a thousand murdered souls.",3,3,,1
+1989,Barrage Ogre,,,Creature,Ogre,Warrior,,Scars of Mirrodin,Uncommon,David Rapoza,,83,249,3RR,"T, Sacrifice an artifact: Barrage Ogre deals 2 damage to target creature or player.","The elves had devised countless strategies to combat Memnarch's war machines, but they had no idea what to do when one was thrown at them.",3,3,,1
+1990,Furnace Celebration,,,Enchantment,,,,Scars of Mirrodin,Uncommon,Svetlin Velinov,,90,249,1RR,"Whenever you sacrifice another permanent, you may pay 2. If you do, Furnace Celebration deals 2 damage to target creature or player.",Reduce. Reuse. Wreak havoc.,,,,2
+1991,Lifesmith,,,Creature,Human,Artificer,,Scars of Mirrodin,Uncommon,Eric Deschamps,,124,249,1G,"Whenever you cast an artifact spell, you may pay 1. If you do, you gain 5 life.","The Sylvok see the artificer as a gardener, preparing the world for hardy growth.",2,1,,2
+1992,Corpse Cur,,Artifact,Creature,Hound,,,Scars of Mirrodin,Common,Pete Venters,,147,249,4,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players int he form of poison counters.),"When Corpse Cur enters the battlefield, you may return target creature card with infect from your graveyard to your hand.",2,2,,1
+1993,Flight Spellbomb,,Artifact,,,,,Scars of Mirrodin,Common,Franz Vohwinkel,,155,249,1,"T, Sacrifice Flight Spellbomb: Target creature gains flying until end of turn.
+When Flight Spellbomb is put into a graveyard from the battlefield, you may pay U. If you do, draw a card.",,,,,1
+1994,Giant Hawk Idol,,Artifact,,,,,Scars of Mirrodin,Common,Dave Allsop,,156,249,2,"Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 artifact creature with flying until end of turn.
+W: Glint Hawk Idol becomes a 2/2 artifact creature with flying until end of turn.",,,,,2
+1995,Horizon Spellbomb,,Artifact,,,,,Scars of Mirrodin,Common,Franz Vohwinkel,,165,249,1,"2, T, Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+When Horizon Spellbomb is put into a graveyard from the battelefield, you may pay G. If you do, draw a card.",,,,,2
+1996,Ichorclaw Myr,,Artifact,Creature,Myr,,,Scars of Mirrodin,Common,Eric Deschamps,,166,249,2,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.",,1,1,,1
+1997,Iron Myr,,Artifact,Creature,Myr,,,Scars of Mirrodin,Common,Alan Pollack,,168,249,2,T: Add R to your mana pool.,,1,1,,2
+1998,Nihil Spellbomb,,Artifact,,,,,Scars of Mirrodin,Common,Franz Vohwinkel,,187,249,1,"T, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.
+When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay B. If you do, draw a card.",,,,,2
+1999,Origin Spellbomb,,Artifact,,,,,Scars of Mirrodin,Common,Franz Vohwinkel,,189,249,1,"1, T, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield.
+When Origin Spellbomb is put into a graveyard from the battlefield, you may pay W. If you do, draw a card.",,,,,2
+2000,Panic Spellbomb,,Artifact,,,,,Scars of Mirrodin,Common,Franz Vohwinkel,,191,249,1,"T, Sacrifice Panic Spellbomb: Target creature can't block this turn.
+When Panic Spellbomb is put into a graveyard from the battlefield, lyou may pay R. If you do, draw a card.",,,,,3
+2001,Razorfield Thresher,,Artifact,Creature,Construct,,,Scars of Mirrodin,Common,Karl Kopinski,,197,249,7,,DANGER! Keep appendages clear of front of machine. And rear of machine. And side of machine. And top of machine.,6,4,,1
+2002,Sylvok Lifestaff,,Artifact,Equipment,,,,Scars of Mirrodin,Common,Martina Pilcerova,,209,249,1,"Equipped creature gets +1/+0.
+Whenever equipped creature is put into a graveyard, you gain 3 life.
+Equip 1",The druid's lifestaff connects her to generations of bygone Sylvok.,,,,2
+2003,Tumble Magnet,,Artifact,,,,,Scars of Mirrodin,Common,Drew Baker,,218,249,3,"Tumble Magnet enters the battlefield with three charge counters on it.
+T, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.",Magnetic devices that keep massive golems and structures standing can also be used for the opposite purpose.,,,,2
+2004,Auriok Sunchaser,,,Creature,Human,Soldier,,Scars of Mirrodin,Common,James Ryman,,4,249,1W,"Metalcraft — As long as you control three or more artifacts, Auriok Sunchaser gets +2/+2 and has flying.","""Grant me loft. Grant me light. Grant me the accuracy I need to kill all who threaten Bladehold.""
+—Prayer to the Whitesun",1,1,,2
+2005,Fulgent Distraction,,,Instant,,,,Scars of Mirrodin,Common,Nic Klein,,7,249,2W,"Choose two target creatures. Tap those creatures, then unattach all Equipment from them.","""Channeling the white-hot power of all five suns creates a pretty good diversion.""
+—Yavash of the Accorders",,,,4
+2006,Ghalma's Warden,,,Creature,Elephant,Soldier,,Scars of Mirrodin,Common,Mike Bierek,,8,249,3W,Metalcraft — Ghalma's Warden gets +2/+2 as long as you control three or more artifacts.,A special unit guards the loxodon artificer known as Ghalma the Shaper. They are armed and armored in her finest works of silver and steel.,2,4,,1
+2007,Revoke Existence,,,Sorcery,,,,Scars of Mirrodin,Common,Allen Williams,,18,249,1W,Exile target artifact or enchantment.,"""No half measures, no regrets. We'll tell no stories of this day. It will be as if it never existed at all.""
+—Ganedor, loxodon mystic",,,,1
+2008,Disperse,,,Instant,,,,Scars of Mirrodin,Common,Adrian Smith,,31,249,1U,Return target nonland permanent to its owner's hand.,Most casualties of the power sturggle between vedalken and Neurok didn't die on the field of battle; they merely disappeared.,,,,3
+2009,Lumengrid Drake,,,Creature,Drake,,,Scars of Mirrodin,Common,Johann Bodin,,36,249,3U,"Flying
+Metalcraft — When Lumengrid Drake enters the battlefield, if you control three or more artifacts, return target creature to its owner's hand.","Properly outfitted, drakes made perfect sentries for vedalken strongholds.",2,2,,1
+2010,Plated Seastrider,,,Creature,Beast,,,Scars of Mirrodin,Common,Izzy,,38,249,UU,,The Neurok buried entangling cables just under the Quicksilver Sea. One seastrider harvest can provide an army's worth of armor and shields.,1,4,,2
+2011,Sky-Eel School,,,Creature,Fish,,,Scars of Mirrodin,Common,Daniel Ljunggren,,44,249,3UU,"Flying
+When Sky-Eel School enters the battlefield, draw a card, then discard a card.","They swim on tides few can see, away from a threat few yet understand.",3,3,,1
+2012,Stoic Rebuttal,,,Instant,,,,Scars of Mirrodin,Common,Chris Rahn,,46,249,1UU,"Metalcraft — Stoic Rebuttal costs 1 less to cast if you control three or more artifacts.
+Counter target spell.","Obsessed with the pursuit of knowledge above all else, vedalken can appear to be cold and emotionless.",,,,2
+2013,Contagious Nim,,,Creature,Zombie,,,Scars of Mirrodin,Common,Efrem Palacios,,58,249,2B,Infect (This creature deals damage to creatures in the form of -1/-1 coutners and to players in the form of poison counters.),"""This species has grown to be my preferred receptacle for our divine message.""
+—Sheoldred, Whispering One",2,2,,3
+2014,Dross Hopper,,,Creature,Insect,Horror,,Scars of Mirrodin,Common,Dave Allsop,,60,249,1B,Sacrifice a creature: Dross Hopper gains flying until end of turn.,"Bred in teh viscious Mephidross, dross hoppers learned to eat quickly and escape faster.",2,1,,5
+2015,Instill Infection,,,Instant,,,,Scars of Mirrodin,Common,Chris Rahn,,68,249,3B,"Put a -1/-1 counter on target creature.
+Draw a card.","""The results of our ninth inoculation were the same. The specimen was, of course, euthanized before the contagion could spread.""
+—Vedalken research notes",,,,1
+2016,Moriok Reaver,,,Creature,Human,Warrior,,Scars of Mirrodin,Common,Marc Simonetti,,70,249,2B,,"""The Moriok are fools. They try so hard to gain my favor. All I want is for them to die quickly, to join the ranks of the nim.""
+—Geth, Lord of the Vault",3,2,,3
+2017,Psychic Miasma,,,Sorcery,,,,Scars of Mirrodin,Common,Svetlin Velinov,,76,249,1B,"Target player discards a card. If a land card is discarded this way, return Psychic Miasma to its owner's hand.","""A mind may be steeled against madness, but all battlements fall in time.""
+—Jin-Gitaxias, Core Augur",,,,2
+2018,Relic Putrescence,,,Enchantment,Aura,,,Scars of Mirrodin,Common,Allen Williams,,77,249,2B,"Enchant artifact
+Whenever enchanted artifact becomes tapped, its controller gets a poison counter.","""Until we shed the curse of sentience, we must endure its grotesque handiwork.""
+—Vorinclex, Voice of Hunger",,,,3
+2019,Assault Strobe,,,Sorcery,,,,Scars of Mirrodin,Common,Kev Walker,,82,249,R,Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.),When breaking someone's face once just isn't enough.,,,,1
+2020,Ferrovore,,,Creature,Beast,,,Scars of Mirrodin,Common,Austin Hsu,,88,249,2R,"R, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.","The Vulshok use its digestion to break down the most obstinate artifacts, from darksteel myr to seastrider plates.",2,2,,1
+2021,Flameborn Hellion,,,Creature,Hellion,,,Scars of Mirrodin,Common,Aleksi Briclot,,89,249,5R,"Haste
+Flameborn Hellion attacks each turn if able.
+","""the most reliable omen of a future hellion attack is a past hellion attack.""
+—Spear-Tribe teaching",5,4,,3
+2022,Goblin Gaveleer,,,Creature,Goblin,Warrior,,Scars of Mirrodin,Common,Svetlin Velinov,,92,249,R,"Trample
+Goblin Gaveleer gets +2/+0 for each Equipment attached to it.","""When everything looks like a nail, you really need to get yourself a hammer.""
+—Krol, goblin furnace-priest",,,,1
+2023,Kuldotha Rebirth,,,Sorcery,,,,Scars of Mirrodin,Common,Goran Josic,,96,249,R,"As an additional cost to cast Kuldotha Rebirth, sacrifice an artifact.
+Put three 1/1 red Goblin creature tokens onto the battlefield.","All goblin rituals serve a dual purpose as fertility rites, even the destructive ones. Especially the destructive ones.",,,,1
+2024,Melt Terrain,,,Sorcery,,,,Scars of Mirrodin,Common,John Avon,,97,249,2RR,Destroy target land. Melt Terrain deals 2 damage to that land's controller.,"Just as the most finely wrought metal can warp and rust, so too does Mirrodin buckle under pressures from without and within.",,,,2
+2025,Scoria Elemental,,,Creature,Elemental,,,Scars of Mirrodin,Common,Karl Kopinski,,102,249,4R,,"A single molten cord links it to the subterranean furnaces, dfrawing heat and metal from beneath Kuldotha. Until that bond is cut, it carves a swath of raw destruction.",6,1,,3
+2026,Turn to Slag,,,Sorcery,,,,Scars of Mirrodin,Common,Zoltan Boros,Gabor Szikszai,106,249,3RR,Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.,"""If it wasn't a blackened, stinking, melted abomination before, it certainly is now.""
+—Koth of the Hammer",,,,1
+2027,Carapace Forger,,,Creature,Elf,Artificer,,Scars of Mirrodin,Common,Matt Cavotta,,114,249,1G,Metalcraft — Carapace Forger gets +2/+2 as long as you control three or more artifacts.,"""Bows and whips cannot save us from these new horrors of the Mephidross.""",2,2,,4
+2028,Copperhorn Scout,,,Creature,Elf,Scout,,Scars of Mirrodin,Common,Shelly Wan,,116,249,G,"Whenever Copperhorn Scout attacks, untap each other creature you control.","Fangren spur may sound louder, but Viridian resurgents claim taht the horn of the vorrac creates a truer, more inspiring note.",1,1,,2
+2029,Tel-Jilad Defiance,,,Instant,,,,Scars of Mirrodin,Common,Goran Josic,,129,249,1G,"Target creature gains protection from artifacts until end of turn.
+Draw a card.","The Viridian elves had purged their culture of the trolls' traitorous influence. In times of strife, however, the ancestral memories returned.",,,,1
+2030,Tel-Jilad Fallen,,,Creature,Elf,Warrior,,Scars of Mirrodin,Common,James Ryman,,130,249,2GG,"Protection from artifacts
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players int eh form of poison counters.)","""No longer am I shackled to antiquity. My new masters will etch a glorious future.""",3,1,,1
+2031,Withstand Death,,,Instant,,,,Scars of Mirrodin,Common,Thomasz Jedruszek,,134,249,G,"Target creature is indestructible this turn. (Lethal damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)","On Mirrodin, every conflict ends in either death or darksteel.",,,,2
+2032,Phyrexia's Core,,,Land,,,,New Phyrexia,Uncommon,Franz Vohwinkel,,65,175,,"T: Add 1 to your mana pool.
+1, T, Sacrifice an artifact: You gain 1 life.","""So even the heart of our world has succumbed.""
+—Koth of the Hammer",,,,5
+2033,Alloy Myr,,Artifact,Creature,Myr,,,New Phyrexia,Uncommon,Matt Cavotta,,129,175,3,T: Add one mana of any color to your mana pool.,"With or without witnesses, teh suns continued their prismatic dance.",2,2,,3
+2034,Cathedral Membrane,,Artifact,Creature,Wall,,,New Phyrexia,Uncommon,Richard Whitters,,5,175,1{W/P},"({W/P} can be paid with either W or 2 life.)
+Defender
+When Cathedral Membrane is put into a graveyard from the battlefield during combat, it deals 6 damage to each creature it blocked this combat.",,0,3,,1
+2035,Conversion Chamber,,Artifact,,,,,New Phyrexia,Uncommon,Anthony Francisco,,133,175,3,"2, T: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber.
+2, T, Remove a charge counter from Conversion Chamber: Put a 3/3 colorless Golem artifact creature token onto the battlefield.",,,,,1
+2036,Darksteel Relic,,Artifact,,,,,New Phyrexia,Uncommon,Daniel Ljunggren,,134,175,0,"Darksteel Relic is indestructible. (Effects that say ""destroy"" don't destroy it.)","""It's the last thing we can call our own.""
+—Minhu, Mirran resistance",,,,5
+2037,Isolation Cell,,Artifact,,,,,New Phyrexia,Uncommon,Adrian Smith,,141,175,4,"Whenever an opponent casts a creature spell, that player loses 2 life unless he or she pays 2.","""Attrition is the answer. Starve them, and let their despair be their undoing.""
+—Sheoldred, Whispering One",,,,2
+2038,Kiln Walker,,Artifact,Creature,Construct,,,New Phyrexia,Uncommon,Volkan Baga,,142,175,3,"Whenever Kiln Walker attacks, it gets +3/+0 until end of turn.","If it possesses an ability to understand and appreciate life, it has never shown it.",0,3,,4
+2039,Necropouncer,,Artifact,Equipment,,,,New Phyrexia,Uncommon,Cos Koniotis,,147,175,6,"Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +3/+1 and has haste.
+Equip 2",,,,,2
+2040,Rage Extractor,,Artifact,,,,,New Phyrexia,Uncommon,Raymond Swanland,,91,175,4{R/P},"({R/P} can be paid with either R or 2 life.)
+Whenever you cast a spell with {P} in its mana cost, rage Extractor deals damage equal to that spell's converted mana cost to target creature or player.",New Phyrexia is an engine that both consumes and creates malice.,,,,2
+2041,Shrine of Boundless Growth,,Artifact,,,,,New Phyrexia,Uncommon,Karl Kopinski,,152,175,3,"At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth.
+T, Sacrifice Shrine of Boundless Growth: Add 1 to your mana pool for each charge counter on Shrine of Boundless Growth.",,,,,2
+2042,Shrine of Burning Rage,,Artifact,,,,,New Phyrexia,Uncommon,Dave Kendall,,153,175,2,"At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.
+3, T, Sacrifice Shrine of Burning Rage: Shrine of Burning Rage deals damage equal to the number of charge counters on it to target creature or player.",,,,,1
+2043,Shrine of Limitless Power,,Artifact,,,,,New Phyrexia,Uncommon,Min Yum,,154,175,3,"At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on Shrine of Limitless Power.
+4, T, Sacrifice Shrine of Limitless Power: Target player discards a card for each charge counter on Shrine of Limitless Power.",,,,,2
+2044,Shrine of Loyal Legions,,Artifact,,,,,New Phyrexia,Uncommon,Igor Kieryluk,,155,175,2,"At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.
+3, T, Sacrifice Shrine of Loyal Legions: Put a 1/1 colorless Myr artifact creature token onto the battlefield for each charge counter on Shrine of Loyal Legions.",,,,,2
+2045,Shrine of Piercing Vision,,Artifact,,,,,New Phyrexia,Uncommon,Jana Schirmer,Johannes Voss,156,175,2,"At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on Shrine of Piercing Vision.
+T, Sacrifice Shrine of Piercing Vision: Look at the top X cards of your library, where X is the number of charge counters on Shrine of Piercing Vision. Put one of those cards into your hand and the rest on the bottom of your library in any order.",,,,,3
+2046,Sickleslicer,,Artifact,Equipment,,,,New Phyrexia,Uncommon,Jason Felix,,157,175,3,"Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +2/+2.
+Equip 4",,,,,2
+2047,Surge Node,,Artifact,,,,,New Phyrexia,Uncommon,Lars Grant-West,,160,175,1,"Surge Node enters the battlefield with six charge counters on it.
+1, T, Remove a charge counter from Surge Node: Put a charge counter on target artifact.","Without a foe to focus on, the machine priests had time to indulge in new sciences.",,,,3
+2048,Auriok Survivors,,,Creature,Human,Soldier,,New Phyrexia,Uncommon,James Ryman,,3,175,5W,"When Auriok Survivors enters the battlefield, you may reutrn target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.","""We are Mirrodin's children. We will reclaim her—one scrap at a time, if we have to.""",4,6,,2
+2049,Exclusion Ritual,,,Enchantment,,,,New Phyrexia,Uncommon,Daniel Ljunggren,,10,175,4WW,"Imprint — When Exclusion Ritual enters the battlefield, exile target nonland permanent.
+Players can't cast spells with the same name as the exiled card.","""Your desires have become our discretion.""
+—Izathel, priest of the Annex",,,,1
+2050,Inquisitor Exarch,,,Creature,Cleric,,,New Phyrexia,Uncommon,Igor Kieryluk,,12,175,WW,"When Inquisitor Exarch enters the battlefield, choose one — You gain 2 life.","""Skin is the prison of the blessed and the stronghold of the heretic.""
+—Argent Etchings, plate 64, passage 17",2,2,,3
+2051,Marrow Shards,,,Instant,,,,New Phyrexia,Uncommon,Raymond Swanland,,15,175,{W/P},"({W/P} can be paid with either W or 2 life.)
+Marrow Shards deals 1 damage to each attacking creature.","""We are a single entity. Dissenters must be sutured into the Orthodoxy.""
+—Elesh Norn, Grand Cenobite",,,,5
+2052,Master Splicer,,,Creature,Human,Artificer,,New Phyrexia,Uncommon,Chippy,,16,175,3W,"When Master Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Golem creatures you control get +1/+1.","With Phyrexia's victory at hand, each sect began perfeting its vision.",1,1,,4
+2053,Argent Mutation,,,Instant,,,,New Phyrexia,Uncommon,Jana Schirmer,Johannes Voss,27,175,2U,"Target permanent becomes an artifact in addition to its other types until end of turn.
+Draw a card.","""My world is corrupted beyond cleansing. I must prevent this from happening to others.""
+—Karn
+",,,,2
+2054,Arm with Aether,,,Sorcery,,,,New Phyrexia,Uncommon,Austin Hsu,,28,175,2U,"Until end of turn, creatures you control gain ""Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand.""","""Anything we can do to hurt the Phyrexian invaders is worth dying for.""",,,,3
+2055,Corrupted Resolve,,,Instant,,,,New Phyrexia,Uncommon,Greg Staples,,32,175,1U,Counter target spell if its controller is poisoned.,"""Flesh is a sickness that infests Phyrexia.""
+—Avaricta, Gitaxian sective",,,,1
+2056,Mental Misstep,,,Instant,,,,New Phyrexia,Uncommon,Erica Yang,,38,175,{U/P},"({U/P} can be paid with either U or 2 life.)
+Counter target spell with converted mana cost 1.","""Your first mistake was thinking I would let you live long enough to make a second.""
+—Sarnvax, Gitaxian sective",,,,2
+2057,Mindculling,,,Sorcery,,,,New Phyrexia,Uncommon,Cos Koniotis,,39,175,5U,You draw two cards and target opponent discards two cards.,"""Why infiltrate their strongholds when what we seek resides in such a poorly guarded safe?""
+—Malcator, Executor of Synthesis",,,,1
+2058,Viral Drake,,,Creature,Drake,,,New Phyrexia,Uncommon,Lars Grant-West,,49,175,3U,"Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+3U: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",,1,4,,1
+2059,Wing Splicer,,,Creature,Human,Artificer,,New Phyrexia,Uncommon,Kev Walker,,50,175,3U,"When Wing Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Golem creatures you control have flying.",,1,1,,2
+2060,Caress of Phyrexia,,,Sorcery,,,,New Phyrexia,Uncommon,Karl Kopinski,,53,175,3BB,"Target player draws three cards, loses 3 life, and gets three poison counters.","""I am weak. Make...me...ideal.""",,,,5
+2061,Despise,,,Sorcery,,,,New Phyrexia,Uncommon,Terese Nielsen,,56,175,B,Target opponent reveals his or her hand. You choose a creature or planeswalker card from it. That player discards that card.,"""Truth is always a weapon in your enemies' hands.""
+—Geth, Lord of the Vault",,,,3
+2062,Entomber Exarch,,,Creature,Cleric,,,New Phyrexia,Uncommon,Svetlin Velinov,,59,175,2BB,"When Entomber Exarch enters the battlefield, choose one — Return target creature card from your graveyard to yoru hand; or target opponent reveals his or her hand, you choose a noncreature card from it, then that player discards that card.",,2,2,,6
+2063,Reaper of Sheoldred,,,Creature,Horror,,,New Phyrexia,Uncommon,Stephan Martiniere,,72,175,4B,"Infect (This creature deals damage to creatures int eh form of -1/-1 counters and to players in the form of poison counters.)
+Whenever a source deals damage to Reaper of Sheoldred, that sources controller gets a poison counter.",,2,5,,1
+2064,Fallen Ferromancer,,,Creature,Human,Shaman,,New Phyrexia,Uncommon,David Rapoza,,82,175,3R,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in teh form of poison counters.)
+1R, R: Fallen Ferromancer deals 1 damage to target creature or player.",,1,1,,2
+2065,Geosurge,,,Sorcery,,,,New Phyrexia,Uncommon,Igor Kieryluk,,85,175,RRRR,Add RRRRRRR to your mana pool. Spend this mana only to cast arifact or creature spells.,"""The mountains have been corrupted. Otherwise, they would not lend me their fire so easily.""
+—Koth of the Hammer",,,,2
+2066,Priest of Urabrask,,,Creature,Human,Cleric,,New Phyrexia,Uncommon,Kev Walker,,90,175,2R,"When Priest of Urabrask enters the battlefield, add RRR to yoru mana pool.","Even in New Phyrexia, red mana sparks glimmers of individualism, passion and freedom.",2,1,,2
+2067,Vulshok Refugee,,,Creature,Human,Warrior,,New Phyrexia,Uncommon,Wayne Reynolds,,101,175,1RR,Protection from red,"""I will carve my people's vengeance on the face of Phyrexia.""",3,2,,2
+2068,Brutalizer Exarch,,,Creature,Cleric,,,New Phyrexia,Uncommon,Mark Zug,,105,175,5G,"When Brutalizer Exarch enters the battlefield, choose one — Search your library for a creature card, reveal that card on top of it; or put target noncreature permanent on the bottom of its owner's library.",,3,3,,4
+2069,Beast Within,,,Instant,,,,New Phyrexia,Uncommon,Dave Allsop,,103,175,2G,Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.,"""Kill the weak so they can't drag the strong down to their level. This is true compassion.""
+—Benzir, archdruid of Temple Might",,,,1
+2070,Corrosive Gale,,,Sorcery,,,,New Phyrexia,Uncommon,Dan Scott,,107,175,X{G/P},"({G/P} can be paid with either G or 2 life.)
+Corrosive Gale deals X damage to each creature with flying.","""Wipe Sheoldred's spies from the sky. She'll see the result of our vision soon enough.""
+—Glissa",,,,3
+2071,Greenhilt Trainee,,,Creature,Elf,Warrior,,New Phyrexia,Uncommon,Chris Rahn,,112,175,3G,T: Target creature gets +4/+4 until end of turn. Activate this ability only if Greenhilt Trainee's power is 4 or greater.,"""Or ancestors adapted to this world of metal. Just as they did, we will adapt to this world of evil.""",2,3,,1
+2072,Noxious Revival,,,Instant,,,,New Phyrexia,Uncommon,Matt Stewart,,118,175,{G/P},"({G/P} can be paid with either G or 2 life.)
+Put target card from a graveyard on top of its owner's library.","""Dead or alive, my creations are stronger than Jin-Gitaxia's septic minions.""
+—Vorinclex, Voice of Hunger",,,,3
+2073,Spinebiter,,,Creature,Beast,,,New Phyrexia,Uncommon,Jaime Jones,,121,175,4GG,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+You may have Spinebiter assign its combat damage as though it weren't blocked.",,3,4,,6
+2074,Triumph of the Hordes,,,Sorcery,,,,New Phyrexia,Uncommon,Izzy,,123,175,2GG,"Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",,,,,1
+2075,Vital Splicer,,,Creature,Human,Artificer,,New Phyrexia,Uncommon,Daarken,,126,175,3G,"When Vital Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.
+1: Regenerate target Golem you control.","""For every one that falls, ten shall rise. The revelation of New Phyrexia is at hand.""
+—Vorinclex, Voice of Hunger",1,1,,3
+2076,Blinding Souleater,,Artifact,Creature,Cleric,,,New Phyrexia,Common,Igor Kieryluk,,131,175,3,"{W/P}, T: Tap target creature. ({W/P} can be paid with either W or 2 life.","""We thank the souleaters for inscribing our souls with subservience, to reinforce the sacred order.""
+—Drones' hymn of gratitude",1,3,,2
+2077,Gremlin Mine,,Artifact,,,,,New Phyrexia,Common,Matt Stewart,,136,175,1,"1, R, Sacrifice Gremlin Mine: Gremlin Mine deals 4 damage to target artifact creature.
+1, T, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.",,,,,4
+2078,Hovermyr,,Artifact,Creature,Myr,,,New Phyrexia,Common,Dan Scott,,138,175,2,"Flying, vigilance","Originally created to harvest blinkmoths, the hovermyr are now the silent observers of a dying world.",1,2,,9
+2079,Immolating Souleater,,Artifact,Creature,Hound,,,New Phyrexia,Common,Austin Hsu,,139,175,2,{R/P}: Immolating Souleater gets +1/+0 until end of turn. ({R/P} can be paid with either R or 2 life.),"""We thank the souleaters for melting the sinful that we may be reminded of our own insignificance.""
+—Drones' hymn of gratitude",1,1,,3
+2080,Insatiable Souleater,,Artifact,Creature,Beast,,,New Phyrexia,Common,Dave Kendall,,140,175,4,{G/P}: Insatiable Souleater gains trample until end of turn. ({G/P} can be paid with either G or 2 life.),"""We thank the souleaters for culling our sick so that the strong may earn their triumphs.""
+—Drones' hymn of gratitude",5,1,,8
+2081,Mycosynth Wellspring,,Artifact,,,,,New Phyrexia,Common,David Rapoza,,145,175,2,"When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",The oil created the mycosynth. The mycosynth created New Phyrexia.,,,,7
+2082,Pestilent Souleater,,Artifact,Creature,Insect,,,New Phyrexia,Common,Matt Stewart,,149,175,5,{B/P}: Pestilent Souleater gains infect until end of turn. ({B/P} can be paid with either B or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),,3,3,,11
+2083,Phyrexian Hulk,,Artifact,Creature,Golem,,,New Phyrexia,Common,Steven Belledin,,150,175,6,,"An invasion weapon of ages past, the gilstening oil contained the blueprints of countless atrocities.",5,4,,5
+2084,Pith Driller,,Artifact,Creature,Horror,,,New Phyrexia,Common,Nils Hamm,,69,175,4{B/P},"({B/P} can be paid with either B or 2 life.)
+When Pith Driller enters the battlefield, put a -1/-1 counter on target creature.","After boring up through the crust of Mirrodin, it turned its expertise upon the surface dwellers.",2,4,,7
+2085,Porcelain Legionnaire,,Artifact,Creature,Soldier,,,New Phyrexia,Common,Eric Deschamps,,19,175,2{W/P},"({W/P} can be paid with either W or 2 life.)
+First Strike","""My new design has lightweight plating specially cultivated from heretics' spare tissues.""
+—Izathel, priest of the Annex",3,1,,7
+2086,Pristine Talisman,,Artifact,,,,,New Phyrexia,Common,Matt Cavotta,,151,175,3,T: Add 1 to yoru mana pool. You gain 1 life.,"""Tools and artisans can be destroyed, but the act of creation is inviolate.""
+—Elspeth Tirel",,,,5
+2087,Slash Panther,,Artifact,Creature,Cat,,,New Phyrexia,Common,Matt Stewart,,96,175,4{R/P},"({R/P} can be paid with either R or 2 life.)
+Haste",It runs on the endless circuit along the ruined roads of the soon-to-be forgotten Mirran civilization.,4,2,,4
+2088,Spined Thopter,,Artifact,Creature,Thopter,,,New Phyrexia,Common,Pete Venters,,45,175,2{U/P},"({U/P} can be paid with either U or 2 life.)
+Flying","""I appreciate the depravity of noble designs turned to devious ends.""
+—Tezzeret",2,1,,9
+2089,Thundering Tanadon,,Artifact,Creature,Beast,,,New Phyrexia,Common,Dan Scott,,122,175,4{G/P}{G/P},"({G/P} can be paid with either G or 2 life.)
+Trample","""We do not need beakers and vials to test our predators.""
+—Vorinclex, Voice of Hunger",5,4,,3
+2090,Trespassing Souleater,,Artifact,Creature,Construct,,,New Phyrexia,Common,Scott Chou,,163,175,3,{U/P}: Trespassing Souleater is unblockable this turn. ({U/P} can be paid with either U or 2 life.),"""We thank the souleaters for surveilling our lives that we may be preserved from our own ignorance.""
+—Drones' hymn of gratitude",2,2,,8
+2091,Apostle's Blessing,,,Instant,,,,New Phyrexia,Common,Brad Rigney,,2,175,1{W/P},"({W/P} can be paid with either W or 2 life.)
+Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.",,,,,6
+2092,Forced Worship,,,Enchantment,Aura,,,New Phyrexia,Common,Karl Kopinski,,11,175,1W,"Enchant creature
+Enchanted creature can't attack
+2W: Return Forced Worship to its owner's hand.",Imprisonment teaches revenge. Hobbling teaches resignation.,,,,8
+2093,Lost Leonin,,,Creature,Cat,Soldier,,New Phyrexia,Common,Min Yum,,13,175,1W,Infect (This creature dealls damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),"Mirrans were broken down and rebuilt, made to be loyal servants of the force they had fought.",2,1,,6
+2094,Loxodon Convert,,,Creature,Elephant,Soldier,,New Phyrexia,Common,Adrian Smith,,14,175,3W,,Just one drop of the glistening oil can eventually stain even a soul as stalwart as a loxodon's beyond redemption.,4,2,,9
+2095,Remember the Fallen,,,Sorcery,,,,New Phyrexia,Common,Eric Deschamps,,21,175,2W,Choose one or both — Return target creature card from your graveyard to your hand; and/or return target artifact card from your graveyard to your hand.,"When the Mirrans had fallen, Planeswalkers carried the burden of remembrance.",,,,5
+2096,Sensor Splicer,,,Creature,Artificer,,,New Phyrexia,Common,Izzy,,22,175,4W,"When Sensor Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Golem creatures you control have vigilance.",,1,1,,3
+2097,Shirek Raptor,,,Creature,Bird,,,New Phyrexia,Common,Efrem Palacios,,24,175,3WW,"Flying
+Infect (This creature deals damage to cratures in the form of -1/-1 counters and to players in teh form of poison counters.)","""That's no glint hawk. The skies have changed for the worse.""
+—Ria Ivor, White Sun partisan",2,3,,12
+2098,Suture Priest,,,Creature,Cleric,,,New Phyrexia,Common,Igor Kieryluk,,25,175,1W,"Whenever another creature enters the battlefield under your control, you may gain 1 life.
+Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.",,1,1,,9
+2099,War Report,,,Instant,,,,New Phyrexia,Common,Mike Bierek,,26,175,3W,You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.,"Underling Ethu's 263rd report read simply ""Yes my lor. Overwhelmingly, my lord.""This marked the end of the Mirran-Phyrexian War.",,,,7
+2100,Blighted Agent,,,Creature,Human,Rogue,,New Phyrexia,Common,Anthony Francisco,,29,175,1U,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players int ehform of poison counters.)
+Blighted Agent is unblockable.","""Urabrask may suspect our surveillance, but he cannot stop it.""
+—Avaricta, Gitaxian sective",1,1,,4
+2101,Chained Throatseeker,,,Creature,Horror,,,New Phyrexia,Common,Stephan Martiniere,,30,175,5U,"Infect (This creature deals damage to creatures in the form of -1/-1 countesr and to players in the form of poison counters.)
+Chained Throatseeker can't attack unless defending player is poisoned.",,5,5,,4
+2102,Defensive Stance,,,Enchantment,Aura,,,New Phyrexia,Common,Dan Scott,,34,175,U,"Enchant Creature
+Enchanted creature gets -1/+1.","""It isn't for fighting. It's for when the fighting's gone bad.""
+—Kara Vrist, Mirran resistance",,,,6
+2103,Gitaxian Probe,,,Sorcery,,,,New Phyrexia,Common,Chippy,,35,175,{U/P},"({U/P} can be paid with either U or 2 life.)
+Look at target player's hand.
+Draw a card.","""My flesh holds no secrets, monster. The spirit of Mirrodin will fight on.""
+—Vy Covalt, Mirran resistance",,,,7
+2104,Impaler Strike,,,Creature,Bird,,,New Phyrexia,Common,Nils Hamm,,36,175,2UU,"Flying
+When Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.","""Interrogation is an unnecessary step for acquiring information.""
+—Politus, Gitaxian morphologist",3,1,,6
+2105,Numbing Dose,,,Enchantment,Aura,,,New Phyrexia,Common,Brad Rigney,,40,175,3UU,"Enchant artifact or creature
+Enchanted permanent doesn't untap during its controller's untap step.
+At the beginning of the upkeep of enchanted permanent's controller, that player loses 1 life.",,,,,7
+2106,Psychic Barrier,,,Instant,,,,New Phyrexia,Common,Dan Scott,,43,175,UU,Counter target creature spell. Its controller loses 1 life.,"""I tolerate Phyrexians because the dragon requires it. But I have no patience for uninvited guests.""
+—Tezzeret",,,,10
+2107,Spire Monitor,,,Creature,Drake,,,New Phyrexia,Common,Daniel Ljunggren,,46,175,4U,"Flash (You may cast this spell any time you could cast an instant.)
+Flying",Each monitor is given an eye for each spire it is to guard.,3,3,,6
+2108,Vapor Snag,,,Instant,,,,New Phyrexia,Common,Raymond Swanland,,48,175,U,Return target creature to its owner's hand. Its controller loses 1 life.,"""This creature is inadequate. Send it to the splicers for innovation.""
+—Malcator, Executor of Synthesis",,,,2
+2109,Blind Zealot,,,Creature,Human,Cleric,,New Phyrexia,Common,Jana Schirmer,Johannes Voss,52,175,1BB,"Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.",,2,2,,11
+2110,Dementia Bat,,,Creature,Bat,,,New Phyrexia,Common,Daarken,,55,175,4B,"Flying
+4B, Sacrifice Dementia Bat: Target player discards two cards.","""When terror outweighs all other thoughts, they will understand that I am the true Father of Machines.""
+—Azax-Azog, the Demon Thane",2,2,,5
+2111,Evil Presence,,,Enchantment,Aura,,,New Phyrexia,Common,Scott Chou,,60,175,B,"Enchant land
+Enchanted land is a Swamp.","""The Accorders would lament the transformation of their cherished lands, had they lived to see it.""
+—Sheoldred, Whispering One",,,,9
+2112,Geth's Verdict,,,Instant,,,,New Phyrexia,Common,Whit Brachna,,61,175,BB,Target player sacrifices a creature and loses 1 life.,"""Everyone should owe you something.""
+—Geth, Lord of the Vault",,,,5
+2113,Grim Affliction,,,Instant,,,,New Phyrexia,Common,Erica Yang,,63,175,2B,"Put a -1/-1 counter on target creature. then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",Even the small wounds let hope bleed out.,,,,6
+2114,Mortis Dogs,,,Creature,Hound,,,New Phyrexia,Common,Chippy,,66,175,3B,"Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn.
+When Mortis Dogs is put into a graveyard from the battlefield, target player loses life equal to its power.",,2,2,,9
+2115,Parasitic Implant,,,Enchantment,Aura,,,New Phyrexia,Common,Jason Felix,,67,175,3B,"Enchant creature
+At the beginning of your upkeep, enchanted creatures's controller sacrifices it  and you put a 1/1 colorless Myr artifact creature token onto the battlefield.",,,,,10
+2116,Toxic Nim,,,Creature,Zombie,,,New Phyrexia,Common,Karl Kopinski,,75,175,4BB,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+B: Regenerate Toxic Nim",The nim have become roving killers marshalled by whichever thane holds tenuous leadership.,4,1,,6
+2117,Artillerize,,,Instant,,,,New Phyrexia,Common,Johann Bodin,,70,175,3R,"As an additional cost to cast Artillerize, sacrifice an artifact or creature.
+Artillerize deals 5 damage to target creature or player.","Phyrexian or Mirran, most goblins stick to the job they know best.",,,,1
+2118,Flameborn Viron,,,Creature,Insect,,,New Phyrexia,Common,Svetlin Velinov,,83,175,4RR,,"""Large or small, all will toil for the Great Work.""
+—Decree of Urabrask
+",6,4,,7
+2119,Furnace Scamp,,,Creature,Beast,,,New Phyrexia,Common,Karl Kopinski,,84,175,R,"Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.","Born of the core, and dying to stoke it.",1,1,,8
+2120,Ogre Menial,,,Creature,Ogre,,,New Phyrexia,Common,David Rapoza,,89,175,3R,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+R: Ogre Menial gets +1/+0 until end of turn.",,0,4,,9
+2121,Razor Swine,,,Creature,Boar,,,New Phyrexia,Common,Dave Allsop,,92,175,2R,"First strike
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in teh form of poison counters.)","""They aren't helping the forges. Send them to the surface.""
+—Furnace boss, sector 12",2,1,,6
+2122,Ruthless Invasion,,,Sorcery,,,,New Phyrexia,Common,Svetlin Velinov,,93,175,3{R/P},"({R/P} can be paid with either R or 2 life.)
+Nonartifact creatures can't block this turn.","""For the survival of our people, every conflict must now end in retreat.""
+—Pythor, Mirran resistance",,,,7
+2123,Scrapyard Salvo,,,Sorcery,,,,New Phyrexia,Common,Austin Hsu,,94,175,1RR,Scrapyard Salvo deals damage to target player equal to the number of artifact cards in your graveyard.,"""Squealstokers! Build me a glorious pile of Mirran metal. Then add yourselves to the pile.""
+—Furnace boss, sector 11",,,,7
+2124,Victorious Destruction,,,Sorcery,,,,New Phyrexia,Common,Jung Park,,99,175,4R,Destroy target artifact or land. Its controller loses 1 life.,"""The refugees look at these structures with hope. We must relieve them of this burden.""
+—Juex, tormentor exarch",,,,5
+2125,Volt Charge,,,Instant,,,,New Phyrexia,Common,Jana Schirmer,Johannes Voss,100,175,2R,"Volt Charge deals 3 damage to target creature or player. Proliferate.
+(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",,,,,16
+2126,Death-Hood Cobra,,,Creature,Snake,,,New Phyrexia,Common,Jason Felix,,108,175,1G,"1G: Death-Hood Cobra gains reach until end of turn. (It can block creatures with flying.)
+1G: Death-Hood Cobra gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",,2,2,,7
+2127,Glissa's Scorn,,,Instant,,,,New Phyrexia,Common,Nils Hamm,,110,175,1G,Destroy target artifact. Its controller loses 1 life.,"""If it were fit to survive, it wouldn't have been so easily put down.""
+—Glissa
+",,,,9
+2128,Glistener Elf,,,Creature,Elf,Horror,,New Phyrexia,Common,Steve Argyle,,111,175,G,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+","""Beg me for life, and I will fill you with the glory of Phyrexian perfection.""",1,1,,4
+2129,Leeching Bite,,,Instant,,,,New Phyrexia,Common,Cos Koniotis,,113,175,1G,"Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.
+",A substantial portion of Vorinclex's forces became fuelfor the rest.,,,,6
+2130,Maul Splicer,,,Creature,Human,Artificer,,New Phyrexia,Common,Jason Chan,,114,175,6G,"When Maul Splicer enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.
+Golem creatures you control have trample.",,1,1,,10
+2131,Mutagenic Growth,,,Instant,,,,New Phyrexia,Common,Dave Kendall,,116,175,{G/P},"({G/P} can be paid with either G or 2 life.)
+Target creature gets +2/+2 until end of turn.","""Sympathy is for weaklings. Whoever survives, wins.""
+—Benzir, archdruid of Temple Might
+",,,,5
+2132,Rotted Hystrix,,,Creature,Beast,,,New Phyrexia,Common,Dave Allsop,,120,175,4G,,"Vorinclex had no grand plan. The oil did its own work, evolving creatures into worthy predators.",3,6,,8
+2133,Viridian Betrayers,,,Creature,Elf,Warrior,,New Phyrexia,Common,Karl Kopinski,,124,175,1GG,Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),"To secure a place in Phyrexia's ranks, they hunted their surviving kin.",3,1,,7
+2134,Viridian Harvest,,,Enchantment,Aura,,,New Phyrexia,Common,Johann Bodin,,125,175,G,"Enchant artifact
+When enchanted artifact is put into a graveyard, you gain 6 life.","""In the midst of horror beyond imagining, I still see things that lift my heart.""
+—Ezuri",,,,6

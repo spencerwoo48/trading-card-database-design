@@ -1,0 +1,462 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+679,Crib Swap,,,Tribal,Instant,Shapeshifter,,Lorwyn,Uncommon,Brandon Dorman,,11,301,2W,"Changeling (This card is every creature type at all times.)
+Remove target creature from the game. Its controller puts a 1/1 colorless Shapeshifter creature token with changeling into play",,,,,4
+680,Wizened Cenn,,,Creature,Kithkin,Cleric,,Lorwyn,Uncommon,Kev Walker,,49,301,WW,Other Kithkin creatures you control get +1/+1,"""Thoughtweft binds us together as one, part of an intricate pattern that woudl unravel if even one thread came loose.""",2,2,,5
+681,Glen Elendra Pranksters,,,Creature,Faerie,Wizard,,Lorwyn,Uncommon,Omar Rayyan,,67,301,3U,"Flying
+Whenever you play a spell during an opponent's turn, you may return target creature you control to its owner's hand.",Victims spirited through a faerie ring find themselves stranded miles away,1,3,,5
+682,Merrow Commerce,,,Tribal,Enchantment,Merfolk,,Lorwyn,Uncommon,Steve Ellis,,72,301,1U,"At the end of your turn, untap all Merfolk you control.","Schools meet and mingle on Lorwyn's riverways. In the bustling interplay, the merrow renew their sense of community as they sharpen their wits and hone their trading skills.",,,,5
+683,Fodder Launch,,,Tribal,Sorcery,Goblin,,Lorwyn,Uncommon,Nils Hamm,,114,301,3B,"As an additional cost to play Fodder Launch, sacrifice a Goblin.
+Target creature gets -5/-5 until end of turn. Fodder Launch deals 5 damage to that creature's controller.",Leave it to a boggart to come up with a projectile as disgusting as it is deadly.,,,,5
+684,Ghostly Changeling,,,Creature,Shapeshifter,,,Lorwyn,Uncommon,Chuck Lukacs,,116,301,2B,"Changeling (This card is every creature type at all times.)
+1B: Ghostly Changeling gets +1/+1 until end of turn.","In desolate places, changelings may take the shape of fancies, or memories, or fears.",2,2,,5
+685,Lys Alana Scarblade,,,Creature,Elf,Assassin,,Lorwyn,Uncommon,Christopher Moeller,,122,301,2B,"T, Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control.","In beauty-obsessed Lys Alana, one cut of her blade means the difference between a high society feast and raking through the dungheap for scraps.",1,1,,4
+686,Makeshift Mannequin,,,Instant,,,,Lorwyn,Uncommon,Darrell Riche,,124,301,3B,"Return target creature card from your graveyard to play with a mannequin counter on it. As long as that creature has a mannequin counter on it, it has ""When this creature becomes the target of a spell or ability, sacrifice it.""","""This vulgar mimicry will end now.—""Desmera, perfect of Wren's Run",,,,8
+687,Marsh Flitter,,,Creature,Faerie,Rogue,,Lorwyn,Uncommon,Wayne Reynolds,,125,301,3B,"Flying
+When Marsh Flitter comes into play, put two 1/1 black Goblin Rogue creature tokens into play.
+Sacrifice a Goblin: Marsh Flitter becomes 3/3 until end of turn.",,1,1,,6
+688,Prowess of the Fair,,,Tribal,Enchantment,Elf,,Lorwyn,Uncommon,Jeremy Jarvis,,136,301,1B,"Whenever another nontoken Elf is put into your graveyard from play, you may put a 1/1 green Elf Warrior creature token into play.","An elvish duel is a thing of beauty: the warriors' grace, the crash of steel, then the artful spray of blood.",,,,6
+689,Rebellion of the Flamekin,,,Tribal,Enchantment,Elemental,,Lorwyn,Uncommon,Dan Dos Santos,,188,301,3R,"Whenever you clash, you may pay 1. If you do, put a 3/1 red Elemental Shaman creature token into play. If you won, that token gains haste until end of turn. (This ability triggers after the clash ends.)",,,,,1
+690,Briarhorn,,,Creature,Elemental,,,Lorwyn,Uncommon,Nils Hamm,,199,301,3G,"Flash
+When Briarhorn comes into play, target creature gets +3/+3 until end of turn.
+Evoke 1G (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.",,3,3,,5
+691,Changeling Titan,,,Creature,Shapeshifter,,,Lorwyn,Uncommon,Jesper Ejsing,,200,301,4G,"Changeling (This card is every creature type at all times.)
+Champion a creature (WHen this comes into play, sacrifice it unless you remove another creature you control from the game. When this leaves play, that card returns to play.)",,7,7,,6
+692,Elvish Harbinger,,,Creature,Elf,Druid,,Lorwyn,Uncommon,Larry MacDougall,,207,301,2G,"When Elvish Harbinger comes into play, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.
+T: Add one mana of any color to your mana pool.",,1,2,,11
+693,Guardian of Cloverdell,,,Creature,Treefolk,Shaman,,Lorwyn,Uncommon,Jesper Ejsing,,216,301,5GG,"When Guardian of Cloverdell comes into play, put three 1/1 white Kithkin Soldier creature tokens into play.
+G, Sacrifice a Kithkin: You gain 1 life.","Although they're protective of all creatures, many treefolk are especially fond of the empathic kithkin.",4,5,,7
+694,Imperious Perfect,,,Creature,Elf,Warrior,,Lorwyn,Uncommon,Scott M. Fischer,,220,301,2G,"Other Elf creatures you control get +1/+1.
+G, T: Put a 1/1 green Elf Warrior creature token into play.","In a culture of beauty, th emost beautiful are worshipped as gods.",2,2,,7
+695,Jagged-Scar Archers,,,Creature,Elf,Archer,,Lorwyn,Uncommon,Parente,,222,301,1GG,"Jagged-Scar Archer's power and toughness are each equal to the number of Elves you control.
+T: Jagged-Scar Archers deals damage equal to its power to target creature with flying.",,X,X,,10
+696,Lammastide Weave,,,Instant,,,,Lorwyn,Uncommon,Howard Lyon,,226,301,1G,"Name a card, then target player puts the top car dof his or her library into his or her graveyard. If that card is the named card, you gain life equal to its converted mana cost.
+Draw a card.","""A ribbon torn will ward away dark dreams.""",,,,6
+697,Sylvan Echoes,,,Enchantment,,,,Lorwyn,Uncommon,Rebecca Guay,,237,301,G,"Whenever you clash and win, you may draw a card. (This ability triggers after the clash ends.)
+It takes a huntmaster's eye to discern the contours of mythical prey.",,,,,6
+698,Treefolk Harbinger,,,Creature,Treefolk,Druid,,Lorwyn,Uncommon,Larry MacDougall,,239,301,G,"When Treefolk Harbinger comes into play, you may search your library for a Treefolk or Forest card, reveal it, then shuffle your library and put that card on top of it.",,0,3,,7
+699,Wren's Run Vanquisher,,,Creature,Elf,Warrior,,Lorwyn,Uncommon,Parente,,245,301,1G,"As an additional cost to play Wren's Run Vanquisher, reveal an Elf card from your hand or pay 3.
+Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)",,3,3,,7
+700,Avian Changeling,,,Creature,Shapeshifter,,,Lorwyn,Common,Heather Hudson,,4,301,2W,"Changeling (This card is every creature type at all times.)
+Flying","Today iti flies with the flock. Tomorrow it may wake to find them gone, its body in an unfamiliar form.",2,2,,8
+701,Cenn's Heir,,,Creature,Kithkin,Soldier,,Lorwyn,Common,Steven Belledin,,8,301,1W,"Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.","His home clachan's familial spirit bolsters his own, but he will be ready to preside over the town as cenn only after he learns to project that strength to others.",1,1,,8
+702,Goldmeadow Dodger,,,Creature,Kithkin,Rogue,,Lorwyn,Common,Omary Rayyan,,16,301,W,Goldmeadow Dodger can't be blocked by creatures with power 4 or greater.,"""I've gotten close enough to a giant to smell his breath, but none has ever so much as spotted me. I wonder how long my record can extend?""",1,1,,8
+703,Goldmeadow Harrier,,,Creature,Kithkin,Soldier,,Lorwyn,Common,Steve Prescott,,17,301,W,"W, T: Tap target creature.","""It's a proven fact that sling-stones from the dawn side of the riverbank sail the farthest and truest.""—Deagan, cenn of Burrenton",1,1,,15
+704,Hillcomber Giant,,,Creature,Giant,Scout,,Lorwyn,Common,Ralph Horsley,,20,301,2WW,Mountainwalk,"The giants believe the fossils they find in Lorwyn's rocky heights are dreams frozen in time, and they treasure them.",3,3,,7
+705,Kinsbaile Balloonist,,,Creature,Kithkin,Soldier,,Lorwyn,Common,Zoltan Boros,Gabor Szikszai,23,301,3W,"Flying
+Whenever Kinsbaile Balloonist attacks, you may have target creature gain flying until end of turn.","Even when a giant's tantrum turns the sky into a chaotic gale, the path of the balloonist never falters.",2,2,,13
+706,Kinsbaile Skirmisher,,,Creature,Kithkin,Soldier,,Lorwyn,Common,Thomas Denmark,,24,301,1W,"When Kinsbaile Skirmisher comes into play, target creature gets +1/+1 until end of turn.","""If a boggardt even dares breathe near one of my kin, I'll know. And I'll not be happy.""",2,2,,11
+707,Kithkin Greatheart,,,Creature,Kithkin,Soldier,,Lorwyn,Common,Greg Staples,,25,301,1W,"As long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike.","Sometimes a curious giant singles out a ""little one"" to follow for a few days, never realizing the effect it will have on the little one's life.",2,1,,5
+708,Lairwatch Giant,,,Creature,Giant,Warrior,,Lorwyn,Common,Warren Mahy,,29,301,5W,"Lairwatch Giant can block an additional creature.
+Whenever Lairwatch Giant blocks two or more creatures, it gains first strike until end of turn.","A giant can brood over a grudge for decades, and woe to those who interrupt him.",5,3,,7
+709,Neck Snap,,,Instant,,,,Lorwyn,Common,Dominick Domingo,,32,301,3W,Destroy target attacking or blocking creature.,"""We merrows need not be disadvantaged when fighting on land. We lack the vulnerability of those who breathe only through their throats.""—Minnarin, merrow reejerey",,,,8
+710,Oblivion Ring,,,Enchantment,,,,Lorwyn,Common,Wayne England,,34,301,2W,"When Oblivion Ring comes into play, remove another target nonland permanent from the game.
+When Oblivion Ring leaves play, return the removed card to play under its owner's control.",A circle of sugar and a word of forbiddance.,,,,11
+711,Plover Knights,,,Creature,Kithkin,Knight,,Lorwyn,Common,Quinton Hoover,,35,301,3WW,"Flying, first strike",The knights are a major attraction at every Lammastide festival. Teams of riders perform daring feats of flight to the delight of all below.,3,3,,6
+712,Shields of Velis Vel,,,Tribal,Instant,Shapeshifter,,Lorwyn,Common,Ralph Horsley,,39,301,W,"Changeling (This card is every creature type at all times.)
+Creatures target player controls get +0/+1 and gain all creature types until end of turn.)",Changelings can alter shape based on what the beings around them desire most.,,,,5
+713,Springjack Knight,,,Creature,Kithkin,Knight,,Lorwyn,Common,Steven Belledin,,41,301,2W,"Whenever Springjack Knight attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,2,1,,9
+714,Surge of Thoughtweft,,,Tribal,Instant,Kithkin,,Lorwyn,Common,Randy Gallegos,,43,301,1W,"Creatures you control get +1/+1 until end of turn. If you control a Kithkin, draw a card.","Kithkin weave together their very thoughts, creating a depth of cooperation unknown to other races.",,,,7
+715,Triclopean Sight,,,Enchantment,Aura,,,Lorwyn,Common,Scott Hampton,,45,301,1W,"Flash
+Enchant creature
+When Triclopean Sight comes into play, untap enchanted creature.
+Enchanted creature gets +1/+1 and has vigilance.",,,,,6
+716,Wispmare,,,Creature,Elemental,,,Lorwyn,Common,Eric Fortune,,48,301,2W,"Flying
+When Wispmare comes into play, destroy target enchantment
+Evoke W (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,1,3,,6
+717,Aquitect's Will,,,Tribal,Sorcery,Merfolk,,Lorwyn,Common,Jeff Easley,,52,301,U,"Put a flood counter on target land. That land is an Island in addition to its other types as long as it has a flood counter on it. If you control a Merfolk, draw a card.",There is nowhere on Lorwyn that the Merrow Lanes cannot go.,,,,10
+718,Deeptread Merrow,,,Creature,Merfolk,Rogue,,Lorwyn,Common,Terese Nielsen,Philip Tan,57,301,1U,U: Deeptread Merrow gains islandwalk until end of turn.,"""My success at navigating the Dark Meanders irritates the Inkfathom school. They consider themselves peerless divers, but I try to remind them that they cannot own commodities like bravery and cunning."" ",2,1,,7
+719,Glimmerdust Nap,,,Enchantment,Aura,,,Lorwyn,Common,Greg Staples,,68,301,2U,"Enchant tapped creature
+Enchanted creature doesn't untap during its controller's untap step.",The dreams of giants are as long as time and as deep as the earth. Thus they are prized by the dream-harvesting fae.,,,,13
+720,Inkfathom Divers,,,Creature,Merfolk,Soldier,,Lorwyn,Common,Steven Belledin,,70,301,3UU,"Islandwalk
+When Inkfathom Divers comes into play, look at the top four cards of your library, then put them back in any order.","""None appreciate sun and shallows like those who have seen the depths.""—Lianda of the Stonybrook school",3,3,,7
+721,Paperfin Rascal,,,Creature,Merfolk,Rogue,,Lorwyn,Common,Zoltan Boros,Gabor Szikszai,77,301,2U,"When Paperfin Rascal comes into play, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,2,2,,8
+722,Protective Bubble,,,Enchantment,Aura,,,Lorwyn,Common,Steve Ellis,,80,301,3U,"Enchant creature
+Enchanted creature is unblockable and has shroud. (It can't be the target of spells or abilities.)",Skilled merrow rudders ensure their charges arrive on time and without incident.,,,,9
+723,Sentinels of Glen Elendra,,,Creature,Faerie,Soldier,,Lorwyn,Common,Howard Lyon,,84,301,3U,"Flash
+Flying","Some say the valley of Glen Elendra is mythical, and that rumors of its existence are nothing but a faerie prank. Others say it is the fae's most fiercely guarded secret.",2,3,,5
+724,Silvergill Douser,,,Creature,Merfolk,Wizard,,Lorwyn,Common,Daren Bader,,87,301,1U,"T: Target creature gets -X/-0 until end of turn, where X is the number of Merfolk and/or Faeries you control.","The Silvergill school monitors traffic on the Lanes, ensuring that the riffraff don't interfere with travelers.",1,1,,9
+725,Stonybrook Angler,,,Creature,Merfolk,Wizard,,Lorwyn,Common,Larry MacDougall,,90,301,1U,"1U, T: You may tap or untap target creature.","""Water is in the eair, the trees, and the earth. Understand its motion, speak its language, and the subtle currents that flow through all living things will fall under your command.""",1,2,,5
+726,Streambed Aquitects,,,Creature,Merfolk,Scout,,Lorwyn,Common,William O'Connor,,91,301,1UU,"T: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn.
+T: Target land becomes an Island until end of turn.","""We look in the river and see scattered stones. A merrow looks and sees a map of Lorwyn.""—Illulia, flamekin soulstoke.",2,3,,5
+727,Whirlpool Whelm,,,Instant,,,,Lorwyn,Common,Cyril Van Der Haegen,,96,301,1U,"Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of his or her library, then puts that card on top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,10
+728,Wings of Velis Vel,,,Tribal,Instant,Shapeshifter,,Lorwyn,Common,Jim Pavelec,,97,301,1U,"Changeling (This card is every creature type at all times.)
+Target creature becomes 4/4, gains all creature types, and gains flying until end of turn.",Changeling magic grants unusual wishes.,,,,11
+729,Zephyr Net,,,Enchantment,Aura,,,Lorwyn,Common,Heather Hudson,,98,301,1U,"Enchant creature
+Enchanted creature has defender and flying.","Faeries hang beings that interest them as ornaments in the sky, each clique competing to outshine the prize of the last.",,,,8
+730,Black Poplar Shaman,,,Creature,Treefolk,Shaman,,Lorwyn,Common,Mark Poole,,99,301,2B,2B: Regenerate target Treefolk.,"It absorbs the pain of other treefolk, which leaves it bitter, yet addicted to the sensation of agony.",1,3,,8
+731,Boggart Birth Rite,,,Tribal,Sorcery,Goblin,,Lorwyn,Common,Ralph Horsley,,101,301,B,Return target Goblin card from your graveyard to your hand.,"Auntie excitedly held up the squalling newborn. ""This one looks like Byoog! Maybe he'll tell us what he saw and felt in the beyond.""",,,,6
+732,Boggart Loggers,,,Creature,Goblin,Rogue,,Lorwyn,Common,Jesper Ejsing,,103,301,2B,"Forestwalk
+2B, Sacrifice Boggart Loggers: Destroy target Treefolk or Forest.","Autie Flint lent axes to Nibb and Gyik, thinking they'd share their experiences with her. She's still waiting for them to come back.",2,1,,7
+733,Bog Hoodlums,,,Creature,Goblin,Warrior,,Lorwyn,Common,Brandon Dorman,,100,301,5B,"Bog Hoodlums can't block.
+When Bog Hoodlums comes into play, clash with an opponent. If you win, put a +1/+1 coutner on Bog Hoodlums. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,4,1,,10
+734,Dreamspoiler Witches,,,Creature,Faerie,Wizard,,Lorwyn,Common,Jeff Easley,,108,301,3B,"Flying
+Whenever you play a spell during an opponent's turn, you may have target creature get -1/-1 until end of turn.","At night, the faeries steal dreamstuff for their queen. At daybreak, countless creatures wake weak and hollow.",2,2,,9
+735,Eyeblight's Ending,,,Tribal,Instant,Elf,,Lorwyn,Common,Ron Spears,,110,301,2B,Destroy target non-Elf creature.,"""Those without beauty are Lorwyn's greatest tumor. The winnowers have an unpleasant duty, but a necessary one.""—Eidren, perfect of Lys Alana",,,,12
+736,Hornet Harasser,,,Creature,Goblin,Shaman,,Lorwyn,Common,Nils Hamm,,118,301,2BB,"When Hornet Harasser is put into a graveyard from play, target creature gets -2/-2 until end of turn.","""And though she didn't get her honey, Aunti found something far more interesting.""—A tale of Auntie Grub",2,2,,2
+737,Moonglove Winnower,,,Creature,Elf,Rogue,,Lorwyn,Common,William O'Connor,,126,301,3B,"Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)","Winnowers live to eliminate eyeblights, creatures the elves deem too ugly to exist.",2,3,,18
+738,Mournwhelk,,,Creature,Elemental,,,Lorwyn,Common,Jeremy Jarvis,,127,301,6B,"When Mournwhelk comes into play, target player discards two cards.
+Evoke 3B (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",It hoards Lorwyn's rare sorrows.,3,3,,9
+739,Nameless Inversion,,,Tribal,Instant,Shapeshifter,,Lorwyn,Common,Jeff Miracola,,128,301,1B,"Changeling (This card is every creature type at all times.)
+Target creature gets +3/-3 and loses all creature types until end of turn.","Just as a changeling's influence can have dramatic effects, so too can its sudden withdrawal.",,,,11
+740,Nath's Buffoon,,,Creature,Goblin,Rogue,,Lorwyn,Common,Thomas Denmark,,129,301,1B,Protection from Elves,"Smik learned the elvish dance quickly enough. The most difficult, yet most important step was to stay out of Nath's sight until called to perform.",1,1,,5
+741,Peppersmoke,,,Tribal,Instant,Faerie,,Lorwyn,Common,Rebecca Guay,,134,301,B,"Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card.","Like being trapped in a perpetual sneeze, faerie-dust poisoning is both exhilarating and agonizing.",,,,7
+742,Quill-Slinger Boggart,,,Creature,Goblin,Warrior,,Lorwyn,Common,Warren Mahy,,137,301,3B,"Whenever a player plays a Kithkin spell, you may have target player lose 1 life.","""A good day in Goldmeadow is one in which I don't spend all evening picking quills out of my backside.""—Calydd, kithkin farmer.",3,2,,11
+743,Scarred Vinebreeder,,,Creature,Elf,Shaman,,Lorwyn,Common,Alex Horley-Orlandelli,,138,301,1B,"2B, Remove an Elf card in your graveyard from the game: Scarred Vinebreeder gets +3/+3 until end of turn.","For disfigured elves, there are few choices beyond death or nettlevine.",1,1,,20
+744,Skeletal Changeling,,,Creature,Shapeshifter,,,Lorwyn,Common,Alan Pollack,,140,301,1B,"Changeling (This card is every creature type at all times.)
+1B: Regenerate Skeletal Changeling.","Though they lack true flesh and bone of their own, changelings imitate either siwth equal ease.",1,1,,12
+745,Spiderwig Boggart,,,Creature,Goblin,Shaman,,Lorwyn,Common,Larry MacDougall,,141,301,2B,"When Spiderwig Boggart comes into play, target creature gains fear until end of turn.","Auntie Flint was the first to pioneer the spiderwig, a mass of arachnids intended to be worn rather than eaten.",2,2,,7
+746,Thieving Sprite,,,Creature,Faerie,Rogue,,Lorwyn,Common,Dan Scott,,143,301,2B,"Flying
+When Thieving Sprite comes into play, target player reveals X cards from his or her hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.",,1,1,,7
+747,Warren Pilferers,,,Creature,Goblin,Rogue,,Lorwyn,Common,Wayne Reynolds,,146,301,4B,"When Warren Pilferers comes into play, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.","""What do they need all this stuff for? They're dead. We're alive. Simple enough.""",3,3,,6
+748,Weed Strangle,,,Sorcery,,,,Lorwyn,Common,Jasper Ejsing,,147,301,3BB,"Destroy target creature. Clash with an opponent. If you win, you gain life equal to that creature's toughness. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,5
+749,Adder-Staff Boggart,,,Creature,Goblin,Warrior,,Lorwyn,Common,Jeff Miracola,,148,301,1R,"When Adder-Staff Boggart comes into play, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,2,1,,6
+750,Axegrinder Giant,,,Creature,Giant,Warrior,,Lorwyn,Common,Warren Mahy,,151,301,4RR,,"The angriest of giants are often the most skillful weaponsmiths. Their grudges fuel endless sessions at the forge, all the while growling ferociously to themselves.",6,4,,6
+751,Blades of Velis Vel,,,Tribal,Instant,Shapeshifter,,Lorwyn,Common,Ron Spencer,,152,301,1R,"Changeling (This card is every creature type at all times.)
+Up to two target creatures each get +2/+0 and gain all creature types until end of turn.","""The changing kind suffers as we do. We must join as one to quench our tyrants!""",,,,8
+752,Boggart Sprite-Chaser,,,Creature,Goblin,Warrior,,Lorwyn,Common,Mark Poole,,156,301,1R,"As long as you control a Faerie, Boggart Sprite-Cahser gets +1/+1 and has flying.","""Auntie pointed out to the faerie how much mischief a flying boggart could wreak, and a beautiful new friendship was born.""—A tale of Auntie Grub",1,2,,5
+753,Caterwauling Boggart,,,Creature,Goblin,Shaman,,Lorwyn,Common,Steven Belledin,,157,301,3R,"Each Goblin you control can't be blocked except by two or more creatures.
+Each Elemental you control can't be blocked except by two or more creatures.","""As far as I can tell, that frog dangling from the stick serves absolutely no purpose whatsoever.""—Gaddock Teeg",2,2,,7
+754,Faultgrinder,,,Creature,Elemental,,,Lorwyn,Common,Anthony S. Waters,,163,301,6R,"Trample
+When Faultgrinder comes into play, destroy target land.
+Evoke 4R (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,4,4,,5
+755,Fire-Belly Changeling,,,Creature,Shapeshifter,,,Lorwyn,Common,Randy Gallegos,,164,301,1R,"Changeling (This card is every creature type at all times.)
+R: Fire-Belly Changeling gets +1/+0 until end of turn. Play this ability no more than twice each turn.","""My ears say it hisses. My fingers say it burns.""—Auntie Wort",1,1,,10
+756,Flamekin Brawler,,,Creature,Elemental,Warrior,,Lorwyn,Common,Daren Bader,,166,301,R,R: Flamekin Brawler gets +1/+0 until end of turn.,"When he hits people, they stay hit.",0,2,,7
+757,Giant's Ire,,,Tribal,Sorcery,Giant,,Lorwyn,Common,Alex Horley-Orlandelli,,120,301,3R,"Giant's Ire deals 4 damage to target player. If you control a Giant, draw a card.","The only feeling greater than hurling something a mile is crushing something else with it that was really, really irritating you.",,,,7
+758,Inner-Flame Acolyte,,,Creature,Elemental,Shaman,,Lorwyn,Common,Ron Spears,,181,301,1RR,"When Inner-Flame Acolyte comes into play, target creature gets +2/+0 and gains haste until end of turn.
+Evoke R (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.) ",,2,2,,7
+759,Mudbutton Torchrunner,,,Creature,Goblin,Warrior,,Lorwyn,Common,Steve Ellis,,185,301,2R,"When Mudbutton Torchrunner is put into a graveyard from play, it deals 3 damage to target creature or player.",The oil sloshes against his skull as he nears his destination: the Frogtosser Games and the lightning of the Flaming Boggart.,1,1,,5
+760,Smokebraider,,,Creature,Elemental,Shaman,,Lorwyn,Common,Anthony S. Waters,,189,301,1R,T: Add two mana in any combination of colors to your mana pool. Spend this mana only to play Elemental spells or activated abilities of Elementals.,"""Be silent and listen to your inner fire. Only then can you walk the Path of Flame.""",1,1,,7
+761,Soulbright Flamekin,,,Creature,Elemental,Shaman,,Lorwyn,Common,Kev Walker,,190,301,1R,"2: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add RRRRRRRR to your mana pool.","When provoked, a flamekin's inner fire burns far hotter than any giant's forge.",2,1,,6
+762,Stinkdrinker Daredevil,,,Creature,Goblin,Rogue,,Lorwyn,Common,Pete Venters,,191,301,2R,Giant spells you play cost 2 less to play.,"Boggarts constantly strive to outdo each other with the things they bring back to the warren, each hoping the exploit will become as well-known as those of Auntie Grub.",1,3,,5
+763,Tarfire,,,Tribal,Instant,Goblin,,Lorwyn,Common,Omar Rayyan,,194,301,R,Tarfire deals 2 damage to target creature or player.,"""After Auntie brushed the soot from her eyes, she discovered something wonderful: the fire had turned the goat into somethign that smelled delicious.""—A tale of Auntie Grub",,,,11
+764,Bog-Strider Ash,,,Creature,Treefolk,Shaman,,Lorwyn,Common,Steven Belledin,,198,301,3G,"Swampwalk
+Whenever a player plays a Goblin spell, you may pay G. If you do, you gain 2 life.","""If you want to test wisdom, offer it to fools and watch how they tear it up.""",2,4,,11
+765,Cloudcrown Oak,,,Creature,Treefolk,Warrior,,Lorwyn,Common,Rebecca Guay,,201,301,2GG,Reach (This can block creatures with flying.),"""Clever folk build their homes near cloudcrowns. If a hawk or even just a faerie tries to swoop in, it'll get swatted from here to Cloverdell.""—Calydd, kithkin farmer",3,4,,5
+766,Elvish Eulogist,,,Creature,Elf,Shaman,,Lorwyn,Common,Ben Thompson,,205,301,G,Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.,"""No matter how adept our artistic skill, our effigies can never hope to capture the vibrant beauty of a living elf. Perhaps that is truly why we mourn.""",1,1,,14
+767,Fertile Ground,,,Enchantment,Aura,,,Lorwyn,Common,Mark Tedin,,211,301,1G,"Enchant land
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool.","Pretty, valuable, and delicious—a boggart thief's trifecta.",,,,4
+768,Fistful of Force,,,Instant,,,,Lorwyn,Common,Ralph Horsley,,212,301,1G,"Target creature gets +2/+2 until end of turn. clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,6
+769,Gilt-Leaf Ambush,,,Tribal,Instant,Elf,,Lorwyn,Common,Steve Prescott,,214,301,2G,"Put two 1/1 green Elf Warrior creature tokens into play. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost. Whenever a creatrue with deathtouch deals damage to a creature, destroy that creature.)",,,,,14
+770,Hunt Down,,,Sorcery,,,,Lorwyn,Common,Christopher Moeller,,218,301,G,Target creature blocks target creature this turn if able.,"""Springjacks and faeries can be difficult to hunt, but my favorite prey are the flamekin. They never fail to put up a worthy fight when cornered.""",,,,7
+771,Kithkin Daggerdare,,,Creature,Kithkin,Soldier,,Lorwyn,Common,Christopher Moeller,,223,301,1G,"G, T: Target attacking creature gets +2/+2 until end of turn.","The kith dance their elaborate reels not merely to celebrate the events of their lives but to form an unbreakable bond of loyalty with their kin, a bond stronger than the fear of death itself.",1,1,,5
+772,Lace with Moonglove,,,Instant,,,,Lorwyn,Common,Rebecca Guay,,225,301,2G,"Target creature gains deathtouch until end of turn. (Whenever it deals damage to a creature, destroy that creature.)
+Draw a card.","""Which is more filled with poison: the flower of the moonglove or the minds of elves?""—Vessifrus, flamekin demagogue",,,,6
+773,Leaf Gilder,,,Creature,Elf,Druid,,Lorwyn,Common,Quinton Hoover,,227,301,1G,T: Add G to your mana pool.,"Eidren, perfect of Lys Alana, ordered hundreds of trees uprooted and rearranged into a pattern he deemed beautiful. Thus the Gilt-Leaf Wood was born.",2,1,,7
+774,Lignify,,,Tribal,Enchantment,Treefolk,Aura,Lorwyn,Common,Jesper Ejsing,,228,301,1G,"Enchant creature
+Enchanted creature is a 0/4 Treefolk with no abilities.","Bulgo paused, puzzled. What was that rustling sound, and why did he feel so stiff? And how could his feet be so thirsty?",,,,10
+775,Lys Alana Huntmaster,,,Creature,Elf,Warrior,,Lorwyn,Common,Pete Venters,,229,301,2GG,"Whenever you lay an Elf spell, you may put a 1/1 green Elf Warrior creature token into play.","From the highest tiers of Dawn's Light Palace to the depest shade of Wren's Run, the silver notes of the horn shimmer through the air, and all who hear it feel its pull.",3,3,,11
+776,Nath's Elite,,,Creature,Elf,Warrior,,Lorwyn,Common,Wayne Reynolds,,231,301,4G,"All creatures able to block Nath's Elite do so.
+When Nath's Elite comes into play, clash with an opponent. If you win, put a +1/+1 counter on Nath's Elite. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,4,2,,14
+777,Oakgnarl Warrior,,,Creature,Treefolk,Warrior,,Lorwyn,Common,Jim Nelson,,232,301,5GG,"Vigilance, trample","""Roam as you will, your roots remain in the strong earth of your Rising.""",5,7,,8
+778,Warren-Scourge Elf,,,Creature,Elf,Warrior,,Lorwyn,Common,Christopher Moeller,,241,301,1G,Protection from Goblins,"""If one can associate any virtue with the eyeblights, it is the talent some achieve in disposing of them. I have seen th eslaying of boggarts raised nearly to an art form.""—Fiala, Gilt-Leaf winnower",1,1,,5
+779,Woodland Changeling,,,Creature,Shapeshifter,,,Lorwyn,Common,Franz Vohlwinkel,,242,301,1G,Changeling (This card is every creature type at all times.),"Changelings cannot resist the draw of a new shape, even if doing so would be in their best interests.",2,2,,5
+780,Shimmering Grotto,,,Land,,,,Lorwyn,Common,Alan Pollack,,273,301,,"T: Add 1 to your mana pool.
+1, T: Add one mana of any color to your mana pool.","Once each year, the sun's rays reach the hidden chamber of Velis Vel, and the changelings congregate from afar to bathe in the ever-shifting light.",,,,10
+781,Herbal Poultice,,Artifact,,,,,Lorwyn,Common,Scott Hampton,,257,301,0,"3, Sacrifice Herbal Poultice: Regenerate target creature.","""Apply orange leaf to a wound at dawn to clean it, at dusk to prevent the same injury from happening again.""—Kithkin superstition",,,,5
+782,Moonglove Extract,,Artifact,,,,,Lorwyn,Common,Terese Nielsen,,258,301,3,Sacrifice Moonglove Extract: Monglove Extract deals 2 damage to target creature or player.,"Diluted, moonglove can etch living tissue. Concentrated, a drop will kill a giant.",,,,4
+783,Runed Stalactite,,Artifact,,,,,Lorwyn,Common,Jim Pavelec,,260,301,1,"Equipped creature gets +1/+1 and is every creature type.
+Equip 2","When a changeling adopts a form no other changeling has taken, a rune appears in the caverns of Velis Vel to mark the event.",,,,8
+784,Wanderer's Twig,,Artifact,,,,,Lorwyn,Common,Dave Dorman,,265,301,1,"1, Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.","For every tree who falls, there are countless sprouts waiting to rise.",,,,5
+785,Dawnfluke,,,Creature,Elemental,,,Lorwyn,Common,Mark Zug,,12,301,3W,"Flash
+When Dawnfluke comes into play, prevent the next 3 damage that would be dealt to target creature or player this turn.
+Evoke W (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,0,3,,2
+786,Judge of Currents,,,Creature,Merfolk,Wizard,,Lorwyn,Common,Dan Scott,,22,301,1W,"Whenever a Merfolk you control becomes tapped, you may gain 1 life.","Through the currents of the Lanes shift eery year, the merrow never lose track of where they are or where they are going.",1,1,,4
+787,Kithkin Healer,,,Creature,Kithkin,Cleric,,Lorwyn,Common,Rebecca Guay,,27,301,2W,T: Prevent the next 1 damage that would be dealt to target creature or player this turn.,The empathetic nature of the thoughtweft allows kithkin healers to treat the cause of an illness rather than fight its symptoms.,2,2,,4
+788,Oaken Brawler,,,Creature,Treefolk,Warrior,,Lorwyn,Common,Jim Murray,,33,301,3W,"When Oaken Brawler comes into play, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,2,4,,3
+789,Soaring Hope,,,Enchantment,Aura,,,Lorwyn,Common,Martina Pilcerova,,40,301,4W,"Enchant Creature
+When Soaring Hope comes into play, you gain 3 life.
+Enchanted creature has flying.
+W: Put Soaring Hope on top of its owner's library.",,,,,4
+790,Wellgabber Apothecary,,,Creature,Merfolk,Cleric,,Lorwyn,Common,Brandon Dorman,,47,301,4W,1W: Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.,"""You've discovered that boggarts bite, I see. And will the militia be chasing this lot?...Ah, you're staying in town to avoid Nath's Hunt. Wise. Now this poultice...""",2,3,,3
+791,Aethersnipe,,,Creature,Elemental,,,Lorwyn,Common,Zoltan Boros,Gabor Szikszai,50,301,5U,"When Aethersnipe comes into play, return target nonland permanent to its owner's hand.
+Evoke 1UU (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,4,4,,4
+792,Amoeboid Changeling,,,Creature,Shapeshifter,,,Lorwyn,Common,Nils Hamm,,51,301,1U,"Changeling (This card is every creature type at all times.)
+T: Target creature gains all creature types until end of turn.
+T: Target creature loses all creature types until end of turn.",,1,1,,3
+793,Broken Ambitions,,,Instant,,,,Lorwyn,Common,Franz Vohwinkel,,54,301,XU,"Counter target spell unless its controller pays X. Clash with an opponent. If you win, that spell's controller puts the top four cards of his or her library into his or her graveyard. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,1
+794,Faerie Trickery,,,Tribal,Instant,Faerie,,Lorwyn,Common,Terese Nielsen,,62,301,1UU,"Counter target non-Faerie spell. If that spell is countered this way, remove it from teh game instead of putting it into its owner's graveyard.",The fae are so quick and their life spans so short that it's difficult to get retribution for their pranks.,,,,2
+795,Mulldrifter,,,Creature,Elemental,,,Lorwyn,Common,Eric Fortune,,76,301,4U,"Flying
+When Mulldrifter comes into play, draw two cards.
+Evoke 2U (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,2,2,,3
+796,Ringskipper,,,Creature,Faerie,Wizard,,Lorwyn,Common,Heather Hudson,,81,301,1U,"Flying
+When Ringskipper is put into a graveyard from play, clash with an opponent. If you win, return Ringskipper to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,1,1,,4
+797,Spellstutter Sprite,,,Creature,Faerie,Wizard,,Lorwyn,Common,Rebecca Guay,,89,301,1U,"Flash
+Flying
+When Spellstutter Sprite comes into play, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.",,1,1,,4
+798,Tideshaper Mystic,,,Creature,Merfolk,Wizard,,Lorwyn,Common,Mark Tedin,,93,301,U,T: Target land becomes the basic land type of your choice until end of turn. Play this ability only during your turn.,He paints with drop and shimmer a world that exists only in the wistful heart.,1,1,,3
+799,Exiled Boggart,,,Creature,Goblin,Rogue,,Lorwyn,Common,Pete Venters,,109,301,1B,"When Exiled Boggart is put into a graveyard from play, discard a card.","Among the boggarts, there is only one real rule: all new treasures and experiences must be shared. Those who hoard their gifts commit the one truly unforgivable sin.",2,2,,2
+800,Facevaulter,,,Creature,Goblin,Warrior,,Lorwyn,Common,Wayne Reynolds,,111,301,B,"B, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn.",Boggarts get so excited when they find something new to smash that they really don't notice who gets underfoot.,1,1,,4
+801,Footbottom Feast,,,Instant,,,,Lorwyn,Common,Jim Nelson,,115,301,2B,"Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.","The scent of rot and vinegar fills the marsh, inviting boggarts from every warren to reunite and feast.",,,,4
+802,Hornet Harasser,,,Creature,Goblin,Shaman,,Lorwyn,Common,Nils Hamm,,118,301,2BB,"When Hornet Harasser is put into a graveyard from play, taret creature gets -2/-2 until end of turn.","""And though she didn't get her honey, Auntie found something far more interesting.""—A tale of Auntie Grub",2,2,,4
+803,Nightshade Stinger,,,Creature,Faerie,Rogue,,Lorwyn,Common,Mark Poole,,132,301,B,"Flying
+Nightshade Stinger can't block.","""Most faeries are harmless pranksters. Every now and again, though, you get one that crosses over from mischievous to malicious.""—Gaddock Teeg",1,1,,3
+804,Blind-Spot Giant,,,Creature,Giant,Warrior,,Lorwyn,Common,Jim Murray,,153,301,2R,Blind-Spot Giant can't attack or block unless you control another Giant.,"Among the solitude-loving giantkind, teamwork is unusual. But he appreciates hearing the occasional ""Swing down and to your left.""",4,3,,4
+805,Boggart Forager,,,Creature,Goblin,Rogue,,Lorwyn,Common,Ron Spencer,,154,301,R,"R, Sacrifice Boggart Forager: Target player shuffles his or her library.","""Reach in this hole, lose a hand. Reach in that hole, find a sparkly.""—Auntie wisdom",1,1,,1
+806,Consuming Bonfire,,,Tribal,Sorcery,Elemental,,Lorwyn,Common,Randy Gallegos,,161,301,3RR,Choose one — Consuming Bonfire deals 4 damage to target non-Elemental creature;  or Consuming Bonfire deals 7 damage to target Treefolk creature.,"""The elves use treefolk to drive us away. It is tiem to remove their tools.""—Vessifrus, flamekin demagogue",,,,4
+807,Hurly-Burly,,,Sorcery,,,,Lorwyn,Common,Steve Prescott,,127,301,1R,Choose one — Hurly-Burly deals 1 damage to each creature without flying; or Hurly-Burly deals 1 damage to each creature with flying.,"""Things were popping like corn in a skillet. Olly landed in the pig pen with his prize sow on top of him, both squealin' like boggarts.""—Deagan, cenn of Burrenton",,,,3
+808,Ingot Chewer,,,Creature,Elemental,,,Lorwyn,Common,Kev Walker,,180,301,4R,"When Ingot Chewer comes into play, destroy target artifact.
+Evoke R (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)","Elementals are ideas given form. This one is the idea of ""smashitude.""",3,3,,2
+809,Lash Out,,,Instant,,,,Lorwyn,Common,Scott Hampton,,183,301,1R,"Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,2
+810,Lowland Oaf,,,Creature,Giant,Warrior,,Lorwyn,Common,Jeff Easley,,184,301,3R,T: Target Goblin creature you control gets +1/+0 and gains flying until end of turn. Sacrifice that creature at end of turn.,"""I don't know why the little one was so mad. He said to put him down, and I put him down.""",3,3,,2
+811,Needle Drop,,,Instant,,,,Lorwyn,Common,Greg Staples,,186,301,R,"Needle Drop deals 1 damage to target creature or player that was dealt damage this turn.
+Draw a card.","""First it was plovers and mulldrifters. Now it's knitting needles the size of javelins.""—Calydd, kithkin farmer",,,,2
+812,Battlewand Oak,,,Creature,Treefolk,Warrior,,Lorwyn,Common,Steve Prescott,,197,301,2G,"Whenever a Forest comes into play under your control, Battlewand Oak gets +2/+2 until end of turn.
+Whenever you play a Treefolk spell, Battlewand Oak gets +2/+2 until end of turn.",,1,3,,3
+813,Elvish Branchbender,,,Creature,Elf,Druid,,Lorwyn,Common,Ralph Horsley,,204,301,2G,"T: Until end of turn, target Forest becomes an X/X Treefolk creature in addition to its other types, where X is the number of Elves you control.","""How do the vinebred feel? Fah! We do not ask the puppet how it feels when the puppeteer bids it dance.""",2,2,,1
+814,Elvish Handservant,,,Creature,Elf,Warrior,,Lorwyn,Common,Steve Prescott,,206,301,G,"Whenever a player plays a Giant spell, you may put a +1/+1 counter on Elvish Handservant.",The hardest lesson for any elf to learn is humility. It takes a giant to teach that.,1,1,,4
+815,Elvish Promenade,,,Tribal,Sorcery,Elf,,Lorwyn,Uncommon,Steve Ellis,,208,301,3G,Put a 1/1 green Elf Warrior creature token into play for each Elf you control.,"The faultless and immaculate castes form the lower tiers of elvish society, with the exquisite caste above them. At the pinnacle is the perfect, a consummate blend of aristocrat and predator.",,,,7
+816,Heal the Scars,,,Instant,,,,Lorwyn,Common,Carl Frank,,217,301,3G,Regenerate target creature. You gain life equal to that creature's toughness.,"Elvish battle-magic has evolved two specialties: inflicting wounds that scar, and healing wounds without scarring. Politics determines the recipients of each.",,,,3
+817,Rootgrapple,,,Tribal,Instinct,Treefolk,,Lorwyn,Common,Alan Pollack,,234,301,4G,"Destroy target noncreature permanent. If you control a Treefolk, draw a card.","""All the sylvan secrets of this world are etched between my rings. The skinfolk's metal aberrations can rot between my roots.""—Colfenor, the Last Yew",,,,3
+818,Spring Cleaning,,,Instant,,,,Lorwyn,Common,Michael Sutfin,,236,301,1G,"Destroy target enchantment. Clash with an opponent. If you win, destroy all enchantments from your opponents control. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,4
+819,Vivid Crag,,,Land,,,,Lorwyn,Uncommon,Martina Pilcerova,,275,301,,"Vivid Crag comes into play tapped with two charge counters on it.
+T: Add R to your mana pool.
+T, Remove a charge counter from Vivid Crag: Add one mana of any color to your mana pool.",,,,,4
+820,Vivid Creek,,,Land,,,,Lorwyn,Uncommon,Fred Fields,,276,301,,"Vivid Crreek comes into play tapped with two charge counters on it.
+T: Add U to your mana pool.
+T, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.",,,,,5
+821,Vivid Grove,,,Land,,,,Lorwyn,Uncommon,Howard Lyon,,277,301,,"Vivid Grove comes into play tapped with two charge coutners on it.
+T: Add G to your mana pool.
+T, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.",,,,,5
+822,Vivid Marsh,,,Land,,,,Lorwyn,Uncommon,John Avon,,278,301,,"Vivid Marsh comes into play tapped with two charge counters on it.
+T: Add B to your mana pool.
+T, Remove a charge counter from Vivid Marsh: Add one mana of any color to your mana pool.",,,,,4
+823,Vivid Meadow,,,Land,,,,Lorwyn,Uncommon,Rob Alexander,,279,301,,"Vivid Meadow comes into play tapped with two charge counters on it.
+T: Add W to your mana pool.
+T, Remove a charge counter from Vivid Meadow: Add one mana of any color to your mana pool.",,,,,3
+824,Battle Mastery,,,Enchantment,Aura,,,Lorwyn,Uncommon,Zoltan Boros,Gabor Szikszai,5,301,,"Enchant creature
+Enchanted creature has double strike.","""Boom! Boom! Boots the size of oxcarts, then an axe like a falling sun. Elves scattered. Trees scattered. Even the hills ran for the hills!""—Clachan Tales",,,,4
+825,Burrenton Forge-Tender,,,Creature,Kithkin,Wizard,,Lorwyn,Uncommon,Chuck Lukacs,,7,301,W,"Protection from red
+Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.","""We are a clachan of smiths. The forge is as comfortable to us as a small fire during a cool winter's evening.""",1,1,,2
+826,Changeling Hero,,,Creature,Shapeshifter,,,Lorwyn,Uncommon,Jeff Miracola,,9,301,4W,"Changeling (This card is every creature type at all times.)
+Champion a creature (When this comes into play, sacrifice it unless you remove another creature you control from the game. When this leaves play, that card returns to play.)
+Lifelink (Whenever this creature deals damage, you gain that much life.)",,4,4,,4
+827,Cloudgoat Ranger,,,Creature,Giant,Warrior,,Lorwyn,Uncommon,Adam Rex,,10,301,3WW,"When Cloudgoat Ranger comes into play, put three 1/1 white Kithkin Soldier creature tokens into play.
+Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.",,3,3,,3
+828,Crib Swap,,,Tribal,Instant,Shapeshifter,,Lorwyn,Uncommon,Brandon Dorman,,11,301,2W,"Changeling (This card is every creature type at all times.)
+Remove target creature from the game. Its controller puts a 1/1 colorless Shapeshifter creature token with changeling into play.",,,,,3
+829,Engangling Trap,,,Enchantment,,,,Lorwyn,Uncommon,Warren Mahy,,13,301,1W,"Whenever you clash, tap target creature an opponent controls. If you won, that creature doesn't untap during its controller's next untap step. (This ability triggers after the clash ends.)",,,,,1
+830,Goldmeadow Stalwart,,,Creature,Kithkin,Soldier,,Lorwyn,Uncommon,Wayne Reynolds,,18,301,W,"As an additional cost to play Goldmeadow Stalwart, reveal a Kithkin card from your hand or pay 3.","The thoughtweft ties a clachan together. Sharing each other's hopes and fears, all the village's citizens spring into action upon the first threat to any one of them.",2,2,,3
+831,Harpoon Sniper,,,Creature,Merfolk,Archer,,Lorwyn,Uncommon,Dominick Domingo,,19,301,2W,"W, T: Harpoon Sniper deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control.","Made from whiskergill bones, merrow spinebows can fire bolts through tree trunks.",2,2,,4
+832,Kithkin Harbinger,,,Creature,Kithkin,Wizard,,Lorwyn,Uncommon,Steve Prescott,,26,301,2W,"When Kithkin Harbinger comes into play, you may search your library for a Kithkin card, reveal it, then shuffle your library and put that card on top of it.",Her ears are open to even the softest voice.,1,3,,4
+833,Pollen Lullaby,,,Instant,,,,Lorwyn,Uncommon,Warren Mahy,,36,301,1W,"Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of his or her library, then puts that card of the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,4
+834,Sentry Oak,,,Creature,Treefolk,Warrior,,Lorwyn,Uncommon,Warren Mahy,,38,301,4W,"Defender
+At the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. (each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,3,5,,2
+835,Summon the School,,,Tribal,Sorcery,Merfolk,,Lorwyn,Uncommon,Dave Dorman,,42,301,3W,"Put two 1/1 blue Merfolk Wizard creature tokens into play.
+Tap four untapped Merfolk you control: Return Summon the School from your graveyard to your hand.","""When merrows talk, listeners grow fins.""—Kithkin saying",,,,2
+836,Veteran of the Depths,,,Creature,Merfolk,Soldier,,Lorwyn,Uncommon,Daren Bader,,46,301,3W,"Whenever Veteran of the Depths becomes tapped, you may put a +1/+1 counter on it.","In the backwaters of the Merrow Lanes lie stones scarred with tallies of countless generations, each representing a victory of merrow soldiers.",2,2,,1
+837,Wizened Cenn,,,Creature,Kithkin,Cleric,,Lorwyn,Uncommon,Kev Walker,,49,301,WW,Other Kithkin creatures you control get +1/+1.,"""Thoughtweft binds us together as one, part of an intricate pattern that would unravel if even one thread came loose.""",2,2,,4
+838,Benthicore,,,Creature,Elemental,,,Lorwyn,Uncommon,Jim Nelson,,53,301,6U,"When Benthicore comes into play, put two 1/1 blue Merfolk Wizard creature tokens into play.
+Tap two untapped Merfolk you control: Untap Benthicore. It gains shroud until end of turn. (It can't be the target of spells or abilities.)",,5,5,,4
+839,Captivating Glance,,,Enchantment,Aura,,,Lorwyn,Uncommon,Dan Dos Santos,,55,301,2U,"Enchant creature
+At the end of your turn, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,2
+840,Drowner of Secrets,,,Creature,Merfolk,Wizard,,Lorwyn,Uncommon,Rebecca Guay,,58,301,2U,Tap an untapped Merfolk you control: Target player puts the top card of his or her library into his or her graveyard.,Merrows consider themselves the keepers of Lorwyn's past—and consider it their duty to edit when necessary.,1,3,,3
+841,Ethereal Whiskergill,,,Creature,Elemental,,,Lorwyn,Uncommon,Howard Lyon,,60,301,3U,"Flying
+Ethereal Whiskergill can't attack unless defending player controls an Island.",Fallowsages debate whether the Whiskergill is native to the Dark Meanders or merely dreamstuff made real.,4,3,,3
+842,Fallowsage,,,Creature,Merfolk,Wizard,,Lorwyn,Uncommon,Parente,,63,301,3U,"Whenever Fallowsage becomes tapped, you may draw a card.",Memories of ages past are said to swim the minds of lounging fallowsages,2,2,,2
+843,Familiar's Ruse,,,Instant,,,,Lorwyn,Uncommon,Eric Fortune,,64,301,UU,"As an additional cost to play Familiar's Ruse, return a creature you control to its owner's hand.
+Counter target spell.","Because of their capricious nature, faeries can serve as living lenses for disruptive magic.",,,,2
+844,Merrow Harbinger,,,Creature,Merfolk,Wizard,,Lorwyn,Uncommon,Steve Prescott,,73,301,3U,"Islandwalk
+When Merrow Harbinger comes into play, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.",,2,3,,1
+845,Merrow Reejerey,,,Creature,Merfolk,Soldier,,Lorwyn,Uncommon,Greg Staples,,74,301,2U,"Other Merfolk creatures you control +1/+1.
+Whenever you play a Merfolk spell, you may tap or untap target permanent.","Steady and silent as the deep current, the reejerey guides the course of hte school.",2,2,,2
+846,Scattering Stroke,,,Instant,,,,Lorwyn,Uncommon,Franz Vohwinkel,,82,301,2UU,"Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add X to your mana pool, where X is that spell's converted mana cost. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,2
+847,Silvergill Adept,,,Creature,Merfolk,Wizard,,Lorwyn,Uncommon,Matt Cavota,,86,301,1U,"As an additional cost to play Silvergill Adept, reveal a Merfolk card from your hand or pay 3.
+When Silvergill Adept comes into play, draw a card.","""I bring baubles of lore, lost secrets seined from the listening waves.""",2,1,,2
+848,Turtleshell Changeling,,,Creature,Shapeshifter,,,Lorwyn,Uncommon,Ron Spencer,,94,301,3U,"Changeling (This card is every creature type at all times.)
+1U: Switch Turtleshell Changeling's power and toughness until end of turn.","A changeling involuntarily mimics the nearest being at hand, sometimes trading a borrowed shell for borrowed claws.",1,4,,3
+849,Boggart Harbinger,,,Creature,Goblin,Shaman,,Lorwyn,Uncommon,Steve Prescott,,102,301,2B,"When Boggart Harbinger comes into play, you may search your library for a Goblin card, reveal it, then shuffle your library and put that card on top of it.",,2,1,,2
+850,Faerie Tauntings,,,Tribal,Enchantment,Faerie,,Lorwyn,Uncommon,Michael Sutfin,,112,301,2B,"Whenever you play a spell during an opponent's turn, you may have each opponent lose 1 life.","Beneath the fae's constant pranks runs a subtler undercurrent of mockery: the influence of Oona, their hidden queen.",,,,4
+851,Final Revels,,,Sorcery,,,,Lorwyn,Uncommon,Omar Rayyan,,113,301,4B,Choose one — All creatures get +2/+0 until end of turn; or all creatures get -0/-2 until end of turn.,"One whiff of the sweet, pungent scent leads to euphoria—or to an early grave.",,,,3
+852,Hoarder's Greed,,,Sorcery,,,,Lorwyn,Uncommon,Pete Venters,,117,301,3B,"You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,2
+853,Hunter of Eyeblights,,,Creature,Elf,Assassin,,Lorwyn,Uncommon,Jesper Ejsing,,119,301,3BB,"When Hunter of Eyeblights comes into play, puta  +1/+1 counter on target creature you control.
+2B, T: Destroy target creature with a counter on it.",Snokk run as fast as he could but the sound of hooves grew ever louder in his ears.,3,3,,4
+854,Lys Alana Scarblade,,,Creature,Elf,Assassin,,Lorwyn,Uncommon,Christopher Moeller,,122,301,2B,"T, Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control.","In beauty-obsessed Lys Alana, one cut of her blade means the difference between a high society feast and ranking through the dungheap for scraps.",1,1,,4
+855,Nectar Faerie,,,Creature,Faerie,Wizard,,Lorwyn,Uncommon,Thomas Denmark,,130,301,1B,"Flying
+B, T: Target Faerie or Elf gains lifelink until end of turn. (Whenever it deals damage, its controller gains that much life.)","""The unpredictable fae are just as likely to provide a blight as a boon.""—Desmera, perfect of Wren's Run",1,1,,3
+856,Shriekmaw,,,Creature,Elemental,,,Lorwyn,Uncommon,Steve Prescott,,139,301,4B,"Fear
+When Shriekmaw comes into play, destroy target nonartifact, nonblack creature.
+Evoke 1B (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,3,2,,4
+857,Squeaking Pie Sneak,,,Creature,Goblin,Rogue,,Lorwyn,Uncommon,Jeff Miracola,,142,301,1B,"As an additional cost to play Squeaking Pie Sneak, reveal a Goblin card from your hand or pay 3.
+Fear","""Why do our pies squeak? It's all the faeries, mice, and prickly-hogs we stuff inside.""—Borb of the Squeaking Pie warren",2,2,,1
+858,Thorntooth Witch,,,Creature,Treefolk,Shaman,,Lorwyn,Uncommon,William O'Connor,,144,301,5B,"Whenever you play a Treefolk spell, you may have target creature get +3/-3 until end of turn.","The crone's boughs creaked as she spoke. ""You look peaked, little one. Come, sip from my warm brew. It'll have you blooming in no time.""",3,4,,2
+859,Boggart Shenanigans,,,Tribal,Enchantment,Goblin,,Lorwyn,Uncommon,Warren Mahy,,155,301,2R,"Whenever another Goblin you control is put into a graveyard from play, you may hve Boggart Shenanigans deal 1 damage to target player.","Boggarts revel in discovering new sensations, from the texture of an otter pellet to the squeak of a dying warren mate.",,,,2
+860,Ceaseless Searblades,,,Creature,Elemental,Warrior,,Lorwyn,Uncommon,Jim Murray,,158,301,3R,"Whenever you play an activated ability of an Elemental, Ceaseless Searblades gets +1/+0 until end of turn.",Flamekins' fires burn cool until they decide otherwise.,2,4,,3
+861,Changeling Berserker,,,Creature,Shapeshifter,,,Lorwyn,Uncommon,Warren Mahy,,160,301,3R,"Changeling (This card is every creature type at all times.)
+Haste
+Champion a creature (When this comes into play, sacrifice it unless you remove another creature you control from the game. When this leaves play, that card returns to play.)",,5,3,,2
+862,Crush Underfoot,,,Tribal,Instant,Giant,,Lorwyn,Uncommon,Steven Belledin,,162,301,1R,Choose a Giant creature you control. It deals damage equal to its power to target creature.,"Five-toed grave—Kithkin phrase meaning ""a giant's footprint""",,,,3
+863,Flamekin Bladewhirl,,,Creature,Elemental,Warrior,,Lorwyn,Uncommon,Mark Zug,,165,301,R,"As an additional cost to play Flamekin Bladewhirl, reveal an Elemental card from your hand or pay 3.","""The elves may try to confine us, but they will learn that our blazing spirit can never be suppressed.""—Vesesifrus, flamekin demagogue",2,1,,4
+864,Flamekin Harbinger,,,Creature,Elemental,Shaman,,Lorwyn,Uncommon,Steve Prescott,,167,301,R,"When Flamekin Harbinger comes into play, you may search your library for an Elemental card, reveal it, then shuffle your library and put that card on top of it.",,1,1,,4
+865,Flamekin Spitfire,,,Creature,Elemental,Shaman,,Lorwyn,Uncommon,Zoltan Boros,Gabor Szikszai,168,301,1R,3R: Flamekin Spitfire deals 1 damage to target creature or player.,"Some flamekin warriors explore the art of coherence, an ancient discipline that harnesses the chaos of fire and focuses it with pinpoint precision.",1,1,,4
+866,Giant Harbinger,,,Creature,Giant,Shaman,,Lorwyn,Uncommon,Steve Prescott,,169,301,4R,"When Giant Harbinger comes into play, you may search your library for a Giant card, reveal it, then shuffle your library and put that card on top of it.",,3,4,,4
+867,Glarewielder,,,Creature,Elemental,Shaman,,Lorwyn,Uncommon,Nils Hamm,,171,301,4R,"Haste
+When Glareweielder comes into play, up to two target creatures can't block this turn.
+Evoke 1R (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,3,1,,2
+868,Goatnapper,,,Creature,Goblin,Rogue,,Lorwyn,Uncommon,Ron Spencer,,172,301,2R,"When Goatnapper comes into play, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.","Kith goats are just for practice. The real prize, of course, is a giant's cloudgoat",2,2,,3
+869,Hearthcage Giant,,,Creature,Giant,Warrior,,Lorwyn,Uncommon,Zoltan Boros,Gabor Szikszai,174,301,6RR,"When Hearthcage Giant comes into play, put two 3/1 red Elemental Shaman creature tokens into play.
+Sacrifice an Elemental: Target Giant creature gts +3/+1 until end of turn.",The flamekin are mere kindling for his warmth.,5,5,,4
+870,Inner-Flame Igniter,,,Creature,Elemental,Warrior,,Lorwyn,Uncommon,Scott Hampton,,182,301,2R,"2R: Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn.",A light an army can follow.,2,2,,1
+871,Rebellion of the Flamekin,,,Tribal,Enchantment,Elemental,,Lorwyn,Uncommon,Dan Dos Santos,,188,301,3R,"Whenever you clash, you may pay 1. If you do, put a 3/1 red Elemental Shaman creature token into play. If you won, that token gains haste until end of turn. (This ability triggers after the clash ends.)",,,,,4
+872,Tar Pitcher,,,Creature,Goblin,Shaman,,Lorwyn,Uncommon,Omar Rayyan,,193,301,3R,"T, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.","""Auntie Grub had caught a goat, a bleating doe that still squirmed in her arms. At the same time, her warren decided to share with her a sensory greeting of hot tar....""—A tale of Auntie Grub",2,2,,3
+873,Thundercloud Shaman,,,Creature,Giant,Shaman,,Lorwyn,Uncommon,Greg Staples,,195,301,3RR,"When Thundercloud Shaman comes into play, it deals damage equal to the number of Giants you control to each non-Giant creature.",He cares not for the disasters his storm brings as long as his path ahead is clear.,4,4,,2
+874,Kithkin Mourncaller,,,Creature,Kithkin,Scout,,Lorwyn,Uncommon,Dominick Domingo,,224,301,2G,"Whenever an attacking Kithkin or Elf is put into your graveyard from play, you may draw a card.",Eidren's hunts are dangerous affairs. ALl dread the inevitable recounting of those who died while flushing out his prey.,2,2,,2
+875,Seedguide Ash,,,Creature,Treefolk,Druid,,Lorwyn,Uncommon,John Avon,,235,301,4G,"When Seedguide Ash is put into a graveyard from play, you may search your library for up to three Forest cards and put them into play tapped. If you do, shuffle your library. ","""May you shade three generations of seedlings.""",4,4,,2
+876,Woodland Guidance,,,Sorcery,,,,Lorwyn,Uncommon,Richard Sardinha,,243,301,3G,"Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)
+Remove Woodland Guidance from the game.",,,,,3
+877,Diviner's Wand,,,Tribal,Artifact,Wizard,Equipment,Morningtide,Uncommon,Wayne England,,142,150,3,"Equipped creture has ""Whenever you draw a card, this creature gets +1/+1 and gains flying until end of turn"" and ""4: Draw a card.""
+Whenever a Wizard creature comes into play, you may attach Diviner's Wand to it.
+Equip 3",,,,,2
+878,Obsidian Battle-Axe,,,Tribal,Artifact,Wizard,Equipment,Morningtide,Uncommon,Jeff Easley,,144,150,3,"Equipped creature gets +2/+1 and has haste.
+Whenever a Warrior creature comes into  play, you may attach Obsidian Battle-Axe to it.
+Equip 3",It's the flint that sparks a warrior's rage.,,,,4
+879,Thornbite Staff,,,Tribal,Artifact,Shaman,Equipment,Morningtide,Uncommon,Jesper Ejsing,,145,150,2,"Equipped creature has ""2, T: This creature deals 1 damage to target creature or player"" and ""Whenever a creature is put into a graveyard from play, untap this creature.""
+Whenever a Shaman creature comes into play, you may attach Thornbite Staff to it.
+Equip 4",,,,,3
+880,Veteran's Armaments,,,Tribal,Artifact,Soldier,Equipment,Morningtide,Uncommon,Alan Pollack,,146,150,2,"Equipped creature has ""Whenever this creature attacks orblocks, it gets +1/+1 until end of turn for each attacking creature.""
+Whenever a Soldier creature comes into play, you may attach Veteran's Armaments to it.
+Equip 2",,,,,8
+881,Cenn's Tactician,,,Creature,Kithkin,Soldier,,Morningtide,Uncommon,Zoltan Boros,Gabor Szikszai,5,150,W,"W, T: Put a +1/+1 counter on target Soldier creature.
+Each creature you control with a +1/+1 counter on it can block an additional creature.","The choke point was the plan, but devoted camaraderie was always her strategy.",1,1,,6
+882,Meadowboon,,,Creature,Elemental,,,Morningtide,Uncommon,Steven Belledin,,17,150,2WW,"When Meadowboon leaves play, put a +1/+1 counter on each creature target player controls.
+Evoke 3W (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,3,3,,1
+883,Redeem the Lost,,,Instant,,,,Morningtide,Uncommon,Scott M. Fischer,,21,150,1W,"Target creature you control gains protection from teh color of your choice until end of turn. Clash with an opponent. If you win, return Redeem the Lost to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,4
+884,Swell of Courage,,,Instant,,,,Morningtide,Uncommon,Jim Nelson,,26,150,3WW,"Creatures you control get +2/+2 until end of turn.
+Reinforce X—XWW (XWW, Discard this card: Put X +1/+1 counters on target creature.)","""Tideshaping is more than creating a few new puddles.""",,,,1
+885,Wandering Graybeard,,,Creature,Giant,Wizard,,Morningtide,Uncommon,Nils Hamm,,27,150,3WW,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Wandering Graybeard, you may reveal it. If you do, you gain 4 life.","His tales are as tall as he is, and ony a giant's life is long enough to listen to them all.",4,4,,3
+886,Nevermaker,,,Creature,Elemental,,,Morningtide,Uncommon,Chuck Lukacs,,44,150,3U,"Flying
+When Nevermaker leaves play, put target nonland permanent on top of its owner's library.
+Evoke 3U (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,2,3,,2
+887,Research the Deep,,,Sorcery,,,,Morningtide,Uncommon,Eric Fortune,,46,150,1U,"Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,1
+888,Sage of Fables,,,Creature,Merfolk,Wizard,,Morningtide,Uncommon,Shelly Wan,,47,150,2U,"Each other Wizard creature you control comes into play with an additional +1/+1 counter on it.
+2, Remove a +1/+1 counter from a creature you control: Draw a card.","""There is no secret that cannot be sold.""",2,2,,4
+889,Sage's Dooming,,,Tribal,Instant,Wizard,,Morningtide,Uncommon,Richard Sardinha,,48,150,2U,"Counter target spell unless its controller pays 3. If you control a Wizard, draw a card.","""Curse these merrows and their meddling! Since coming near teh river, I can't so much as sneeze without being soaked.""—Ashling the Pilgrim",,,,1
+890,Thieves' Fortune,,,Tribal,Instant,Rogue,,Morningtide,Uncommon,Zoltan Boros,Gabor Szikszai,54,150,2U,"Prowl U (You may play this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",,,,,1
+891,Waterspout Weavers,,,Creature,Merfolk,Wizard,,Morningtide,Uncommon,Eric Fortune,,56,150,3UU,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Waterspout Weavers, you may reveal it. If you do, each creature you control gains flying until end of turn.",,3,3,,3
+892,Nightshade Schemers,,,Creature,Faerie,Wizard,,Morningtide,Uncommon,Parente,,69,150,4B,"Flying
+Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Nightshade Schemers, you may reveal it. If you do, each opponent loses 2 life.",,3,2,,3
+893,Offalsnout,,,Creature,Elemental,,,Morningtide,Uncommon,Alex Horley-Orlandelli,,71,150,2B,"Flash
+When Offalsnout leaves play, remove target card in a graveyard from the game.
+Evoke B (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,2,2,,3
+894,Oona's Blackguard,,,Creature,Faerie,Rogue,,Morningtide,Uncommon,Kev Walker,,72,150,1B,"Flying
+Each other Rogue creature you control comes into play with an additional +1/+1 counter on it.
+Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.",,1,1,,3
+895,Revive the Fallen,,,Sorcery,,,,Morningtide,Uncommon,Steven Belledin,,76,150,1B,"Return target creature card in a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,1
+896,Warren Wierding,,,Tribal,Sorcery,Goblin,,Morningtide,Uncommon,Matt Cavotta,,82,150,1B,"Target player sacrifices a creature. If a Goblin is sacrificed this way, that player puts two 1/1 black Goblin Rogue creature tokens into play, and those tokens gain haste until end of turn.","""And that's when it was discovered that boggarts have just half a brain.""—The Book of Other Folk",,,,1
+897,Boldwyr Intimidator,,,Creature,Giant,Warrior,,Morningtide,Uncommon,Christopher Moeller,,86,150,5RR,"Cowards can't block Warriors.
+R: Target creature becomes a Coward until end of turn.
+2R: Target creature becomes a Warrior until end of turn.","""Now everyone knows what you are.""",5,5,,4
+898,Pyroclast Consul,,,Creature,Elemental,Shaman,,Morningtide,Uncommon,Christopher Moeller,,96,150,3RR,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Pyroclast Consul, you may reveal it.If you do, Pyrocalast Consul deals 2 damage to each creature.",,3,3,,3
+899,Rage Forger,,,Creature,Elemental,Shaman,,Morningtide,Uncommon,Dominick Domingo,,97,150,2R,"When Rage Forger comes into play, put a +1/+1 counter on each other Shaman creature you control.
+Whenever a creature you control with a +1/+1 counter on it attacks, you may have that creature deal 1 damage target player.",,2,2,,1
+900,Release the Ants,,,Instant,,,,Morningtide,Uncommon,Ron Spencer,,98,150,1R,"Release the Ants deals 1 damage to target creature or player. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,3
+901,Rivals' Duel,,,Sorcery,,,,Morningtide,Uncommon,Zoltan Boros,Gabor Szikszai,99,150,3R,Choose two target creatures that share no creature types. Each of those creatures deals damage equal to its power to the other.,They could agree on one thing only: one of them must die.,,,,2
+902,Spitebellows,,,Creature,Elemental,,,Morningtide,Uncommon,Larry MacDougall,,105,150,5R,"When Spitebellows leaves play, it deals 6 damage to target creature.
+Evoke 1RR (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)
+Disaster stalks with gaping jaws across unready lands.",,6,1,,2
+903,Stomping Slabs,,,Sorcery,,,,Morningtide,Uncommon,Alex Horley-Orlandelli,,107,150,2R,"Reveal the top seven cards of your library, then put those cards on the bottom of your library in any order. If a card named Stomping Slabs was revealed this way, Stomping Slabs deals 7 damage to target creature or player.",,,,,4
+904,Bramblewood Paragon,,,Creature,Elf,Warrior,,Morningtide,Uncommon,Jim Murray,,115,150,1G,"Each other Warrior creature you control comes into play with an additional +1/+1 counter on it.
+Each creature you control with a +1/+1 counter on it has trample.",Those who seek to escape her blades succeed only in dying on their stomachs.,2,2,,8
+905,Heritage Druid,,,Creature,Elf,Druid,,Morningtide,Uncommon,Larry MacDougall,,126,150,G,Tap three untapped elves you control: Add GGG to your mana pool.,"""Study the great spirits of our age and those of the past. Prune secrets from teh branching traceries of our lineage.""—Twila, Gilt-Leaf archdruid.",1,1,,4
+906,Hunting Triad,,,Tribal,Sorcery,Elf,,Morningtide,Uncommon,Jim Nelson,,127,150,3G,"Put three 1/1 green Elf Warrior creature tokens into play.
+Reinforce 3—3G (3G, Discard this card: Put three +1/+1 counters on target creature.)","""Eyeblights are easy to track. Just follow the imperfections.""",,,,4
+907,Orchard Warden,,,Creature,Treefolk,Shaman,,Morningtide,Uncommon,Rebecca Guay,,131,150,4GG,"Whenever another Treefolk creature comes into play under your control, you may gin life equal to that creature's toughness.","""After the Rising, a treefolk's mind is as limber and green as its limbs, and it is at its most receptive to our teachings.""",4,6,,3
+908,Recross the Paths,,,Sorcery,,,,Morningtide,Uncommon,Greg Hildebrandt,,133,150,2G,"Reveal cards from the top of your library until you reveal a land card. Put that card into play and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return Recross the Paths to its owner's and. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higherh converted mana cost.)",,,,,3
+909,Walker of the Grove,,,Creature,Elemental,,,Morningtide,Uncommon,Todd Lockwood,,138,150,6GG,"When Walker of the Grove leaves play, put a 4/4 green Elemental creature token into play.
+Evoke 4G (You may play this spell for its evoke cost. If you do, it's sacrificed when it comes into play.)",,7,7,,4
+910,Wolf-Skull Shaman,,,Creature,Elf,Shaman,,Morningtide,Uncommon,Jim Murray,,140,150,1G,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Wolf-Skull Shaman, you may reveal it. If you do, put a 2/2 green Wolf creature token into play.",A chorus of howls answers his call.,2,2,,4
+911,Ballyrush Banneret,,,Creature,Kithkin,Soldier,,Morningtide,Common,Ralph Horsley,,1,150,1W,Kithkin spells and Soldier spells you play cost 1 less to play.,Only wool from the side of the springjack turned most often to the sun can be woven into kithkin battle standards. Jackherds record every movement of their woolly-jacks until shearing.,2,1,,9
+912,,,,,,,,,,,,,,,,,,,,
+913,Burrenton Bombardier,,,Creature,Kithkin,Soldier,,Morningtide,Common,Ron Spencer,,3,150,2W,"Flying
+Reinforce 2—2W (2W, Discard this card: Put two +1/+1 counters on target creature.)","The flasks provide ballast, a means of steering, and—with a little luck—a way to deliver ward-spells to cohorts below.",2,2,,4
+914,Burrenton Shield-Bearers,,,Creature,Kithkin,Soldier,,Morningtide,Common,Daren Bader,,4,150,4W,"Whenever Burrenton Shield-Bearers attacks, target creature gets +0/+3 until end of turn.","Soul and bones, kithkin are woven into their clans. They fight fiercely and without self-interest.",3,3,,8
+915,Changeling Sentinel,,,Creature,Shapeshifter,,,Morningtide,Common,Chuck Lukacs,,6,150,3W,"Changeling (This card is every creature type at all times.)
+Vigilance",There's nothing more unsettling than locking blades with something that looks just like you.,3,2,,7
+916,Coordinated Barrage,,,Instant,,,,Morningtide,Common,Franz Vohwinkel,,7,150,W,Choose a creature type. Coordinated Barrage deals damage to target attacking or blocking creature equal to the number of permanents you control of the chosen type.,,,,,5
+917,Forfend,,,Instant,,,,Morningtide,Common,Franz Vohwinkel,,10,150,1W,Prevent all damage that woudl be dealt to creatures this turn.,"""Suddenly there stood a fortress protecting the clachan, its walls hewn of valor and mortared with honor.""—Clachan Tales",,,,9
+918,Kithkin Zephyrnaut,,,Creature,Kithkin,Soldier,,Morningtide,Common,Quinton Hoover,Val Mayerik,16,150,2W,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Kithkin Zephyrnaut, you may reveal it. If you do, Kithkin Zephyrnaut gets +2/+2 and gains flying and vigilance until end of turn.",,2,2,,7
+919,Mosquito Guard,,,Creature,Kithkin,Soldier,,Morningtide,Common,Randy Gallegos,,18,150,W,"First strike
+Reinforce 1—1W (1W, Discard this card: Put a +1/+1 counter on target creature.)","His aim is as sure as a mosquito's sting, but with none of the warning.",1,1,,8
+920,Order of the Golden Cricket,,,Creature,Kithkin,Knight,,Morningtide,Common,Mark Zug,,19,150,1W,"Whenever Order of the Golden Cricket attacks, you may pay W. If you do, it gains flying until end of turn.","""Should you take it in mind to ride a springjack, remember: there are easier ways to fly, and harder ways to break your skull.""—Lann of CLoverdell",2,2,,3
+921,Shinewend,,,Creature,Elemental,,,Morningtide,Common,Terese Nielsen,,23,150,1W,"Flying
+Shinewend comes into play with a +1/+1 counter on it.
+1W, Remove a +1/+1 counter from Shinewend: Destroy target enchantment.",,0,0,,4
+922,Stonybrook Schoolmaster,,,Creature,Merfolk,Wizard,,Morningtide,Common,Quinton Hoover,Val Mayerik,25,150,2W,"Whenever Stonybrook Schoolmaster becomes tapped, you may put a 1/1 blue Merfolk Wizard creature token into play.",Merrow schools rarely form by design. They come together naturally as eager learners surround the wisest teachers.,1,2,,2
+923,Weight of Conscience,,,Enchantment,Aura,,,Morningtide,Common,Heather Hudson,,28,150,1W,"Enchant creature
+Enchanted creature can't attack.
+Tap two untapped creatures you control that share a creature type: Remove enchanted creature from the game.",Sometimes the weight of the world on your shoulders is a literal one.,,,,7
+924,Dewdrop Spy,,,Creature,Faerie,Rogue,,Morningtide,Common,Wayne England,,30,150,1UU,"Flash
+Flying
+When Dewdrop Spy comes into play, look at the top card of target player's library.",Only in dew from Oona herself is there clarity enough to see a victim's mind.,2,2,,2
+925,Disperse,,,Instant,,,,Morningtide,Common,Steve Ellis,,31,150,1U,Return target nonland permanent to its owner's hand.,"Gyffid scowled at the sky. A perfect day for the hunt tainted by clouds. He wished them gone. High above, the clouds looked down, scowled, and made a wish of their own.",,,,2
+926,Distant Melody,,,Sorcery,,,,Morningtide,Common,Omar Rayyan,,32,150,3U,Choose a creature type. Draw a card for each permanent you control of that type.,"Oona's song is like a twisted dinner chime. All the faeries return home, but it is Oona who feasts—on the stolen dreams and rumors they serve her.",,,,2
+927,Fencer Clique,,,Creature,Faerie,Soldier,,Morningtide,Common,William O'Connor,,33,150,2UU,"Flying
+U: Put Fencer Clicque on top of its owner's library.","You may as well try to swat a faerie—Flamekin expression meaning ""that's impossible""",3,2,,5
+928,Floodchaser,,,Creature,Elemental,,,Morningtide,Common,Eric Fortune,,34,150,5U,"Floodchaser comes into play with six +1/+1 counters on it.
+Floodchaser can't attack unlesss defending player controls an Island.
+U, Remove a +1/+1 counter from Floodchaser: Target land becomes an Island until end of turn.",,0,0,,3
+929,Ink Dissolver,,,Creature,Merfolk,Wizard,,Morningtide,Common,Brandon Dorman,,36,150,1U,"Kinship — At the beginning of your upkeep, you may look at thetop card of your library. If it shares a creature type with Ink Dissolver, you may reveal it. If you do, each opponent puts the top three cards of his or her library into his or her graveyard.",,2,1,,2
+930,Latchkey Faerie,,,Creature,Faerie,Rogue,,Morningtide,Common,Warren Mahy,,39,150,3U,"Flying
+Prowl 2U (You may play this for its prowl cost if you dealt combat damage to a player this turn with a Faerie or Rogue.)
+When Latchkey Faerie comes into play, if its prowl cost was paid, draw a card.",,3,1,,4
+931,Merrow Witsniper,,,Creature,Merfolk,Rogue,,Morningtide,Common,Steve Prescott,,40,150,U,"When Merrow Witsniper comes into play, target player puts the top card of his or her library into his or her graveyard.","""The world above the waterline must be monitored—and, when necessary, adjusted.""",1,1,,3
+932,Mothdust Changeling,,,Creature,Shapeshifter,,,Morningtide,Common,Shelly Wan,,42,150,U,"Changeling (This card is every creature type at all times.)
+Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.","""Ever seen a changeling fly into a lantern?""—Calydd, kithkin farmer",1,1,,10
+933,Negate,,,Instant,,,,Morningtide,Common,Jeremy Jarvis,,43,150,1U,Counter target noncreature spell,Masters of the arcane savor a delicious irony. Their study of deep and complex arcana leads to such a simple end: the ability to say merely yes or no.,,,,8
+934,Stonyrbook Banneret,,,Creature,Merfolk,Wizard,,Morningtide,Common,Ralph Horsley,,51,150,1U,"Islandwalk
+Merfolk spells and Wizard spells cost 1 less to play.","Made from trout scales and crawfish whiskers, merrows' shimmering banners flash in the water like lightning.",1,1,,6
+935,Stream of Unconsciousness,,,Tribal,Instant,Wizard,,Morningtide,Common,Rebecca Guay,,52,150,U,"Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.",Dreams are tempting because one is so powerful in them. Dreams are dangerous because that power is a lie.,,,,3
+936,Blightsoil Druid,,,Creature,Elf,Druid,,Morningtide,Common,Nils Hamm,,59,150,1B,"T, Pay 1 life: Add G to your mana pool.","""See the beauty in death: the clean white bones lying in the fertile soil and the brightly colored moonglove sprouting from the fell earth.""",1,2,,4
+937,Festercreep,,,Creature,Elemental,,,Morningtide,Common,Jeff Easley,,62,150,1B,"Festercreep comes into play with a +1/+1 counter on it.
+1B, Remove a +1/+1 counter form Festercreep: All other creatures get -1/-1 until end of turn.",A single festercreep isn't alone. It's already an infestation.,0,0,,4
+938,Final-Sting Faerie,,,Creature,Faerie,Assassin,,Morningtide,Common,Wayne Reynolds,,63,150,3B,"Flying
+When Final-Sting Faerie comes into play, destroy target creature that was dealt damage this turn.",Many heroes' last sight is a grin at the other end of a rapier.,2,2,,4
+939,Frogtosser Banneret,,,Creature,Goblin,Rogue,,Morningtide,Common,Ralph Horsley,,64,150,1B,"Haste
+Goblin spells and Rogue spells you play cost 1 less to play.","The Frogtossers thread feathers, bones, and trophies from past raids into their standards, believing they fuel the warren wth the anger of its victims.",1,1,,7
+940,Moonglove Changeling,,,Creature,Shapeshifter,,,Morningtide,Common,Wayne England,,67,150,2B,"Changeling (This card is every creature type at all times.)
+B: Moonglove Changeling gains deathtouch until end of turn. (Whenever it deals damage to a creature, destroy that creature.)",,2,2,,4
+941,Morsel Theft,,,Tribal,Sorcery,Rogue,,Morningtide,Common,Darrell Riche,,68,150,2BB,"Prowl 1B (You may play this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Target player loses 3 life and you gain 3 life. If Morsel Theft's prowl cost was paid, draw a card.",,,,,7
+942,Pack's Disdain,,,Instant,,,,Morningtide,Common,Pete Venters,,73,150,1B,Choose a creature type. Target creature gets -1/-1 until end of turn for each permanent of the chosen type you control.,"Like the sun to a flower, the adoring gaze of the tribe is sustenance to an elf. To be shunned is to wither.",,,,6
+943,Prickly Boggart,,,Creature,Goblin,Rogue,,Morningtide,Common,Jesper Ejsing,,74,150,B,Fear,"""Even without the spines, who would dare to touch it?""—Desmera, perfect of Wren's Run",1,1,,2
+944,Pulling Teeth,,,Sorcery,,,,Morningtide,Common,Jim Pavelee,,75,150,1B,"Clash with an opponent. If you win, target player discards two cards. Otherwise, that player discards a card. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,6
+945,Squeaking Pie Grubfellows,,,Creature,Goblin,Shaman,,Morningtide,Common,Jim Pavelee,,78,150,3B,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Squeaking Pie Grubfellows, you may reveal it. If you do, each opponent discards a card.",,3,2,,4
+946,Violet Pall,,,Tribal,Instant,Faerie,,Morningtide,Common,Jeff Miracola,,81,150,4B,Destroy target nonblack creature. Put a 1/1 black Faerie Rogue creature token with flying into play.,A faerie is the offspring of Oona and mischief.,,,,7
+947,Weed-Pruner Poplar,,,Creature,Treefolk,Assassin,,Morningtide,Common,Jeff Miracola,,83,150,4B,"At the beginning of your upkeep, target creature other than Weed-Pruner Poplar gets -1/-1 until end of turn.","""When Byoog reached down to pull up a bit of root for the stew, he didn't expect the root to pull back.""—A tale of Auntie Wort",3,3,,7
+948,Brighthearth Banneret,,,Creature,Elemental,Warrior,,Morningtide,Common,Ralph Horsley,,88,150,1R,"Elemental spells and Warrior spells you play cost 1 less to play.
+Reinforce 1—1R (1R, Discard this card: Put a +1/+1 counter on target creature.)",The banner symbolizes the goodwill of the Brighthearth. Their emissaries bring the mastery of fire to other races.,1,1,,9
+949,Fire Juggler,,,Creature,Goblin,Shaman,,Morningtide,Common,Thomas Denmark,,90,150,2R,"Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.",,2,2,,4
+950,Hostile Realm,,,Enchantment,Aura,,,Morningtide,Common,John Avon,,91,150,2R,"Enchant land
+Encahnted land has ""T: Target creature can't block this turn.""",Lorwyn's crust explodes with power when the greater elementals are born. The flamekin use the fallout as cover for forays into enemy territory.,,,,4
+951,Kindled Fury,,,Instant,,,,Morningtide,Common,Shelly Wan,,92,150,R,Target creature gets +1/+0 and gains first strike until end of turn.,"""All beings carry the fire inside them. The challenge is to unleash it before they dwindle into oblivion.""—Illulia, flamekin soulstoke",,,,5
+952,Lunk Errant,,,Creature,Goblin,Warrior,,Morningtide,Common,Warren Mahy,,94,150,5R,"Whenever Lunk Errant attacks alone, it gets +1/+1 and gains trample until end of turn.","""One's plenty,"" observed the merrow. ""Way too plenty,"" agreed the boggart.",4,4,,6
+953,Mudbutton Clanger,,,Creature,Goblin,Warrior,,Morningtide,Common,Larry MacDougall,,95,150,R,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Mudbotton Clanger, you may reveal it. If you do, Mudbotton Clanger gets +1/+1 until end of turn.",,1,1,,6
+954,Roar of the Crowd,,,Sorcery,,,,Morningtide,Common,Dave Dorman,,100,150,3R,Choose a creature type. Roar of the Crowd deals damage to target creature or player equal to the number of permanents you control of the chosen type.,One voice is but a pebble to the rest of the world. A thousand voices at once is an avalanche.,,,,8
+955,Seething Pathblazer,,,Creature,Elemental,Warrior,,Morningtide,Common,Steve Prescott,,101,150,2R,Sacrifice an Elemental: Seethign Pathblazer gets +2/+0 and gains first strike until end of turn.,"""Flamekin death rites are elaborate and spectacular affairs. Their greatest fear is death in obscurity.""—Tollek Worldwatcher, journal",2,2,,7
+956,Shard Volley,,,Instant,,,,Morningtide,Common,Franz Vohwinkel,,103,150,R,"As an additional cost to play Shard Volley, sacrifice a land.
+Shard Volley deals 3 damage to taret creature or player.","""Let the mountain's teeth pierce our oppressors.""",,,,10
+957,Stingmoggie,,,Creature,Elemental,,,Morningtide,Common,Omar Rayyan,,106,150,3R,"Stingmoggie comes into play with two +1/+1 counters on it.
+3R, Remove a +1/+1 coutner from Stingmoggie: Destroy target artifact or land.",A path vexed by the stingmoggie was probably the wrong path anyhow.,0,0,,3
+958,Sunflare Shaman,,,Creature,Elemental,Shaman,,Morningtide,Common,Dave Dorman,,108,150,1R,"1R, T: Sunflare Shaman deals X damage to target creature or player and X damage to itself, where X is the number of Elemental cards in your graveyard.",A spark to light the guttered heart.,2,1,,7
+959,War-Spike Changeling,,,Creature,Shapeshifter,,,Morningtide,Common,Mark Poole,,112,150,3R,"Changeling (This card is every creature type at all times.)
+R: War-Spike Changeling gains first strike until end of turn.","""Arent' there boggarts enough in Lorwyn? Couldn't it turn into a sheep? Or a sunflower?""—Olly of Goldmeadow",3,3,,5
+960,Ambassador Oak,,,Creature,Treefolk,Warrior,,Morningtide,Common,Steve Prescott,,113,150,3G,"When Ambassador Oak comes into play, put a 1/1 green Elf Warrior creature token into play.","Treefolk and elves share a common interest in the forests, but really the elves just feel at home with the view from above.",3,3,,4
+961,Bosk Banneret,,,Creature,Treefolk,Shaman,,Morningtide,Common,Ralph Horsley,,114,150,1G,Treefolk spells and Shaman spells you play cost 1 less to play.,"Deep in a murmuring bosk, where the trees' memories span centuries, the simple banner of green and copper signifies an elder whose rings number mroe than a faerie's days.",1,3,,3
+962,Deglamer,,,Instant,,,,Morningtide,Common,Zoltan Boros,Gabor Szikszai,118,150,1G,Choose target artifact or enchantment. Its owner shuffles it into his or her library.,"The more pleasant an illusion's garb, the more indecent its form laid bare.",,,,3
+963,Earthbrawn,,,Instant,,,,Morningtide,Common,Kev Walker,,119,150,1G,"Target creature gets +3/+3 until end of turn.
+Reinforce 1—1G (1G, Discard this card: Put a +1/+1 counter on target creature.)",Gremil finally felt in touch with nature—and ffelt a need to share the experience with others.,,,,6
+964,Elvish Warrior,,,Creature,Elf,Warrior,,Morningtide,Common,Kev Walker,,120,150,GG,,"As graceful as a deer leaping a stream and as deadly as the wolf waiting in ambush on the other side, elvish warriors are the eyes of the forest as well as its unsheathed claws.",2,3,,15
+965,Everbark Shaman,,,Creature,Treefolk,Shaman,,Morningtide,Common,Larry MacDougall,,121,150,4G,"T, Remove a Treefolk card in your graveyard from the game: Search your library for two Forest cards and put them into play tapped. Then shuffle your library.","""May you rise again, from seed to sapling to sentience.""",3,5,,5
+966,Fertilid,,,Creature,Elemental,,,Morningtide,Common,Wayne Reynolds,,122,150,2G,"Fertilid comes into play with two +1/+1 counters on it.
+1G, Remove a +1/+1 coutner from Fertilid: Target player searches his or her library for a basic land card and puts it into play tapped. Then that player shuffles his or her library.",,0,0,,6
+967,Game-Trail Changeling,,,Creature,Shapeshifter,,,Morningtide,Common,Martina Pilcerova,,123,150,3GG,"Changeling (This card is every creature type at all times.)
+Trample","""I pity them, never knowing the pleasures of a single familiar form, bu tat least they find a noble shape at times.""—Desmera, perfect of Wren's Run",4,4,,3
+968,Luminescent Rain,,,Instant,,,,Morningtide,Common,John Avon,,129,150,2G,Choose a creature type. You gain 2 life for each permanent you control of that type.,,,,,8
+969,Lys Alana Bowmaster,,,Creature,Elf,Archer,,Morningtide,Common,Dan Scott,,130,150,2G,"Reach (This can block creatures with flying.)
+Whenever you play an Elf spell, you may have Lys Alana Bowmaster deal 2 damage to target creature with flying.",,2,2,,1
+970,Reins of the Vinesteed,,,Enchantment,Aura,,,Morningtide,Common,Jim Pavelec,,134,150,3G,"Enchant creature
+Enchanted creature gets +2/+2.
+When enchanted creature is put into a graveyard, you may return Reins of the Vinesteed from your graveyard to play attached to a creature that shares a creature type with that creature.",,,,,4
+971,Winnower Patrol,,,Creature,Elf,Warrior,,Morningtide,Common,Eric Fortune,,139,150,2G,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Winnower Patrol, you may reveal it. If you do, put a +1/+1 counter on Winnower Patrol.",,3,2,,7

@@ -1,0 +1,389 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+3408,Environmental Sciences,,,Sorcery,Lesson,,,Strixhaven,Common,Jokubas Uogintas,,1,275,2,"Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.",First-years quickly learn how the Vastlands earned its name.,,,,3
+3409,Expanded Anatomy,,,Sorcery,Lesson,,,Strixhaven,Common,Slawomir Maniak,,2,275,3,Put two +1/+1 counters on target creature. It gains vigilance until end of turn.,"""Changing the equation from incremental to exponential was a stoke of genius on my part.""",,,,3
+3410,Introduction to Annihilation,,,Sorcery,Lesson,,,Strixhaven,Common,Nicholas Gregory,,3,275,5,Exile target nonland permanent. Its controller draws a card.,"""I've never seen a student fail quite so spectacularly. There's potential in that.""
+—Hostram, professor of archanochemistry",,,,3
+3411,Introduction to Prophecy,,,Sorcery,Lesson,,,Strixhaven,Common,Micah Epstein,,4,275,3,"Scry 2, then draw a card.",Final grades are posted on the first day of class.,,,,4
+3412,Ageless Guardian,,,Creature,Spirit,Soldier,,Strixhaven,Common,Nicholas Gregory,,8,275,1W,,"Ancient ruins dot the world of Arcavios, most older than Strixhaven itself and many still guarded by soldiers from the Blood Age, centuries after their deaths.",1,4,,4
+3413,Beaming Defiance,,,Instant,,,,Strixhaven,Common,Manuel Castañon,,9,275,1W,Target creature you control gets +2/+2 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),"""I've lived too long in my father's shadow. It's time to find my own light.""
+—Killian, Silverquill mage-student",,,,3
+3414,Clever Lumimancer,,,Creature,Human,Wizard,,Strixhaven,Uncommon,Lie Setiawan,,10,275,W,"Magecraft — Whenever you cast or copy an instant or sorcery spell, Clever Lumimancer gets +2/+2 until end of turn.","""You're too dim to realize it, but you've already lost.""",0,1,,2
+3415,Combat Professor,,,Creature,Bird,Cleric,,Strixhaven,Common,Andrey Kuzinskiy,,11,275,3W,"Flying
+At the beginning of combat on your turn, target creature you control gets +1/+0 and gains vigilance until end of turn.","""Before Yovus was cut down at Pranticle Peak, she performed which maneuver? Anyone? From the reading?""",2,3,,4
+3416,Defend the Campus,,,Instant,,,,Strixhaven,Common,Izzy,,12,275,3W,"Choose one —
+Creatures you control get +1/+1 until end of turn.
+Destroy target creature with power 4 or greater.","Professoros scrambeld to push the mage hunters back, leaving the heart of Strixhaven undefended.",,,,3
+3417,Detention Vortex,,,Enchantment,Aura,,,Strixhaven,Uncommon,Campbell White,,13,275,W,"Enchant nonland permanent
+Enchanted permanent can't attack or block, and its activated abilities can't be activated.
+3: Destroy Detention Vortex. Only your Opponents may activate this ability and only as a sorcery.",,,,,2
+3418,Dueling Coach,,,Creature,Human,Monk,,Strixhaven,Uncommon,Caio Monteiro,,15,275,3W,"When Dueling Coach enters the battlefield, put a +1/+1 counter on target creature.
+4W, T: Put a +1/+1 coutner on target creature.
+4W, T: Put a +1/+1 counter on each creature you control with a +1/+1 coutner on it.",,2,2,,2
+3419,Eager First-Year,,,Creature,Human,Wizard,,Strixhaven,Common,Christi Balanescu,,16,275,1W,"Magecraft — Whenever you cast or copy an instant or sorcery spell, Eager First-Year gets +1/+0 until end of turn.","Today, she learns the basics. She'll knock out advanced theory later this week.",2,2,,3
+3420,Expel,,,Instant,,,,Strixhaven,Common,Billy Christian,,18,275,2W,Exile target tapped creature.,"Quintorius was a daydreamer, far happier digging through history books than practicing battletactics. He agreed with the military academy on only one thing: he did not belong in their ranks.",,,,3
+3421,Guiding Voice,,,Sorcery,,,,Strixhaven,Common,Steve Argyle,,19,275,W,"Put a +1/+1 counter on target creature.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)","When honormancers work together, their compliments are complementary.",,,,3
+3422,Pilgrim of the Ages,,,Creature,Spirit,,,Strixhaven,Common,Jihun,,22,275,2W,"When Pilgrim of the Ages enters the battlefield, you may search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+6: Return Pilgrim of the Ages from your graveyard to your hand.",,2,1,,3
+3423,Pillardrop Rescuer,,,Creature,Spirit,Cleric,,Strixhaven,Common,Jason A. Engle,,23,275,4W,"Flying
+When Pillardrop Rescuer enters the battlefield, return target creature card with mana value 3 or less from your graveyard to your hand.",Gentle hands of stone whisk the careless from the crumbling ruins of Pillardrop.,2,2,,5
+3424,Professor of Symbology,,,Creature,Kor,Cleric,,Strixhaven,Uncommon,Jason Rainville,,24,275,1W,"When Professor of Symbology enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)","""A language isn't dead until we stop learning from it.""",2,1,,1
+3425,Reduce to Memory,,,Sorcery,Lesson,,,Strixhaven,Uncommon,Campbell White,,25,275,1WW,Exile target nonland permanent. Its controller creates a 3/2 red and white Spirit creature token.,"""Do not flinch from studying the horrors of the past. History's most important lessons are cloaked in terror and tragedy.""
+—Augusta, Lorehold dean",,,,1
+3426,Secret Rendezvous,,,Sorcery,,,,Strixhaven,Uncommon,Manuel Castañon,,26,275,1WW,You and target opponent each draw three cards.,"Strixhaven's five colleges encourage natural rivalries among the students, bu tsome bonds transcend all barriers.",,,,1
+3427,Show of Confidence,,,Instant,,,,Strixhaven,Uncommon,Paul Scott Canavan,,28,275,1W,"When you cast this spell, copy it for each other instant and sorcery spell you've cast this turn. You may choose new targets for the copies.
+Put a +1/+1 coutner on target creature. It gains vigilance until end of turn.",,,,,2
+3428,Star Pupil,,,Creature,Human,Wizard,,Strixhaven,Common,Howard Lyon,,30,275,W,"Star Pupil enters the Battlefield with a +1/+1 coutner on it.
+When Star Pupil dies, put its counters on target creature you control.","""When I'm done here, they'll name entire buildings after me.""",0,0,,3
+3429,Stonebinder's Familiar,,,Creature,Spirit,Dog,,Strixhaven,Uncommon,Sam Rowan,,31,275,W,"Whenever one or more cards are put into exile during your turn, put a +1/+1 counter on Stonebinder's Familiar. This ability triggers only once each turn.","""Hey, my great-great-grandfather had a dog just like that!""
+—Dradiel, Lorehold mage-student",1,1,,1
+3430,Stonerise Spirit,,,Creature,Spirit,Bird,,Strixhaven,Common,Uriah Voth,,32,275,1W,"Flying
+4, Exile a card from your graveyard: Target creature gains flying until end of turn.",The carved cliffs of Pillardrop thrum with the sounds of ancient spirits rising from the past.,1,2,,3
+3431,Study Break,,,Instant,,,,Strixhaven,Common,Christi Balanescu,,34,275,1W,"Tap up to two target creatures.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)","""You've been cramming all night. You're taking a nap whether you like it or not.""",,,,4
+3432,Thunderous Orator,,,Creature,Kor,Wizard,,Strixhaven,Uncommon,Brian Valeza,,35,275,1W,"Vigilance
+Whenever Thunderous Orator attacks, it gains flying until end of turn if you control a creature with flying. The same is true for sfirst strike, double strike, deathtouch, indestructible, lifelink, menace, and trample.",,2,2,,1
+3433,Arcane Subtraction,,,Instant,,,,Strixhaven,Common,Anastasia Ovchinnikova,,36,275,1U,Target creature gets -4/-0 until end of turn.,The class learned little that day.,,,,3
+3434,Burrog Befuddler,,,Creature,Frog,Wizard,,Strixhaven,Common,Zoltan Boros,,38,275,1U,"Flash
+When Burrog Befuddler enters the battlefield, target creature an opponent controls gets -1/-0 until end of turn.",Students who seek river herbs in Doradur quickly find themselves slightly damp and thoroughly surrounded.,2,1,,3
+3435,Bury in Books,,,Instant,,,,Strixhaven,Common,Zoltan Boros,,39,275,4U,"This spell costs 2 less to cast if it targets an attacking creature.
+Put target creature into its owner's library second from the top.","There are no weapons allowed in the Biblioplex, but a clever mage is never truly defenseless.",,,,5
+3436,Curate,,,Instant,,,,Strixhaven,Common,Izzy,,40,275,1U,"Look up the top two cards of yoru library. Put any number of them into your graveyard adn the rest back on top of your library in any order.
+Draw a card.","""Kathorran War Chants, Vol. III? That doesn't even belong in this wing!""",,,,3
+3437,Divide by Zero,,,Instant,,,,Strixhaven,Uncommon,Liiga Smilshkalne,,41,275,2U,"Return target spell or permanent with mana value 1 or greater to its owner's hand.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into yoru hand, or discard a card to draw a card.)","""Misery. Inadequacy. Failure. The common denominator is you.""",,,,1
+3438,Frost Trickster,,,Creature,Bird,Wizard,,Strixhaven,Common,Uriah Voth,,43,275,2U,"Flying
+When Frost Trickster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",The most important skill in a Mage Tower match is keeping one's cool.,2,2,,3
+3439,Kelpie Guide,,,Creature,Beast,,,Strixhaven,Uncommon,Ilse Gort,,45,275,2U,"T: Untap another target permanent you control.
+T: Tap target permanent. Activate only if you control eight or more lands.","Kelpies are drawn to paradoxes, making them ideal companions for Quandrix mages.",2,2,,2
+3440,Mentor's Guidance,,,Sorcery,,,,Strixhaven,Uncommon,Brian Valeza,,46,275,2U,"When you cast this spell, copy it if you control a planeswalker, Cleric, Druid, Shaman, Warlock, or Wizard.
+Scry 1, then draw a card.","Kasmina had encouraged  the twins to apply. Strixhaven would test not only their magical potential, but also their character.",,,,1
+3441,Mercurial Transformation,,,Sorcery,Lesson,,,Strixhaven,Uncommon,Craig J Spearing,,47,275,1U,"Until end of turn, target nonland permanent loses all abilities and becomes your choice of a blue Frog creature with base power and toughness 1/1 or a blue Octopus creature with base power and toughness 4/4.","""For sun's sake, I just want a crab!""",,,,1
+3442,Pop Quiz,,,Instant,,,,Strixhaven,Common,Matt Stewart,,49,275,2U,"Draw a card.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)","""Today is hydromancy? I thought it was amplimancy! I studied for Amplimancy!",,,,3
+3443,Reject,,,Instant,,,,Strixhaven,Common,Zoltan Boros,,50,275,1U,"Counter target creature or planeswalker spell unless its controller pays 3. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.","""Grux, for the last time, you have to do more than simply shout 'Apply!' at the administrators.""
+—Pavil, admissions officer",,,,3
+3444,Resculpt,,,Instant,,,,Strixhaven,Common,Torstein Nordstrand,,51,275,1U,Exile target artifact or creature. Its controller creates a 4/4 blue and red Elemental creature token.,"Critics were struck first by the elemental's surprising grace, and then by its fists.",,,,4
+3445,Serpentine Curve,,,Sorcery,,,,Strixhaven,Common,Kekai Kotaki,,52,275,3U,"Create a 0/0 green and blue Fractal creature token. Put X +1/+1 coutners on it, where X is one plus the total number of instant and sorcery cards you own in exile and in your graveyard.",,,,,3
+3446,Snow Day,,,Instant,,,,Strixhaven,Uncommon,Forrest imel,,53,275,4UU,"Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Draw two cards, then discard a card.","""Advanced Elemental Manifestations is canceled until all students have thawed.""
+—Prismari dormitory notice",,,,1
+3447,Solve the Equation,,,Sorcery,,,,Strixhaven,Uncommon,Lie Setiawan,,54,275,2U,"Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.","Zimone's brilliance drew attention from many, including the sinister mages known as the Oriq.",,,,2
+3448,Soothsayer Adept,,,Creature,Merfolk,Wizard,,Strixhaven,Common,Christi Balanescu,,55,275,1U,"1U, T: Draw a card, then discard a card.",One of the first lessons divination students learn is how to recognize the difference between a portent and a simple surface ripple.,1,3,,3
+3449,Symmetry Sage,,,Creature,Human,Wizard,,Strixhaven,Uncommon,Jehan Choo,,56,275,U,"Flying
+Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature you control has base power 2 until end of turn.
+","""By my calculations, I should be able to achieve true enlightenment before graduation.""",0,2,`,1
+3450,Test of Talents,,,Instant,,,,Strixhaven,Uncommon,Lie Setiawan,,59,275,1U,"Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for any number of cards with the same name as that spell and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.",,,,,1
+3451,Vortex Runner,,,Creature,Human,Wizard,,Strixhaven,Common,Billy Christian,,60,275,2U,"As long as you control eight or more lands, Vortex Runner gets +1/+0 and can't be blocked.","""By using the vortex, I can study for at least fifteen extra minutes between every class. I wasn't being reckless, Dean Imbraham. I was being efficient.""",2,3,,3
+3452,Waterfall Aerialist,,,Creature,Djinn,Wizard,,Strixhaven,Common,Lie Setiawan,,61,275,3U,"Flying
+Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter in unless that player pays 2.)",Form and function in perfect unity.,3,1,,4
+3453,Wormhole Serpent,,,Creature,Serpent,,,Strixhaven,Uncommon,Tomasz Jedruszek,,62,275,4U,3U: Target creature can't be blocked this turn.,"After drownings, devourings, and one highly unpleasant algae infestation, unsupervised portal use on campus was banned.",3,5,,2
+3454,Arrogent Poet,,,Creature,Human,Warlock,,Strixhaven,Common,Billy Christian,,63,275,1B,"Whenever Arrogant Poet attacks, you may pay 2 life. If you do, it gains flying until end of turn.","""I would be kinder to my peers, Professor, but I simply don't have any.""",2,1,,3
+3455,Brackish Tangle,,,Creature,Fungus,Beast,,Strixhaven,Uncommon,Tomasz Jedruszek,,65,275,2B,"Brackish Trudge enters the battlefield tapped.
+1B: Return Brackish Trudge from your graveyard to your hand. Activate only if you have gained life this turn.","Most trudges are covered with decaying plant matter, making them ideal breeding grounds for fungal spores.",4,2,,1
+3456,Crushing Disappointment,,,Instant,,,,Strixhaven,Common,Andrey Kuzinskiy,,68,275,3B,Each player loses 2 life. You draw two cards.,Most students could barely endure Dean Embrose's scrutiny for a semester or two; Killian lived with it his entire life.,,,,2
+3457,Essence Infusion,,,Sorcery,,,,Strixhaven,Common,Randy Vargas,,69,275,1B,Put two +1/+1 counters on target creature. It gains lifelink until end of turn.,"""I'd say it's still a fair fight—now my friend is about the size of your ego.""",,,,5
+3458,Eyetwitch,,,Creature,Eye,Bat,,Strixhaven,Uncommon,Karl Kopinski,,70,275,B,"Flying
+When Eyetwitch dies, learn. (You may reveal a Lesson card you own from outsisde the game and put it into your hand, or discard a card to draw a card.)",Oculomancers see the ideal potion ingredient. The bats don't see it that way.,1,1,,1
+3459,Flunk,,,Instant,,,,Strixhaven,Uncommon,Randy Vargas,,71,275,1B,"Target creature gets -X/-X until end of turn, where X is 7 minus the number of cards in that creature's controller's hand.","""I assure you, no one fails my course more than once.""
+—Embrose, Silverquill dean
+",,,,2
+3460,Go Blank,,,Sorcery,,,,Strixhaven,Uncommon,Wylie Beckert,,72,275,2B,Target player discards two cards. Then exile all cards from that player's graveyard.,The only feeling worse than not knowing the answer is the certainty you once did.,,,,1
+3461,Hunt for Specimens,,,Sorcery,,,,Strixhaven,Common,Randy Vargas,,73,275,1B,"Create a 1/1 black and green Pest creature token with ""When this creature dies, you gain 1 life.""
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)",,,,,3
+3462,Lash of Malice,,,Instant,,,,Strixhaven,Common,Slawomir Maniak,,74,275,B,Target creature gets +2/-2 until end of turn.,"""The strongest shadow spells come from disdain for someone else, not frustration with yourself.""
+—Embrose, Silverquill dean",,,,3
+3463,Leech Fanatic,,,Creature,Human,Warlock,,Strixhaven,Common,Sean Sevestre,,75,275,1B,"As long as it's your turn, Leech Fanatic has lifelink.","""Everyone thinks that leeches maintain a strictly sanguivorous diet, but in fact, most freshwater leeches are carnivores. Wait, where are you going?""",2,2,,3
+3464,Mage Hunter,,,Creature,Horror,,,Strixhaven,Uncommon,Mathias Kollros,,76,275,3B,"Whenever an opponent casts or copies an instant or sorcery spell, they lose 1 life.","One of the Oriq's most powerful tools is the mage hunter, a vile monstrosity created to seek out and snuff out the arcane.",3,4,,1
+3465,Mage Hunter's Onslaught,,,Sorcery,,,,Strixhaven,Common,Lie Setiawan,,77,275,2BB,"Destroy target creature or planeswalker.
+Whenever a creature blocks this turn, its controller loses 1 life.","Extus stood before his alma mater for a moment, remembering first his studies, then his vengeance. At his command, ht emage hunters unfolded.",,,,4
+3466,Necrotic Fumes,,,Sorcery,Lesson,,,Strixhaven,Uncommon,David Rapoza,,78,275,1BB,"As an additional cost to cast this spell, exile a creature you control.
+Exile target creature or planeswalker.","When live specimens aren't readily available, Witherbloom mages make creative use of ragged spirits clinging to long-dead bodies.",,,,1
+3467,Novice Dissector,,,Creature,Troll,Warlock,,Strixhaven,Common,Mads Ahm,,79,275,3B,"1, Sacrifice another creature: Put a +1/+1 counter on target creature.
+Activate only as a sorcery.
+","""The professor said to first extract the venom glands, then the acid sac. Next up, the...meeping organ?""",3,3,,4
+3468,Plumb the Forbidden,,,Instant,,,,Strixhaven,Uncommon,Andrey Kuzinskiy,,81,275,1B,"As an additional cost to cast this spell, you may sacrifice one or more creatures. When you do, copy this spell for each creature sacrificed this way.
+You draw a card and you lose 1 life.","Strixhaven forbade all magic from the Blood Age, so that is where Extus began his reasearch.",,,,1
+3469,Professor's Warning,,,Instant,,,,Strixhaven,Common,Kieran Yanner,,84,275,B,"Choose one —
+Put a +1/+1 counter on target creature.
+Target creature gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)","Professor Onyx urged the twins to prepare for the dark mage Extus, sounding very much like someone familiar with the rise of tyrants.",,,,3
+3470,Promising Duskmage,,,Creature,Human,Warlock,,Strixhaven,Common,Johan Grenier,,85,275,2B,"When Promising Duskmage dies, if it had a +1/+1 counter on it, draw a card.","""Your technique is sloppy, but there is talent there. Do it again, and keep your right arm in position this time.""",2,3,,3
+3471,Specter of the Fens,,,Creature,Specter,,,Strixhaven,Common,G-Host Lee,,87,275,3B,"Flying
+5B: Target opponent loses 2 life and you gain 2 life.",Foul specters hunt down those who try to back out of a deal with daemogoth.,2,3,,3
+3472,Tenured Inkcaster,,,Creature,Vampire,Warlock,,Strixhaven,Uncommon,Jake Murray,,88,275,4B,"When Tenured Inkcaster enters the battlefield, put a +1/+1 counter on target creature.
+Whenever a creature you control with a +1/+1 counter on it attacks, each opponent loses 1 life and you gain 1 life.","""Ah, another future archmage for my collection.""",2,2,,2
+3473,Umbral Juke,,,Instant,,,,Strixhaven,Uncommon,Bram Sels,,89,275,2B,"Choose one —
+Target player sacrifices a creature or planeswalker.
+Create a 2/1 white and black Inkling creature token with flying.",,,,,1
+3474,Unwilling Ingredient,,,Creature,Fog,,,Strixhaven,Common,David Auden Nash,,90,275,B,"Menace (This creature can't be blocked except by two or more creatures.)
+2B, Exile Unwilling Ingredient from your graveyard: You draw a card and you lose 1 life.","""Don't look at me like that. It was either this or being eaten by a groff.""
+—Dina, Witherbloom mage-student",1,1,,3
+3475,Academic Dispute,,,Instant,,,,Strixhaven,Uncommon,Manuel Castañon,,91,275,R,"Target creature blocks this turn if able. You may have it gain reach until end of turn.
+Learn. (You may reveal a Lesson card you own from outside th egame and put it into your hand, or discard a card to draw a card.)","""I'll show you original research, you hack!""",,,,2
+3476,Ardent Dustspeaker,,,Creature,Minotaur,Shaman,,Strixhaven,Uncommon,Mads Ahm,,92,275,4R,"Whenever Ardent Dustspeaker attacks, you may put an instant or sorcery card from your graveyard on the bottom of your library. If you do, exile the top two cards of your library, you may play those cards this turn.","""The Founder Dragons weren't even hatched when this scroll was written!""",3,4,,1
+3477,Blood Age General,,,Creature,Spirit,Warrior,,Strixhaven,Common,Johan Grenier,,93,275,1R,T: Attacking Spirits get +1/+0 until end of turn.,"His troops took the Fortress of Caerdoon centuries ago, yet he fights on.",2,2,,4
+3478,Dragon's Approach,,,Sorcery,,,,Strixhaven,Common,Andrew Mar,,97,275,2R,"Dragon's Approach deals 3 damage to each opponent. You may exile Dragon's Approach and four cards named Dragon's Approach from your graveyard. If you do, search your library for a Dragon creature card, put it onto the battlefield, then shuffle.
+A deck can have any number of cards named Dragon's Approach.",,,,,3
+3479,Enthusiastic Study,,,Instant,,,,Strixhaven,Common,Jesper Ejsing,,99,275,2R,"Target creature gets +3/+1 and gains trample until end of turn.
+Learn. (You may reveal a Lesson card you own from outside th egame and put it into your hand, or discard a card to draw a card.)
+","""If the pen is mightier than the sword, just think what a giant tome could do!""",,,,3
+3480,Explosive Welcome,,,Instant,,,,Strixhaven,Uncommon,Mathias Kollros,,100,275,7R,Explosive Welcome deals 5 damage to any target and 3 damage to any other target. Add RRR.,"Rowan and Will were a natural fit in Prismari College, the school of outrageous elemental arts.",,,,1
+3481,First Day of Class,,,Instant,,,,Strixhaven,Common,Paul Scott Canavan,,102,275,1R,"Whenever a creature enters the battlefield under your control this turn, put a +1/+1 counter on it and it gains haste until end of turn.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)",,,,,3
+3482,Fuming Effigy,,,Creature,Spirit,,,Strixhaven,Common,Ryan Alexander Lee,,103,275,3R,"Whenever one or more cards leave your graveyard, Fuming Effigy deals 1 damage to each opponent.",Some spirits share ancient wisdom. Others just get mad you touched their stuff.,4,3,,3
+3483,Grinning Ignus,,,Creature,Elemental,,,Strixhaven,Uncommon,Alayna Danner,,104,275,2R,"R, Return Grinning Ignus to its owner's hand: Add {C}{C}R. Activate only as a sorcery.","On rare occasions, a Prismari student will summon an elemental that shows such promise that it's permitted to stay and enroll.",2,2,,2
+3484,Hall Monitor,,,Creature,Lizard,Shaman,,Strixhaven,Uncommon,Forrest Imel,,105,275,R,"Haste
+1R, T: Target creature can't block this turn.","""No unauthorized summoning. No writing in the library books. And absolutely no indoor dueling!""",1,1,,2
+3485,Heated Debate,,,Instant,,,,Strixhaven,Common,Bayard Wu,,106,275,2R,"This spell can't be countered. (This includes by the ward ability.)
+Heated Debate deals 4 damage to target creature or planeswalker.","""While you were wasting time with abstract equations,  mastered Oggyar fire magic. Your move.""",,,,4
+3486,Igneous Inspiration,,,Sorcery,,,,Strixhaven,Uncommon,Pindurski,,107,275,2R,"Igneous Inspiration deals 3 damage to any target.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)",Prismari fosters a burning need to create.,,,,1
+3487,Illustrious Historian,,,Creature,Human,Shaman,,Strixhaven,Common,Brian Valeza,,109,275,1R,"5, Exile Illlustrious Historian from your graveyard: Create a tapped 3/2 red and white Spirit creature token.","The most distinguished Lorehold professors are eligible to receive extended tenure, even beyond the limits of their own mortality.",2,1,,3
+3488,Mascot Interception,,,Sorcery,,,,Strixhaven,Uncommon,Bryan Sola,,110,275,3R,"This spell costs 3 less to cast if it targets a creature token.
+Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn.","Far from the trappings of royalty, Rowan and Will found inspiration from the most popular sport on campus, Mage Tower.",,,,2
+3489,Pigment Storm,,,Sorcery,,,,Strixhaven,Common,Bayard Wu,,111,275,3RR,Pigment Storm deals 5 damage to target creature. Excess damage is dealt to that creature's controller instead.,"When art projects collapse, Prismari students revel in the beauty of destruction. Everyone else runs for cover.",,,,3
+3490,Pillardrop Warden,,,Creature,Spirit,Dwarf,,Strixhaven,Common,Antonio José Manzanedo,,112,275,3R,"Reach
+2, T, Sacrifice Pillardrop Warden: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery.",A giant statue of a dwarf is still a giant statue.,1,5,,3
+3491,Start from Scratch,,,Sorcery,Lesson,,,Strixhaven,Uncommon,Bayard Wu,,114,275,2R,"Choose one —
+Start from Scratch deals 1 damage to any target.
+Destroyo target artifact.","""I don't care what they think!"" Rootha snapped. ""I know I can do better.""",,,,1
+3492,Storm-Kiln Artist,,,Creature,Dwarf,Shaman,,Strixhaven,Uncommon,Manuel Castañon,,115,275,3R,"Storm-Kiln Artist gets +1/+0 for each artifact you control.
+Magecraft — Whenever you cast or copy an instant or sorcery spell, create a Treasure token.","A captured elemental makes for a potent, albeit unstable, power source.",2,2,,2
+3493,Sudden Breakthrough,,,Instant,,,,Strixhaven,Common,Colin Boyer,,116,275,1R,"Target creature gets +2/+0 and gains first strike until end of turn.
+Create a Treasure token. (It's an artifact with ""T, Sacrifice this artifact: Add one mana of any color."")
+","Rootha created constantly, passionately, in hopes of impressing her greatest critic: herself.",,,,3
+3494,Tome Shredder,,,Creature,Wolf,,,Strixhaven,Common,Sam Rowan,,117,275,2R,"Haste
+T, Exile an instant or sorcery card from your graveyard: Put a +1/+1 counter on Tome Shredder.","""Quintorius, would you care to explain why you didn't complete your homework?""
+—Augusta Lorehold dean",2,2,,5
+3495,Twinscroll Shaman,,,Creature,Dwarf,Shaman,,Strixhaven,Common,Chris Seaman,,118,275,2R,Double strike,"""May your wretched name never grace the annals of history, you ignorant buffoon!""",1,2,,3
+3496,Bayou Groff,,,Creature,Plant,Dog,,Strixhaven,Common,Ilse Gort,,121,275,1G,"As an additional cost to cast this spell, sacrifice a creature or pay 3.","""Groffs are great for tracking pests through the muck, but securing the pests before the groff devours them is a dicey endeavor.""
+—Lisette, Witherbloom dean",5,4,,4
+3497,Big Play,,,Instant,,,,Strixhaven,Common,Nicholas Gregory,,122,275,1G,Target creature gets +2/+2 and gains reach until end of turn. Put a +1/+1 counter on it.,"""Quandrix is running out of time. If they're going to capture the Witherbloom mascot, they need something big here.""
+—Cremik, Mage Tower commentator",,,,4
+3498,Bookwurm,,,Creature,Wurm,,,Strixhaven,Uncommon,Wayne Reynolds,,123,275,7G,"Trample
+When Bookwurm enters the battlefield, you gain 3 life and draw a card.
+2G: Put Bookwurm from your graveyard into your library third from the top.","It takes ""devouring a book in one siting"" to a frightening extreme.",7,7,,1
+3499,Charge Through,,,Instant,,,,Strixhaven,Common,Craig J Spearing,,124,275,G,"Target creature gains trample until end of turn.
+Draw a card.","""What a move! Lorehold gets caught flat-footed, and Witherbloom barrels ahead.""
+—Cremik, Mage Tower commentator",,,,3
+3500,Containment Breach,,,Sorcery,Lesson,,,Strixhaven,Uncommon,Campbell White,,125,275,2G,"Destroy target artifact or enchantment. If its mana value is 2 or less, create a 1/1 black and green Pest creature token with ""When this creature dies, you gain 1 life.""","For pestkeepers, there's no sound more disheartening than breaking glass.",,,,3
+3501,Devouring Tendrils,,,Sorcery,,,,Strixhaven,Uncommon,Campbell White,,126,275,1G,"Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. When the permanent you don't control dies this turn, you gain 2 life.",Witherbloom spells often take on the appearance—and personallity—of their components.,,,,1
+3502,Emergent Sequence,,,Sorcery,,,,Strixhaven,Uncommon,Andreas Zafiratos,,129,275,1G,"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. That land becomes a 0/0 green and blue Fractal creature that's still a land. Put a +1/+1 counter on it for each land you had enter the battlefield under your control this turn.",,,,,1
+3503,Fortifying Draught,,,Instant,,,,Strixhaven,Uncommon,Andrey Kuzinskiy,,132,275,G,"You gain 2 life. Target creature gets +X/+X until end of turn, where X is the amount of life you gained this turn.","""If a seedling can push through solid stone, there's no limit to what I could do.""",,,,1
+3504,Field Trip,,,Sorcery,,,,Strixhaven,Common,Piotr Dura,,131,275,2G,"Search your library for a basic Forest card, put that card onto the battlefield tapped, then shuffle.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)",,,,,2
+3505,Honor Troll,,,Creature,Troll,Druid,,Strixhaven,Uncommon,Jesper Ejsing,,134,275,2G,"Vigilnce
+If you wuold gain life, you gain that much life plus 1 instead.
+Honor Troll gets +2/+1 as long as you have 25 or more life.","First in his clan to attend Strixhaven, and now first in his class.",2,3,,1
+3506,Karok Wrangler,,,Creature,Elf,Druid,,Strixhaven,Uncommon,Dan Scott,,135,275,4G,"Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/_1 counter on target creature you control.","""She showed up to class on a what?""
+—Valentin, Witherbloom dean",3,3,,1
+3507,Leyline Invocation,,,Sorcery,,,,Strixhaven,Common,Liiga Smilshkalne,,136,275,5G,"Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of lands you control.","""Do you still believe my work is nothing but dry, boring equations?""
+—Cairu, Quandrix mage-student",,,,5
+3508,Mage Duel,,,Sorcery,,,,Strixhaven,Common,Randy Vargas,,137,275,2G,"This spell costs 2 less to cast if you've cast another instant or sorcery spell this turn.
+Target creature you control gets +1/+2 until end of turn. Then it fights target creature you don't control. (Each deals damage equal to its power to the other.)","""Remember th erules. No spells to the face!""",,,,3
+3509,Master Symmetrist,,,Creature,Rhino,Druid,,Strixhaven,Uncommon,Forrest Imel,,138,275,2GG,"Reach
+Whenever a creature you control with power equal to its toughness attacks, it gains trample until end of turn.",Tondo lost his very first duel and has spent his entire life trying to get even.,4,4,,1
+3510,Overgrown Arch,,,Creature,Plant,Wall,,Strixhaven,Uncommon,Simon Dominic,,139,275,1G,"Defender
+T: You gain 1 life.
+2, Sacrifice Overgrown Arch: Learn. (You may reveal a Lesson card you own from outside the game and put it into you rhand, or discard a card to draw a card.)",,0,4,,2
+3511,Professor of Zoomancy,,,Creature,Bear,Druid,,Strixhaven,Common,Rudy Siswanto,,140,275,3G,"When Professor of Zoomancy enters the battlefield, create a 1/1 black and green Pest creature token with ""When this creature dies, you gain 1 life.""","She's brilliant, a bit of overbearing.",4,3,,2
+3512,Reckless Amplimancer,,,Creature,Elf,Druid,,Strixhaven,Common,Yigit Koroglu,,141,275,1G,4G: Double Reckless Amplimancer's power and toughness until end of turn.,"""Linear growth? what am I, a first-year?""",2,2,,4
+3513,Scurrid Colony,,,Creature,Squirrel,,,Strixhaven,Common,Lars Grant-West,,142,275,1G,"Reach
+Scurrid Colony gets +2/+2 as long as you control eight or more lands.","Scurrid teeth evolved to crack open nuts, but they work just as well for crushing bones if the nest is threatened.",2,2,,3
+3514,Spined Karok,,,Creature,Crocodile,,,Strixhaven,Common,Filip Burburan,,143,275,2G,,"""The bogs are deeper than you realize. Most of the space beneath the surface is taken up by these enormous karoks. You might think your feet are touching the bottom. They're probably not.""
+—Gyome, Witherbloom chef",2,4,,3
+3515,Springmane Cervin,,,Creature,Elk,,,Strixhaven,Common,Ilse Gort,,144,275,2G,"When Springmane Cervin enters the battlefield, you gain 2 life.","Cervins feed on the mana-rich plants around the star arches, imbuing their bodies with extraordinary grace and vitality.",3,2,,3
+3516,Tangletrap,,,Instant,,,,Strixhaven,Common,Suzanne Helmigh,,145,275,1G,"Choose one —
+Tangletrap deals 5 damage to target creature with flying.
+Destroy target artifact.","""It's like that old saying: what goes up...feeds the arboretum.""
+—Lisette, Witherbloom dean",,,,3
+3517,Aether Helix,,,Sorcery,,,,Strixhaven,Uncommon,Torstein Nordstrand,,162,275,3GU,Return target permanent to its owner's hand. Return target permanent card from your graveyard to your hand.,"Some Quandrix mages prefer to study at twilight, watching their experimental equations trace glowing rails against the encroaching darkness.",,,,1
+3518,Biomathematician,,,Creature,Human,Wizard,,Strixhaven,Common,Igor Kieryluk,,164,275,1GU,"When Biomathematician enters the battlefield, create a 0/0 green and blue Fractal creature token. Put a +1/+1 counter on each Fractal you control.",,2,2,,5
+3519,Blood Researcher,,,Creature,Vampire,Druid,,Strixhaven,Common,Christi Balanescu,,166,275,1BG,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever you gain life, put a +1/+1 counter on Blood Researcher.","""Dean Valentin warns us not ot consume the samples for our safety, but I think he's just being greedy.""",2,2,,4
+3520,Closing Statement,,,Instant,,,,Strixhaven,Uncommon,Craig J Spearing,,169,275,3WB,"The spell costs 2 less to cast during your end step.
+Destroy target creature or planeswalker you don't control. Put a +1/+1 counter on up to one target creature you control.","""In conclusion...""",,,,2
+3521,Cram Session,,,Sorcery,,,,Strixhaven,Common,Marta Nael,,170,275,1{B/G},"You gain 4 life.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)",The only thing more delicious than a top grade is Gyome's signature cake.,,,,4
+3522,Creative Outburst,,,Instant,,,,Strixhaven,Uncommon,Igor Kieryluk,,171,275,3UURR,"Creative Outburst deals 5 damage to any target. Look at the top five cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.
+{U/R}{U/R}, Discard Creative Outburst: Create a Treasure token.",,,,,1
+3523,Decisive Denial,,,Instant,,,,Strixhaven,Uncommon,Lorenzo Mastroianni,,177,275,GU,"Choose one —
+Target creture you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Counter target noncreature spell unless its controller pays 3.","""I've  heard enough.""",,,,1
+3524,Daemogoth Woe-Eater,,,Creature,Demon,,,Strixhaven,Uncommon,Alex Brock,,175,275,1B{B/G}G,"At the beginning of your upkeep, sacrifice a creature.
+When you sacrifice Daemogoth Woe-Eater, each opponent discards a card, you draw a card, and you gain 2 life.","""Your pain for my wisdom. You'll get no better deal.""",7,6,,1
+3525,Deadly Brew,,,Sorcery,,,,Strixhaven,Uncommon,Randy Vargas,,176,275,BG,"Each player sacrifices a creature or planeswalker. If you sacrificed a permanent this way, you may return another permanent card from your graveyard to your hand.","No one ever asked what was in Dina's concoctions, so long as they worked.",,,,2
+3526,"Dina, Soul Steeper",Legendary,,Creature,Dryad,Druid,,Strixhaven,Uncommon,Chris Rahn,,178,275,BG,"Whenever you gain life, each opponent loses 1 life.
+1, Sacrifice another creature: Dina, Soul Steeper gets +X/+0 until end of turn, where X is the sacrificed creature's power.",,1,3,,1
+3527,Elemental Masterpiece,,,Sorcery,,,,Strixhaven,Common,Marta Nael,,182,275,5UR,"Create two 4/4 blue and red Elemental creature tokens.
+{U/R}{U/R}, Discard Elemental Masterpiece: Create a Treasure token. ((It's an artifact with ""T, Sacrifice this artifact: Add one mana of any color."")","Rootha passed with flying, living colors.",,,,4
+3528,Elemental Summoning,,,Sorcery,Lesson,,,Strixhaven,Common,Marta Nael,,183,275,3{U/R}{U/R},Create a 4/4 blue and red Elemental creature token.,"""You've made a splash. Now show me a torrent.""
+—Uvilda, Prismari dean",,,,4
+3529,Eureka Moment,,,Instant,,,,Strixhaven,Common,Anna Steinbauer,,184,275,2GU,Draw two cards. You may put a land card from your hand onto the battlefield.,"""At first, the equations were simply numbers. But in those numbes I saw a story, and in that story I saw a pattern, and suddenly it all fit together!""",,,,5
+3530,Exhilirating Elocution,,,Sorcery,,,,Strixhaven,Common,Randy Vargas,,185,275,2WB,Put two +1/+1 counters on target creature you control. Other creatures you control get +1/+1 until end of turn.,"His words poured forth on waves of golden light, scouring all in fear from his audience's hearts and minds.",,,,4
+3531,Expressive Iteration,,,Sorcery,,,,Strixhaven,Uncommon,Anastasia Ovchinnikova,,186,275,UR,"Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.",Prismari students dance in the tension between passion and perfection.,,,,1
+3532,Fractal Summoning,,,Sorcery,Lesson,,,Strixhaven,Common,Livia Prima,,187,275,X{G/U}{G/U},Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it.,"""Fractals are just pseudo-dimensional manifestations of asynchronus biosymmetries. It's really quite simple.""
+—Kianne, Quandrix dean",,,,4
+3533,Fracture,,,Instant,,,,Strixhaven,Uncommon,Mirnda Meeks,,188,275,WB,"Destroy target artifact, enchantment, or planeswalker.","""Your defiance is amusing, little mage. It's time you learn how fragile you really are.""
+—Extus Narr",,,,1
+3534,Golden Ratio,,,Sorcery,,,,Strixhaven,Uncommon,Alix Branwyn,,190,275,1GU,Draw a card for each different power among creatures you control.,"""When I look around, I see a world defined by patterns that still manages to defy them.""
+—Kianne, Quandrix dean",,,,1
+3535,Humiliate,,,Sorcery,,,,Strixhaven,Uncommon,Randy Vargas,,193,275,WB,Target opponent reveals their hand. You shoose a nonland card from it. That player discards that card. Put a +1/+1 counter on a creature you control.,"""Aw, what's that? No comeback?""",,,,2
+3536,Infuse with Vitality,,,Instant,,,,Strixhaven,Common,Andrey Kuzinskiy,,194,275,BG,"Until end of turn, target creature gains deathtouch and ""When this creature dies, return it to the battlefield tapped under its owner's control.""
+You gain 2 life.","Dina raised her cup to Killian's lips, and for the first time in his life, he knew compassion.",,,,4
+3537,Inkling Summoning,,,Sorcery,Lesson,,,Strixhaven,Common,Scott Murphy,,195,275,1{W/B}{W/B},Create a 2/1 white and black Inkling creature token with flying.,"""Think of an insult so vicious, so vulgar, that you hesitate to speak it aloud. The strongest, most aggressive inklings are born from such scorn.""
+—Embrose, Silverquill dean",,,,4
+3538,"Killian, Ink Duelist",Legendary,,Creature,Human,Warlock,,Strixhaven,Uncommon,Ryan Pancoast,,197,275,WB,"Lifelink
+Menace (This creature can't be blocked except by two or more creatures.)
+Spells you cast that target a creature cost 2 less to cast.","""When your father is Dean Embrose, second best really isn't an option.""",2,2,,1
+3539,Lorehold Apprentice,,,Creature,Human,Cleric,,Strixhaven,Uncommon,Manuel Castañon,,198,275,RW,"Magecraft — Whenever you cast or copy an instant or sorcery spell, until end of turn, Spirit creatures you conotrol gain ""T: This creature deals 1 damage to each opponent.""","Ancient footfalls echo in her head, their timeless rhythm guiding the present.",2,2,,1
+3540,Lorehold Apprentice,,,Enchantment,,,,Strixhaven,Uncommon,Jinho Bae,,200,275,RW,"At the beginning of your end step, mill a card. If a land card was milled this way, you gain 1 life. Otherwise, Lorehold Excavation deals 1 damage to each opponent. (To mill a card, put the top card of your library into your graveyard.)
+5, Exile a creature card from your graveyard: Create a tapped 3/2 red and white Spirit creature token.",,,,,1
+3541,Lorehold Pledgemage,,,Creature,Kor,Shaman,,Strixhaven,Common,Jake Murray,,201,275,1{R/W}{R/W},"First strike
+Magecraft — Whenever you cast or copy an instant or sorcery spell, Lorehold Pledgemage gets +1/+0 until end of turn.","""The weight of history can empower you or it can crush you. It's your choice.""",2,2,,2
+3542,Maelstrom Muse,,,Creature,Djinn,Wizard,,Strixhaven,Uncommon,Michele Parisi,,202,275,1U{U/R}R,"Flying
+Whenever maelstrom Muse attacks, the next instant or sorcery spell you cast this turn costs X less to cast, where X is Maelstrom Muse's power as this ability resolves.","She's an inspiration to everyone, even herself.",2,4,,2
+3543,Make Your Mark,,,Instant,,,,Strixhaven,Common,Bryan Sola,,204,275,{R/W},"Target creature gets +1/+0 until end of turn. When that creature dies this turn, crete a 3/2 red and white Spirit creature token.",Those who do learn from history may still choose to repeat it.,,,,3
+3544,Moldering Karok,,,Creature,Zombie,Crocodile,,Strixhaven,Common,Nicholas Gregory,,206,275,2BG,"Trample, lifelink","Necroluminescence is common among the undead creatures of Sedgemoor, giving the midnight swamp an eerie glow. It's comforting—from a distance.",3,3,,4
+3545,Mortality Spear,,,Instant,,,,Strixhaven,Uncommon,Pindurski,,207,275,2BG,"This spell costs 2 less to cast if you gained life this turn.
+Destroy target nonland permanent.","""Death is my life's work.""",,,,2
+3546,Needlethorn Drake,,,Creature,Drake,,,Strixhaven,Common,Donato Giancola,,208,275,GU,"Flying, deathtouch","As they learn to fly, young drakes have a tendency to accidentally impale less trees, cliffs, and unsuspecting students.",1,1,,3
+3547,Oggyar Battle-Seer,,,Creature,Ogre,Shaman,,Strixhaven,Common,Karl Kopinski,,209,275,3UR,"Haste
+T: Scry 1.
+","""May Ganathog bless us with bloody visions of glory restored!""",3,4,,3
+3548,Owlin Shieldmage,,,Creature,Bird,Warlock,,Strixhaven,Common,Raoul Vitale,,210,275,3WB,"Flying
+Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)","""Aim higher next time.""",3,3,,3
+3549,Pest Summoning,,,Sorcery,Lesson,,,Strixhaven,Common,Zoltan Boros,,211,275,1{B/G}{B/G},"Create two 1/1 black and green Pest creature tokens with ""When this creature dies, you gain 1 life.""","""Step 1: Put the pests in mud.
+""Step 2: Wait.""
+—Gyome's Guide to the Pest Breeding",,,,4
+3550,Practical Research,,,Instant,,,,Strixhaven,Uncommon,Ekaterina Burmak,,212,275,3UR,Draw four cards. Then discard two cards unless you discard an instant or sorcery card.,The twins each researched spells to defeat Extus in their own way. Will hit the library. Rowan hit everything else.,,,,2
+3551,Prismari Apprentice,,,Creature,Human,Shaman,,Strixhaven,Uncommon,Igor Kieryluk,,213,275,UR,"Magecraft — Whenever you cast or copy an instant or sorcery spell, Prismari Apprentice can't be blocked this turn. If that spell has mana value 5 or greater, put a +1/+1 counter on Prismari Apprentice.","""No one ever created great art by playing it safe!""",2,2,,2
+3552,Prismari Pledgemage,,,Creature,Orc,Wizard,,Strixhaven,Common,Marta Nael,,215,275,{U/R}{U/R},"Defender
+Magecraft — Whenever you cast or copy an instant or sorcery spell, Prismari Pledgemage can attack this turn as though it didn't have defender.",,3,3,,3
+3553,Quandrix Apprentice,,,Creature,Human,Wizard,,Strixhaven,Uncommon,Ryan Alexander Lee,,216,275,GU,"Magecraft — Whenever you cast or copy an instant or sorcery spell, look at the top three cards of your library. You may reveal a land card from among them and put that card into your hand. Put the rest on the bottom of your library in any order.","""The secrets of our world will be mine.""",2,2,,1
+3554,Quandrix Cultivator,,,Creature,Turtle,Druid,,Strixhaven,Uncommon,Filip Burburan,,218,275,1G{G/U}U,"When Quandrix Cultivator enters the battlefield, you may search your library for a basic Forest or Island card, put it onto hte battlefield, then shuffle.","In the gardens spread across the Quandrix campus, fern turns to forest before class is even over.",3,4,,1
+3555,Quandrix Pledgemage,,,Creature,Merfolk,Wizard,,Strixhaven,Common,Caroline Gariba,,219,275,1{G/U}{G/U},"Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Quandrix Pledgemage.","""The firs step toward transcending physical limitations is discarding assumptions about what is possible.",2,2,,3
+3556,"Quintorius, Field Historian",Legendary,,Creature,Elephant,Cleric,,Strixhaven,Uncommon,Brian Sola,,220,275,3RW,"Spirits you control get +1/+0.
+Whenever one o more cards leave your graveyard, create a 3/2 red and white Spirit creature token.","""Every life has a story to tell. I won't let them be forgotten.""",2,4,,1
+3557,Reconstruct History,,,Sorcery,,,,Strixhaven,Uncommon,Campbell White,,222,275,2RW,"Return up to one target artifact card, up to one target enchantment card, up to one target instant card, up to one target sorcery card, and up to one target planeswalker card from your graveyard to your hand.
+Exile Reconstruct History.",,,,,2
+3558,Relic Sloth,,,Creature,Beast,,,Strixhaven,Common,Ilse Gort,,223,275,3RW,"Vigilance
+Menace (This creature can't be blocked except by two or more creatures.)","When it comes to transforming priceless, delicate artifacts, safety is more important than speed.",4,4,,4
+3559,Returned Pastcaller,,,Creature,Spirit,Relic,,Strixhaven,Uncommon,Grzegorz Rutkowski,,224,275,3R{R/W}W,"Flying
+When Returned Pastcaller enters the battlefield, return target Spirit, instant, or sorcery card from yoru graveyard to your hand.",Lorehold spirit statues are not forbidden from raising statues of their own.,4,2,,1
+3560,Rip Apart,,,Sorcery,,,,Strixhaven,Uncommon,Anna Podedworna,,225,275,RW,"Choose one —
+Rip Apart deals 3 damage to target creature or planeswalker.
+Destroy target artifact or enchantment.",Torn from history. Torn from memory. Torn from reality.,,,,1
+3561,Rise of Extus,,,Sorcery,,,,Strixhaven,Common,Wylie Beckert,,226,275,4{W/B}{W/B},"Exile target creature. Exile up to one target or sorcery card from a graveyard.
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)","With one lethal strike, Extus took control of the Oriq and took his first step toward vengeance.",,,,3
+3562,"Rootha, Mercurial Artist",Legendary,,Creature,Orc,Shaman,,Strixhaven,Uncommon,Chris Rahn,,227,275,1UR,"2, Return Rootha, Mercurial Artist to its owner's hand: Copy target instant or sorcery spell you control. You may choose new targets for the copy.","""Art is never finished. Merely abandoned.""",1,4,,2
+3563,Shadewing Laureate,,,Creature,Human,Warlock,,Strixhaven,Uncommon,Igor Kieryluk,,229,275,W{W/B}B,"Flying
+Whenever another creature you control with flying dies, put a +1/+1 counter on target creature you control.","""Would you prefer I destroy you using prose or verse?""",2,2,,1
+3564,Silverquill Apprentice,,,Creature,Human,Warlock,,Strixhaven,Uncommon,Mike Bierek,,231,275,WB,"Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature gets +1/+0 until end of turn.","She had spoken the words a hundred times, but under th espotlight, in front of everyone, something new emerged. And the crowd went wild.",2,2,,2
+3565,Silerquill Pledgemage,,,Creature,Vampire,Cleric,,Strixhaven,Common,Denman Rooke,,233,275,1{W/B}{W/B},"Magecraft — Whenever you cast or copy an instant or sorcery spell, Silverquill Pledgemage gains your coice of flying or lifelink until end of turn.","""I avoid violence. It is the last resort of the witless. But if you insist, I'll make an exception for you.""",3,1,,3
+3566,Spectacle Mage,,,Creature,Bird,Shaman,,Strixhaven,Common,Caroline Gariba,,235,275,1UR,"Flying
+Instant and sorcery spells you cast with mana value 5 or greater cost 1 less to cast.","""It would be a crime to withhold my light from the world.""",2,2,,2
+3567,Spirit Summoning,,,Sorcery,Lesson,,,Strixhaven,Common,Andrewy Kuzinskiy,,236,275,1{R/W}{R/W},Create a 3/2 red and white Spirit creature token.,"""Books are fantastic, but if you're really curious about hte distant past, why not ask someone who was there?""
+—Augusta, Lorehold dean",,,,3
+3568,Spiteful Squad,,,Creature,Human,Warlock,,Strixhaven,Common,Manuel Castañon,,237,275,2WB,"Deathtouch
+Spiteful Squad enters the battlefield with two +1/+1 counters on it.
+When Spiteful Squad dies, put its counters on target creature you control.","""Don't you know first years pay a toll to walk through here?""",0,0,,2
+3569,Square Up,,,Instant,,,,Strixhaven,Common,Manuel Castañon,,238,275,1{G/U},Target creature has base power and toughness 4/4 until end of turn.,Sometimes the most radical thing you can do is think inside the box.,,,,3
+3570,Stonebound Mentor,,,Creature,Spirit,Advisor,,Strixhaven,Common,Svetlin Velinov,,239,275,1RW,"Whenever one or more cards leave your graveyard, scry 1.","Quintorius beamed, his mind eager to absorb every historical fact the spirit wanted to divulge.",3,3,,3
+3571,Teach by Example,,,Instant,,,,Strixhaven,Common,Johan Grenier,,241,275,{U/R}{U/R},"When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.","""Learning to imitate a master is teh first step in becoming one.""
+Uvilda, Prismari dean",,,,2
+3572,Tend the Pests,,,Instant,,,,Strixhaven,Uncommon,David Auden Nash,,242,275,BG,"As an additional cost to cast this spell, sacrifice a creature.
+Create X 1/1 black and green Pest creature tokens with ""When this creature dies, you gain 1 life."" where X is the sacrificed creature's power.","I've got a special treat for you today.""",,,,1
+3573,Thrilling Discovery,,,Sorcery,,,,Strixhaven,Common,Campbell White,,243,275,RW,"You gain 2 life. Then you may discard two cards. If you do, draw three cards.","""This must be the lost city of Zantafar, where my people lived before becoming nomads. Think of hte history we'll learn here!""
+—Quinorius, Lorehold mage-student",,,,2
+3574,Witherbloom Apprentice,,,Creature,Human,Druid,,Strixhaven,Uncommon,Josh Hass,,247,275,BG,"Magecraft — Whenever you cast or copy an instant or sorcery spell, each opponent loses 1 life and you gain 1 life.","""All we are—every feeling, every action—powered by a single, delicate little organ. Life is so terrifyingly, beautifully fragile.""",2,2,,1
+3575,Witherbloom Pledgemage,,,Creature,Treefolk,Warlock,,Strixhaven,Common,Filip Burburan,,249,275,3{B/G}{B/G},"Magecraft — Whenver you cast or copy an instant or sorcery spell, you gain 1 life.","""Death is really just a transfer of energy Those pests I harvested have the honor of becoming pure magic. What could be more beautiful?""",5,5,,3
+3576,"Zimone, Quandrix Prodigy",Legendary,,Creature,Human,Wizard,,Strixhaven,Uncommon,Ryan Pancoast,,250,275,GU,"{1}, {T}:You may put a land card from your hand onto the battlefield tapped.
+{4}, {T}: Draw a card, if you control eight or more lands, draw two cards instead.
+","""What are they complaining about? It's not like axiomatic leyline paratrigonometrics is hard.""",1,3,,2
+3577,Biblioplex Assistant,,Artifact,Creature,Gargoyle,,,Strixhaven,Common,Raoul Vitale,,251,275,4,"Flying
+When Biblioplex Assistant enters the battlefield, put up to one target instant or sorcery card from your graveyard on top of your library.","""I appreciate the help, and honestly, it's very entertaining.""
+—Isabough of hte Biblioplex",2,1,,4
+3578,Campus Guide,,Artifact,Creature,Golem,,,Strixhaven,Common,Slawomir Maniak,,252,275,2,"When Campus Guide enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.","""There's nowhere in Strixhaven I can't find. Where do you need to go?""",2,1,,5
+3579,Cogwork Archivist,,Artifact,Creature,Construct,,,Strixhaven,Common,Joseph Meehan,,254,275,6,"Reach
+2, T: Put target card from a graveyard on the bottom of its owner's library.","""It's the largest library in the Multiverse. Of course it has th elargest librarians.""
+—Kasmina",4,5,,2
+3580,Excavated Wall,,Artifact,Creature,Wall,,,Strixhaven,Common,Zezhou Chen,,255,275,1,"Defender
+1, T: Mill a card. (Put the top card of your library into your graveyard.)","""Don't be fooled by the quiet. These old stones are trying to talk to you.""
+—Augusta, Lorehold dean",0,4,,5
+3581,Letter of Acceptance,,Artifact,,,,,Strixhaven,Common,Daniel Ljunggren,,256,275,3,"T: dd one mana of any color.
+2, T, Sacrifice Letter of Acceptance: Draw a card.
+","The letter unfolded, inviting the twins to Strixhaven. Will saw a chance for arcane study. Rowan saw a chance for power.",,,,4
+3582,Reflective Golem,,Artifact,Creature,Golem,,,Strixhaven,Uncommon,Dnaiel Ljunggren,,257,275,3,"Whenever you cast an instant or sorcery spell that targets only Reflective Golem, you may papy 2. If you do, copy that spell. You may chose new targets for the copy.","""We don't cut through Sedgemoor anymore. Can't get five steps without a groff trying to fight in own reflection.""",2,3,,1
+3583,Spell Satchel,,Artifact,,,,,Strixhaven,Uncommon,YW Tang,,258,275,2,"Magecraft — Whenever you cast or copy an instant or sorcery spell, put a book counter on Spell Satchel.
+{T}, Remove a book counter from Spell Satchel: Add {C}.
+{3}, {T}, Remove three book counters from Spell Satchel: Draw a card.
+",,,,,1
+3584,Team Pennant,,Artifact,Equipment,,,,Strixhaven,Uncommon,Anna Fehr,,260,275,1,"Equipped creature gets +1/+1 and has vigilance and trample.
+Equip creature token {1}
+Equip {3}","Choosing  a college based on Mage Tower results is discouraged, but not unheard of.",,,,2
+3585,Zephyr Boots,,Artifact,Equipment,,,,Strixhaven,Uncommon,YW Tang,,261,275,1,"Equipped creature has flying.
+Whenever equipped creature deals combat damage to a player, draw a card, then discard a card.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",,,,,2
+3586,Access Tunnel,,,Land,,,,Strixhaven,Uncommon,Alayna Danner,,262,275,,"{T}: Add {C}.
+{3}, {T}: Target creature with power 3 or less can't be blocked this turn.","Oriq agents stick to the dark corners of Arcavios, unseen yet ever-present.",,,,2
+3587,Archway Commons,,,Land,,,,Strixhaven,Common,Piotr Dura,,263,275,,"Archway Commons enters the battlefield tapped.
+When Archway Commons enters the battlefield, sacrifice it unless you pay 1.
+{T}: Add one mana of any color.
+",,,,,2
+3588,Lorehold Campus,,,Land,,,,Strixhaven,Common,Titus Lunter,,268,275,,"Lorehold Campus enters the battlefield tapped.
+{T}: Add {R} or {W}.
+{4}, {T}: Scry 1.","Mage-students obsessed with the secrets of the past choose Lorehold, the college of archaeomancy.",,,,3
+3589,Prismari Campus,,,Land,,,,Strixhaven,Common,Adam Paquette,,270,275,,"Prismari Campus enters the battlefield tapped.
+{T}: Add {U} or {R}.
+{4}, {T}: Scry 1.","Mage-students who see spellcraft as the highest form of expression choose Prismari, the college of elemental arts.",,,,3
+3590,Quandrix Campus,,,Land,,,,Strixhaven,Common,Piotr Dura,,271,275,,"Quandrix Campus enters the battlefield tapped.
+{T}: Add {G} or {U}.
+{4}, {T}: Scry 1.
+","Mage-students who see the beauty in patterns and equations choose Quandrix, the college of numeromancy.",,,,2
+3591,Silverquill Campus,,,Land,,,,Strixhaven,Common,Titus Lunter,,273,275,,"Silverquill Campus enters the battlefield tapped.
+{T}: Add {W} or {B}.
+{4}, {T}: Scry 1.","Mage-students drawn to the power of language choose Silverquill, the college of eloquence.",,,,2
+3592,Witherbloom Campus,,,Land,,,,Strixhaven,Common,Alayna Danner,,275,275,,"Witherbloom Campus enters the battlefield tapped.
+{T}: Add {B} or {G}.
+{4}, {T}: Scry 1.","Mage-students fascinated by the energies of life and death choose Witherbloom, the college of essence studies.",,,,4
+3593,Poet's Quill,,Artifact,Equipment,,,,Strixhaven,Rare,Anna Fehr,,82,275,,"When Poet's Quill enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+Equipped creature gets +1/+1 and has lifelink.
+Equip 1B",,,,,1
+3594,Defiant Strike,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Dominik Mayer,,3,63,{W},"Target creature gets +1/+0 until end of turn.
+Draw a card.","""For twelve days and twelve nights, Somat assailed the monster's shell. On the thirteenth morning, it cracked  with the dawn.""
+—Heroics: A Book of Fables
+",,,,3
+3595,Divine Gambit,,,Sorcery,,,,Strixhaven: Mystical Archive,Uncommon,Matthew G. Lewis,,4,63,{W}{W},"Exile target artifact, creature, or enchantment an opponent controls. That player may put a permanent card from their hand onto the battlefield.","""Evil is to be unshackled, not slain. Unlock your foe and release the miracle within.""
+—Keevan, docent of Kollema Hall",,,,2
+3596,Revitalize,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Justin,Alexis Hernandez,9,63,{1}{W},"You gain 3 life.
+Draw a card.","""Knight Kathryn closed her eyes, bracing herself for hte end. When she opened them again, she sstood triumphant over her foe.""
+—Thadus the Healer, Memoirs",,,,1
+3597,Negate,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Dominik Mayer,,18,63,{U}{U},Counter target noncreature spell.,"""Shatter your opponent's spell with enough force, and you'll shatter their confidence with it.""
+—Tome of Obstructions, marginalia",,,,2
+3598,Opt,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Kristina Collantes,,19,63,{U},"Scry 1.
+Draw a card.","""The wish most often granted is wish to choose one's own destiny.""
+—Aethershrine, inscription",,,,1
+3599,Strategic Planning,,,Sorcery,,,,Strixhaven: Mystical Archive,Uncommon,Robbie Trevino,,20,63,{1}{U},Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.,"""I can offer only information, young one. What path you choose is up to you.
+—Jadzi, Oracle of Arcavios",,,,1
+3600,Whirlwind Denial,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Anato Finnstark,,23,63,{2}{U},"For each spell and ability your opponents control, counter it unless its controller pays {4}.","""If they try to strorm your palace, you must become the storm.""
+—Handbook of Imperial Spellcraft",,,,1
+3601,Agonizing Remorse,,,Sorcery,,,,Strixhaven: Mystical Archive,Uncommon,Robbie Trevino,,24,63,{1}{B},Target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card. You lose 1 life.,"""Guilt is not absolution. Regret is not justice. But it is right that you suffer.""
+—Extus Narr",,,,1
+3602,Duress,,,Sorcery,,,,Strixhaven: Mystical Archive,Uncommon,Kristina Collantes,,29,63,{B},"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.","""Magic brought peace to the Vastlands but was soon corrupted.""
+—The Mystic Age: A Saga of Spells",,,,2
+3603,Eliminate,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Rovina Cai,,30,63,{1}{B},Destroy target creature or planeswalker with mana value {3} or less.,"""It takes so little energy to erase a person. It's almost like the universe doesn't care that they existed at all.""
+—Extus Narr",,,,1
+3604,Village Rites,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Matthew G. Lewis,,35,63,{B},"As an additional cost ot cast this spell, sacrifice a creature.
+Draw two cards.","""My colleagues revile the barbarity of the Blood Age, but I believe we have much to learn from the magics of endless war.""
+—Embrose, Silverquill dean",,,,2
+3605,Claim the Firstborn,,,Sorcery,,,,Strixhaven: Mystical Archive,Uncommon,Anato Finstark,,37,63,{R},Gain control of target creature with mana value 3 or less until end of turn. Untap that creature. It gains haste until end of turn.,"""Will! They have a copy of Tales of the Fae here! Want me to read you a bedtime story?""
+—Rowan Kenrith",,,,1
+3606,Infuriate,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Benjamin Ee,,41,63,{R},Target creature gets +3/+2 until end of turn.,"""Some mages duel using intricate spellcraft and superioor tactics. Others just get really, really mad.""
+—Secrets of the Feradorn Sorcerers",,,,2
+3607,Shock,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Dominik Mayer,,44,63,{R},Shock deals 2 damage to any target.,,,,,1
+3608,Thrill of Possibility,,,Instant,,,,Strixhaven: Mystical Archive,Uncommon,Minttu Hynnien,,46,63,{1}{R},"As an additional cost to cast this spell, discard a card.
+Draw two cards.","""If the prospect of what could be doesn't electrify you to your core, why attend Strixhaven at all?""
+—Nassari, Prismari dean",,,,2
+3609,Adventurous Impulse,,,Sorcery,,,,Strixhaven: Mystical Archive,Uncommon,Minttu Hynnien,,49,63,{G},Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,"""Her quest began as all quests do, with one small step in an unexpected direction.""
+—The Explorer's Testament",,,,2

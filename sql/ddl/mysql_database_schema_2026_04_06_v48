@@ -1,0 +1,181 @@
+CREATE TABLE expansion_symbol (
+	expansion_symbol_id INT AUTO_INCREMENT,
+	expansion_symbol VARCHAR() PRIMARY KEY,
+	release_date DATE,
+	total_cards INT
+);
+
+CREATE TABLE rarity (
+	rarity_id INT AUTO_INCREMENT,
+	rarity VARCHAR() PRIMARY KEY
+);
+
+CREATE TABLE artist_information (
+	artist_information_id INT AUTO_INCREMENT,
+	artist_information VARCHAR() PRIMARY KEY
+);
+
+CREATE TABLE permanent (
+	permanent_id INT AUTO_INCREMENT,
+	card_name VARCHAR(),
+	-- mana_cost VARCHAR(),
+	-- supertype VARCHAR(),
+	-- subtype VARCHAR(),
+	expansion_symbol INT,
+	rarity INT,
+	-- text_box VARCHAR(),
+	-- flavor_text VARCHAR(),
+	-- punch INT,
+	-- toughness INT,
+	-- starting_loyalty INT,
+	artist_information INT,
+	collectors_number INT,
+	PRIMARY KEY (card_name, expansion_symbol),
+	FOREIGN KEY (expansion_symbol) REFERENCES expansion_symbol(expansion_symbol_id) ON DELETE SET NULL,
+	FOREIGN KEY (rarity) REFERENCES rarity(rarity_id) ON DELETE SET NULL,
+	FOREIGN KEY (artist_information) REFERENCES artist_information(artist_information_id) ON DELETE SET NULL
+);
+
+CREATE TABLE mana_cost (
+	mana_cost_id INT AUTO_INCREMENT,
+	mana_cost VARCHAR() PRIMARY KEY,
+	converted_mana_cost INT
+);
+
+CREATE TABLE permanent_junction_mana_cost (
+	permanent_id INT PRIMARY KEY,
+	mana_cost_id INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (mana_cost_id) REFERENCES mana_cost(mana_cost_id) ON DELETE SET NULL
+);
+
+CREATE TABLE supertype (
+	supertype_id INT AUTO_INCREMENT,
+	supertype VARCHAR() PRIMARY KEY
+);
+
+CREATE TABLE permanent_junction_supertype (
+	permanent_id INT,
+	supertype_id INT,
+	PRIMARY KEY (permanent_id, supertype_id),
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (supertype_id) REFERENCES supertype(supertype_id) ON DELETE SET NULL
+);
+
+CREATE TABLE subtype (
+	subtype_id INT AUTO_INCREMENT,
+	subtype VARCHAR() PRIMARY KEY
+);
+
+CREATE TABLE permanent_junction_subtype (
+	permanent_id INT,
+	subtype_id INT,
+	PRIMARY KEY (permanent_id, subtype_id),
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (subtype_id) REFERENCES subtype(subtype_id) ON DELETE SET NULL
+);
+
+CREATE TABLE text_box (
+	text_box_id INT PRIMARY KEY AUTO_INCREMENT,
+	text_box VARCHAR()
+);
+
+CREATE TABLE permanent_junction_text_box (
+	permanent_id INT PRIMARY KEY,
+	text_box_id INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (text_box_id) REFERENCES text_box(text_box_id) ON DELETE SET NULL
+);
+
+CREATE TABLE flavor_text (
+	flavor_text_id INT PRIMARY KEY AUTO_INCREMENT,
+	flavor_text VARCHAR()
+);
+
+CREATE TABLE permanent_junction_flavor_text (
+	permanent_id INT PRIMARY KEY,
+	flavor_text_id INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (flavor_text_id) REFERENCES flavor_text(flavor_text_id) ON DELETE SET NULL
+);
+
+CREATE TABLE creature (
+	creature_id INT PRIMARY KEY AUTO_INCREMENT,
+	punch INT,
+	toughness INT
+);
+
+CREATE TABLE permanent_junction_creature (
+	permanent_id INT PRIMARY KEY,
+	creature_id INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (creature_id) REFERENCES creature(creature_id) ON DELETE SET NULL
+);
+
+CREATE TABLE planeswalker (
+	planeswalker_id INT PRIMARY KEY AUTO_INCREMENT,
+	starting_loyalty INT
+);
+
+CREATE TABLE permanent_junction_planeswalker (
+	permanent_id INT PRIMARY KEY,
+	planeswalker INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (planeswalker) REFERENCES planeswalker(planeswalker_id) ON DELETE SET NULL
+);
+
+INSERT INTO mana_cost(mana_cost) VALUES ("R");
+-- INSERT INTO supertype(supertype) VALUES ();
+INSERT INTO subtype(subtype) VALUES("Instant");
+INSERT INTO expansion_symbol(expansion_symbol, release_date, total_cards) VALUES("M11", "2010-07-16", 249);
+INSERT INTO rarity(rarity) VALUES("Common");
+INSERT INTO text_box(text_box) VALUES("Lightning Bolt deals 3 damage to target creature or player.");
+-- INSERT INTO flavor_text(flavor_text) VALUES("");
+-- INSERT INTO creature(punch, toughness) VALUES();
+-- INSERT INTO planeswalker(starting_loyalty) VALUES();
+INSERT INTO artist_information(artist_information) VALUES("Christopher Moeller");
+INSERT INTO permanent(card_name, expansion_symbol, rarity, artist_information, collectors_number) VALUES("Lightning Bolt", 1, 1, 1, 149, )
+INSERT INTO permanent_junction_mana_cost(permanent_id, mana_cost_id) VALUES(1, 1);
+-- INSERT INTO permanent_junction_supertype(permanent_id, supertype_id) VALUES();
+INSERT INTO permanent_junction_subtype(permanent_id, subtype_id) VALUES(1, 1);
+INSERT INTO permanent_junction_text_box(permanent_id, text_box_id) VALUES(1, 1);
+-- INSERT INTO permanent_junction_flavor_text(permanent_id, flavor_text_id) VALUES();
+-- INSERT INTO permanent_junction_creature(permanent_id, creature_id) VALUES();
+-- INSERT INTO permanent_junction_planeswalker(permanent_id, planeswalker_id) VALUES();
+
+SELECT permanent.permanent_id, permanent.card_name, mana_cost.mana_cost, supertype.supertype, subtype.subtype, expansion_symbol.expansion_symbol, rarity.rarity, text_box.text_box, flavor_text.flavor_text, creature.punch AS "power", creature.toughness, planeswalker.starting_loyalty, artist_information.artist_information, permanent.collectors_number
+FROM permanent
+LEFT JOIN permanent_junction_mana_cost
+ON permanent.permanent_id = permanent_junction_mana_cost.permanent_id
+LEFT JOIN mana_cost
+ON permanent_junction_mana_cost.mana_cost_id = mana_cost.mana_cost_id
+LEFT JOIN permanent_junction_supertype
+ON permanent.permanent_id = permanent_junction_supertype.permanent_id
+LEFT JOIN supertype
+ON permanent_junction_supertype.supertype_id = supertype.supertype_id
+LEFT JOIN permanent_junction_subtype
+ON permanent.permanent_id = permanent_junction_subtype.permanent_id
+LEFT JOIN subtype
+ON permanent_junction_subtype.subtype_id = subtype.subtype_id
+LEFT JOIN expansion_symbol
+ON permanent.expansion_symbol = expansion_symbol.expansion_symbol_id
+LEFT JOIN rarity
+ON permanent.rarity = rarity.rarity_id
+LEFT JOIN permanent_junction_text_box
+ON permanent.permanent_id = permanent_junction_text_box.permanent_id
+LEFT JOIN text_box
+ON permanent_junction_text_box.text_box_id = text_box.text_box_id
+LEFT JOIN permanent_junction_flavor_text
+ON permanent.permanent_id = permanent_junction_flavor_text.permanent_id
+LEFT JOIN flavor_text
+ON permanent_junction_flavor_text.flavor_text_id = flavor_text.flavor_text_id
+LEFT JOIN permanent_junction_creature
+ON permanent.permanent_id = permanent_junction_creature.permanent_id
+LEFT JOIN creature
+ON permanent_junction_creature.creature_id = creature.creature_id
+LEFT JOIN permanent_junction_planeswalker
+ON permanent.permanent_id = permanent_junction_creature.permanent_id
+LEFT JOIN planeswalker
+ON permanent_junction_planeswalker.planeswalker_id = planeswalker.planeswalker_id
+LEFT JOIN artist_information
+ON permanent.artist_information = artist_information.artist_information_id;

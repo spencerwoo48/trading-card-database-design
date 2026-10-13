@@ -1,0 +1,35 @@
+CREATE TABLE permanent (
+	permanent_id INT AUTO INCREMENT,
+	card_name VARCHAR(31),
+	-- mana_cost VARCHAR(8),
+	-- supertype VARCHAR(9),
+	type_line VARCHAR(11),
+	-- subtype VARCHAR(59),
+	expansion_symbol VARCHAR(52),
+	-- text_box VARCHAR(769),
+	-- flavor_text VARCHAR(196),
+	artist_info VARCHAR(24),
+	collector_number INT,
+	-- power INT,
+	-- toughness INT,
+	-- starting_loyalty INT,
+	PRIMARY KEY (permanent_id)
+);
+
+CREATE TABLE permanent (
+	permanent_id INT AUTO INCREMENT,
+	card_name VARCHAR(31),
+	-- mana_cost VARCHAR(8),
+	-- supertype VARCHAR(11),
+	type_line VARCHAR()
+	-- subtype VARCHAR(59),
+	expansion_symbol VARCHAR(52),
+	-- text_box VARCHAR(769),
+	-- flavor_text VARCHAR(196),
+	artist_information VARCHAR(24),
+	collectors_number INT,
+	-- power INT,
+	-- toughness INT,
+	-- starting_loyalty INT,
+	PRIMARY KEY (permanent_id)
+);

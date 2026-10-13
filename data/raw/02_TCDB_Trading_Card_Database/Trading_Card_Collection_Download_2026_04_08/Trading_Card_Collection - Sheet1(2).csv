@@ -1,0 +1,1211 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+1,Essence Flare,,,Enchantment,Aura,,,Ice Age,Common,Richard Kane Ferguson,69,383,U,"Enchant Creature
+Enchanted creature gets +2+0.
+At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.",Never underestimate the poweor of the soul unleashed.,,,,1
+2,Iceberg,,,Enchantment,,,,Ice Age,Uncommon,Jeff A. Menges,73,383,XUU,"Iceberg comes into play with X ice counters on it.
+3: Put an ice counter on Iceberg.
+Remove an ice counter from Iceberg: Add 1 to your mana pool.",,,,,1
+3,Mistfolk,,,Creature,Illusion,,,Ice Age,Common,Quinton Hoover,84,383,UU,B: Counter target spell that targets mistfolk.,"""Although my official log will state there is no evidence pointing to the existence of the mistfolk, my certainty is lessened by the cursed consistency of the expedition's eyewitness accounts.""
+—Disa the restless, journal entry",1,2,,1
+4,Snow Devil,,,Enchantment,Aura,,,Ice Age,Common,"Ken Meyer, Jr.",100,383,1U,"Enchant creature
+Enchanted creature has flying.
+Enchanted creature has first strike as long as it's blocking and you control a snow land.","""Give me wings to fly and speed to strike. In return, the glory I earn shall be yours.""
+—Steinar Icefist, Balduvian shaman",,,,1
+5,Arcum's Weathervane,,Artifact,,,,,Ice Age,Uncommon,Tom Wänerstrand,310,383,2,"2, T: Target snow land is no longer snow.
+2, T: Target nonsnow basic land becomes snow.",,,,,1
+6,Phantasmal Fiend,,,Creature,Illusion,,,Alliances,Common,Scott Kirschner,57a,144,3B,"B: Phantasmal Fiend gets +1/-1 until end of turn.
+1U: Switch Phantasmal Fiend's power and toughness until end of turn.",,1,5,,1
+7,Resistance Fighter,,,Creature,Soldier,,,Visions,Common,Cecil Fernando,18,,W,Sacrifice Resistance Fighter: Target creature deals no combat damage this turn.,"""My soldiers fought without hesitation, died without doubt.""
+—Sidar Jabari",1,1,,1
+8,Fireblast,,,Instant,,,,Visions,Common,Michael Danza,79,,4RR,"You may sacrifice two mountains instead of paying Fireblast's casting cost.
+Fireblast deals 4 damage to target creature or player.",Embermages aren't well known for their diplomatic skills.,,,,1
+9,Lichenthrope,,,Creature,Lichenthrope,,,Visions,Common,Bob Eggleton,112,,3GG,"For each 1 damage dealt to Lichenthrope, put a -1/-1 counter on it instead.
+During your upkeep, remove one of these -1/-1 counters from Lichenthrope.",,5,5,,4
+10,Quirion Ranger,,,Creature,Elf,,,Visions,Common,Tom Kyffin,117,,G,Return a forest you control to owners's hand: Untap target creature. Use this ability only once each turn.,"""Respect the earth, for it will one day be your shield and another day your blanket.""
+—Liefellen, Quirion exarch",1,1,,2
+11,Stampeding Wildebeests,,,Creature,Wildebeests,,,Visions,Common,Randy Gallegos,121,,2GG,"Trample
+During your upkeep, return a green creature you control to owner's hand.",Prayers for rain are answered with the thunder of hooves,5,4,,1
+12,Lava Axe,,,Sorcery,,,,Portal,Uncommon,Adrian Smith,137,,4R,Lava Axe deals 5 damage to your opponent,"Swing your axe as a broom, to sweep away the foe",,,,1
+13,Volcanic Hammer,,,Sorcery,,,,Portal,Uncommon,Christopher Rush,154,,1R,Volcanic Hammer deals 3 damage to any one creature or player,"Cast the weight as though it were a die, to see a rival's fate.",,,,1
+14,Contemplation,,,Enchantment,,,,Stronghold,Common,Brom,4,,1WW,"Whenever you successfully cast a spell, gain 1 life.","""How fascinating it is to watch the machinations of one's own mind play themselves out.""
+—Volrath",,,,1
+15,Soul Warden,,,Creature,Ceric,,,Exodus,Uncommon,Randy Gallegos,21,,W,"Whenever any other creature comes into play, gain 1 life.","Count carefully the souls and see that none are lost.
+—Vec teaching",1,1,,4
+16,Talas Merchant,,,Creature,Merchant,,,Portal 2,Common,Lubov,50,,1U,,The trader let loose a laugh that made all around him check their purses,1,3,,2
+17,Air Elemental,,,Creature,Elemental,,,Portal 2,Uncommon,Doug Chaffee,31,,3UU,Flying,"As insubstantial, and as powerful, as the wind that carries it.",4,4,,2
+18,Touch of Brilliance,,,Sorcery,,,,Portal 2,Common,Kaja Foglio,58,,3U,,,,,,2
+19,Talas Researcher,,,Creature,Wizard,,,Portal 2,Rare,Kaja Foglio,66,,4U,"On your turn, before you attack, you may tap Talas Researcher to draw a card.","From time, knowledge.
+From knowledge, power.",1,1,,1
+20,False Summoning,,,Sorcery,,,,Portal 2,Common,DiTerlizzi,40,,1U,"Play False Summoning only in response to another player playing a creature. That creature card has no effect, and that player puts it into his or her graveyard.",,,,,2
+21,Talas Air Ship,,,Creature,Ship,,,Portal 2,Common,Mark Tedin,48,,3U,Flying,"""Their ships pollute our air as they themselves pollute our forest.""
+—Arathel, elvish queen",3,2,,2
+22,Mystic Denial,,,Sorcery,,,,Portal 2,Uncommon,Di'Terlizzi,41,,1UU,"Play Mystic Denial only in response to another player playing a creature or a sorcery. That card has no effect, and that player puts it into his or her graveyard.",,,,,2
+23,Talas Scout,,,Creature,Pirate,,,Portal 2,Common,Heather Hudson,52,,1U,Flying,"""Scouting a battle before you fight it is just good business.""
+—Jefan, Talas ship captain",1,2,,2
+24,Apprentice Sorcerer,,,Creature,Wizard,,,Portal 2,Uncommon,Christopher Rush,32,,2U,"On your turn, before you attack, you may tap Apprentice Sorcerer to have it deal 1 damage to any one creature or player.",,1,1,,2
+25,Exhaustion,,,Sorcery,,,,Portal 2,Rare,Kaja Foglio,37,,2U,"At the beginning of your opponent's next turn, he or she skips untapping creatures and lands.",,,,,1
+26,Talas Explorer,,,Creature,Merchant,,,Portal 2,Common,Douglas Shuler,49,,1U,Flying,"When Talas Explorer comes into play from your hand, look at your opponent's hand.",1,1,,2
+27,Time Ebb,,,Sorcery,,,,Portal 2,Common,Sam Wood,57,,2U,Return any one creature from play to the top of its owner's library.,"""The ogre had come from out of the blue, so that's where I sent it back.""
+—Talas wizard",,,,2
+28,Talas Warrior,,,Creature,Pirate,,,Portal 2,Rare,Douglas Shuler,53,,1UU,Talas Warrior can't be blocked,The sea is in their blood. Literally.,2,2,,1
+29,Monstrous Growth,,,Sorcery,,,,Portal 2,Common,Una Fricker,133,,1G,Any one creature gets +4/+4 until the end of the turn.,The nightstalker's little game of tease-the-squirrel suddenly took an unexpected turn.,,,,2
+30,Alluring Scent,,,Sorcery,,,,Portal 2,Rare,Melissa A. Benson,121,,1GG,"Choose any one creature. This turn, all creatures able to block it do so.",No earthly armor is protection against this sweetness.,,,,1
+31,Wild Ox,,,Creature,Ox,,,Portal 2,Uncommon,Jeffrey R. Busch,150,,3G,"Swampwalk (If defending player has any swamps in play, Wild Ox can't be blocked.)","It has the run of the swamps, and it knows it.",3,3,,2
+32,Sylvan Basalisk,,,Creature,Basilisk,,,Portal 2,Uncommon,Ron Spencer,146,,3GG,"If Sylvan Basilisk attacks and is blocked, destroy all creatures blocking it. (Destroy the creatures before they deal damage. The  Basilisk doesn't damage your opponent.)",,2,4,,1
+33,River Bear,,,Creature,Bear,,,Portal 2,Uncommon,Una Fricker,144,,3G,"Islandwalk (If defending player has any islands in play, River Bear can't be blocked.)","The bears had been isolated on an island for hundreds of years, until the island sank and the bears didn't.",3,3,,2
+34,Norwood Riders,,,Creature,Elves,,,Portal 2,Common,Rebecca Guay,139,,3G,Norwood Riders can't be blocked by more than one creature.,"""Trade my moose? Sure—when I find a horse that can spear ten goblins at a time!""",3,3,,2
+35,Norwood Ranger,,,Creature,Elf,,,Portal 2,Common,Ron Spencer,138,,G,,Some trees bear deadly fruit.,1,2,,2
+36,Norwood Archers,,,Creature,Elves,,,Portal 2,Common,Rebecca Guay,136,,3G,Norwood Archers can block creatures with flying.,"""'Air superiority?' Not while our archers scan the skies.""",3,3,,2
+37,Golden Bear,,,Creature,Bear,,,Portal 2,Common,Una Fricker,127,,3G,,The elvish scout was scrupulous about the truth. She told the traders that the gold lay nearby.,4,3,,2
+38,Bear Cub,,,Creature,Bear,,,Portal 2,Common,Ron Spencer,123,,1G,,Every little cub has its mother's teeth to guard it.,2,2,,3
+39,Ironhoof Ox,,,Creature,Ox,,,Portal 2,Common,Una Fricker,130,,3GG,Ironhoof Ox can't be blocked by more than one creature.,The good news is it's vegetarian. The bad news is it just doesn't like you.,4,4,,2
+40,Angel of Fury,,,Creature,Angel,,,Portal 2,Rare,Keith Parkinson,7,,4WW,"Flying
+If Angel of Fury is put into your graveyard from play, you may choose to shuffle Angel of Fury into your library.",,3,5,,1
+41,Righteous Charge,,,Sorcery,,,,Portal 2,Uncommon,Jeffrey R. Busch,20,,1WW,All your creatures get +2/+2 until the end of the turn.,,,,,1
+42,Dragon Blood,,Artifact,,,,,Urza's Saga,Uncommon,Greg Simanson,293,350,3,"3, T: Put a +1/+1 counter on target creature.","Fire in the blood, fire in the belly.",,,,1
+43,Songstitcher,,,Creature,Cleric,,,Urza's Saga,Uncommon,Berry,52,350,W,1W: Target attacking creature with flying deals no combat damage this turn.,The true names of birds are songs woven into their souls.,1,1,,1
+44,Waylay,,,Instant,,,,Urza's Saga,Uncommon,Greg Staples,56,350,2W,"Put three Knight tokens into play.
+Treat these tokens as 2/2 white creatures. Remove them from the game at end of turn.","""You reek of corruption,"" spat the knight. ""Why are you even here?""",,,,1
+45,Crazed Skirge,,,Creature,Imp,,,Urza's Saga,Uncommon,Ron Spencer,125,350,3B,"Flying
+Crazed Skirge is unaffected by summoning sickness.",They are Phyrexia's couriers; the messages they carry are inscribed in teir slick hides.,2,2,,1
+46,Viashino Runner,,,Creature,Viashino,,,Urza's Saga,Common,Steve White,224,350,3R,Viashino Runner cannot be blocked by only one creature.,"""It moved this way, an' that way, an' then before I could stick it, it jumped over my head an' was gone.""
+—Jula, goblin raider",3,2,,4
+47,Treetop Rangers,,,Creature,Elves,,,Urza's Saga,Common,Daren Bader,279,350,2G,Treetop Rangers cannot be blocked except by creatures with flying.,"""If you can't catch them, cut the trees down from beneath them. Force them to fight on our terms.""
+—Mishra",2,2,,4
+48,Sluggishness,,,Enchantment,,,,Urza's Legacy,Common,Pete Venters,92,143,1R,"Enchanted creature cannot block.
+When Sluggishness is put into a graveyard from play, return Sluggishness to owner's hand.",Vark decided to lie down and think of a good excuse to quit working.,,,,3
+49,Lone Wolf,,,Creature,Wolf,,,Starter 1999,Common,Una Fricker,130,173,2G,You may have Lone Wolf deal its combat damage to defending player as though it weren't blocked.,,2,2,,1
+50,Norwood Archers,,,Creature,Elf,,,Starter 1999,Common,Rebecca Guay,137,173,3G,Norwood Archers can block as though it had flying.,"""'Air superiority?' Not while our archers scan the skies.""
+—Elvish scout",3,3,,1
+51,Sacred Nectar,,,Sorcery,,,,Starter 1999,Common,Janine Johnston,26,173,1W,You gain 4 life.,"""For he on honey-dew hath fed, And drunk the milk of Paradise.""
+—Samuel Taylor Coleridge, ""Kubla Khan""",,,,1
+52,Stone Rain,,,Sorcery,,,,Starter 1999,Common,John Matson,118,173,2R,Destroy target land.,,,,,1
+53,Breath of Life,,,Sorcery,,,,Starter 1999,Uncommon,Di'Terlizzi,10,173,3W,Put target creature card from your graveyard into play.,,,,,1
+54,Veteran Cavalier,,,Creature,Knight,,,Starter 1999,Uncommon,rk post,30,173,WW,Attacking doesn't cause Veteran cavalier to tap.,"Spirit is the sword and experience the sharpening stone.
+—Arabian proverb",2,2,,1
+55,Wild Griffin,,,Creature,Griffin,,,Starter 1999,Common,Jeff Miracola,31,173,2W,Flying,"Two little goblins, out in the sun. Down came a griffin, and then there was one.",2,2,,1
+56,Extinguish,,,Instant,,,,Starter 1999,Common,Douglas Shuler,37,173,1U,Counter target sorcery spell.,,,,,1
+57,Ingenious Thief,,,Creature,Thief,,,Starter 1999,Common,Dan Frazier,40,173,1U,"Flying
+When Ingenious Thief comes into play, look at target player's hand.",,1,1,,1
+58,Sleight of Hand,,,Sorcery,,,,Starter 1999,Common,Phil Foglio,51,173,U,Look at the top two cards of your library. Put one of them into your hand and the other one on the bottom of your library.,,,,,1
+59,Bog Raiders,,,Creature,Zombie,,,Starter 1999,Common,Carl Critchlow,66,173,2B,Swampwalk (This creature is unblockable as long as defending player has a swamp in play.),Those who live amid decay must expect scavengers,2,2,,1
+60,Muck Rats,,,Creature,Rat,,,Starter 1999,Common,Una Fricker,84,173,B,,"""Just as some fool said it couldn't get worse, the rats began to show up.""
+—Foot soldier",1,1,,1
+61,Jhovall Queen,,,Creature,Rebel,,,Mercadian Masques,Rare,Michael Sutfin,25,350,4WW,Attacking doesn't cause Jhovall Queen to tap.,War-trained jhovalls eat twice their weight in war-trained soldiers daily.,4,7,,4
+62,Ardent Militia,,,Creature,Soldier,,,Sixth Edition,Uncommon,Zina Saunders,3,350,4W,Attacking doesn't cause Ardent Militia to tap.,"Some fight for honor and some for gold, but the militia fight for hearth and home.",2,5,,1
+63,Armored Pegasus,,,Creature,Pegasus,,,Sixth Edition,Common,Andrew Robinson,5,350,1W,Flying,"Asked how it survived a run-in with a bog imp, the pegasus just shok its mane and burped.",1,2,,1
+64,Castle,,,Enchantment,,,,Sixth Edition,Uncommon,Dameon Willich,6,350,3W,Untapped creatures you control get +0/2.,"""Hang out our banners on the outward walls;/The cry is still, 'They come'; our castle's strength /Will laugh a siege to scorn.""
+—William Shakespeare, Macbeth",,,,1
+65,Circle of Protection: White,,,Enchantment,,,,Sixth Edition,Common,Gerry Grace,12,350,1W,"1: The next time a white source of your choice would deal damage to you this turn, prevent that damage.",,,,,1
+66,D'Avenant Archer,,,Creature,Soldier,,,Sixth Edition,Common,Douglas Shuler,15,350,2W,T: D'Avenant Archer deals 1 damage to target attacking or blocking creature.,"Avenant's archers are also trained as poets, so that each arrow is guided by a fragment of verse.",1,2,,1
+67,Disenchant,,,Instant,,,,Sixth Edition,Common,Brian Snoddy,16,350,1W,Destroy target artifact or enchantment,,,,,3
+68,Healing Salve,,,Instant,,,,Sixth Edition,Common,Dan Frazier,22,350,W,Choose one—Target player gains 3 life; or prevent the next 3 damage to target creature or player this turn.,,,,,2
+69,Hero's Resolve,,,Enchantment,,,,Sixth Edition,Common,Pete Venters,24,350,1W,Enchanted creature gets +1/+5.,"""Destiny, chance, fate, fortune—they're all just ways of claiming your successes without claiming your failures.""
+—Gerrard of the Weatherlight",,,,1
+70,Mesa Falcon,,,Creature,Bird,,,Sixth Edition,Common,Mark Poole,31,350,1W,"Flying
+1W: Mesa Falcon gets +0/+1 until end of turn.","""The faith of Serra is borne on wings of hope.""
+—Gulsen, abbey matron",1,1,,1
+71,Samite Healer,,,Creature,Cleric,,,Sixth Edition,Common,Tom Wänerstrand,40,350,1W,T: Prevent the next 1 damage to target creature or player this turn.,Healers ultimatelly acquire the divine gifts of spiritual and physical wholeness. The most devout are also granted the ability to pass physical wholeness onto others.,1,1,,1
+72,Venerable Monk,,,Creature,Cleric,,,Sixth Edition,Common,D. Alexander Gregory,50,350,2W,"When Venerable Monk comes into play,  you gain 2 life.",His presence brings not only a strong arm but also renewed hope.,2,2,,1
+73,Warrior's Honor,,,Instant,,,,Sixth Edition,Common,D. Alexander Gregory,53,350,2W,Creatures you control get +1/+1 until end of turn.,,,,,1
+74,Prodigal Sorcerer,,,Creature,Wizard,,,Sixth Edition,Common,Douglas Shuler,88,350,2U,T: Prodigal sorcerer deals 1 damage to target creature or player.,Occasionally members of the Institute of Arcane Study acquire a taste for worldly pleasures. Seldom do they have trouble finding employment.,1,1,,1
+75,Tidal Surge,,,Sorcery,,,,Sixth Edition,Common,Doug Chaffee,102,350,1U,Tap up to three target creatures without flying.,"""It is nature that gives us our boundaries and nature that enforces them.""
+—Eladamri, Lord of Leaves",,,,1
+76,Wind Drake,,,Creature,Drake,,,Sixth Edition,Common,Zina Saunders,106,350,2U,Flying,"""No bird soars too high, if he soars with his own wings.""
+—William blake,
+The Marriage of Heaven and Hell",2,2,,1
+77,Blood Pet,,,Creature,Thrull,,,Sixth Edition,Common,Brom,115,350,B,Sacrifice Blood Pet: Add B to your mana pool.,"""You are wrong,"" Volrath said. ""I do not hate the living. They often prove quite useful to me."" And then he laughed.",1,1,,1
+78,Drudge Skeletons,,,Creature,Skeleton,,,Sixth Edition,Common,Ian Miller,123,350,1B,B: Regenerate Drudge Skeletons.,"""The dead make good soldiers. They can't disobey orders, they never surrender, and they don't stop fighting when a random body part falls off.""
+—Nevinyrral, Necromancer's Handbook",1,1,,1
+79,Enfeeblement,,,Enchantment,,,,Sixth Edition,Common,John Bolton,125,350,BB,Enchanted creature gets -2/-2.,"""If it is weak, either kill it or ignore it. Anything else honors it.""
+—Kaervek",,,,1
+80,Gravebane Zombie,,,Creature,Zombie,,,Sixth Edition,Uncommon,Gary Leach,133,350,3B,"When Gravebane Zombie would be put into a graveyard from play, instead put Gravebane Zombie on top of its owner's library.",,3,2,,1
+81,Hidden Horror,,,Creature,Horror,,,Sixth Edition,Uncommon,Clint Langley,137,350,1BB,"When Hidden Horror comes into play, choose and discard a creature card from your hand. If you don't sacrifice Hidden Horror.",,4,4,,1
+82,Mischievous Poltergeist,,,Creature,Ghost,,,Sixth Edition,Uncommon,Di'Terlizzi,144,350,2B,"Flying
+Pay 1 life: Regenerate Mischievous Poltergeist.","""The past is a ghost that haunts you from the moment it exists until the moment you don't.""
+—Gerrard of the Weatherlight",1,1,,1
+83,Anaba Bodyguard,,,Creature,Minotaur,,,Sixth Edition,Common,Anson Maddocks,164,350,3R,"First strike
+""Not all minotaurs are tribal. Some are freelance.""
+—Eron the Relentless",,2,3,,1
+84,Fit of Rage,,,Sorcery,,,,Sixth Edition,Common,Douglas Shuler,178,350,1R,Target creature gets +3/+3 and gains first strike until end of turn.,"""Anger is fleeting; remorse is eternal.""
+—Karn, silver golem",,,,1
+85,Lightning Blast,,,Instant,,,,Sixth Edition,Common,Richard Thomas,193,350,3R,Lightning Blast deals 4 damage to target creature or player.,"""Those who fear the darkness have never seen what the light can do.""
+—Selenia, dark angel",,,,1
+86,Pyrotechnics,,,Sorcery,,,,Sixth Edition,Common,Anson Maddocks,199,350,4R,Pyrotechnics deals 4 damage divided any way you choose among any number of target creatures and/or players.,"""Hi!ni!ya! Behold the man of flint, that's me! / Four lightnings zigzag from me, strike and return.""
+—Navajo war chant",,,,1
+87,Sabretooth Tiger,,,Creature,Tiger,,,Sixth Edition,Common,Melissa A. Benson,203,350,2R,"First strike
+""Not all minotaurs are tribal. Some are freelance.""
+—Eron the Relentless","""I fear anything with teeth measured in handspans!""
+—Norin the Wary",2,1,,1
+88,Shock,,,Instant,,,,Sixth Edition,Common,Randy Gallegos,206,350,R,Shock deals 2 damage to target creature or player.,"Lightning tethers souls to the world.
+—Kor saying",,,,1
+89,Tremor,,,Sorcery,,,,Sixth Edition,Common,Pete Venters,211,350,R,Tremor deals 1 damage to each creature without flying.,"""Where do you run when the earth becomes your enemy?""
+—Naimag, Femeref philosopher",,,,1
+90,Wall of Fire,,,Creature,Wall,,,Sixth Edition,Uncommon,Richard Thomas,216,350,1RR,"(Walls can't attack.)
+R: Wall of Fire gets +1/+0 until end of turn.","""Struggle, and you will only fan the flames.""
+—Talibah, embermage",0,5,,1
+91,Creeping Mold,,,Sorcery,,,,Sixth Edition,Uncommon,David Seeley,220,350,2GG,"Destroy target artifact, land, or enchantment.","""Mold could catch you.""
+—Suq'Ata insult",,,,1
+92,Giant Growth,,,Instant,,,,Sixth Edition,Common,Di'Terlizzi,233,350,G,Target creature gets +3/+3 until end of turn.,,,,,1
+93,Giant Spider,,,Creature,Spider,,,Sixth Edition,Common,Randy Gallegos,234,350,3G,Giant Spider can block as though it had flying.,"It's not far into the trap, as the crow flies.",2,4,,1
+94,Llanowar Elves,,,Creature,Elf,,,Sixth Edition,Common,Anson Maddocks,239,350,G,T: Add G to your mana pool.,"One bone broken for every twig snapped underfoot.
+—LLanowar penalty for trespassing",1,1,,1
+95,Panther Warriors,,,Creature,Cat,Warrior,,Sixth Edition,Common,Eric Peterson,243,350,4G,,The dogs of war are nothing compared to the cats.,6,3,,2
+96,Rampant Growth,,,Sorcery,,,,Sixth Edition,Common,Tom Kyffin,246,350,1G,Search your library for a basic land card and put that card into play tapped. Then shuffle your library.,Rath forces plants from its surface as one presses whey from cheese.,,,,1
+97,Scaled Wurm,,,Creature,Wurm,,,Sixth Edition,Common,Daniel Gelon,251,350,7G,,"""Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age.""
+—Kjeldor: Ice Civilization",7,6,,1
+98,Trained Armodon,,,Creature,Elephant,,,Sixth Edition,Common,Gary Leach,257,350,1GG,,These are its last days. Better to grow broad and heavy. Better that the enemy is crushed beneath its carcass.,3,3,,1
+99,Mana Prism,,Artifact,,,,,Sixth Edition,Uncommon,Margaret Organ-Kean,297,350,3,"T: Add one colorless mana to your mana pool.
+1,T: Add one mana of a color of your choice to your mana pool.",,,,,1
+100,Obsianus Golem,,Artifact,Creature,Golem,,,Sixth Edition,Uncommon,Jesper Myrfors,303,350,6,,"""The foot stone is connected to the ankle stone, the ankle stone isi connected to the leg stone....""
+—""Song of the Artificer""",4,6,,1
+101,Rod of Ruin,,Artifact,,,,,Sixth Edition,Uncommon,Christopher Rush,309,350,4,"3, T: Rod of Ruin deals 1 damage to target creature or player.",,,,,1
+102,Fresh Volunteers,,,Creature,Rebel,,,Mercadian Masques,Common,Jeff Miracola,20,350,1W,,"Every Cho-Arrim villager is a potential warrior; when they are called, they abandon their peaceful way of life and take up arms to defend it.",2,2,,1
+103,Chameleon Spirit,,,Creature,Illusion,,,Mercadian Masques,Uncommon,Bradley Williams,65,350,3U,"As Chameleon Spirit comes into play, choose a color.
+Chameleon Spirit's power and toughness are each equal to the number of permanents of the chosen color your opponents control.",,X,X,,1
+104,Diplomatic Immunity,,,Enchantment,,,,Mercadian Masques,Common,Terese Nielsen,75,350,1U,"Enchanted creature can't be the target of spells or abilities.
+Diplomatic Immunity can't be the target of spells or abilities.",,,,,1
+105,Bog Smugglers,,,Creature,Mercenary,,,Mercadian Masques,Common,Mike Ploog,117,350,1BB,Swampwalk (This creature is unblockable as long as defending player controls a swamp.),They slide over the bog like oil across glass.,2,2,,1
+106,Deepwood Ghoul,,,Creature,Zombie,,,Mercadian Masques,Common,Alan Pollack,131,350,2B,Pay 2 life: Regenerate Deepwood Ghoul.,They feed on the living to stay undead.,2,1,,1
+107,Flaming Sword,,,Enchantment,,,,Mercadian Masques,Common,Randy Gallegos,190,350,1R,"You may play Flaming Sword any time you could play an instant
+Target creature gets +1/+0 and has first strike.","""It's not Talruum crystal, but I must admit—it gets the job done.""
+—Tahngarth",,,,1
+108,Uphill Battle,,,Enchantment,,,,Mercadian Masques,Uncommon,Pete Venters,222,350,2R,Creatures your opponents play come into play tapped.,"Cho-Manno knew he had no choice but to ally with Gerrard. If that's what it took to free his people, he'd pay the price.",,,,1
+109,Rushwood Herbalist,,,Creature,Spellshaper,,,Mercadian Masques,Common,Terese Nielsen,265,350,2G,"G, T, Discard a card from you hand: Regenerate target creature","When generals gather their armies, healers gather their herbs.",2,2,,1
+110,Fountain of Cho,,,Land,,,,Mercadian Masques,Uncommon,Scott Hampton,317,350,,"Fountain of Cho comes into play tapped.
+T: Put a storage counter on Fountain of Cho.
+T, Remove any number of storage counters from Fountain of Cho: Add one white mana to your mana pool for each storage counter removed this way.",,,,,4
+111,"Lin Sivvi, Defiant Hero",Legend,,Creature,Rebel,,,Nemesis,Rare,rk post,12,143,1WW,"X, T: Search your library for a Rebel card with converted mana cost X or less and put that card into play. Then shuffle your library.
+3: Put target Rebel card from your graveyard on the bottom of your library.",,1,3,,4
+112,Mana Cache,,,Enchantment,,,,Nemesis,Rare,rk post,92,143,1RR,"At the end of each player's turn, put a charge counter on Mana Cache for each untapped land that player controls.
+Remove a charge counter from Mana Cache: Add one colorless mana to your mana pool. Any player may play this ability but only during his or her turn before the end phase.",,,,,1
+113,Murderous Betrayal,,,Enchantment,,,,Nemesis,Rare,Randy Gallegos,61,143,BBB,"BB, Pay half your life rounded up: Destroy target nonblack creature. It can't be regenerated.","In darkness, the assassin sneaked into the village and destroyed what Eladamri loved most: his daughter.",,,,1
+114,Skyshroud Behemoth,,,Creature,Beast,,,Nemesis,Rare,Eric Peterson,116,143,5GG,"Fading 2 (This creature comes into play with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Skyshroud Behemoth comes into play tapped.",,10,10,,1
+115,Defiant Falcon,,,Creature,Rebel,Bird,,Nemesis,Common,Heather Hudson,6,143,1W,"Flying
+4, T: Search your library for a Rebel card with converted mana cost 3 or less and put that card into play. Then shuffle your library.",,1,1,,4
+116,Reveille Squad,,,Creature,Rebel,,,Prophecy,Uncommon,Greg & Tim Hildebrandt,18,143,2WW,"Whenever you're attacked, if Reveille Squad is untapped, you may untap all creatures you control.","""To arms! To arms! The Lion roars!""",3,3,,4
+117,Sky Weaver,,,Creature,Wizard,,,Invasion,Uncommon,Christopher Moeller,74,350,1U,2: Target white or black creature gains flying until end of turn.,"""Let my wisdom give you wings.""",2,1,,1
+118,Quirion Elves,,,Creature,Elf,,,Invasion,Common,Douglas Shuler,203,350,1G,"As Quirion Elves comes into play, choose a color.
+T: Add G to your mana pool.
+T: Add one mana of the chosen color to your mana pool.",,1,1,,1
+119,Wandering Stream,,,Sorcery,,,,Invasion,Common,Quinton Hoover,224,350,2G,You gain 2 life for each basic land type among lands you control.,"""Dominaria touches us all.""
+—Molimo, maro-sorcerer",,,,1
+120,Soul Net,,Artifact,,,,,Seventh Edition,Uncommon,Ron Spencer,317,350,1,"Whenever a creature is put into a graveyard from play, you may pay 1. If you do, you gain 1 life.",,,,,1
+121,Spined Wurm,,,Creature,Wurm,,,Seventh Edition,Common,Carl Critchlow,270,350,4G,,"""I wouldn't stand in front of that wurm, son. 'Course, I wouldn't stand behind it neither. In fact, standing anywhere near that wurm's not much of a plan. Running, now that's a plan!""
+—Wandering mage",5,4,,1
+122,Wood Elves,,,Creature,Elf,,,Seventh Edition,Common,Christopher Moeller,284,350,2G,"When Wood Elves comes into play, search your library for a forest card and put that card into play. Then shuffle your library.","Every branch a crossroads, every vine a swift steed.",1,1,,1
+123,Slay,,,Instant,,,,Planeshift,Uncommon,Ben Thompson,55,143,2B,"Destroy target green creature. It can't be regenerated.
+Draw a card.","The elves had the edge in guile, skill, and valor. But in the end, only sheer numbers mattered.",,,,1
+124,Cavern Harpy,,,Creature,Beast,,,Planeshift,Common,Daren Bader,97,143,UB,"Flying
+When Cavern Harpy comes into play, return a blue or black creature you control to its owner's hand.
+Pay 1 life: Return Cavern Harpy to its owner's hand.",,2,1,,2
+125,Horned Kavu,,,Creature,Kavu,,,Planeshift,Common,Michael Sutfin,110,143,RG,"When Horned Kavu comes into play, return a red or green creature you control to its owner's hand.","""That didn't happen naturally,"" said Multani. ""Rath's overlay is interfering with the AEther itself.""",3,4,,2
+126,Silver Drake,,,Creature,Drake,,,Planeshift,Common,Alan Pollack,125,143,1WU,"Flying
+When Silver Drake comes into play, return a white or blue creature you control to its owner's hand.",,3,3,,1
+127,Beloved Chaplain,,,Creature,Cleric,,,Odyssey,Uncommon,Darrel Riche,11,350,1W,Protection from creatures,"Nomad and Nantuko, eagle and elephant; all the birds and beasts are charmed by his quiet dignity.",1,1,,2
+128,Mystic Penitent,,,Creature,Nomad,Mystic,,Odyssey,Uncommon,Larry Elmore,34,350,W,"Attacking doesn't cause Mystic Penitent to tap.
+Threshold—Mystic Penitent gets +1/+1 and has flying. (You have threshold as long as seven or more cards are in your graveyard.)",,1,1,,2
+129,Nomad Decoy,,,Creature,Nomad,,,Odyssey,Uncommon,Pete Venters,37,350,2W,"W, T: Tap target creature.
+Threshold—WW, T: Tap two target creatures. (Play this ability only if seven or more cards are in your graveyard.)","If you can take something from a nomad, it's probably that.",1,2,,2
+130,Aven Cloudchaser,,,Creature,Bird,Soldier,,Odyssey,Common,Justin Sweet,7,350,3W,"Flying
+When Aven Cloudchaser comes into play, destroy target enchantment.","""At the Reapportionment, Eagle begged to be human. The ancestor granted half that prayer.""
+—Nomad myth",2,2,,2
+131,Dedicated Martyr,,,Creature,Cleric,,,Odyssey,Common,Dave Dorman,16,350,W,"W, Sacrifice Dedicated Martyr: You gain 3 life.","""If he's willing to suffer for his cause, then by all means, let us oblige him.""
+—Cabal Patriarch",1,1,,1
+132,Embolden,,,Instant,,,,Odyssey,Common,Rebecca Guay,22,350,2W,"Prvent the next 4 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+Flashback 1W (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,1
+133,Life Burst,,,Instant,,,,Odyssey,Common,John Avon,30,350,1W,"Target player gains 4 life, then gains 4 life for each Life Burst card in each graveyard.",As uplifting as a mystic's dreams.,,,,3
+134,Patrol Hound,,,Creature,Hound,,,Odyssey,Common,Daren Bader,38,350,1W,Discard a card from your hand: Patrol Hound gains first strike until end of turn.,"To the camp, it was a fierce and loyal protector. To the sentry's youngest daughter, it would always be her ""Wuv Muffin.""",2,2,,3
+135,Shelter,,,Instant,,,,Odyssey,Common,Christopher Moeller,46,350,1W,"Target creature you control gains protection from the color of your choice until end of turn.
+Draw a card.","Good strategists seize opportunities.
+Great strategists make their own.",,,,3
+136,Deep Reconnaissance,,,Sorcery,,,,Odyssey,Uncommon,Jeff Remmer,236,350,2G,"Search your library for a basic land card and put that card into play tapped. Then shuffle your library.
+Flashback 4G (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,2
+137,Nantuko Elder,,,Creature,Insect,Druid,,Odyssey,Uncommon,Daren Bader,254,350,2G,T: Add 1G to your mana pool,"Plant a field with wishes, and you will grow more wishes.
+—Nantuko teaching",1,2,,2
+138,Roar of the Wurm,,,Sorcery,,,,Odyssey,Uncommon,Kev Walker,266,350,6G,"Put a 6/6 green Wurm creature token into play.
+Flashback 3G (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,2
+139,Diligent Farmhand,,,Creature,Druid,,,Odyssey,Common,Gary Ruddell,237,350,G,"1G, Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card into play tapped. Then shuffle your library.
+If Diligent Farmhand is in a graveyard, Muscle Burst's effect counts it as a Muscle Burst.",,1,1,,3
+140,Krosan Avenger,,,Creature,Druid,,,Odyssey,Common,D. Alexander Gregory,247,350,2G,"Trample
+Threshold—1G: Regenerate Krosan Avenger. (Play this ability only if seven or more cards are in your graveyard.)",She'd have a fearsome reputation if she left any survivors.,3,1,,2
+141,Moment's Peace,,,Instant,,,,Odyssey,Common,Rebecca Guay,251,350,1G,"Prevent all combat damage that would be dealt this turn.
+Flashback 2G (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,3
+142,Rabid Elephant,,,Creature,Elephant,,,Odyssey,Common,Dave Dorman,263,350,4G,"Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.","When in doubt, stomp.",3,4,,2
+143,Seton's Desire,,,Enchantment,,,,Odyssey,Common,Ciruelo,268,350,2G,"Enchanted creature gets +2/+2.
+Threshold—All creatures able to block enchanted creature do so.
+(You have threshold as long as seven or more cards are in your graveyard.)
+",,,,,1
+144,Militant Monk,,,Creature,Cleric,,,Torment,Common,Mark Brill,9,143,1WW,"Attacking doesn't cause Militant Monk to tap.
+T: Prevent the next 1 damage that would be dealt to target creature or player this turn.",,2,1,,3
+145,Commander Eesha,Legend,,Creature,Bird,Soldier,,Judgement,Rare,Rebecca Guay,9,143,2WW,"Flying, protection from creatures","""War glides on the simplest updrafts while peace struggles against hurricane winds. It is the way of the world. It must change.""",2,4,,1
+146,Selfless Exorcist,,,Creature,Cleric,,,Judgement,Rare,Christopher Moeller,21,143,3WW,T: Remove target creature card in a graveyard from the game. That card deals damage equal to its power to Selfless Exorcist. (A X on a card not in play is 0.),,3,4,,1
+147,Battle Screech,,,Sorcery,,,,Judgement,Uncommon,Randy Gallegos,3,143,2WW,Put two 1/1 white Bird creature tokens with flying into play.,,,,,2
+148,Spurmage Advocate,,,Creature,Nomad,,,Judgement,Uncommon,Ron Spears,27,143,W,T: Return two target cards in an opponent's graveyard to his or her hand. Destroy target attacking creature.,"""Our unity humbles our foes.""",1,1,,2
+149,Unquestioned Authority,,,Enchantment,,,,Judgement,Uncommon,Alex Horley,31,143,2W,"When Unquestioned Authority comes into play, draw a card.
+Enchanted creature has protection from creatures.","""Only the Ancestor should be revered.""
+—Mystic heretic",,,,2
+150,Valor,,,Creature,Incarnation,,,Judgement,Uncommon,Kev Walker,32,143,3W,"First strike
+As long as Valor is in your graveyard and you control a plains, creatures you control have first strike.","""The cracks widened, the shell crumbled, and Valor spread throughout the land.""
+—Scroll of Beginnings",2,2,,1
+151,Wormfang Turtle,,,Creature,Nightmare,Beast,,Judgement,Uncommon,John Avon,60,143,2U,"When Wormfang Turtle comes into play, remove a land you control from teh game.
+When Wormfang Turtle leaves play, return the removed card to play under its owner's control.",Chainer's admirers keep his dreams alive.,2,4,,1
+152,Wormfang Crab,,,Creature,Nightmare,Crab,,Judgement,Uncommon,Glen Angus,56,143,3U,"Wormfang Crab is unblockable.
+When Wormfang Crab comes into play, an opponent chooses a permanent you control and removes it from the game.
+When Wormfang Crab leaves play, return the removed card to play under its owner's control.",,3,6,,1
+153,Tunneler Wurm,,,Creature,Wurm,,,Judgement,Uncommon,Jeff Easley,135,143,6GG,Discard a card from your hand: Regenerate Tunneler Wurm.,"If an anurid's lucky, it'll find a warm tunnel for bedtime. If a wurm's lucky, it'll find a warm anurid for breakfast.",6,6,,2
+154,Exoskeletal Armor,,,Enchantment,,,,Judgement,Uncommon,Wayne England,114,143,1G,"Enchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.","""We use only what we need—but in times of strife, our need becomes great.""
+—Centaur warror",,,,3
+155,Brawn,,,Creature,Incarnation,,,Judgement,Uncommon,Matt Cavota,107,143,3G,"Trample
+As long as Brawn is in your graveyard and you control a forest, creatures you control have trample.","""'I have arrived,' bellowed Brawn, and the plane shuddered.""
+—Scroll of Beginnings",3,3,,2
+156,Anurid Swarmsnapper,,,Creature,Beast,,,Judgement,Uncommon,John Matson,105,143,2G,"Anurid Swarmsnapper may block as though it had flying.
+1G: Anurid Swarmsnapper may block an additional creature this turn.",Anurids have the problem of airborne invaders licked.,1,4,,2
+157,Benevolent Bodyguard,,,Creature,Cleric,,,Judgement,Common,Roger Raupp,5,143,W,Sacrifice Benevolent Bodyguard: Target creature you control gains protection from the color of your choice until end of turn.,"""My destiny is to save others so their destinies may be achieved.""",1,1,,3
+158,Funeral Pyre,,,Instant,,,,Judgement,Common,Carl Critchlow,10,143,W,Remove target card in a graveyard from the game. Its owner puts a 1/1 white Spirit creature token with flying into play.,"""Raze the body. Raise the soul.""
+—Mystic elder",,,,1
+159,Guided Strike,,,Instant,,,,Judgement,Common,Dave Dorman,13,143,1W,"Target creature gets +1/+0 and gains first strike until end of turn.
+Draw a card.","""May the Ancestor strengthen my hand and guide my blade.""
+—Nomad war prayer",,,,3
+160,Lead Astray,,,Instant,,,,Judgement,Common,Adam Rex,14,143,1W,Tap up to two target creatures,"""Never underestimate our enemy's strength, brutality,... or stupidity.""
+—Commander Eesha",,,,1
+161,Prismatic Strands,,,Instant,,,,Judgement,Common,Eric Peterson,18,143,2W,"Prevent all damage that sources of the color of your choice would deal this turn.
+Flashback—Tap an untapped white creature you control. (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,1
+162,Shieldmage Advocate,,,Creature,Cleric,,,Judgement,Common,Christopher Moeller,22,143,2W,T: Return target card in an opponent's graveyard to his or her hand. Prevent all damage that would be dealt to target creature or player this turn by a source of your choice.,"""Our unity conquers all fears.""",1,3,,1
+163,Suntail Hawk,,,Creature,Bird,,,Judgement,Common,Heather Hudson,28,143,W,Flying,"""Our forebears once flew like this—carefree, needing nothing but a warm nest and a full belly. Our intellect may be more burden than blessing.""
+—Commander Eesha",1,1,,5
+164,Defy Gravity,,,Instant,,,,Judgement,Common,Ben Thompson,38,143,U,"Target creature gains flying until end of turn.
+Flashback U (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)","Magical or not, it's still a cloud.",,,,1
+165,Arcane Teachings,,,Enchantment,,,,Judgement,Common,Mark Brill,78,143,2R,"Enchanted creature gets +2/+2 and has ""T: This creature deals 1 damage to target creature or player.""","Dwarves may teach at the speed of stone, but their results are solid.",,,,1
+166,Barbarian Bully,,,Creature,Barbarian,,,Judgement,Common,Mike Ploog,79,143,2R,Discard a card at random from your hand: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to him or her. Play this ability only once each turn.,"""Out of my way!""",2,2,,1
+167,Lava Dart,,,Instant,,,,Judgement,Common,Darrel Riche,94,143,R,Lava Dart deals 1 damage to target creature or player.,"Flashback—Sacrifice a mountain.
+(You may play this card from your graveyard for its flashback cost. Then remove it from the 
+game.)",,,,1
+168,Spellgorger Barbarian,,,Creature,Nightmare,Barbarian,,Judgement,Common,Mark Romanoski,100,143,3R,"When Spellgorger Barbarian comes into play, discard a card at random from your hand.
+When Spellgorger Barbarian leaves play, draw a card.",The epidemic insanity had a lasting effect on certain barbarians—but no one noticed.,3,1,,1
+169,Anurid Barkripper,,,Creature,Beast,,,Judgement,Common,Randy Gallegos,104,143,1GG,Threshold—Anurid Barkripper gets +2/+2. (You have threshold as long as seven or more cards are in your graveyard.),"When it croaks, so do you.",2,2,,1
+170,Battlefield Scrounger,,,Creature,Centaur,,,Judgement,Common,Daren Bader,106,143,3GG,Threshold—Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Play this ability only once each turn. (Play this ability only if seven or more cards are in your graveyard.),,3,3,,2
+171,Giant Warthog,,,Creature,Beast,,,Judgement,Common,Kev Walker,118,143,5G,Trample,"""When the Ancestor saw the cruelty her human children were capable of, Her fury shook the world. From this outburst sprang the warthogs.""
+—Nomad myth",5,5,,4
+172,Harvester Druid,,,Creature,Druid,,,Judgement,Common,David Martin,120,143,1G,T: Add to your mana pool one mana of any color that a land you control could produce.,"""In the end, the same soil lies atop the field, within the mountain, and under the sea.""",1,1,,1
+173,Krosan Wayfarer,,,Creature,Druid,,,Judgement,Common,"Edward P. Beard, Jr.",123,143,G,Sacrifice Krosan Wayfarer: Put a land card from your hand into play.,"""The Krosan Forest lives, and druids are its seeds.""",1,1,,2
+174,Nantuko Tracer,,,Creature,Insect,Druid,,Judgement,Common,Greg Staples,125,143,1G,"When Nantuko Tracer comes into pay, you may put target card from a graveyard on the bottom of its owner's library.","Your past is a map to where you will go.
+—Nantuko teaching",2,1,,2
+175,Phantom Tiger,,,Creature,Cat,Spirit,,Judgement,Common,Brian Snoddy,129,143,2G,"Phantom Tiger comes into play with two +1/+1 counters on it.
+If damage would be dealt to Phantom Tiger, prevent the damage. Remove a +1/+1 counter from Phantom Tiger",,1,0,,1
+176,Sudden Strength,,,Instant,,,,Judgement,Common,Alan Pollack,132,143,3G,"Target creature gets +3/+3 until end of turn.
+Draw a card.",The Mirari's magic transformed the Krosan Forest—and its inhabitants.,,,,2
+177,Willbender,,,Creature,Wizard,,,Legions,Uncommon,Eric Peterson,58,145,1U,"Morph 1U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+When Willbender is turned face up, change target of target spell or ability with a single target.",,1,2,,2
+178,Branchsnap Lorian,,,Creature,Beast,,,Legions,Uncommon,Heather Hudson,118,145,1GG,"Trample
+Morph G (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Lorians treat trees and prey the same way: by ripping them limb from limb.",,4,1,,1
+179,Pemmin's Aura,,,Enchantment,,,,Scourge,Uncommon,Greg Staples,45,143,1UU,"U: Untap enchanted creature
+U: Enchanted creature gains flying until end of turn.
+U: Enchanted creature can't be the target of spells or abilities this turn.
+1: Enchanted creature gets +1/-1 or -1/+1 until end of turn.",,,,,4
+180,Flayed Nim,,,Creature,Skeleton,,,Mirrodin,Uncommon,Trevor Hairsine,65,306,3B,"Whenever Flayed Nim deals combat damage to a creature, that creature's controller loses that much life.
+2B: Regenerate Flayed Nim.",,2,2,,1
+181,Great Furnace,,Artifact,Land,,,,Mirrodin,Common,Rob Alexander,282,306,,"(Great Furnace isn't a spell.)
+T: Add R to your mana pool.","Kuldotha, wellspring of molten metal, temple of the goblin horde.",,,,4
+182,Neurok Hoversail,,Artifact,Equipment,,,,Mirrodin,Common,Alan Pollack,218,306,1,"Equipped creature has flying.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)",,,,,1
+183,Steel Wall,,Artifact,Creature,,,,Mirrodin,Common,David Day,248,306,1,"(Walls can't attack.)
+","""We sculpt the land into what we need—homes, armament, fortresses of war. Our strength comes not only from knowing, but from commanding the terrain.""
+—Raksha Golden Cub, leonin kha",0,4,,3
+184,Viridian Longbow,,Artifact,Equipment,,,,Mirrodin,Common,Jeremy Jarvis,270,306,1,"Equipped creature has ""T: This creature deals 1 damage to target creature or player.""
+Equip 3 (3:Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)",,,,,1
+185,Vulshok Gauntlets,,Artifact,Equipment,,,,Mirrodin,Common,Richard Sardinha,273,306,2,"Equipped creature gets +4+2 and doesn't untap during its controller's untap step.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)",,,,,3
+186,Yotian Soldier,,Artifact,Creature,Soldier,,,Mirrodin,Common,Luca Zontini,277,306,3,Attacking doesn't cause Yotian Soldier to tap.,Poets dream the verses of otherworldly stories. Artificers dream the blueprints of otherplanar artifacts.,1,4,,4
+187,Arrest,,,Enchantment,,,,Mirrodin,Common,Tim Hildebrandt,2,306,2W,"Enchanted creature can't attack or block, and its activated abilities can't be played.","""Unfortunately, it doesn't restrain the beast's smell.
+ —Glissa Sunseeker",,,,3
+188,Regress,,,Instant,,,,Mirrodin,Common,Randy Gallegos,48,306,2U,Return target permanent to its owner's hand.,"""Once cast, a spell can be undone. But once revealed, a secret can never again be kept.""
+—Pontifex, elder researcher",,,,2
+189,Contaminated Blood,,,Enchantment,,,,Mirrodin,Common,Thomas M. Baxa,61,306,1B,"Whenever enchanted creature attacks or blocks, its controller loses 3 life.",This leash disciplines the master.,,,,3
+190,Battlegrowth,,,Instant,,,,Mirrodin,Common,John Matson,113,306,G,Put a +1/+1 counter on target creature.,"""I would gladly die for the forest, but I'm much better at killing for it.",,,,4
+191,Predator's Strike,,,Instant,,,,Mirrodin,Common,Tony Szczudlo,128,306,1G,Target creature gets +3/+3 and gains trample until end of turn.,"If you hear it coming, you're not its prey.",,,,4
+192,Tel-Jilad Chosen,,,Creature,Elf,Warrior,,Mirrodin,Common,Matthew D. Wilson,132,306,1G,Protection from artifacts,"""It is my honor to keep safe Tel-Jilad's secrets, not to know them.""",2,1,,1
+193,Tel-Jilad Exile,,,Creature,Troll,Warrior,,Mirrodin,Common,Justin Sweet,133,306,3G,1G: Regenerate Tel-Jilad Exile.,"For his crimes, he was made to forget all the trolls' secrets. Now he knows only that he is outcast, but not why.",2,3,,4
+194,Skullclamp,,Artifact,Equipment,,,,Darksteel,Uncommon,Luca Zontini,140,165,1,"Equipped creature gets +1/-1.
+When equipped creature is put into a graveyard, draw two cards.
+Equip 1 (1: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)",,,,,1
+195,Spincrusher,,Artifact,Creature,,,,Darksteel,Uncommon,Greg Staples,144,165,2,"Whenever Spincrusher blocks, put a +1/+1 counter on it.
+Remove a +1/+1 counter from Spincrusher: Spincrusher is unblockable this turn.",It rolls with the punches.,0,2,,1
+196,Spire Golem,,Artifact,Creature,Golem,,,Darksteel,Common,Daren Bader,145,165,6,"Affinity for Islands (This spell costs 1 less to play for each Island you control.)
+Flying","The longer it soars above the shimmering swirls of the Quicksilver Sea, the more it adopts their unpredictability.",2,4,,1
+197,Whispersilk Cloak,,Artifact,Equipment,,,,Darksteel,Common,Luca Zontini,160,165,3,"Equipped creature is unblockable and can't be the target of spells or abilities.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)",,,,,1
+198,Iron-Barb Hellion,,,Creature,Beast,,,Fifth Dawn,Uncommon,Doug Chaffee,69,165,5R,"Haste
+Iron-Barb Hellion can't block.","When you feel a rumble in the ground, hold perfectly still. One sound will bring the hellion.",5,4,,1
+199,Magma Jet,,,Instant,,,,Fifth Dawn,Uncommon,Justsin Sweet,73,165,1R,"Magma Jet deals 2 damage to target creature or player.
+Scry 2 (Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)",,,,,1
+200,Fangren Pathcutter,,,Creature,Beast,,,Fifth Dawn,Uncommon,Rob Alexander,87,165,4GG,"Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn.","""Tracking a fangren pack is easy. Catching upViridian  to one is fatal.""
+—Viridian scout",4,6,,2
+201,Spark Elemental,,,Creature,Elemental,,,Fifth Dawn ,Common,John Avon,79,165,R,"Trample, haste
+At end of turn, sacrifice Spark Elemental.","""Vulshok shamans summon spark elementals to burn paths through thick underbrush—or through goblin salvage squads.",3,1,,5
+202,Vulshok Sorcerer,,,Creature,Human,Shaman,,Fifth Dawn,Common,rk post,80,165,1RR,"Haste
+T: Vulshok Sorcerer deals 1 damage to target creature or player.","Vulshok sorcerers train by leaping into electrified storm clouds. Dead or alive, they come back down with smiles on their faces.",1,1,,2
+203,Ferocious Charge,,,Instant,,,,Fifth Dawn,Common,Anthony S. Waters,88,165,2G,"Target creature gets +4/+4 until end of turn.
+Scry 2 (Look at the top two cards of your library. Put any number of them on the bottom of your library and the rest on top in any order.)",,,,,1
+204,Tel-Jilad Lifebreather,,,Creature,Troll,Shaman,,Fifth Dawn,Common,Jim Nelson,96,165,4G,"G, T, Sacrifice a Forest: Regenerate target creature.","""The tangle loans you life. Spend it well.""",3,2,,1
+205,Lure,,,Enchantment,,,,Champions of Kamigawa,Uncommon,D. Alexander Gregory,226,306,1GG,All creatures able to block enchanted creature do so.,"""Jukai Forest was known for its secrets, which drew in many wayfarers and wizards. But it was those same secrets that kept most of those seekers from ever being heard from again.",,,,2
+206,Ethereal Haze,,,Instant,Arcane,,,Champions of Kamigawa,Common,Chris Appelhans,9,306,W,Prevent all damage that would be dealt by creatures this turn.,"""Imagine a dove flying through smoke. Does the dove injure the smoke? Does the smoke impede the dove?""
+—Teachings of Eight-and-a-Half-Tails",,,,1
+207,Lava Spike,,,Sorcery,Arcane,,,Champions of Kamigawa,Common,Mark Tedin,178,306,R,Lava Spike deals damage to target player.,"Some kami attacks during the war were rife with trickery, subterfuge, and subtlety, draining hope and pride from the mortal world. Other attacks were a lot more straightforward.",,,,4
+208,Jukai Messnger,,,Creature,Human,Monk,,Champions of Kamigawa,Common,Terese Nielsen,218,306,G,Forestwalk,"Dosan's monks, deep in the spiritual thought, could walk through the thickest of forests without leaving a mark, even the leaves beneath their feet unaffected by their passing.",1,1,,1
+209,Blinding Powder,,Artifact,Equipment,,,,Betrayers of Kamigawa,Uncommon,Greg Hildebrandt,153,165,1,"Equipped creature has ""Unattach Blinding Powder: Preven tall combat damage that would be dealt to this creature this turn.""
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)",,,,,2
+210,Flames of the Blood Hand,,,Instant,,,,Betrayers of Kamigawa,Uncommon,Aleksi Briclot,101,165,2R,"Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.",Many ogres extracted blood oaths from the oni they summoned. Others simply extracted blood.,,,,1
+211,Viashino Sandstalker,,,Creature,Viashino,Warrior,,Ninth Edition,Uncommon,Andrew Robinson,225,350,1RR,"Haste (This creature may attack the turn it comes under your control.)
+At end of turn, return Viashino Sandstalker to its owner's hand. (Return it only if it's in play.)","""Some believe sandstalkers to be illusions; those with scars know better.""
+Zhalfirin Guide to the Desert",4,2,,4
+212,Horned Turtle,,,Creature,Turtle,,,Ninth Edition,Common,DiTerlizzi,81,350,2U,,It doesn't like having visitors...unless it's having them for lunch.,1,4,,1
+213,Contaminated Blood,,,Enchantment,Aura,,,Ninth Edition,Common,Thomas M. Baxa,120,350,1B,"Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.)
+Whenever enchanted creature atttacks or blocks, its controller loses 3 life.",,,,,1
+214,Seething Song,,,Instant,,,,Ninth Edition,Common,Martina Pilcerova,216,350,2R,Add RRRRR to your mana pool.,"""The purest ore is produced from the hottest furnace, and the brightest thunder-bolt is elicited from the darkest storm.""
+—Charles Colton",,,,1
+215,Llanowar Elves,,,Creature,Elf,Druid,,Ninth Edition,Common,Kev Walker,253,350,G,T: Add G to your mana pool.,"One bone broken for every twig snapped underfoot.
+—Llanowar penalty for trespassing",1,1,,1
+216,"Sunhome, Fortress of the Legion",,,Land,,,,Ravnica,Uncommon,Martina Pilcerova,282,306,,"T: Add 1 to your mana pool.
+2RW, T: Target creature gains double strike until end of turn.","Sunhome—the stalwart shield, the towring sentinel, the seat of justice.",,,,1
+217,"Svogthos, the Restless Tomb",,,Land,,,,Ravnica,Uncommon,Martina Pilcerova,283,306,,"T: Add 1 to your mana pool.
+3BG: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with ""This creature's power and toughness are each equal to the number of creature cards in your graveyard."" It's still a land.",,,,,1
+218,Voyager Staff,,Artifact,,,,,Ravnica,Uncommon,Tsutomu Kawade,274,306,,"2, Sacrifice Voyager Staff: Remove target creature from the game, Return that creature to play under its owner's control at end of turn.",Voyager staffs are sought by those hoping to find an escape from the sprawling glut of Ravnica.,,,,1
+219,Auratouched Mage,,,Creature,Human,Wizard,,Ravnica,Uncommon,Jeff Miracola,1,306,5W,"When Auratouched Mage comes into play, search your library for an Aura card that could enchant it. If Auratouched Mage is still in play, attach that Aura to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library.",,3,3,,1
+220,Festival of the Guildpact,,,Instant,,,,Ravnica,Uncommon,Alex Horley-Orlandelli,15,306,XW,"Prevent the next X damage that would be dealt to you this turn.
+Draw a card.","Everyone knows that violence at the Festival brings the worst of luck, so for at least one day a year arms are laid down in favor of brimming goblets.",,,,2
+221,Darkblast,,,Instant,,,,Ravnica,Uncommon,Randy Gallegos,82,306,B,"Target creature gets -1/-1 until end of turn.
+Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",,,,,1
+222,Dimir Machinations,,,Sorcery,,,,Ravnica,Uncommon,Greg Staples,84,306,2B,"Look at the top three cards of target player's library. Remove any number of those cards from the game, then put the rest back in any order.
+Transmute 1BB (1BB, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Play only as a sorcery.)",,,,,1
+223,Drooling Groodion,,,Creature,Beast,,,Ravnica,Uncommon,Kev Walker,204,306,3BBG,"2BG, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets  -2/-2 until end of turn.","""The Golgari expand, yes, but I refuse to call their tainted creations 'growth.'""
+—Veszka, Selesnya evangel",4,3,,1
+224,Flame-Kin Zealot,,,Creature,Elemental,Warrior,,Ravnica,Uncommon,Arnie Swekel,206,306,1RRW,"When Flame-Kin Zealot comes into play, creatures you control get +1/+1 and gain haste until end of turn.","Boros soldiers are like a cache of bombs ready to explode, and the flame-kin light their fuses.",2,2,,1
+225,Reroute,,,Instant,,,,Ravnica,Uncommon,Christopher Rush,139,306,1R,"Change the target of target activated ability with a single target.
+Draw a card.",Three hundred years of practice thwarted by an instant of mischief.,,,,1
+226,Stoneshaker Shaman,,,Creature,Human,Shaman,,Ravnica,Uncommon,Jeff Miracola,145,306,2R,"At the end of each player's turn, that player sacrifices an untapped land.","There is no place in Ravnica for stagnation, no room for lands unfilled and untilled.",1,1,,1
+227,Recollect,,,Sorcery,,,,Ravnica,Uncommon,Pete Venters,178,306,2G,Return target card from your graveyard to your hand.,"""The bones of the past will tell their tales—if you know how to speak their language.""
+—Savra",,,,1
+228,Rolling Spoil,,,Sorcery,,,,Ravnica,Uncommon,Ron Spencer,179,306,2GG,"Destroy target land. If B was spent to play Rolling Spoil, all creatures get -1/-1 until end of turn.","The shadow that fell over the grove was silent yet horribly alive, rolling with millions of tiny minions dedicated to the process of rot.",,,,1
+229,Golgari Rot Farm,,,Land,,,,Ravnica,Common,John Avon,278,306,,"Golgari Rot Farm comes into play tapped.
+When Golgari Rot Farm comes into play, return a land you control to its owner's hand.
+T: Add BG to your mana pool.",,,,,1
+230,Selesnya Sanctuary,,,Land,,,,Ravnica,Common,John Avon,281,306,,"Selesnya Sanctuary comes into play tapped.
+When Selesnya Sanctuary comes into play, return a land you control to its owner's hand.
+T: Add GW to your mana pool.",,,,,1
+231,Caregiver,,,Creature,Human,Cleric,,Ravnica,Common,William Simpson,6,306,W,"W, Sacrifice a creature: Prevent the next 1 damage that would be dealt to target creature or player this turn.","""The guilds each believe its way is right, but their ways only bring blood to Ravnica's streets and tears to Ravnica's families.""",1,1,,1
+232,Faith's Fetters,,,Enchantment,Aura,,,Ravnica,Common,Chippy,16,306,3W,"Enchant Permanent
+When Faith's Fetters comes into play, you gain 4 life.
+Enchanted permanent's activated abilities can't be played unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.",,,,,1
+233,Convolute,,,Instant,,,,Ravnica,Common,Dany Orizio,41,306,2U,Counter target spell unless its controller pays 4,,,,,1
+234,Dizzy Spell,,,Instant,,,,Ravnica,Common,Christopher Moeller,43,306,U,"Target creature gets -3/-0 until end of turn.
+Trasmute 1UU (1UU, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Play only as a sorcery.)",,,,,1
+235,Drift of Phantasms,,,Creature,Spirit,,,Ravnica,Common,Michael Phillippi,46,306,2U,"Defender (This creature can't attack.)
+Flying
+Transmute 1UU (1UU, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Play only as a sorcery.)",,0,5,,1
+236,Gaze of the Gorgon,,,Instant,,,,Ravnica,Common,Stephen Tappin,246,306,3{B/G},"({B/G} can be paid with either B or G.)
+Regenerate target creature. At end of combat, destroy all creatures that blocked or were blocked by that creature this turn.",Even the dead give way to the mineral gaze of the gorgon.,,,,2
+237,Infectious Host,,,Creature,Zombie,,,Ravnica,Common,rk post,91,306,2B,"When Infectious Host is put into a graveyard from play, target player loses 2 life.","""Lost man, dead man, knocking on the door. Cankerworm, soreman, knock no more.""
+—Ravnican children's rhyme",1,1,,4
+238,Last Gasp,,,Instant,,,,Ravnica,Common,Thomas M. Baxa,93,306,1B,Target creature gets -3/-3 until end of turn.,"""Allow me a moment to catch your breath.""",,,,3
+239,Sewerdreg,,,Creature,Spirit,,,Ravnica,Common,Joel Thomas,104,306,3BB,"Swampwalk
+Sacrifice Sewerdreg: Remove target card in a graveyard from the game.","They hardly have form, drippng through pipe and grate with the slip and stench of flowing sewage.",3,3,,1
+240,Strands of Undeath,,,Enchantment,Aura,,,Ravnica,Common,Dave Allsop,108,306,3B,"Enchant creature
+When Strands of Undeath comes into play, target player discards two cards.
+B: Regenerate enchanted creature.","""Why limit yourself to mortal law when you can outlive those who enforce it?""
+—Czaric, Orzhov prelate",,,,2
+241,Thoughtpicker Witch,,,Creature,Human,Wizard,,Ravnica,Common,Pete Venters,109,306,B,"1, Sacrifice a creature: Look at the top two cards of target opponent's library, then remove one of them from the game.","""Once the brew gets the brains nice and pickled, they're a lot easier to pick through.""",1,1,,4
+242,Coalhauler Swine,,,Creature,Beast,,,Ravnica,Common,Daren Bader,119,306,4RR,"Whenever Coalhauler Swine is dealt damage, it deals that much damage to each player.",Nothing stops industry in Ravnica—certainly not the safety of its workers.,4,4,,1
+243,Galvanic Arc,,,Enchantment,Aura,,,Ravnica,Common,Michael Sutfin,126,306,2R,"Enchant creature
+When Galvanic Arc comes into play, it deals 3 damage to target cerature or player.
+Enchanted creature has first strike.",,,,,1
+244,Goblin Spelunkers,,,Creature,Goblin,Warrior,,Ravnica,Common,Glenn Fabry,128,306,2R,"Mountainwalk
+Chimney sweeps, explorers of abandoned buildings, spire climbers...goblin spelunkers have found countless niches within Ravnica's metropolis.",,2,2,,1
+245,Skyknight Legionnaire,,,Creature,Human,Knight,,Ravnica,Common,Jim Murray,232,306,1RW,"Flying, haste","""I do not know which gives me more pride: the legions of soldiers marching in thunderous lockstep, or the cry of the skyknights riding their rocs like jagged lightning overhead.""
+—Razia",2,2,,5
+246,Smash,,,Instant,,,,Ravnica,Common,Paolo Parente,143,306,2R,"Destroy target artifact.
+Draw a card.","Ravnica's laws protect not its citizens but its industry. Aging equipment is destroyed rather than restored, to bring more money into the factories' coffers.",,,,1
+247,Centaur Safeguard,,,Creature,Centaur,Warrior,,Ravnica,Common,Glenn Fabry,244,306,2{G/W},"({G/W} can be paid with either G or W.)
+When Centaur Safeguard is put into a graveyard from play, you may gain 3 life.","Swift, strong, and selfless, the centaurs are the shields of the Conclave.",3,1,,1
+248,Civic Wayfinder,,,Creature,Elf,Warrior,Druid,Ravnica,Common,Cyril Van Der Haegen,157,306,2G,"When Civic Wayfinder comes into play, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.","""These alleys are not safe. Come, I can guide you back to hte market square.""",2,2,,1
+249,Elves of Deep Shadow,,,Creature,Elf,Druid,,Ravnica,Common,Justin Sweet,161,306,G,T: Add B to your mana pool. Elves of Deep Shadow deals 1 damage to you.,"Cast out of the Conclave generations ago, these elves found a home in the corrupted districts of the Golgari.",1,1,,5
+250,Fists of Ironwood,,,Enchantment,Aura,,,Ravnica,Common,Glen Angus,164,306,1g,"Enchant creature
+When Fists of Ironwood comes into play, put two 1/1 green Saproling creature tokens into play.
+Enchanted creature has trample.","Saprolings add the three and the four to the ""one-two punch.""",,,,2
+251,Greater Mossdog,,,Creature,Hound,,,Ravnica,Common,Chippy,169,306,3G,"Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",Man's best fungus.,3,3,,1
+252,Selesnya Evangel,,,Creature,Elf,Shaman,,Ravnica,Common,Rob Alexander,228,306,GW,"1, T: Tap an untapped creature you control: Put a 1/1 green Saproling creature token into play.","""The clamor of the city drowns all voices. But together we can sing a harmony that will resonate from Ravnica's tallest spires to her deepest wells.""",1,2,,1
+253,Siege Wurm,,,Creature,Wurm,,,Ravnica,Common,Carl Critchlow,183,306,5GG,"Convoke (Each creature you tap while playing this spell reduces its cost by 1 or by one mana of that creature's color.)
+Trample",The Rubblefield was once among the wealthiest districts in Ravnica. All it took was a single wurm to reduce it to ruins.,5,5,,1
+254,Stone-Seeder Hierophant,,,Creature,Human,Druid,,Ravnica,Common,William Simpson,184,306,2GG,"Whenever a land comes into play under your control, untap Stone-Seeder Hierophant.
+T: Untap target land.",Her touch brings to bare stone what water and sun bring to rich soil.,1,1,,1
+255,Sundering Vitae,,,Instant,,,,Ravnica,Common,Shishizaru,185,306,2G,"Convoke (Each creature you tap while playing this spell reduces its cost by 1 or by one mana of that creature's color.)
+Destroy target artifact or enchantment.","Centuries of wind, rain, and roots compressed into an instant of destruction: such is the power of Selesnya.",,,,1
+256,"Skarrg, the Rage Pits",,,Land,,,,Guildpact,Uncommon,Martina Pilcerova,163,165,,"T: Add 1 to your mana pool.
+RG, T: Target creature gets +1/+1 and gains trample until end of turn.","""This palace will be our fire-spit, and roasted prince our victory meal. Send in the torch-pigs!""
+—Ghut Rak, Gruul guildmage",,,,1
+257,Agent of Masks,,,Creature,Human,Advisor,,Guildpact,Uncommon,Matt Thompson,100,165,3WB,"At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.","""You say that I am two-faced? Enough with the flattery. We have business to conduct.""",2,3,,2
+258,Martyred Rusalka,,,Creature,Spirit,,,Guildpact,Uncommon,Alex Horley-Orlandelli,12,165,W,"W, Sacrifice a creature: Target creature can't attack this turn.",Rakdos cultists hanged her for sport in the township square. Her ghost now stands vigil at what has become known as the Tree of Weeping.,1,1,,1
+259,Order of the Stars,,,Creature,Human,Cleric,,Guildpact,Uncommon,Heather Hudson,13,165,W,"Defender (This creature can't attack.)
+As order of the Stars comes into play, choose a color.
+Order of the Stars has protection from the chosen color.","As stoic as the marble halls, as unblinking as the stars upon their shields.",0,1,,1
+260,Souls of the Faultless,,,Creature,Spirit,,,Guildpact,Uncommon,Pat Lee,131,165,WBB,"Defender (This creature can't attack.)
+Whenever Souls of the Faultless is dealt combat damage, you gain that much life and attacking player loses that much life.","""More horrible than their empty forms are their noble eyes. I dare not strike.""
+—Klattic, Boros legionnaire",0,4,,1
+261,Drowned Rusalka,,,Creature,Spirit,,,Guildpact,Uncommon,Dany Orizio,24,165,U,"U, Sacrifice a creature: Discard a card, then draw a card.","Lurking below the current, she thirsts until others come to drink.",1,1,,1
+262,Electrolyze,,,Instant,,,,Guildpact,Uncommon,Zoltan Boros & Gabor Szikszai,111,165,1UR,"Electrolyze deals 2 damage divided as you choose among any number of target creatures and/or players.
+Draw a card.",The Izzet learn something from every lesson they teach.,,,,2
+263,Vertigo Spawn,,,Creature,Illusion,,,Guildpact,Uncommon,Ittoku,42,165,1U,"Defender (This creature can't attack.)
+Whenever Vertigo Spawn blocks a creature, tap that creature. It doesn't untap during its controller's next untap step.",,0,3,,1
+264,Hissing Miasma,,,Enchantment,,,,Guildpact,Uncommon,Ben Thompson,51,165,1BB,"Whenever a creature attacks you, its controller loses 1 life.","All that remains when the fog finishes are neat piles of polished bones, like acid-etched glass. Orzhov servants collect them to make altar chimes.",,,,3
+265,Plagued Rusalka,,,Creature,Spirit,,,Guildpact,Uncommon,Alex Horley-Orlandelli,56,165,B,"B, Sacrifice a creature: Target creature gets -1/-1 until end of turn.","""Look at her, once filled with innocence. Death has a way of wringing away such...deficiencies.""
+—Savra",1,1,,1
+266,Revenant Patriarch,,,Creature,Spirit,,,Guildpact,Uncommon,Nick Percival,59,165,4B,"When Revenant Patriarch comes into play, if W was spent to play Revenant Patriarch, target player skips his or her next combat phase.
+Revenant Patriarch can't block.","""The Golgari raise the bodies of their dead to serve. We raise the spirits of our dead to lead.""",4,3,,1
+267,Smogsteed Rider,,,Creature,Human,Wizard,,Guildpact,Uncommon,Alex Horley-Orlandelli,63,165,2BB,"Whenever Smogsteed Rider attacks, each other attacking creature gains fear until end of turn.","""An entire order of mages who draw their power from Ravnica's smog? Yet another indicator of our world's decay.""
+—Dravash, dowsing shaman",2,2,,1
+268,Shattering Spree,,,Sorcery,,,,Guildpact,Uncommon,Pat Lee,75,165,R,"Replicate R (When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Destroy target artifact.",,,,,4
+269,Battering Wurm,,,Creature,Wurm,,,Guildpact,Uncommon,Darrell Riche,79,165,6G,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)
+Creatures with power less than Battering Wurm's power can't block it.",,4,3,,1
+270,Crash Landing,,,Instant,,,,Guildpact,Uncommon,Darrell Riche,82,165,2G,Target creature with flying loses flying until end of turn. Crash Landing deals damage to that creature equal to the number of forests you control.,"""The other guilds think they're untouchable. It's time we brought them back down to earth.""
+—Ghut Rak, Gruul guildmage",,,,1
+271,Dryad Sophisticate,,,Creature,Dryad,,,Guildpact,Uncommon,Ron Spears,83,165,1G,Nonbasic landwalk,"From Tin Street to the Outcast Mansions, she walks unbidden and unbound, her graceful silence never shaken by the riot of city life around her.",2,1,,1
+272,Gruul Turf,,,Land,,,,Guildpact,Common,John Avon,158,165,,"Gruul Turf comes into play tapped.
+When Gruul Turf comes into play, return a land you control to its owner's hand.
+T: Add RG to your mana pool.",,,,,4
+273,Izzet Boilerworks,,,Land,,,,Guildpact,Common,John Avon,159,165,,"Izzet Boilerworks comes into play tapped.
+When Izzet Boilerworks comes into play, return a land you control to its owner's hand.
+T: Add UR to your mana pool.",,,,,2
+274,Gruul Signet,,Artifact,,,,,Guildpact,Common,Tom Hildebrandt,150,165,2,"1, T: Add RG to your mana pool.","Gruul territorial markings need not be legible. The blood, snot and muck used to smear them are unmistakably Gruul.",,,,3
+275,Orzhov Signet,,Artifact,,,,,Guildpact,Common,Tim Hildebrandt,155,165,2,"1, T: Add WB to your mana pool.","The form of the sigil is just as important as the sigil itself. If it's carried on a medallion, its bearer is a master. If it's tattooed on the body, its bearer is a slave.",,,,1
+276,Pillory of the Sleepless,,,Enchantment,Aura,,,Guildpact,Common,Mark Romanoski,125,165,1WB,"Enchant creature
+Enchanted creature can't attack or block.
+Enchanted creature has ""At the beginning of your upkeep, you lose 1 life.""",Which is worse—the sleep which never ends or that which never comes?,,,,4
+277,Benediction of Moons,,,Sorcery,,,,Guildpact,Common,Matt Cavotta,2,165,W,"You gain 1 life for each player.
+Haunt (When this spell card is put into a graveyard after resolving, remove it from teh game haunting target creature.)
+When the creature Benediction of Moons haunts is put into a graveyard, you gain 1 life for each player.",,,,,4
+278,Mourning Thrull,,,Creature,Thrull,,,Guildpact,Common,Dany Orizio,146,165,1{W/B},"({W/B} can be paid with either W or B.)
+Flying
+Whenever Mourning Thrull deals damage, you gain that much life.","During their ascent to spirithood, patriarchs of Orzhova shed both flesh and emotion. This earthly slag is collected and formed into thrulls.",1,1,,4
+279,Infiltrator's Magemark,,,Enchantment,Aura,,,Guildpact,Common,Brandon Kitkouski,28,165,2U,"Enchant creature
+Creatures you control that are enchanted get +1/+1 and can't be blocked except by creatures with defender.","""In secrecy is strength. None can oppose one who cannot be found.""
+Szadek",,,,3
+280,Orzhov Euthanist,,,Creature,Human,Assassin,,Guildpact,Common,Zoltan Boros & Gabor Szikszai,54,165,2B,"Haunt (When this card is put into a graveyard from play, remove it from the game haunting target creature.)
+When Orzhov Euthanist comes into play or the creature it haunts is put into a graveyard, destroy target creature that was dealt damage this turn.",,2,2,,4
+281,Ostiary Thrull,,,Creature,Thrull,,,Guildpact,Common,Ron Spencer,55,165,3B,"W, T: Tap target creature.",Orzhov churches don't pass the plate for collection. They charge for admission.,2,2,,5
+282,Poisonbelly Ogre,,,Creature,Ogre,Warrior,,Guildpact,Common,Zoltan Boros & Gabor Szikszai,57,165,4B,"Whenever another creature comes into play, its controller loses 1 life.","Some claim it's a failed simic experiment, others say a Golgari creation. Both guilds deny all responsibility, while secretly studying its strange virulence.",3,3,,2
+283,Burning-Tree Bloodscale,,,Creature,Viashino,Berserker,,Guildpact,Common,Kev Walker,104,165,2RG,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)
+2R: Target creature can't block Burning-Tree Bloodscale this turn.
+2G: Target creature blocks Burning-Tree Bloodscale this turn if able.",,2,2,,1
+284,Fencer's Magemark,,,Enchantment,Aura,,,Guildpact,Common,Brandon Kitkouski,65,165,2R,"Enchant Creature
+Creatures you control that are enchanted get +1/+1 and have first strike.","""The first blow is the most important. It often negates the need for a sword.""
+—Agrus Kos",,,,5
+285,Ogre Savant,,,Creature,Ogre,Wizard,,Guildpact,Common,Paolo Parente,70,165,4R,"When Ogre Savant comes into play, if U was used to play Ogre Savant, return target creature to its owner's hand.",He's an oxymoron.,3,2,,2
+286,Pyromatics,,,Instant,,,,Guildpact,Common,Glen Angus,72,165,1R,"Replicate 1R (When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Pyromatics deals 1 damage to target creature or player.",,,,,1
+287,Wild Cantor,,,Creature,Human,Druid,,Guildpact,Common,Glenn Fabry,149,165,{R/G},"({R/G} can be paid with either R or G}
+Sacrifice Wild Cantor: Add one mana of any color to your mana pool.","They are the voice of the wild, crying out with nature's fury and bringing forth its primeval might.",1,1,,1
+288,Ghor-Clan Savage,,,Creature,Centaur,Berserker,,Guildpact,Common,Greg Staples,86,165,3GG,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature comes into play with three +1/+1 counters on it.)",The snap of sinew. The crunch of bone. A cry for mercy. These are the music of the Gruul.,2,3,,1
+289,Gruul Nodorog,,,Creature,Beast,,,Guildpact,Common,Pete Venters,88,165,4GG,R: Gruul Nodorog can't be blocked this turn except by two or more creatures.,"Petting the nodorog
+—Gruul expression meaning ""making a really big mistake""",4,4,,1
+290,Silhana Ledgewalker,,,Creature,Elf,Rogue,,Guildpact,Common,James Wong,94,165,1G,"Silhana Ledgewalker can't be blocked except by creatures with flying.
+Silhana Ledgewalker can't be the target of spells or abilities your opponents control.","Street folk call them ""spire mice,"" but behind the mockery is an unspoken envy of the ledgewalkers' skill at avoiding harm.",1,1,,4
+291,Silhana Starfletcher,,,Creature,Elf,Druid,Archer,Guildpact,Common,Alex Horley-Orlandelli,95,165,3G,"As silhana Starfletcher comes into play, choose a color.
+T: Add one mana of the chosen color to your mana pool.
+Silhana Starfletcher can block as though it had flying.",In light he finds both gift and weapon.,1,3,,1
+292,Wildsize,,,Instant,,,,Guildpact,Common,Jum Murray,98,165,2G,"Target creature gets +2/+2 and gains trample until end of turn.
+Draw a card.","Two times the size, four times the smell.",,,,1
+293,"Nivix, Aerie of the Firemind",,,Land,,,,Guildpact,Uncommon,Martina Pilcerova,160,165,,"T: Add 1 to your mana pool.
+2UR, T: Remove the top card of your library from the game. until your next turn, you may play that cadr if it's an instant or sorcery..",Niv-Mizzet's genius and vanity reverberate throughout the mirrored halls of Nivix.,,,,1
+294,Elfhame Palace,,,Land,,,,Eighth Edition,Uncommon,Anthony S. Waters,324,350,,"Elfhame Palace comes into play tapped.
+T: Add G or W to your mana pool.","The elfhames are the closest thing to ""civilization"" the elves allow themselves.",,,,1
+295,Seasoned Marshal,,,Creature,Soldier,,,Eighth Edition,Uncommon,Matthew D. Wilson,44,350,2WW,"Whenever Seasoned Marshall attacks, you may tap target creature.","She reads the battlefield like a map, always seeking the shortest route to victory.",2,2,,1
+296,Spirit Link,,,Enchantment,,,,Eighth Edition,Uncommon,Kev Walker,47,350,W,"Whenever enchanted creature deals damage, you gain that much life.","""I am bound to all my children. I share in their joys, I rage at their injuries.""",,,,1
+297,Staunch Defenders,,,Creature,Soldier,,,Eighth Edition,Uncommon,Tristan Elwell,49,350,3WW,"When Staunch Defenders comes into play, you gain 4 life.",The key to winning any fight is simply staying alive.,3,4,,1
+298,Ogre Taskmaster,,,Creature,Ogre,,,Eighth Edition,Uncommon,Dany Orizio,205,350,3R,Ogre Taskmaster can't block.,Ogres learn how to smash stuff even before they learn how to walk.,4,3,,1
+299,Wall of Stone,,,Creature,Wall,,,Eighth Edition,Uncommon,Rob Alexander,232,350,1RR,(Walls can't attack.),"The ground itself lends its strength to these walls of living stone, which possess the stability of ancient mountains. These mighty bulwarks thwart ground-based troops, providing welcome relief for weary warriors who defend the land.",0,8,,2
+300,Enormous Baloth,,,Creature,Beast,,,Eighth Edition,Uncommon,Mark Tedin,263,350,6G,,"Its diet consists of fruits, plants, small woodland animals, large woodland animals, woodlands, fruit groves, fruit farmers, and small cities.",7,7,,2
+301,Redeem,,,Instant,,,,Eighth Edition,Common,D. Alexander Gregory,37,350,1W,Prevent all damage that would be dealt this turn to up to two target creatures.,"""Let me redeem my brothers both from death.""
+—William Shakespeare, Titus Andronicus",,,,1
+302,Spined Wurm,,,Creature,Wurm,,,Eighth Edition,Common,Keith Parkinson,279,350,4G,,"""I wouldn't stand in front of that wurm, son. 'Course, I wouldn't stand behind it neither. In fact, standing anywhere near that wurm's not much of a plan. Running, now that's a plan!""
+—Wandering mage",5,4,,1
+303,Unholy Strength,,,Enchantment,,,,Eighth Edition,Common,Puddinhead,169,350,B,Enchanted creature gets +2/+1.,Such power grows the body as it shrinks the soul.,,,,1
+304,Goblin Raider,,,Creature,Goblin,,,Eighth Edition,Common,Greg Staples,191,350,1R,Goblin Raider can't block.,He's smart for a goblin. He can do two things: hit and run.,2,2,,2
+305,Hill Giant,,,Creature,Giant,,,Eighth Edition,Common,Dany Orizio,194,350,3R,,"Bent on a quest for blood, a giant can storm through a fort's wall as if it were nothing more than a picket fence.",3,3,,2
+306,Lava Axe,,,Sorcery,,,,Eighth Edition,Common,Brian Snoddy,197,350,4R,Lava Axe deals 5 damage to target player.,"""Catch!""",,,,2
+307,Reflexes,,,Enchantment,,,,Eighth Edition,Common,Steve White,213,350,R,"Enchanted creature has first strike.
+(It deals combat damage before creatures without first strike.)","""Be as fast as lightning, and you will be just as deadly.""
+—Combat trainer",,,,1
+308,Grizzly Bears,,,Creature,Bear,,,Eighth Edition,Common,D. J. Cleland-Hura,256,350,1G,,"Don't try to outrun one of Dominaria's grizzlies; it'll catch you, knock you down, and eat you. Of course, you could run up a tree. In that case you'll get a nice view before it knocks the tree down and eats you.",2,2,,2
+309,Norwood Ranger,,,Creature,Elf,,,Eighth Edition,Common,Ron Spencer,271,350,G,,"The song of the forest is in perfect harmony. If a single note is out of place, the elves will find its source.",1,2,,1
+310,Rampant Growth,,,Sorcery,,,,Eighth Edition,Common,Tom Kyffin,274,350,1G,Search your library for a basic land card and put that card into play tapped. Then shuffle your library.,Nature grows solutions to her problems.,,,,1
+311,"Novijen, Heart of Progress",,,Land,,,,Dissension,Uncommon,Martina Pilcerova,175,180,,"T: Add 1 to your mana pool.
+GU, T: Put a +1/+1 counter on each creature that came into play this turn.","""The unnatural pressures of life in this city are best withstood by lifeforms that adapt with unnatural swiftness.""
+—Momir Vig",,,,3
+312,Magewright's Stone,,Artifact,,,,,Dissension,Uncommon,Carl Critchlow,162,180,2,"1, T: Untap target creature that has an activated ability with T in its cost.","The stones hark back to an age before civilization, when the living earth blessed all who trod its untamed wilds.",,,,1
+313,Trial,,,Instant,,,,Dissension,Uncommon,Ron Spears & Wayne Reynolds,158,180,WU,Return all creatures blocking or blocked by target creature to their owner's hand.,,,,,1
+314,Flash Foliage,,,Instant,,,,Dissension,Uncommon,Ron Spears,85,180,2G,"Put a 1/1 green Saproling creature token into play blocking target creature attacking you.
+Draw a card.","""This undemanding vegetation takes root in a mote of dust that grows incredibly quickly.""
+—Simic research notes",,,,5
+315,Plaxcaster Frogling,,,Creature,Frog,Mutant,,Dissension,Uncommon,Greg Staples,123,180,1GU,"Graft 3 (This creature comes into play with three +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)
+2: Target creature with a +1/+1 counter on it can't be the target of spells or abilities this turn.",,0,0,,1
+316,Simic Basilisk,,,Creature,Basilisk,Mutant,,Dissension,Uncommon,Luca Zontini,91,180,4GG,"Graft 3 (This creature comes into play with +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter on it gains ""Whenever this creature deals combat damage to a creature, destroy that creature at end of combat.""",,0,0,,5
+317,Simic Guildmage,,,Creature,Elf,Wizard,,Dissension,Uncommon,Aleksi Briclot,148,180,{G/U}{G/U},"({G/U} can be paid with either G or U.)
+1G: Move a +1/+1 counter from target creature onto another target creature with the same controller.
+1U: Attach target Aura enchanting a permanent to another permanent with the same controller.",,2,2,,2
+318,Simic Growth Chamber,,,Land,,,,Dissension,Common,John Avon,180,180,,"Simic Growth Chamber comes into play tapped.
+When Simic Growth Chamber comes into play, return a land you control to its owner's hand.
+T: Add GU to your mana pool.",,,,,5
+319,Helium Squirter,,,Creature,Beast,Mutant,,Dissension,Common,Hideaki Takamura,26,180,4U,"Graft 3 (This creature comes into play with three +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1counter from this creature onto it.)
+T: Targert creature with a +1/+1 counter on it gains flying until end of turn.",,0,0,,1
+320,Silkwing Scout,,,Creature,Faerie,Scout,,Dissension,Common,Rebecca Guay,31,180,2U,"Flying
+G, Sacrifice Silkwing Scout: Search your library for a basic land card and put that card into play tapped. Then shuffle your library.",,2,1,,3
+321,Cackling Flames,,,Instant,,,,Dissension,Common,Shishizaru,59,180,3R,"Cackling Flames deals 3 damage to target creature or player.
+Hellbend—Cackling Flames deals 5 damage to that creature or player instead if you have no cards in hand.","""I like a little entertainment with my dinner.""
+—Rakdos",,,,1
+322,Aquastrand Spider,,,Creature,Spider,Mutant,,Dissension,Common,Dany Orizio,80,180,1G,"Graft 2 (This creature comes into play with two +1/+1 counters on it . Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)
+G: Target creature with a +1/+1 counter on it can block as though it had flying this turn.",,0,0,,2
+323,Assault Zeppelid,,,Creature,Beast,,,Dissension,Common,Jeremy Jarvis,103,180,2GU,"Flying, trample","""Show them to Razia and then to the Azorius sky marshals. We could create a fine bidding war—enough to fund the final stages of Project Kraj.""
+—Momir Vig
+",3,3,,1
+324,Coiling Oracle,,,Creature,Snake,Elf,Druid,Dissension,Common,Mark Zug,107,180,GU,"When Coiling Oracle comes into play, reveal the top card of your library. If it's a land card, put it into play. Otherwise, put that card into your hand.","Snaking remnants of nature directed by a body of thought and progress, the oracles embody all that is Simic.",1,1,,4
+325,Shieding Plax,,,Enchantment,Aura,,,Dissension,Common,Brian Hagan,147,180,2{G/U},"({G/U} can be paid with either G or U.)
+Enchant creature
+When Shielding Plax comes into play, draw a card.
+Enchanted creature can't be the target of spells or abilities your opponents control.",,,,,3
+326,Simic Initiate,,,Creature,Human,Mutant,,Dissension,Common,Dany Orizio,92,180,GU,"Graft 1 (This creature comes into play with a +1/+1 counter on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)",Simic initiates begin their training as experimentla subjects. Failures are flushed into the undersewers.,0,0,,3
+327,Sporeback Troll,,,Creature,Troll,Mutant,,Dissension,Common,Dan Scott,94,180,3G,"Graft 2 (This creature comes into play with two +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)
+1G: Regenerate target creature with a +1/+1 counter on it.",,0,0,,3
+328,Vigean Hydropon,,,Creature,Plant,Mutant,,Dissension,Common,Anthony S. Waters,135,180,1GU,"Graft 5 (This creature comes into play with five +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)
+Vigean Hydropon can't attack or block.","Fruits of magic, roots in science.",0,0,,6
+329,Coldsteel Heart,Snow,Artifact,,,,,Coldsnap,Uncommon,Mark Romanoski,136,155,2,"Coldsteel Heart comes into play tapped.
+As Coldsteel Heart comes into play, choose a color.
+T: Add one mana of the chosen color to your mana pool.","The Phyrexian death machine awoke, its coldsteel heart imbuing it with sinister new power.",,,,1
+330,Glacial Plating,Snow,,Enchantment,Aura,,,Coldsnap,Uncommon,Brian Despain,7,155,2WW,"Enchant creature
+Cumulative upkeep S (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. S can be paid with one mana from a snow permanent.)
+Enchanted creature gets +3/+3 for each age counter on Glacial Plating.",,,,,1
+331,Luminesce,,,Instant,,,,Coldsnap,Uncommon,Daren Bader,14,155,W,Prevent all damage that black and/or red sources would deal this turn.,"""The White Shield is not the burnished metal you lash to your forearm but the conviction that burns in your chest.""
+—Lucilde Fiksdotter, leader of the Order of the White Shield.",,,,2
+332,Balduvian Forestwalker,,,Creature,Human,Wizard,,Coldsnap,Uncommon,Stephen Tappin,28,155,2U,"U, T: Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land.","""Whether frozen or fertile, the land is our ally. It awaits the call to battle.""",1,1,,1
+333,Rimewind Cryomancer,,,Creature,Human,Wizard,,Coldsnap,Uncommon,Dan Scott,43,155,3U,"1, T: Counter target activated ability. Play this ability only if you control four or more snow permanents. (Mana abilities can't be targeted.)","""The Thaw brings flooding, disease, and death. We will do all in our power to bring frigid peace back to the world.""",2,3,,1
+334,Krovikan Mist,,,Creature,Illusion,,,Coldsnap,Common,Jeremy Jarvis,38,155,1U,"Flying
+Krovikan Mist's power and toughness are each equal to the nuber of Illusions in play.","Plague-induced dreams became real as they swirled above Krov, mingling with the magical residue of the World Spell.",X,X,,4
+335,Rimewind Taskmage,,,Creature,Human,Wizard,,Coldsnap,Common,Ron Spears,44,155,1U,"1, T: Tap or untap permanent. Play this ability only if you control four or more snow permanents.","""Find solace in the sun? Burning, blinding, laying secrets bare? No, solace is found under the blanket of cold.""",1,2,,1
+336,Runesnag,,,Instant,,,,Coldsnap,Common,Dave Dorman,46,155,1U,Counter target spell unless its controller pays 2 plus an additional 2 for each card named Rune Snag in each graveyard.,"""Concentration is key. Without it, a mage conjures nothing but a splitting headache.""
+—Zur the Enchanter",,,,4
+337,Chill to the Bone,,,Instant,,,,Coldsnap,Common,Jim Murray,52,155,3B,Destroy target nonsnow creature.,"""Thick hides and layered armor won't help when I freeze you from the inside out.""
+—Heidar, Rimewind master",,,,2
+338,Grim Harvest,,,Instant,,,,Coldsnap,Common,Zoltan Boros & Gabor Szikszai,58,155,1B,"Return target creature card from your graveyard to your hand.
+Recover 2B (When a creature is put into your graveyard from play, you may pay 2B. If you do, return this card from your graveyard to your hand. Otherwise, remove this card from the game.)",,,,,1
+339,Boreal Druid,Snow,,Creature,Elf,Druid,,Coldsnap,Common,Dan Dos Santos,105,155,G,T: Add 1 to your mana pool.,"Some creatures are bound to the cold by Rimewind magic. Others seek it out, adapted by two thousand years of the Ice. The Boreal, where Heidar's frigid sway is strongest, is home to both.",1,1,,2
+340,Martyr of Spores,,,Creature,Human,Shaman,,Coldsnap,Common,Dan Scott,113,155,G,"1, Reveal X green cards from your hand, Sacrifice Martyr of Spores: Target creature gets +X/+X until end of turn.","""Weep not for me. I will rise with the spring's new growth.""",1,1,,1
+341,Surging Might,,,Enchantment,Aura,,,Coldsnap,Common,Luca Zontini,125,155,2G,"Enchant creature
+Enchanted creature gets +2/+2.
+Ripple 4 (When you play this spell, you may reveal the top four cards of your library. You may play any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)",,,,,1
+342,Safe Haven,,,Land,,,,Time Spiral,Timeshifted Rare,Christopher Rush,121,121,,"2, T: Remove target creature you control from the game
+At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card removed from the game with Safe Haven to play under its owner's control.",,,,,1
+343,Chronatog Totem,,Artifact,,,,,Time Spiral,Uncommon,Christopher Rush,252,301,3,"T: Add U to your mana pool.
+1U: Chronatog Totem becomse a 1/2 blue Atog artifact creature until end of turn.
+0: Chronatog Totem gets +3/+3 until end of turn. You skip your next turn. Play this ability only once each turn and only if Chronatog Totem is a creature.",,,,,1
+344,Claws of Gix,,Artifact,,,,,Time Spiral,Timeshifted Rare,Henry G. Higgenbotham,107,121,0,"1, Sacrifice a permanent: You gain 1 life.","When the Brotherhood of Gix dug out the cave of Koilos they found their master's severed hand. They enshrined it, hoping that one day it would point the way to Phyrexia.",,,,1
+345,Clockwork Hydra,,Artifact,Creature,,,,Time Spiral,Uncommon,Daren Bader,253,301,5,"Clockwork Hydra comes into play with four +1/+1 counters on it.
+Whenever Clockwork Hydra attacks or blocks, remove a +1/+1 counter from it. If you do, Clockwork Hydra deals 1 damage to target creature or player.
+T: Put a +1/+1 counter on Clockwork Hydra.",,0,0,,1
+346,Foriysian Totem,,Artifact,,,,,Time Spiral,Uncommon,Anson Maddocks,254,301,3,"T: Add R to your mana pool.
+4R: Foriysian Totem becomes a 4/4 red Giant artifact creature with trample until end of turn.
+As long as Foriysian Totem is a creature, it can block an additional creature.",,,,,1
+347,Feldon's Cane,,Artifact,,,,,Time Spiral,Timeshifted Rare,Mark Tedin,109,121,1,"T, Remove Feldon's cane from the game: Shuffle your graveyard into your library.",Feldon found the first of these canes frozen in the Ronom Glacier.,,,,1
+348,Locket of Yesterdays,,Artifact,,,,,Time Spiral,Uncommon,Dany Orizio,258,301,1,Spells you play cost 1 less to play for each card with the same name as that spell in your graveyard.,"Every hour, at the turning of the glass, its owner had whispered to the locket, seeding it with secrets. This would be her legacy, her memory, if the rifts should take her.",,,,3
+349,Weatherseed Totem,,Artifact,,,,,Time Spiral,Uncommon,Heather Hudson,268,301,3,"T: Add G to your mana pool.
+2GGG: Weatherseed Totem becomes a 5/3 green Treefolk artifact creature with trample until end of turn.
+When Weatherseed Totem is put into a graveyard from play, if it was a creature, return this card to its owner's hand.",,,,,4
+350,Cavalry Master,,,Creature,Human,Knight,,Time Spiral,Uncommon,Thomas M. Baxa,6,301,2WW,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Other creatures you control with flanking have flanking. (Each instance of flanking triggers separately.)",,3,3,,1
+351,Celestial Crusader,,,Creature,Spirit,,,Time Spiral,Uncommon,Jim Murray,7,301,2WW,"Flash (You may play this spell any time you could play an instant.)
+Split second (As long as this spell is on the stack, players can't play spell sor activated abilities that aren't mana abilities.)
+Flying
+Other white creatures get +1/+1.",,2,2,,1
+352,Griffin Guide,,,Enchantment,Aura,,,Time Spiral,Uncommon,Jim Nelson,21,301,2W,"Enchant Creature
+Enchanted creature gets +2/+2 and has flying.
+When enchanted creature is put into a graveyard, put a 2/2 white Griffin creature token with flying into play.",,,,,1
+353,Moorish Cavalry,,,Creature,Human,Knight,,Time Spiral,Timeshifted Rare,Dameon Willich,11,121,2WW,Trample,"Members of the elite Moorish Cavalry are very particular about their mounts, choosing only those whose bloodlines have been pure for generations.",3,3,,1
+354,Quilled Sliver,,,Creature,Sliver,,,Time Spiral,Uncommon,John Matson,37,301,1W,"All Slivers have ""T: This creature deals 1 damage to target attacking or blocking creature.""","""They have long kept us under attack, but we do not lack for ammunition. The very bodies of our foes arm us against them.""—Adom Capashen, Benalish hero",1,1,,1
+355,Return to Dust,,,Instant,,,,Time Spiral,Uncommon,Wayne Reynolds,39,301,2WW,"Remove target artifact or enchantment from the game. If you played this spell during your main phase, you may remove up to one other target artifact or enchantment from the game.","Some timelines forever fray, branch, and intermingle. Others end abruptly.",,,,2
+356,Squire,,,Creature,Human,Soldier,,Time Spiral,Timeshifted Rare,Dennis Detwiler,15,121,1W,"""Of twenty yeer of age he was, I gesse. Of his stature he was of evene lengthe. And wonderly delyvere, and of greete strengthe.""—Geoffrey Chaucer, The Canterbury Tales",,1,2,,1
+357,Brine Elemental,,,Creature,Elemental,,,Time Spiral,Uncommon,Stephen Tappin,50,301,4UU,"Morph 5UU (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+When Brine Elemental is turned face up, each opponent skips his or her next untap step.","Water calls to water, and the world is left exhausted and withered in its wake.",5,4,,2
+358,Careful Consideration,,,Instant,,,,Time Spiral,Uncommon,Janine Johnston,52,301,2UU,"Target player draws four cards, then discards three cards. If you played this spell during your main phase, instead that player draws four cards, then discards two cards.","""Sages who take the time to verify their sources are rewarded for their diligence.""—Jhoira, to Teferi",,,,2
+359,Mistform Ultimus,Legendary,,Creature,Illusion,,,Time Spiral,Timeshifted Rare,Anthony S. Waters,26,121,3U,Mistform Ultimus is every creature type (even if this card isn't in play).,"It may wear your face, but its mind is its own.",3,3,,1
+360,Ovinomancer,,,Creature,Human,Wizard,,Time Spiral,Timeshifted Rare,Kev Walker,27,121,2U,"When Ovinomancer comes into play, sacrifice it unless you return three basic lands you control to let their owner's hand.
+T, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token into play.",,0,1,,2
+361,Unstable Mutation,,,Enchantment,Aura,,,Time Spiral,Timeshifted Rare,Douglas Shuler,33,121,U,"Enchant creature
+Encahnted creature gets +3/+3.
+At the beginning of the upkep of enchanted creature's controller, put a -1/-1 counter on that creature.",,,,,1
+362,Voidmage Prodigy,,,Creature,Human,Wizard,,Time Spiral,Timeshifted Rare,Christopher Moeller,34,121,UU,"UU, Sacrifice a Wizard: Counter target spell.
+Morph U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)",,2,1,,1
+363,Conspiracy,,,Enchantment,,,,Time Spiral,Timeshifted Rare,Jeff Easley,39,121,3BB,"As Conspiracy comes into play, choose a creature type.
+Creature cards you own that aren't in play, creature spells you control, and creatures you control are the chosen type.",,,,,1
+364,Evil Eye of Urborg,,,Creature,Eye,,,Time Spiral,Uncommon,Clint Langley,107,301,4B,"Non-Eye creatures you control can't attack.
+Whenever Evil Eye of Urborg becomes blocked by a creature, destroy that creature.","""Edahlis, what is that thing? We should have stayed in Yavimaya....""—Aznaph, greenseeker",6,3,,2
+365,Faceless Devourer,,,Creature,Nightmare,Horror,,Time Spiral,Uncommon,Chippy,108,301,2B,"Shadow (This creature can block or be blocked by only creatures with shadow.)
+When Faceless Devourer comes into play, remove another target creature with shadow from the game.
+When Faceless Devourer leaves play, return the removed card to play under its owner's control.",,2,1,,1
+366,Fallen Ideal,,,Enchantment,Aura,,,Time Spiral,Uncommon,Anson Maddocks,109,301,2B,"Enchant creature
+Enchanted creature has flying and ""Sacrifice a creature: This creature gets +2/+1 until end of turn.""
+When Fallen Ideal is put into a graveyard from play, return Fallen Ideal to its owner's hand.",,,,,2
+367,Nightshade Assassin,,,Creature,Human,Assassin,,Time Spiral,Uncommon,Alan Pollack,121,301,2BB,"First strike
+When Nightshade Assassin comes into play, you may reveal X black cards in your hand. If you do, target creature gets -X/-X until end of turn.
+Madness 1B (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)",,2,1,,3
+368,Premature Burial,,,Sorcery,,,,Time Spiral,Uncommon,Clint Langley,125,301,1B,Destroy target nonblack creature that came into play since your last turn ended.,"""This soil knows well the taste of the dead. Give it the hunger for a living meal, and it can become a deadly ally.""—Ezrith, druid of the dark Hours",,,,1
+369,Sudden Death,,,Instant,,,,Time Spiral,Uncommon,Dave Allsop,134,301,1BB,"Split second (As long as this spell is on the stack, players can't play spells or activated abilities that aren't mana abilities.)
+Target creature gets -4/-4 until end of turn.","Some mages tapped into the time rifts, forcing upon others alternate timelines in which unimaginable horrors befall them.",,,,2
+370,Barbed Shocker,,,Creature,Insect,,,Time Spiral,Uncommon,Tony Szczudlo,144,301,3R,"Trample, haste
+Whenever Barbed Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.",Fervid shamans willingly submit to shockers in hopes of glimpsing the fortunes of the future.,2,2,,3
+371,Basalt Gargoyle,,,Creature,Gargoyle,,,Time Spiral,Uncommon,Clint Langley,145,301,2R,"Flying
+Echo 2R (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+R: Basalt Gargoyle gets +0/+1 until end of turn.",,3,2,,1
+372,Desolation Giant,,,Creature,Giant,,,Time Spiral,Timeshifted Rare,Alan Pollack,57,121,2RR,"Kicker WW (You may pay an additional WW as you play this spell.)
+When Desolation Giant comes into play, destroy all other creatures you control. If the kicker cost was paid, destroy all other creatures instead.",,3,3,,1
+373,Dragonstorm,,,Sorcery,,,,Time Spiral,Timeshifted Rare,Kev Walker,60,121,8R,"Search your library for a Dragon card and put it into play. Then shuffle your library.
+Storm (When you play this spell, copy it for each spell played before it this turn.)",,,,,1
+374,Firewake Sliver,,,Creature,Sliver,,,Time Spiral,Uncommon,Anthony S. Waters,238,301,1RG,"All Slivers have haste and ""1, Sacrifice this creature: Target Sliver gets +2/+2 until end of turn.""","""They are here, and they are hungry. And what they do not eat, they burn. Yavimaya is lost. We must leave now for Skyshroud.""—Edahlis, greenseeker",1,1,,1
+375,Fire Whip,,,Enchantment,Aura,,,Time Spiral,Timeshifted Rare,Jeff Miracola,63,121,1R,"Enchant creature you control
+Enchanted creature has ""T: This creature deals 1 damage to target creature or player.""
+Sacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.",,,,,1
+376,Orcish Librarian,,,Creature,Ox,,,Time Spiral,Timeshifted Rare,Phil Foglio,66,121,1R,"R, T: Look at the top eight cards of your library. Remove four of them at random from the game, then put the rest on top of your library in any order.","""Us hungry, need food.... Lots of books.... Hmm....""",1,1,,1
+377,Orgg,,,Creature,Orgg,,,Time Spiral,Timeshifted Rare,Daniel Gelon,67,121,3RR,"Trample
+Orgg can't attack if defending player controls an untapped creature with power 3 or greater.
+Orgg can't block creatures with power 3 or greater.",It's bigger than it thinks.,6,6,,1
+378,Stormbind,,,Enchantment,,,,Time Spiral,Timeshifted Rare,NéNé Thomas & Phillip Mosness,102,121,1RG,"2, Discard a card at random: Stormbind deals 2 damage to target creature or player.","""Once, our people could call down the storm itself to do our bidding.""—Lovisa Coldeyes, Balduvian chieftan",,,,1
+379,Suq'Ata Lancer,,,Creature,Human,Knight,,Time Spiral,Timeshifted Rare,,69,121,2R,"Haste
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)","""Never stop 'til you see your lance come out the other side.""—Telim 'Tor ",2,2,,1
+380,Tectonic Fiend,,,Creature,Elemental,,,Time Spiral,Uncommon,,181,301,4RR,"Echo 4RR (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Tectonic Fiend attacks each turn if able.","The barbarian of Pardia are long dead, but its mountains still smolder with rage.",7,7,,1
+381,Craw Giant,,,Creature,Giant,,,Time Spiral,Timeshifted Rare,Christopher Rush,76,121,3GGGG,"Trample
+Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+","Harthag gave a jolly laugh as he surveyed the army before him. ""Ho ho ho! Midgets! You think you can stand in my way?""",6,4,,1
+382,Gaca's Liege,,,Creature,Avatar,,,Time Spiral,Timeshifted Rare,Dameon Willich,78,121,3GGG,"Gaea's Liege's power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forets defending player controls instead.
+T: Target land becomes a Forest until Gaea's Liege leaves play.",,X,X,,1
+383,Hail Storm,,,Instant,,,,Time Spiral,Timeshifted Rare,Jeff A. Menges,79,121,1GG,Hail Storm deals 2 damage to each attacking creature and 1 damage to you and each creature you control.,"""If they can't take the hail, they'd better stay home.""—Arna Kennerüd, skycaptain",,,,1
+384,"Jolrael, Empress of Beasts",Legendary,,Creature,Human,Spellshaper,,Time Spiral,Timeshifted Rare,Matthew D. Wilson,81,121,3GG,"2G, T, Discard two cards: Until end of turn, all lands target player controls are 3/3 creatures that are still lands.","""I need no army, I have Jamuraa.""",3,3,,1
+385,Krosan Grip,,,Instant,,,,Time Spiral,Uncommon,Zoltan Boros & Gabor Szikszai,202,301,2G,"Split Second (As long as this spell is on the stack, players can't play spells or activated abilities that aren't mana abilities.)
+Destroy target artifact or enchantment.","""Give up these unnatural weapons, these scrolls. Heart and mind and fist are enough.""—Zyd, Kamahlite druid",,,,4
+386,Might Sliver,,,Creature,Sliver,,,Time Spiral,Uncommon,Jeff Miracola,205,301,4G,All Slivers get +2/+2.,"""The colossal thing rumbled over the ridge, tree husks cumbling before it. The ones we were already fighting howled as it came, their muscles suddenly surging, and we knew it was time to flee.""—Llanach, Skyshroud ranger",2,2,,1
+387,Pendelhaven Elder,,,Creature,Elf,Shaman,,Time Spiral,Uncommon,Pete Venters,209,301,1G,T: Each 1/1 creature you control gets +1/+2 until end of turn.,The elder who carries the ancestral mantle of Jacques le Vert is tasked with his ancient mission: to protect the creatures of Pendelhaven.,1,1,,3
+388,Phantom Wurm,,,Creature,Wurm,Spirit,,Time Spiral,Uncommon,Alan Pollack,211,301,4GG,"Phantom Wurm comes into play with four +1/+1 counters on it.
+If damage would be dealt to Phantom Wurm, prevent the damage. Remove a +1/+1 counter from Phantom Wurm.","It died with the forest, yet both linger on in twisted form.",2,0,,1
+389,Primal Forcemage,,,Creature,Elf,Shaman,,Time Spiral,Uncommon,Jeff Miracola,212,301,2G,"Whenever another creature comes into play under your control, that creature gets +3/+3 until end of turn.","Their calls unheeded by the withered forests, nature shamans channeled the life force of their bretheren.",2,2,,2
+390,Scragnoth,,,Creature,Beast,,,Time Spiral,Timeshifted Rare,Jeff Laubenstein,83,121,4G,"Scragnoth can't be countered.
+Protection from blue","It possesses no intelligence, only counter-intelligence.",3,4,,1
+391,Scryb Ranger,,,Creature,Faerie,,,Time Spiral,Uncommon,Rebecca Guay,215,301,1G,"Flash (You may play this spell any time you could play an instant.)
+Flying, protection from blue
+Return a Forest you control to its owner's hand: Untap target creature. Play this ability only once each turn.",,1,1,,1
+392,Sporesower Thallid,,,Creature,Fungus,,,Time Spiral,Uncommon,Ron Spencer,220,301,2GG,"At the beginning of your upkeep, put a spore counter on each Fungus you control.
+Remove three spore counters from Sporesower Thallid: Put a 1/1 green Saproling creature token into play.",,4,4,,3
+393,Thallid,,,Creature,Fungus,,,Time Spiral,Timeshifted Rare,Ron Spencer,86,121,G,"At the beginning of your upkeep, put a spore counter on Thallid.
+Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token into play.",,1,1,,2
+394,Whirling Dervish,,,Creature,Human,Rebel,,Time Spiral,Timeshifted Rare,Susan Van Camp,90,121,GG,"Protection from black
+At end of turn, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.",,1,1,,1
+395,Yavimaya Dryad,,,Creature,Dryad,,,Time Spiral,Uncommon,Rebecca Guay,235,301,1GG,"Forestwalk
+When Yavimaya Dryad comes into play, you may search your library for a FOrest card and put it into play tapped under target player's control. If you do, shuffle your library.",The parched earth still shielded those few souls with the heart to call it home.,2,1,,3
+396,Terramorphic Expanse,,,Land,,,,Time Spiral ,Common,Dan Scott,279,301,,"T, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it into play tapped. Then shuffle your library.","Take two steps north into the unsettled future, south into the unquiet past, east into the present day, or west into the great unknown.",,,,3
+397,Brass Gnat,,Artifact,Creature,Insect,,,Time Spiral,Common,Martina Pilcerova,249,301,1,"Flying
+Brass Gnat doesn't untap during your untap step.
+At the beginning of your upkeep, you may pa 1. If you do, untap Brass Gnat.","Its buzzing is the sound of its inner mechanisms, ever winding down.",1,1,,2
+398,Jhoira's Timebug,,Artifact,Creature,Insect,,,Time Spiral,Common,Dan Frazier,257,301,2,"T: Choose target permanent you control or suspended card you own. If that permanent or card has a time counter on it, you may remove a time counter from it or put another time counter on it.",,1,2,,1
+399,Prismatic Lens,,Artifact,,,,,Time Spiral,Common,Alan Pollack,262,301,2,"T: Add 1 to your mana pool.
+1, T: Add one mana of any color to your mana pool.","It bends not light but mana, aligning its chaotic currents into the sharp angles necessary for the mystic's purposes.",,,,3
+400,Venser's Sliver,,Artifact,Creature,Sliver,,,Time Spiral,Common,Carl Critchlow,267,301,5,,"Venser admired his handiwork and smiled. His first prototype had joined with the hive mind all too well, running with the brood and becoming a predator itself. This one, he thought, woudl be accepted into the hive but still obey his commands.",3,3,,1
+401,Amrou Seekers,,,Creature,Kithkin,Rebel,,Time Spiral,Common,Quinton Hoover,2,301,2W,Amrou Seekers can't be blocked except by artifact creatures and/or white creatures.,"The paradise of Amrou Haven had become a field of cinders. Its people struggled to survive, hoping to see visions of its past in the strange storms that quickly passed..",2,2,,9
+402,Benalish Cavalry,,,Creature,Human,Knight,,Time Spiral,Common,Parente,4,301,1W,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)","""My people swore to protect Benalia to the end. It is battered, but yet stands, as do we.""",2,2,,3
+403,Children of Korlis,,,Creature,Human,Rebel,Cleric,Time Spiral,Common,Quinton Hoover,8,301,W,Sacrifice Children of Korlis: You gain life equal to the life you've lost this turn. (Damage causes loss of life.),"""We have a proud history of self-sacrifice. But it is easy, in these bleak times, to find one among us who is eager to die for any cause.""—Tavalus, acolyte of Korlis",1,1,,6
+404,D'Avenant Healer,,,Creature,Human,Cleric,Archer,Time Spiral,Common,Michael Sutfin,11,301,1WW,"T: D'Avenant Healer deals 1 damage to target attacking or blocking creature.
+T: Prevent the next 1 damage that would be dealt to target creature or player this turn.","""One arrow keenly fired might prevent more battlefield wounds that I could treat.""",1,2,,4
+405,Detainment Spell,,,Enchantment,Aura,,,Time Spiral,Common,Darrel Riche,12,301,W,"Enchant creature
+Enchanted creature's activated abilities can't be played.
+1W: Attach Detainment Spell to target creature.","Bind the mind rather than the wrist, and you stop the intent to harm before it starts.",,,,1
+406,Divine Congregation,,,Sorcery,,,,Time Spiral,Common,Jeremy Jarvis,13,301,3W,"You gain 3 life for each creature target player controls.
+Suspend 5—1W (Rather than play this card from your hand, you may pay 1W and remove it from the game with five time counters on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play it without paying its mana cost. ",,,,,2
+407,Errant Doomsayers,,,Creature,Human,Rebel,,Time Spiral,Common,Liz Danforth,15,301,1W,T: Tap target creature with toughness 2 or less.,"""Heed my words, traveler. Plauges, war, desolation... All mere hints of what is yet to come from Dominaria's vault of horrors.""",1,1,,4
+408,Gaze of Justice,,,Sorcery,,,,Time Spiral,Common,John Avon,20,301,W,"As an additional cost to play Gaze of Justice, tap three untapped white creatures you control.
+Remove target creature from the game.
+Flashback 5W (You may play this card from your graveyard for its flashback cost and any additional costs. Then remove it from the game.)",,,,,1
+409,Icatian Crier,,,Creature,Human,Spellshaper,,Time Spiral,Common,Michael Phillippi,23,301,2W,"1W, T, Discard a card: Put two 1/1 white Citizen creature tokens into play.","A thousand years removed frmo her home, her news of war had lost its context, but not its relevance.",1,1,,3
+410,Ivory Giant,,,Creature,Giant,,,Time Spiral,Common,Jeff Miracola,24,301,5WW,"When Ivory Giant comes into play, tap all nonwhite creatures.
+Suspend 5—W (Rather than play this card from your hand, you may pay W and remove it from teh game with five time counters on it. At the beginning of your upkeep, remove a time counter. Whne you remove the last, play it without paying its mana cost. It has haste.)",,3,4,,4
+411,Momentary Blink,,,Instant,,,,Time Spiral,Common,Anthony S. Waters,29,301,1W,"Remove target creature you control from the game, then return it to play under its owner's control.
+Flashback 3U (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,1
+412,Temporal Isolation,,,Enchantment,Aura,,,Time Spiral,Common,Stephen Tappin,43,301,1W,"Flash (You may play this spell any time you could play an instant.)
+Enchant creature
+Encahnted creature has shadow. (It can block or be blocked by only creatures with shadow.)
+Prevent all damage that would be dealt by enchanted creature.",,,,,1
+413,Zealot il-Vec,,,Creature,Human,Rebel,,Time Spiral,Common,Chippy,47,301,2W,"Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Zealot il-Vec attacks and isn't blocked, you may have it deal 1 damage to target creature. If you do, prevent all combat damage Zealot il-Vec would deal this turn.",,1,1,,2
+414,Bewilder,,,Instant,,,,Time Spiral,Common,Ralph Horsley,49,301,2U,"Target creature gets -3/-0 until end of turn.
+Draw a card.","""Teferi snapped his fingers, and the viashino started clucking like a chicken. Silly, yes, but exactly the thing we needed to break the stifling tension.""—Jhoira, master artificer",,,,2
+415,Cancel,,,Instant,,,,Time Spiral,Common,Mark Poole,51,301,1UU,Counter target spell.,"Fendros gasped as he watched the spell drip from the ends of his fingers. He moved his foot, afraid to disturb the spot where it lay slain.",,,,1
+416,Clockspinning,,,Instant,,,,Time Spiral,Common,Zoltan Boros & Gabor Szikszai,53,301,U,"Buyback 3 (You may pay an additional 3 as you play this spell. If you do, put this card into you rhand as it resolves.)
+Choose a counter on target permanent or suspended card. Remove that counter from that permanent or card or put another of those counters on it.",,,,,2
+417,Coral Trickster,,,Creature,Merfolk,Rogue,,Time Spiral,Common,D. Alexander Gregory,54,301,1U,"Morph U ( You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+When Coral Trickster is turned face up, you may tap or untap target permanent.","They wait in darkened depths, laughing eagerly.",2,1,,5
+418,Dream Stalker,,,Creature,Illusion,,,Time Spiral,Common,Brian Despain,58,301,1U,"When Dream Stalker comes into play, return a permanent you control to its owner's hand.",What happens when it is the dream that wakes and the sleeper that fades into memory?,1,5,,8
+419,Eternity Snare,,,Enchantment,Aura,,,Time Spiral,Common,Drew Tucker,61,301,5U,"Enchant creature
+When Eternity Snare comes into play, draw a card.
+Enchanted creature doesn't untap during its controller's untap step.",,,,,2
+420,Fathom Seer,,,Creature,Illusion,,,Time Spiral,Common,Ralph Horsley,62,301,1U,"Morph—Return two Islands you control to their owner's hand. (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+When Fathom Seer is turned face up, draw two cards.",,1,3,,4
+421,Ophidian Eye,,,Enchantment,Aura,,,Time Spiral,Common,Zoltan Boros & Gabor Szikszai,70,301,2U,"Flash (You may play this spell any time you could play an instant.
+Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.",,,,,2
+422,Screeching Sliver,,,Creature,Sliver,,,Time Spiral,Common,Stuart Griffin,75,301,U,"All Slivers have ""T: Target player puts the top card of his or her library into his or her graveyard.""","""What wears down my people most, I think, is not hte danger, but the endless screeching outside our camp.""—Merrik Aidar, Benalish patrol",1,1,,2
+423,Snapback,,,Instant,,,,Time Sprial,Common,Alan Pollack,78,301,1U,"You may remove a blue card in your hand from the game rather than pay Snapback's mana cost.
+Return target creature to its owner's hand.","""If it returns years hence, our knowledge of how to combat it will be that much greater.""—Andorel, Tolarian sentinel",,,,3
+424,Temporal Eddy,,,Sorcery,,,,Time Spiral,Common,Wayne England,85,301,2UU,Put target creature or land on top of its owner's library.,"As the temporal fractures spread and time itself slowly fell apart, visitors started to appear from across the past and future, and those native to the present began to disappear.",,,,1
+425,Assassinate,,,Sorcery,,,,Time Spiral,Common,Kev Walker,95,301,2B,Destroy target tapped creature.,"The rulers of old Dominaria kept assassins on retainer. However, the true loyalty of these master killers was always to their peers. This elite brotherhood survived the fall of the old royal order.",,,,3
+426,Call to the Netherworld,,,Sorcery,,,,Time Spiral,Common,Vance Kovacs,97,301,B,"Return target black creature card from your graveyard to your hand.
+Madness 0 (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)",The ritual was normally performed only by horrors and pit spawn. Lesser mages had but one sanity to crack in the casting.,,,,1
+427,Corpulent Corpse,,,Creature,Zombie,,,Time Spiral,Common,Doug Chaffee,98,301,5B,"Fear
+Suspend 5—B (Rather than play this card from your hand, you may pay B and remove it from the game with five time counters on it. At the beginning of your upkee, remove a time counter. When you remove the last, play it without paying its mana cost. It has haste.)",,3,3,,3
+428,Cyclopean Giant,,,Creature,Zombie,Giant,,Time Spiral,Common,Mark Tedin,100,301,2BB,"When Cyclopean Giant is put into a graveyard from play, target land becomes a Swamp. Remove Cyclopean Giant from the game.",A tomb-eye may remain shut for centuries. It opens when it sees a world as twisted and hollow as the wretch beneath its lid.,4,2,,3
+429,Deathspore Thallid,,,Creature,Zombie,Fungus,,Time Spiral,Common,Randy Elliott,102,301,1B,"At the beginning of your upkeep, put a spore counter on Deathspore Thallid.
+Remove three spore counters from Deathspore Thallid: Put a 1/1 green Saproling creature token into play.
+Sacrifice a Saproling: Target creature gets -1/-1 until end of turn.",,1,1,,6
+430,Feebleness,,,Enchantment,Aura,,,Time Spiral,Common,Kev Walker,110,301,1B,"Flash (You may play this spell any time you could play an instant.)
+Enchant creature
+Enchanted creature gets -2/-1.",Just a small touch of magic can harness the debilitating power of Urborg's poisonous winds.,,,,4
+431,Gorgon Recluse,,,Creature,Gorgon,,,Time Spiral,Common,Darrell Riche,111,301,3BB,"Whenever Gorgon Recluse blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.
+Madness BB (If you discard this card,, you may play it for its madness cost instead of putting it into your graveyard.)",,2,4,,1
+432,Mana Skimmer,,,Creature,Leech,,,Time Spiral,Common,Daniel Gelon,117,301,3B,"Flying
+Whenever Mana Skimmer deals damage to a player, tap target land that player controls. That land doesn't untap during its controller's next untap step.",They traverse the mana-starved wastes in search of richer lands,2,2,,1
+433,Mindstab,,,Sorcery,,,,Time Spiral,Common,Mark Tedin,119,301,5B,"Target player discards three cards.
+Suspend 4—B (Rather than play this card from your hand, you may pay B and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play it without paying its mana cost.)",,,,,4
+434,Pit Keeper,,,Creature,Human,Wizard,,Time Spiral,Common,Anthony S. Waters,123,301,1B,"When Pit Keeper comes into play, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand. ","""The undead are not 'awakened.' They are evicted when there is no room left in the pit for more bodies.",2,1,,3
+435,Psychotic Episode,,,Sorcery,,,,Time Spiral,Common,Drew Tucker,126,301,1BB,"Target player reveals his or her hand and the top card of his or her library. You choose a card revealed this way. That player puts the chosen card on the bottom of his or her library.
+Madness 1B (If you discard this card, you may play it for its madness cost instead of puting into your graveyard.)",,,,,2
+436,Skulking Knight,,,Creature,Zombie,Knight,,Time Spiral,Common,rk post,130,301,2B,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+When Skulking Knight becomes the target of a spell or ability, sacrifice it.",,3,3,,3
+437,Tendrils of Corruption,,,Instant,,,,Time Spiral,Common,Mike Dringenberg,136,301,3B,"Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.","""Even swamps need susstenance. We will give it to them, and in turn, they will sustain us.""—Ezrith, druid of the Dark Hours",,,,2
+438,Urborg Syphon-Mage,,,Creature,Human,Spellshaper,,Time Spiral,Common,Greg Staples,139,301,2B,"2B, T, Discard a card: Each other player loses 3 life. You gain life equal to the life lost this way.","""I have become a courmet of sorts. Each soul has its own distinctive flavor. The art is in inviting the right company to the feast.""",2,2,,2
+439,Viscid Lemures,,,Creature,Spirit,,,Time Spiral,Common,Drew Tucker,141,301,4B,0: Viscid Lemures gets -1/-0 and gains swampwalk until end of turn.,"""Lemurs? Is that all? Finally, something harmless...""—Norin the Wary",4,3,,5
+440,Aetherflame Wall,,,Creature,Wall,,,Time Spiral,Common,Justin Sweet,142,301,1R,"Defender
+Aetherflame Wall can block creatures with shadow as though they didn't have shadow.
+R: Aetherflame Wall gets +1/+0 until end of turn.",,0,4,,3
+441,Ancient Grudge,,,Instant,,,,Time Spiral,Common,Jim Nelson,143,301,1R,"Destroy target artifact.
+Flashback G (You may play this card from your graveyard for its flashback cost. Then remove it from teh game.)",The time rifts remind Yavimaya of the enemies of its past and rovide fresh fuel for its fires.,,,,1
+442,Bonesplitter Sliver,,,Creature,Sliver,,,Time Spiral,Common,Dany Orizio,149,301,3R,All Slivers get +2/+0.,"As the time streams grew more and more unstable, Dominaria's creatures struggled to adapt. The intense pressures led to many dead ends but also to lethal new forms that appeared as suddenly as the ashen rains.",2,2,,3
+443,Coal Stoker,,,Creature,Elemental,,,Time Spiral,Common,Mark Zug,150,301,3R,"When Coal Stoker comes into play, if you played it from your hand, add RRR to your mana pool.","""The day is mine! I sent three such creatures against my foe, then watched as my magefire popped her soldiers like overripe spleenfruits.""—Dobruk the Unstable, pyromancer",3,3,,1
+444,Ghitu Firebreathing,,,Enchantment,Aura,,,Time Spiral,Common,Jim Nelson,158,301,1R,"Flash (You may play this spell any time you could play an instant.)
+Enchant creature
+R: Enchanted creature gets +1/+0 until end of turn.
+R: Return Ghitu Firebreathing to its owner's hand.",,,,,2
+445,Ground Rift,,,Sorcery,,,,Time Spiral,Common,Thomas M. Baxa,162,301,R,"Target creature without flying can't block this turn.
+Storm (When you play this spell, copy it for each spell played before it this turn. You may choose new targets for the copies.)",Some time rifts didn't take away the people but just the ground they stood on.,,,,4
+446,Keldon Halberdier,,,Creature,Human,Warrior,,Time Spiral,Common,Parente,167,301,4R,"First strike
+Suspend 4—R (Rather than play this card from your hand, you may pay R and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a tiem counter. When you remove the last, play it without paying its mana cost. It has haste.)",,4,1,,4
+447,Lightning Axe,,,Instant,,,,Time Spiral,Common,Dan Scott,168,301,R,"As an additional cost to play Lightning Axe, discard a card or pay 5.
+Lightning Axe deals 5 damage to target creature.","""A gargoyle's meat can be carved with an ordinary cleaver, but for its petrous hide...""—Asmoranomardicadaistinaculdacar, The Underworld Cookbook",,,,2
+448,Viashino Bladescout,,,Creature,Viashino,Scout,,Time Spiral,Common,Dany Orizio,185,301,1RR,"Flash (You may play this spell any time you could play an instant.)
+When Viashino Bladescout comes into play, target creature gains first strike until end of turn.","""Find your courage in a desperate moment, and you turn the tide of history. So sayeth the bey.""",2,1,,4
+449,Ashcoat Bear,,,Creature,Bear,,,Time Spiral,Common,Carl Critchlow,190,301,1G,Flash (You may play this spell any time you could play an instant.),"The bears wade into time rifts to feed. They do not fear the storms, and they are quick enough to snatch prey just as it blinks in or out of time.",2,2,,3
+450,Chameleon Blur,,,Instant,,,,Time Spiral,Common,Anthony S. Waters,192,301,3G,Prevent all damage that creatures would deal to players this turn.,"""Sometimes the best plan is neither fighting nor running.""—Freyalise",,,,1
+451,Durkwood Baloth,,,Creature,Beast,,,Time Spiral,Common,Dan Frazier,193,301,4GG,"Suspend 5—G (Rather than play this card from your hand, you may pay G and remove it from teh game with five time counters on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play it without paying its mana cost. It has haste.)",,5,5,,3
+452,Gemhide Sliver,,,Creature,Sliver,,,Time Spiral,Common,John Matson,196,301,1G,"All Slivers have ""T: Add one mana of any color to your mana pool.""","""The land is weary. Even Skyshroud is depleted. We must find another source of mana—one that is growing despite our withering world.""—Freaylise",1,1,,1
+453,Glass Asp,,,Creature,Snake,,,Time Spiral,Common,Richard Kane Ferguson,197,301,1GG,"Whenever Glass Asp deals combat damage to a player, that player loses 2 life at the beginning of his or her next draw step unless he or she pays 2 before that step.","Its venom induces a fever that causes its victims to relive the attack in recurring, haunting visions.",2,1,,2
+454,Greenseeker,,,Creature,Elf,Spellshaper,,Time Spiral,Common,Rebecca Guay,198,301,G,"G, T, Discard a card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.","""A rumor passes among the snakes, whispered by the rushes, inspiring the seekers: the goddess Freyalise is alive in Skyshroud.""",1,1,,3
+455,Herd Gnarr,,,Creature,Beast,,,Time Spiral,Common,Daren Bader,200,301,3G,"Whenever another creature comes into play under your control, Herd Gnarr gets +2/+2 until end of turn.","Long ago, the solitary gnarr was a sign of good luck. Now they have become wild pack hunters, a sign of impending danger.",2,2,,3
+456,Savage Thallid,,,Creature,Fungus,,,Time Spiral,Common,Luca Zontini,213,301,3GG,"At the beginning of your upkeep, put a spore counter on Savage Thallid.
+Remove three spore counters from Savage Thallid: PUt a 1/1 green Saproling creature token into play.
+Sacrifice a Saproling: Regenerate target Fungus.",,5,2,,4
+457,Search for Tomorrow,,,Sorcery,,,,Time Spiral,Common,Randy Gallegos,216,301,2G,"Search your library for a basic land card and put it into play. Then shuffle your library.
+Suspend 2—G (Rather than play this card from your hand, you may pay G and remove it from the game with two time counters on it. At the beeginning of your upkeep, remove a time counter. When you remove the last, play it without paying its mana cost.)",,,,,5
+458,Spinneret Sliver,,,Creature,Sliver,,,Time Spiral,Common,Michael Sutfin,219,301,1G,"All Slivers have ""This creature can block as though it had flying.""",Each new generation of slivers evolves to assimilate the strengths of the prey upon which their progenitors fed.,2,2,,4
+459,Sprout,,,Instant,,,,Time Spiral,Common,Anthony S. Waters,221,301,G,Put a 1/1 green Saproling creature token into play.,"Centuries of temporal strife had stripped Dominaria of its natural defenses, but nature fought back with armies constructed of little more than grime and sunlight.",,,,4
+460,Strength in Numbers,,,Instant,,,,Time Spiral,Common,Ron Spencer,224,301,1G,"Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures.","""The hermit dies. The outcast dies. The lone wolf dies. Only those who stick together survive this world.""—Uros, Pendelhaven elder",,,,2
+461,Thallid Germinator,,,Creature,Fungus,,,Time Spiral,Common,Tom Wänerstrand,225,301,2G,"At the beginning of your upkeep, put a spore counter on Thallid Germinator.
+Remove three spore counters from Thallid Germinator: Put a 1/1 green Saproling creature token into play.
+Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.",,2,2,,3
+462,Thallid Shell-Dweller,,,Creature,Fungus,,,Time Spiral,Common,Carl Critchlow,226,301,1G,"Defender
+At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller
+Remove three spore counters from Thallid Shell-Dweller: Put a 1/1 green Saproling creature token into play.",,0,5,,3
+463,Molder,,,Instant,,,,Time Spiral,Common,Greg Hildebrandt,206,301,XG,Destroy target artifact or enchantment with converted mana cost X. It can't be regenerated. You gain X life.,"""The forests have succumbed to ruin, but the spirit of Krosa remains alive and vital in these devouring spores.""—Zyd, Kamahlite druid",,,,2
+464,Mwonvuli Acid-Moss,,,Sorcery,,,,Time Spiral,Common,Randy Gallegos,207,301,2GG,Destroy target land. Search your library for a Forest card and put that card into play tapped. Then shuffle your library.,"""Life gives way to death , and death to new life. Nature feeds upon her own decay.""—Ezrith, druid of the Dark Hours",,,,5
+465,Penumbra Spider,,,Creature,Spider,,,Time Spiral,Common,Jeff Easley,210,301,2GG,"Penumbra Spider can block as though it had flying.
+When Penumbra Spider is put into a graveyard from play, upt a 2/4 black Spider creature token into play that can block as though it had flying.","When it snared a passing cockatrice, its own soul darkly doubled.",2,4,,2
+466,Wormwood Dryad,,,Creature,Dryad,,,Time Spiral,Common,Warren Mahy,233,301,2G,"G: Wormwood Dryad gains forestwalk until end of turn and it deals 1 damage to you.
+B: Wormwood Dryad gains swampwalk until end of turn and it deals 1 damage to you.",,3,1,,2
+467,Defiant Vanguard,,,Creature,Human,Rebel,,Time Spiral,Timeshifted Rare,Pete Venters,5,121,2W,"When Defiant Vanguard blocks, at end of combat, desetroy it and all creatures it blocked this turn.
+2, T: Search your library for a Rebel card with converted mana cost 4 or less and put it into play. Then shuffle your library.",,2,2,,4
+468,Calciform Pools,,,Land,,,,Time Spiral,Uncommon,Darrell Riche,270,301,,"T: Add 1 to your mana pool.
+1, T: Put a storage counter on Calciform Pools.
+1, Remove X storage counters from Calciform Pools: Add X mana in any combination of W and/or U to your mana pool.",,,,,1
+469,Dreadship Reef,,,Land,,,,Time Spiral,Uncommon,Lars Grant-West,271,301,,"T: Add 1 to your mana pool.
+1, T: Put a storage counter on Dreadship Reef.
+1, Remove X storage counters from Dreadship Reef: Add X mana in any combination of U and/or B to your mana pool.",,,,,1
+470,Molten Slagheap,,,Land,,,,Time Spiral,Uncommon,Darren Bader,276,301,,"T: Add 1 to your mana pool.
+1, T: Put a storage counter on Molten Slagheap.
+1, Remove X storage counters from Molten Slagheap: Add X mana in any combination of B and/or R to your mana pool.",,,,,2
+471,Thunder Totem,,Artifact,,,,,Time Spiral,Uncommon,Randy Gallegos,265,301,3,"T: Add W to your mana pool.
+1WW: Thunder Totem becomes a 2/2 white Spirit artifact creature with flying and first strike until end of turn.",,,,,1
+472,Knight of the Holy Nimbus,,,Creature,Human,Rebel,Knight,Time Spiral,Uncommon,Wayne England,26,301,WW,"Flanking (Whenever a creature without flanking blocks the creature, the blocking creature gets -1/-1 until end of turn.)
+If Knight of the Holy Nimbus would be destroyoed, regenerate it.
+2: Knight of the Holy Nimbus can't be regenerated this turn. Only any opponent may play this ability.",,2,2,,6
+473,Outrider en-Kor,,,Creature,Kor,Rebel,Knight,Time Spiral,Uncommon,D. Alexander Gregory,31,301,2W,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+0: The next 1 damage that would be dealt to Outrider en-Kor this turn is dealt to target creature you control instsead.",,2,2,,5
+474,Pull from Eternity,,,Instant,,,,Time Spiral,Uncommon,Ron Spears,35,301,W,Put target face-up card that's removed from the game into its owner's graveyard.,It is best to conquer dragons before they hatch.—Femeref adage,,,,1
+475,Quilled Sliver,,,Creature,Sliver,,,Time Spiral,Uncommon,John Matson,37,301,1W,"All Slivers have ""T: This creature deals 1 damage to target attacking or blocking creature.""","""They have long kept us under attack, but we do not lack for ammunition. The very bodies of our foes arm us against them.""—Adom Capashen, Benalish hero",1,1,,3
+476,Fledgling Mawcor,,,Creature,Beast,,,Time Spiral,Uncommon,Kev Walker,63,301,3U,"Flying
+T: Flegdling Mawcor deals 1 damage to target creature or player.
+orph UU (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)",,2,2,,2
+477,Riftwing Cloudskate,,,Creature,Illusion,,,Time Spiral,Uncommon,Carl Critchlow,73,301,3UU,"Flying
+When Riftwing Cloudskate comes into play, return target permanent to its owner's hand.
+Suspend 3—1U (Rather than play this card from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play it without paying its mana cost. It has haste.)",,2,2,,3
+478,Telekinetic Sliver,,,Creature,Sliver,,,Time Spiral,Uncommon,Randy Elliott,84,301,2UU,"All Slivers have ""T: Tap target permanent.""","""Slivers are guided only by simple instinct. Advance the hive, and you will be welcomed. Impede the hive, and you will face unrelenting opposition.""—Freyalise",2,2,,1
+479,Wipe Away,,,Instant,,,,Time Spiral,Uncommon,Jeff Miracola,94,301,1UU,"Split second (As long as this spell is on the stack, players can't play spells or activated abilities that aren't mana abilities.)
+Return target permanent to its owner's hand.","An eyeblink later, all that remained of the tree-beast was the breeze of its momentum.",,,,1
+480,Dread Return,,,Sorcery,,,,Time Spiral,Uncommon,Kev Walker,104,301,2BB,"Return target creature card from your graveyard to play.
+Flashback—Sacrifice three creatures. (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",Those who forget the horrors of the past are doomed to re-meet them.,,,,2
+481,Vampiric Sliver,,,Creature,Sliver,,,Time Spiral,Uncommon,Thomas M. Baxa,140,301,3B,"All Slivers have ""Whenever a creature dealt damage by this creature this turn is put into a graveyard, put a +1/+1 counter on this creature.""",They draw upon the strength of their hive and of their victims.,3,3,,1
+482,Undying Rage,,,Enchantment,Aura,,,Time Spiral,Uncommon,Scott M. Fischer,184,301,2R,"Enchant creature
+Enchanted creature gets +2/+2 and can't block.
+When Undying Rage is put into a graveyard from play, return Undying Rage to its owner's hand..","Radha was born in Skyshroud, but her temper is undeniably Keldon.",,,,1
+483,Aspect of Mongoose,,,Enchantment,Aura,,,Time Spiral,Uncommon,Dave Dorman,191,301,1G,"Enchant creature
+Enchanted creature can't be the target of spells or abilities.
+When Aspect of Mongoose is put into a graveyard from play, return Aspect of Mongoose to its owner's hand.",,,,,
+484,Might of Old Krosa,,,Instant,,,,Time Spiral,Uncommon,Una Fricker,204,301,G,"Target creature gets +2/+2 until end of turn. If you played this spell during your main phase, that creature gets +4/+4 until end of turn instead.",Sometimes even humble forest creatures were gifted with mighty emanations from the past.,,,,1
+485,Amrou Scout,,,Creature,Kithkin,Rebel,Soldier,Time Spiral,Common,Quinton Hoover,1,301,1W,"4, T: Search your library for a Rebel card with converted mana cost 3 or less and put it into play. Then shuffle your library.","The people of Amrou were scattered by war and driven into hiding. Scouts maintain the beacon fires that signal ""return"" and ""home.""",2,1,,1
+486,Castle Raptors,,,Creature,Bird,Soldier,,Time Spiral,Common,Christopher Moeller,5,301,4W,"Flying
+As long as Castle Raptors is untapped, it gets +0/+2.","""Each place we see is as ruined and lifeless as the last. So here we stay, because this ruin is ours.""",3,3,,3
+487,Pentarch Ward,,,Encahntment,Aura,,,Time Spiral,Common,Dany Orizio,33,301,2W,"Enchant creature
+As Pentarch Ward comes into play, choose a color.
+When Pentarch Ward comes into play, draw a card.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Pentarch Ward.",,,,,1
+488,Sidewinder Sliver,,,Creature,Sliver,,,Time Spiral,Common,Ron Spencer,41,301,W,"All slivers have flanking. (Whenever a creature without flanking blocks a Sliver, the blocking creature gets -1/-1 until end of turn.)","""They encircled our patrol with the stealth of snakes, corralling us like livestock.""—Merrik Aidar, Benalish patrol",1,1,,3
+489,Watcher Sliver,,,Creature,Sliver,,,Time Spiral,Common,Liz Danforth,45,301,3W,All Slivers get +0/+2.,"""I have spied them, wandering and watching—but for what? I fear they watch for us.""—Yonat of Amrou",2,2,,1
+490,Crookclaw Transmuter,,,Creature,Bird,Wizard,,Time Spiral,Common,Ron Spencer,55,301,3U,"Flash (You may play this spell any time you could play an instant.)
+Flying
+When Crookclaw Transmuter comes into play, switch target creature's power and toughness until end of turn.",,3,1,,1
+491,Drifter il-Dal,,,Creature,Human,Wizard,,Time Spiral,Common,Justin Sweet,59,301,U,"Shadow (This creature can block or be blocked by only creatures with shadow.)
+At the beginning of your upkeep, sacrifice Drifter il-Dal nless you pay U.","They study the deeds of their traitorous ancestors, hoping the stories may reveal a way back to the physical world.",2,1,,1
+492,Errant Ephemeron,,,Creature,Illusion,,,Time Spiral,Common,Luca Zontini,60,301,6U,"Flying
+Suspend 4—1U (Rather than play this card from your hand, you may pay 1U and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play it without playing its mana cost. It has haste.)",,4,4,,2
+493,Looter il-Kor,,,Creature,Kor,Rogue,,Time Spiral,Common,Mike Dringenberg,66,301,1U,"Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Looter il-Kor deals damage to an opponent, draw a card, then discard a card.","Unable to touch items of value, he goes forth to steal secrets instead.",1,1,,2
+494,Mystical Teachings,,,Instant,,,,Time Spiral,Common,Ron Spears,69,301,3U,"Search your library for an instant card or a card with flash, reveal it, and put it into your hand. Then shuffle your library.
+Flashback 5B (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,
+495,Sage of Epityr,,,Creature,Human,Wizard,,Time Spiral,Common,Randy Gallegos,74,301,U,"When Sage of Epityr comes into play, look at the top four cards of your library, then put them back in any order.","Clairvoyants across Dominaria were driven mad by the overload from the widening time rifts, while other random folk gained the gift of future sight.",1,1,,2
+496,Shadow Sliver,,,Creature,Sliver,,,Time Spiral,Common,Warren Mahy,76,301,2U,All Slivers have shadow. (They can block or be blocked by only creatures with shadow.),"These slivers, trapped between worlds since the Rathi overlay, are among the last to claim direct lineage from the lost Sliver Queen.",1,1,,1
+497,Slipstream Serpent,,,Creature,Serpent,,,Time Spiral,Common,Darrell Riche,77,301,7U,"Slipstream Serpent can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Slipstream Serpent.
+Morph 5U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)",,6,6,,2
+498,Tolarian Sentinel,,,Creature,Human,Spellshaper,,Time Spiral,Common,Thomas M. Baxa,87,301,3U,"Flying
+U, T, Discard a card: Return target permanent you control to its owner's hand.","""It is not just our people I try to rescue. It is our culture, and our hope that we can return to greatness.""",1,3,,2
+499,Viscerid Deepwalker,,,Creature,Homarid,Warrior,,Time Spiral,Common,Heather Hudson,91,301,4U,"U: Viscerid Deepwalker gets +1/+0 until end of turn.
+Suspend 4—U (Rather than play this card from your hand, you may pay U and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play it without paying its mana cost. It has haste.)",,2,3,,2
+500,Basal Sliver,,,Creature,Sliver,,,Time Spiral,Common,Drew Tucker,96,301,2B,"All slivers have ""Sacrifice this creature: Add BB to your mana pool.""","""Fascinating...These creatures display the paradox of tenacity and purposed self-destruction I have sought to breed into my thrulls.""—Endrek Sahr, master breeder",2,2,,1
+501,Dark Withering,,,Instant,,,,Time Spiral,Common,Wayne Reynolds,101,301,4BB,"Destroy target nonblack creature.
+Madness B (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)",,,,,2
+502,Mindlash Sliver,,,Creature,Sliver,,,Time Spiral,Common,Jeff Miracola,118,301,B,"All Slivers have ""1, Sacrifice this creature: Each player discards a card.""","Though Dominaria's queenless slivers lack a single purpose, in some the instinct for self-sacrifice remains extremely strong.",1,1,,1
+503,Traitor's Clutch,,,Instant,,,,Time Spiral,Common,Dave Allsop,137,301,4B,"Target creature gets +1/+0, becomes black, and gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+Flashback 1B (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,2
+504,Trespasser il-Vec,,,Creature,Human,Rogue,,Time Spiral,Common,Jim Murray,138,301,2B,Discard a card: Trespasser il-Vec gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.),"At the epicenter of the Rathi overlay, the City of Traitors did not align with Dominaria. Many of its inhabitants were caught between the two worlds.",3,1,,2
+505,Blazing Blade Askari,,,Creature,Human,Knight,,Time Spiral,Common,Dan Frazier,146,301,2R,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.
+2: Blazing Blade Askari becomes colorless until end of turn.","""This can't be Jamurraa. We could not have failed her this badly....""",2,2,,3
+506,Bogardan Rager,,,Creature,Elemental,,,Time Spiral,Common,Clint Langley,148,301,5R,"Flash (You may play this spell any time you could play an instant.)
+When Bogardan Rager comes into play, target creature gets +4/+0 until end of turn.","In the erupting heart of Bogardan, it's hard to tell hurtling volcanic rocks from pouncing volcanic beasts.",3,4,,2
+507,Flowstone Channeler,,,Creature,Human,Spellshaper,,Time Spiral,Common,Alan Pollack,155,301,2R,"1R, T, Discard a card: Target creature gets +1/-1 and gains haste until end of turn.","With the evincars gone, flowstone became erratic and wild, a source of power for mages more desperate than wise.",2,2,,3
+508,Goblin Skycutter,,,Creature,Goblin,Warrior,,Time Spiral,Common,Clint Langley,159,301,1R,Sacrifice Goblin Skycutter: Goblin Skycutter deals 2 damage to target creature with flying. That creature loses flying until end of turn.,He takes out his fear of heights on anything above his head.,2,1,,1
+509,Grapeshot,,,Sorcery,,,,Time Spiral,Common,Pete Venters,169,301,1R,"Grapeshot deals 1 damage to target creature or player.
+Storm (When you play this spell, copy it for each spell played before it this turn. You may choose new targets for the copies.)",Mages often seek to emulate the powerful relics lost to time and apocalypse.,,,,2
+510,Ironclaw Buzzardiers,,,Creature,Orc,Scout,,Time Spiral,Common,Carl Critchlow,165,301,2R,"Ironclaw Buzzardiers can't block creatures with power 2 or greater.
+R: Ironclaw Buzzardiers gains flying until end of turn.",They warn the army of danger as they squawk past in swift retreat.,2,2,,1
+511,Two-Headed Sliver,,,Creature,Sliver,,,Time Spiral,Common,Dany Orizio,183,301,1R,"All Slivers have ""This creature can't be blocked except by two or more creatures.""","""That which would be a fatal mutation in any other species is merely a source of new powers. I am intrigued, yet too fearful to examine it more closely.""—Rukarumel, field journal.",1,1,,1
+512,Aether Web,,,Enchantment,Aura,,,Time Spiral,Common,Justin Sweet,189,301,1G,"Flash (You may play this spell any time you cuold play an instant.)
+Enchant creature
+Encahnted creature gets +1/+1, can block as though it had flying, and can block creatures with shadow as though they didn't have shadow.",,,,,1
+513,Havenwood Wurm,,,Creature,Wurm,,,Time Spiral,Common,Stuart Griffin,199,301,6G,"Flash (You may play this spell any time you would play an instant.)
+Trample","Time rifts bring tunneling bests of old into the hard, dry earth of the present. Most die there, trapped, but the mightiest burst through the surface.",5,6,,1
+514,Nantuko Shaman,,,Creature,Insect,Shaman,,Time Spiral,Common,Darren Bader,208,301,2G,"When Nantuko Shaman comes into play, if you control no tapped lands, draw a card.
+Suspend 1—2GG (Rather than play this card from your hand, you may pay 2GG and remove it from teh game with a time counter on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play  it without paying its mana cost. Ithas haste.)",,3,2,,2
+515,Thrill of the Hunt,,,Instant,,,,Time Spiral,Common,Stephen Tappin,229,301,G,"Target creature gets +1/+2 until end of turn.
+Flashback W (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)",,,,,2
+516,Auramancer's Guise,,,Enchantment,Aura,,,Planar Chaos,Uncommon,Greg Staples,34,165,2UU,"Enchant creature
+Enchanted creature gets +2/+2 for each Aura attached to it and has vigiliance.","""Consider not what the mask hides, but what it can reveal.""",,,,1
+517,Ovinize,,,Instant,,,,Planar Chaos,Uncommon,Terese Nielsen,57,165,1U,Target creature loses all abilities and becomes 0/1 until end of turn.,"""You wish for me to cow your enemies? I can do better than that....""—Teferi, second-level student",,,,1
+518,Timebender,,,Creature,Human,Wizard,,Planar Chaos,Uncommon,Zoltan Boros & Gabor Szikszai,50,165,U,"Morph U (You may play this face down as a 2/2/ creature for 3. Turn it face up any time for its morph cost.)
+When Timebender is turned face up, choose one—Remove two tiem counters from target permanent or suspended card; or put two time counters on target permanent with a time couner on it or suspended card.",,1,1,,1
+519,Muck Drubb,,,Creature,Beast,,,Planar Chaos,Uncommon,Jim Nelson,76,165,3BB,"Flash (You may play this spell any time you could play an instant.)
+When Muck Drubb comes into play, change the target of target spell that targets only a single creature to Muck Drubb.",,3,3,,2
+520,Treacherous Urge,,,Instant,,,,Planar Chaos,Uncommon,Steven Belledin,82,165,4B,Target opponent reveals his or her hand. You may put a creature card from it into play under your control. That creature has haste. Sacrifice it at end of turn.,,,,,1
+521,Aether Membrane,,,Creature,Wall,,,Planar Chaos,Uncommon,Zoltan Boros & Gabor Szikszai,93,165,1RR,"Defender
+Aether Membrane can block as though it had flying.
+Whenever Aether Membrane blocks a creature, return that creature to its owner's hand at end of combat.",,0,5,,1
+522,Lavacore Elemental,,,Creature,Elemental,,,Planar Chaos,Uncommon,E. M. Gist,103,165,2R,"Vanishing 1 (This permanent comes into play with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+Whenever a creature  you control deals combat damage to a player, put a time counter on Lavacore Elemental.",,5,3,,2
+523,Pyrohemia,,,Enchantment,,,,Planar Chaos,Uncommon,Stephen Tappin,119,165,2RR,"At end of turn, if no creatures are in play, sacrifice Pyrohemia.
+R: Pyrohemia deals 1 damage to each creature and each player.",,,,,3
+524,Dormant Sliver,,,Creature,Sliver,,,Planar Chaos,Uncommon,Lars Grant-West,156,165,2GU,"All Slivers have never and ""When this creature comes into play, draw a card.""","""It triggers the hive's period of Aetheric fertility—a time when even feeding is a lower priority than reproduction.""—Rukarumel, field journal",2,2,,1
+525,Harmonize,,,Sorcery,,,,Planar Chaos,Uncommon,Rob Alexander,149,165,2GG,Draw three cards.,"""Life's greatest lessons don't come from focus or concentration. They come from breathing and simply noticing.""—Seton, centaur druid",,,,4
+526,Hunting Wilds,,,Sorcery,,,,Planar Chaos,Uncommon,Steve Ellis,130,165,3G,"Kicker 3G (You may pay an additional 3G as you play this spell.)
+Search your library for up to two Forest cards and put them into play tapped. Then shuffle your library.
+If the kicker cost was paid, untap all Forests put into play this way. They become 3/3 green creatures with haste that are still lands.",,,,,2
+527,Kavu Predator,,,Creature,Kavu,,,Planar Chaos,Uncommon,Dan Scott,132,165,1G,"Trample
+Whenever an opponent gains life, put that many +1/+1 counters on Kavu Predator.","In a withered world, the scent of healthy prey is enough to drive a predator to frenzy.",2,2,,1
+528,Keen Sense,,,Enchantment,Aura,,,Planar Chaos,Uncommon,Jim Nelson,152,165,G,"Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.","Corvax sensed that Mirri wasn't ready for the curse taking hold of her. Weeping in his heart, he fled.",,,,
+529,Aven Riftwatcher,,,Creature,Bird,Rebel,Soldier,Planar Chaos,Common,Don Hazeltine,1,165,2W,"Flying
+Vanishing 3 (This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Aven Riftwatcher comes into play or leaves play, you gain 2 life.",,2,3,,10
+530,Dawn Charm,,,Instant,,,,Planar Chaos,Common,John Avon,4,165,1W,Choose one — Prevent all combat damage that would be dealt this turn; or regenerate target creature; or counter target spell that targets you.,,,,,9
+531,Ghost Tactician,,,Creature,Spirit,Spellshaper,,Planar Chaos,Common,Zoltan Boros & Gabor Szikszai,6,165,4W,"W, T, Discard a card: Creatures you control get +1/+0 until end of turn.",Its ethereal hand confers a lifetime of experience with combat and steel.,2,5,,4
+532,Pallid Mycoderm,,,Creature,Fungus,,,Planar Chaos,Common,Jim Nelson,10,165,3W,"At the beginning of your upkeep, put a spore counter on Pallid Mycoderm.
+Remove three spore counters from Pallid Mycoderm: PUt a 1/1 green Saproling creature token into play.
+Sacrifice a Saproling: Each Fungus and each Saproling you control gets +1/+1 until end of turn.",,2,4,,2
+533,Poultice Sliver,,,Creature,Sliver,,,Planar Chaos,Common,Randy Gallegos,11,165,2W,"All Slivers have ""2, T: Regenerate target Sliver.""","""Its broad claw suggests a chitinous shield, but in fact it conceals glands that secrete a remarkably swift healing agent.""—Rukarumel, field journal",2,2,,3
+534,Saltfield Recluse,,,Creature,Human,Rebel,Cleric,Planar Chaos,Common,Brian Despain,16,165,2W,T: Target creature gets -2/-0 until end of turn.,"He remembers a past of light and healing. But he lives the bitter present—parching salt, scouring wind, and the withering heat of the desert.",1,2,,5
+535,Whitemane Lion,,,Creature,Cat,,,Planar Chaos,Common,Zoltan Boros & Gabor Szikszai,22,165,1W,"Flash (You may play this spell any time you could play an instant.)
+When Whitemane Lion comes into play, return a creature you control to its owner's hand.",,2,2,,3
+536,Aquamorph Entity,,,Creature,Shapeshifter,,,Planar Chaos,Common,Brian Despain,33,165,2UU,"As Aquamorph Entity comes into play or is turned face up, it becomes your choice of 5/1 or 1/5.
+Morph 2U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)",,X,X,,5
+537,Dreamscape Artist,,,Creature,Human,Spellshaper,,Planar Chaos,Common,Jim Murray,40,165,1U,"2U, T, Discard a card, Sacrifice a land: Search your library for up to two basic land cards and put them into play. Then shuffle your library.",He's mastered the art of sleight of land.,1,1,,"4,"
+538,Erratic Mutation,,,Instant,,,,Planar Chaos,Common,Zoltan Boros & Gabor Szikszai,41,165,2U,"Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.",,,,,5
+539,Merfolk Thaumaturgist,,,Creature,Merfolk,Wizard,,Planar Chaos,Common,Steve Prescott,56,165,2U,T: Switch target creature's power and toughness until end of turn.,"""Blasted fishtails! It's not enough that they meddle with my head, but they twist my body as well.""—Tahngarth of the Weatherlight",1,2,,5
+540,Primal Plasma,,,Creature,Elemental,Shapeshifter,,Planar Chaos,Common,Luca Zontini,59,165,3U,"As Primal Plasma comes into pllay , it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.","Tocasia brushed the gears and cogs from the table. There, before two wide-eyed brothers, she began a lesson on raw elemental magic.",X,X,,3
+541,Reality Acid,,,Enchantment,Aura,,,Planar Chaos,Common,James Wong,45,165,2U,"Enchant permanent
+Vanishing 3 (This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Reality Acid leaves play, enchanted permanent's controller sacrifices it.",,,,,9
+542,Shaper Parasite,,,Creature,Illusion,,,Planar Chaos,Common,rk post,46,165,1UU,"Morph 2U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 until end of turn.",,2,3,,5
+543,Synchronous Sliver,,,Creature,Sliver,,,Planar Chaos,Common,E. M. Gist,48,165,4U,All Slivers have vigilance.,"""Wish a twitch of its muscles, its timeline forks. Then, just as quickly, its two selves reintegrate. Causality, strangely, seems not to mind.""—Rukarumel, field journal",3,3,,4
+544,Veiling Oddity,,,Creature,Illusion,,,Planar Chaos,Common,Dave DeVries,51,165,3U,"Suspend 4—1U (Rather than play this card from your hand, you may pay 1U and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)
+When the last time counter is removed from Veiling Oddity while it's removed from the game, creatures are ublockable this turn.",,2,3,,2
+545,Wistful Thinking,,,Sorcery,,,,Planar Chaos,Common,Brian Despain,53,165,2U,"Target player draws two cards, then discards four cards.","""To probe the wonders of the multiverse, to gaze upon worlds unspoiled by blade or spell...it's enough to make one weep for the possibilities denied.""",,,,5
+546,Bog Serpent,,,Creature,Serpent,,,Planar Chaos,Common,Thomas M. Baxa,84,165,5B,"Bog Serpent can't attack unless defending player controls a Swamp.
+When you control no Swamps, sacrifice Bog Serpent.","""We thought it was a fallen tree trunk. Then it ate Snod.""—Sneed, goblin barkwright",5,5,,5
+547,Brain Gorgers,,,Creature,Zombie,,,Planar Chaos,Common,Kev Walker,65,165,3B,"When you play Brain Gorgers, any player may sacrifice a creature. If a player does, counter Brain Gorgers.
+Madness 1B (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)","In spite of their hunger, they're slow eaters.",4,2,,2
+548,Cradle to Grave,,,Instant,,,,Planar Chaos,Common,Dave Kendall,67,165,1B,Destroy target nonblack creature that came into play this turn.,"""As the fell soil's appetite grows, it gulps down passersby upon their first footfall.""—Ezrith, druid of the Dark Hours",,,,2
+549,Dash Hopes,,,Instant,,,,Planar Chaos,Common,Zoltan Boros & Gabor Szikszai,68,165,BB,"When you play Dash Hopes, any player may pay 5 life. If a player does, counter Dash Hopes.
+Counter target spell.","""Focus an enemy's mind on what's already gone, and it's easier to take away more.""—Holux, stronghold racketeer",,,,3
+550,Deadly Grub,,,Creature,Insect,,,Planar Chaos,Common,E. M. Gist,69,165,2B,"Vanishing 3 (This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Deadly Grub is put into a graveyard from play, if it had no time counters on it, put a 6/1 green Insect creature token into play with ""This creature can't be the target of spells or abilities.""",,3,1,,7
+551,Ridged Kusite,,,Creature,Horror,Spellshaper,,Planar Chaos,Common,rk post,78,165,B,"1B, T, Discard a card: Target creature gets +1/+0 and gains first strike until end of turn.","""It offers but a taste of the power that the shadows have to offer. But even that is a heady wine indeed.""—Ratadrabik of Urborg",1,1,,4
+552,Spitting Sliver,,,Creature,Sliver,,,Planar Chaos,Common,Steve Ellis,80,165,4B,All Slivers have first strike.,"""Our lances' reach had been our saving grace in our fight against the hive. Now even that advantage is taken from us.""—Adom Capashen, Benalish knight",3,3,,4
+553,Battering Sliver,,,Creature,Sliver,,,Planar Chaos,Common,Greg Staples,95,165,5R,All Slivers have trample.,"Covered with hard shell-like plates, these slivers burrow through solid rock to carve out new nests for their hives.",4,4,,3
+554,Brute Force,,,Instant,,,,Planar Chaos,Common,Wayne Reynolds,116,165,R,Target creature gets +3/+3 until end of turn.,"Blood, bone, and sinew are magnified, as the rage that drives them. the brain, however, remains unchanged—a little bean, swinging by a strand in a cavernous, raving head.",,,,3
+555,Dead,,,Instant,,,,Planar Chaos,Common,Thomas Giorello,113,165,R,Dead deals 2 damage to target creature.,,,,,4
+556,Dust Corona,,,Enchantment,Aura,,,Planar Chaos,Common,Luca Zontini,97,165,R,"Enchant creature
+Enchanted creature gets +2/+0 and can't be blocked by creatures with flying.","""They infiltrated deep into the enemy camp under cover of darkness...and dirt.""—Corus, viashino warrior",,,,5
+557,Firefright Mage,,,Creature,Goblin,Spellshaper,,Planar Chaos,Common,Greg Staples,99,165,R,"1R, T, Discard a card: Target creature can't be blocked this turn except by artifact creatures and/or red creatures.","After millenia of advancement in goblin military theory, Toggo VI realized that almost everyone is afraid of fire.",1,1,,3
+558,Fury Charm,,,Instant,,,,Planar Chaos,Common,John Avon,100,165,1R,Choose one — Destroy target artifact; or target creature gets +1/+1 and gains trample until end of turn; or remove two time counters from target permanent or suspended card.,,,,,3
+559,Keldon Marauders,,,Creature,Human,Warrior,,Planar Chaos,Common,Alex Horley Orlandelli,102,165,1R,"Vanishing 2 (This permanent comes into play with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Keldon Marauders comes into play or leaves play, it deals 1 damage to target player.",,3,3,,3
+560,Needlepeak Spider,,,Creature,Spider,,,Planar Chaos,Common,Dany Orizio,105,165,3R,Needlepeak Spider can block as though it had flying.,"""It's a testament to the forests' devastation that giant spiders now make their homes amid Dominaria's barren spires.""—Aznaph, greenseeker",4,2,,4
+561,Prodigal Pyromancer,,,Creature,Human,Wizard,,Planar Chaos,Common,Jeremy Jarvis,118,165,2R,T: Prodigal Pyromancer deals 1 damage to target creature or player,"""Learn to burn!""—Institute of Arcane Studies motto",1,1,,2
+562,Citanul Woodreaders,,,Creature,Human,Druid,,Planar Chaos,Common,Steven Belledin,125,165,2G,"Kicker 2G (You may pay an additional 2G as you play this spell.)
+When Citanul Woodreaders comes into play, if the kicker cost was paid, draw two cards.",They seek out living trees to glean age-old secrets from sap and wood.,1,4,,5
+563,Essence Warden,,,Creature,Elf,Shaman,,Planar Chaos,Common,Terese Nielsen,145,165,G,"Whenever another creature comes into play, you gain 1 life.","""The more our numbers grow, the more I gain hope that Volrath and his cursed stronghold will one day fall.""—Eladamri, Lord of Leaves",1,1,,6
+564,Evolution Charm,,,Instant,,,,Planar Chaos,Common,John Avon,127,165,1G,"Choose one — Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library; or return target creature card from your graveyard to your hand; or target creature gains flying until end of turn.",,,,,4
+565,Fa'adiyah Seer,,,Creature,Human,Shaman,,Planar Chaos,Common,Heather Hudson,146,165,1G,"T: Draw a card and reveal it. If it isn't a land card, discard it.","""My visions don't show me home. They show me where home is yet to be found.""",1,1,,3
+566,Giant Dustwasp,,,Creature,Insect,,,Planar Chaos,Common,Greg Hildebrandt,129,165,3GG,"Flying
+Suspend 4—1G (Rather than play this card from your hand, you may pay 1G and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)",,3,3,,4
+567,Healing Leaves,,,Instant,,,,Planar Chaos,Common,Michael Sutfin,150,165,G,Choose one — Target player gains 3 life; or preven the next 3 damage that would be dealt to target creature or player this turn.,The elves of Llanowar don't trust in alchemy. They rely instead on pure herbs harvested from the forest's sacred heart.,,,,7
+568,Mire Boa,,,Creature,Snake,,,Planar Chaos,Common,Greg Hildebrandt,135,165,1G,"Swampwalk
+G: Regenerate Mire Boa.",Mire slime courses through its veins in place of blood. No sooner does it bleed than it opens its mouth to replace the loss.,2,1,,10
+569,Reflex Sliver,,,Creature,Sliver,,,Planar Chaos,Common,Luca Zontini,138,165,3G,All Slivers have haste.,"""This sliver comes into the world a perfect predator. It's ready to hunt and devour its first meal within seconds of hatching.""—Rukarumel, field journal",2,2,,4
+570,Uktabi Drake,,,Creature,Drake,,,Planar Chaos,Common,Matt Cavotta,141,165,G,"Flying, haste
+Echo 1GG (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",,2,1,,7
+571,Utopia Vow,,,Enchantment,Aura,,,Planar Chaos,Common,Heather Hudson,142,165,1G,"Enchant creature
+Encahnted creature can't attack or block.
+Encahnted creature has ""T: Add one mana of any color to your mana pool.""","""I'll guard this fruit and its seedling until the land is healed. My life now belongs to Dominaria.""",,,,4
+572,Vitaspore Thallid,,,Creature,Fungus,,,Planar Chaos ,Common,Christopher Moeller,141,165,1G,"At the beginning of your upkeep, put a spore counter on Vitaspore Thallid.
+Remove three spore counters from Vitaspore Thallid: Put a 1/1 green Saproling creature token into play.
+Sacrifice a Saproling: Target creature gains haste until end of turn.",,1,1,,3
+573,Malach of the Dawn,,,Creature,Angel,,,Planar Chaos,Uncommon,Steve Prescott,24,165,2WW,"Flying
+WWW: Regenerate Malach of the Dawn.","""The sun rises, but the world still feels dark. Pray for the arrival of the malachim—they'll bring Dawn to the world and to our hearts.""—Sister Betje, Miracles of the Saints",2,4,,2
+574,Rebuff the Wicked,,,Instant,,,,Planar Chaos,Uncommon,Stephen Tappin,12,165,W,Counter target spell that targets a permanent you control.,"""I cannot teach you their brand of magic, but I can teach you how to defend against it.""—Tavalus, priest of Korlis",,,,4
+575,Riftmarked Knight,,,Creature,Human,Rebel,Knight,Planar Chaos,Uncommon,William O'Connor,14,165,1WW,"Flanking, protection from black
+Suspend 3—1WW
+When the last time counter is removed from Riftmarked Knight while it's removed from teh game, put a 2/2 black Knight creature token with flanking, protection from white, and haste into play.",,2,2,,1
+576,Saltblast,,,Sorcery,,,,Planar Chaos,Uncommon,Parente,15,165,3WW,Destroy target nonwhite permanent.,Dominaria erodes with each passing gust.,,,,4
+577,Serra's Boon,,,Enchantment,Aura,,,Planar Chaos,Uncommon,Steven Belledin,17,165,2W,"Enchant creature
+Encahnted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.","""The light of an angel's glance is warm, but her fixed stare blinds and burns.""—Calexis, deacon of the New Order of Serra",,,,1
+578,Stonecrusher,,,Creature,Gargoyle,,,Planar Chaos,Uncommon,Tomas Giorello,19,165,2W,"Flash (You may play this spell any time you could play an instant.)
+Flying
+When Stonecloaker comes into play, return a creature you control to its owner's hand.
+When Stonecloaker comes into play, remove target card in a graveyard from the game.",,3,2,,1
+579,Stormfront Riders,,,Creature,Human,Soldier,,Planar Chaos,Uncommon,Wayne Reynolds,20,165,4W,"Flying
+When Stormfront Riders comes into play, return two creatures you control to their owner's hand.
+Whenever Stormfront Riders or another creature is returned to your hand from play, put a 1/1 white Soldier creature token into play.)",,4,3,,2
+580,Frozen Aether,,,Enchantment,,,,Planar Chaos,Uncommon,Dan Dos Santos,54,165,3U,"Artifacts, creatures, and lands your opponents control come into play tapped.",Gjornersen entertained his followers by taking bets on which would move first—the drowsing land wurm or the frozen goblins.,54,165,,1
+581,Frenetic Sliver,,,Creature,Sliver,,,Planar Chaos,Uncommon,Luca Zontini,157,165,1UR,"All Slivers have ""0: If this creature is in play, flip a coin. If you win the flip, remove this creature from the game and return it to play under its owner's control at end of turn. If you lose the flip, sacrifice it.",,2,2,,1
+582,Pongify,,,Instant,,,,Planar Chaos,Uncommon,Heather Hudson,44,165,U,Destroy target creature. It can't be regenerated. That creature's controller puts a 3/3 green Ape creature token into play.,Some spellcrafting mistakes go on to become spells of their own.,,,,1
+583,Riptide Pilferer,,,Creature,Merfolk,Rogue,,Planar Chaos,Uncommon,Steve Prescott,60,165,1U,"Whenever Riptide Pilferer deals combat damage to a player, that player discards a card.
+Morph U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)",,1,1,,2
+584,Venarian Glimmer,,,Instant,,,,Planar Chaos,Uncommon,John Avon,52,165,XU,Target player reveals his or her hand. Choose a nonland card with converted mana cost X or less from it. That player discards that card.,"Dream of nothing, and wake to a dream come true.",,,,1
+585,Big Game Hunter,,,Creature,Human,Rebel,Assassin,Planar Chaos,Uncommon,Carl Critchlow,63,165,1BB,"When Big Game Hunter comes into play, destroy target creature with power 4 or greater. It can't be regenerated.
+Madness B (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)",,1,1,,8
+586,Dunerider Outlaw,,,Creature,Human,Rebel,Rogue,Planar Chaos,Uncommon,Alan Pollack,86,165,BB,"Protection from green
+At end of turn, if Dunerider Outlaw dealt damage to an opponent this turn, put a +1/+1 counter on it.",Tales of the outlaw's cruelty and might grew more embellished with each crime.,1,1,,8
+587,Enslave,,,Enchantment,Aura,,,Planar Chaos,Uncommon,Zoltan Boros & Gabor Szikszai,70,165,4BB,"Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.",,,,,1
+588,Kor Dirge,,,Instant,,,,Planar Chaos ,Uncommon,Alex Horley-Orlandelli,87,165,2B,All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.,"Rath's new evincar eliminated the brutish moggs and took a new slave race, one more reminiscent of her own feline grace.",,,,3
+589,Phantasmagorian,,,Creature,Horror,,,Planar Chaos,Uncommon,Steve Ellis,77,165,5BB,"When you play Phantasmagorian, any player may discard three cards. If a player does, counter Phantasmagorian.
+Discard three cards: Return Phantasmagorian from your graveyard to your hand.",,6,6,,5
+590,Waning Wurm,,,Creature,Zombie,Wurm,,Planar Chaos,Uncommon,Alan Pollack,83,165,3B,"Vanishing 2 (This permanent comes into play with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Keldon Marauders comes into play or leaves play, it deals 1 damage to target player.",,7,6,,1
+591,Harmonize,,,Sorcery,,,,Planar Chaos,Uncommon,Rob Alexander,149,165,2GG,Draw three cards.,"""Life's greatest lessons don't come from focus or concentration. They come from breathing and simply noticing.""—Seton, centuar druid",,,,3
+592,Hunting Wilds,,,Sorcery,,,,Planar Chaos,Uncommon,Steve Ellis,130,165,3G,"Kicker 3G (You may pay an additional 3G as you play this spell.)
+Search your library for up to two Forest cards and put them into play tapped. Then shuffle your library.
+If the kicker cost was paid, untap all Forests put into play this way. They become 3/3 green creatures with haste that are still lands.",,,,,1
+593,Sophic Centaur,,,Creature,Centaur,Spellshaper,,Planar Chaos,Uncommon,Dan Dos Santos,139,165,3G,"2GG, T, Discard a card: You gain 2 life for each card in your hand.",He endures the pain of remembering Krosa as it once was and hopes that a future generation will have need of his memories.,1,1,,1
+594,Revered Dead,,,Creature,Spirit,Soldier,,Planar Chaos,Common,Ron Spears,29,165,1W,W: Regenerate Revered Dead.,"""The mists coalesced into silent warriors. We charged them and broke through their lines, only to see them swirl and re-form behind us.""—Golas Mahr, black knight",1,1,,1
+595,Shade of Troikair,,,Creature,Shade,,,Planar Chaos,Common,William O'Connor,18,165,3W,"W: Shade of Troikair gets +1/+1 until end of turn.
+Suspend 3—W (Rather than play this card from your hand, you may pay W and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)",,1,2,,2
+596,Sinew Sliver,,,Creature,Sliver,,,Planar Chaos,Common,Steven Belledin,30,165,1W,All Slivers get +1/+1.,"As the muscle cords of the creature twitched, Hanna saw an unsettling unanimity in the others' rippling flesh. She didn't know what it meant, but she urged Sisay to keep the ship at a safe distance.",1,1,,1
+597,Sunlance,,,Sorcery,,,,Planar Chaos,Common,Volkan Baga,31,165,W,Sunlance deals 3 damage to target nonwhite creature.,"""It's easy for the innocent to speak of justice. They seldom feel its terrible power.""—Orim, Samite inquisitor",,,,4
+598,Gossamer Phantasm,,,Creature,Illusion,,,Planar Chaos,Common,Jon Foster,55,165,1U,"Flying
+When Gossamer Phantasm becomes the target of a spell or ability, sacrifice it.","""Belief matters more than truth. Every moment, belief in imaginary things alters lives while truth sits unnoticed and waits.""—Hakim, Loreweaver",2,1,,1
+599,Piracy Charm,,,Instant,,,,Planar Chaos,Common,John Avon,58,165,U,Choose one — Target creature gains islandwalk until end of turn; or target creature gets +2/-1 until end of turn; or target player discards a card.,,,,,1
+600,Blightspeaker,,,Creature,Human,Rebel,Cleric,Planar Chaos,Common,Ron Spears,64,165,1B,"T: Target player loses 1 life.
+4, T: Search your library for a Rebel card with converted mana cost 3 or less and put it into play. Then shuffle your library.",One croaked sermon spreads propaganda and plague,1,1,,5
+601,Midnight Charm,,,Instant,,,,Planar Chaos,Common,John Avon,74,165,B,Choose one — Midnight Charm deals 1 damage to target creature and you gain 1 life; or target creature gains first strike until end of turn; or tap target creature.,,,,,3
+602,Rathi Trapper,,,Creature,Human,Rebel,Rogue,Planar Chaos,Common,Pete Venters,90,165,1B,"B, T: Tap target creature.","Tangling vines, fetid murk, paralysing poisons, and crawling dead. The swamp is nature's trap waiting to be exploited by unnatural minds.",1,2,,7
+603,Skirk Shaman,,,Creature,Goblin,Shaman,,Planar Chaos,Common,Chippy,127,165,1RR,Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.,"In a shaman's grimy hands, a concoction of dried Skirk Ridge herbs can become the face of panic.",2,2,,2
+604,Seal of Primordium,,,Enchantment,,,,Planar Chaos,Common,Christopher Moeller,153,165,1G,Sacrifice Seal of Primordium: Destroy target artifact or enchantment.,"""I am the simplifier, the root htat drags all artifice to earth.""—Seal inscription",,,,1
+605,Goldmeadow Lookout,,,Creature,Kithkin,Spellshaper,,Futuresight,Uncommon,Steve Prescott,22,180,3W,"W, T, Discard a card: Put a 1/1 white Kithkin Soldier creature token named Goldmeadow Harrier into play with ""W, T: Tap target creature.""",,2,2,,1
+606,Mistmeadow Skulk,,,Creature,Kithkin,Rogue,,Futuresight,Uncommon,Omar Rayyan,27,180,1W,"Protection from converted mana cost 3 or greater
+Lifelink (Whenever this creature deals damage, you gain that much life.)
+","Doyo suspected the boggarts of brewing a plot against his crop, so he scythed away his grain to clear the sightlines.",1,1,,2
+607,Cryptic Annelid,,,Creature,Beast,,,Futuresight,Uncommon,Anthony S. Waters,34,180,3U,"When Cryptic Annelid comes into play, scry 1, then scry 2, then scry 3. (To scry X, look at the top X cards of your library, then put any number of them on the bottom of your library and the reset on top in any order.)",,1,4,,1
+608,Delay,,,Instant,,,,Futuresight,Uncommon,Ron Spears,35,180,1U,"Coutner target spell. If the spell is countered this way, remove it from the game with three time counters on it instead of putting it into its owner's graveyard. If it doesn't have supsend, it gains suspend. (At the beginning of its owner's upkeep, remove a time counter from that card. When the last is removed, the player plays it without paying its mana cost. If it's a creature, it has haste.)",,,,,1
+609,Pooling Venom,,,Enchantment,Aura,,,Futuresight,Uncommon,Ron Spears,74,180,1B,"Enchant land
+Whenever enchanted land becomes tapped, its controller loses 2 life.
+3B: Destroy enchanted land.",The land can only hold so much poison before it begins to bite back.,,,,1
+610,Skirk Ridge Exhumer,,,Creature,Zombie,Spellshaper,,Futuresight,Uncommon,Michael Phillippi,77,180,1B,"B, T, Discard a card: Put a 1/1 black Zombie Goblin creature token named Festering Goblin into play with ""When Festering Goblin is put into a graveyard from play, target creature gets -1/-1 until end of turn.""",,1,1,,5
+611,Street Wraith,,,Creature,Wraith,,,Futuresight,Uncommon,Cyril Van Der Haegen,90,180,3BB,"Swampwalk
+Cycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)","The lamps on Wyndmoor Street snuff themselves at midnight and refuse to relight, afraid to illuminate what lies in the darkness.",3,4,,2
+612,Arc Blade,,,Sorcery,,,,Futuresight,Uncommon,Shishizaru,94,180,3RR,"Arc Blade deals 2 damage to target creature or player. Remove Arc Blade from the game with three time counters on it.
+Suspend 3—2R (Rather than play this card from your hand, you may pay 2R and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it wthout paying its mana cost.)",,,,,2
+613,Char-Rumbler,,,Creature,Elemental,,,Futuresight,Uncommon,Kev Walker,96,180,2RR,"Double strike
+R: Char-Rumbler gets +1/+0 until end of turn.",Elementals flourished as Dominaria healed and new forms of life adapted to the land's reinfusion with mana.,-1,3,,1
+614,Storm Entity,,,Creature,Elemental,,,Futuresight,Uncommon,Lucio Parrillo,122,180,1R,"Haste
+Storm Entity comes into play with a +1/+1 counter on it for each other spell played this turn.",Dweldian magi don't enter the Realm of Thrones when they die. Instead their souls are drawn to great works of magic.,1,1,,2
+615,Centaur Omenreader,Snow,,Creature,Centaur,Shaman,,Futuresight,Uncommon,Justin Sweet,143,180,3G,"As long as Centaur Omenreader is tapped, creature spells you play cost 2 less to play.",The wisdom of the omenreaders is legendary. Creatures travel for miles through icy peril to seek their counsel.,3,3,,1
+616,Llanowar Mentor,,,Creature,Elf,Spellshaper,,Futuresight,Uncommon,Trevor Hairsine,131,180,G,"G, T, Discard a card: Put a 1/1 green Elf Druid creature token named Llanowar Elves into play with ""T: Add G to your mana pool.""",,1,1,,2
+617,Ravaging Riftwurm,,,Creature,Wurm,,,Futuresight,Uncommon,Michael Phillippi,135,180,1GG,"Kicker 4 (You may pay an additional 4 as you play this spell.)
+Vanishing 2 (This permanent comes into play with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.
+If the kicker cost was paid, Ravaging Riftwurm comes into play with three additional time counters on it.",,6,6,,1
+618,Riftsweeper,,,Creature,Elf,Shaman,,Futuresight,Uncommon,Brian Despain,136,180,1G,"When Riftsweeper comes into play, choose target face-up card that's removed from the game. Its owner shuffles it into his or her lilbrary.","""Beings of the rifts are not natural. No longer will these abominations tread upon the body of Gaea.""",2,2,,1
+619,Utopia Mycon,,,Creature,Fungus,,,Futuresight,Uncommon,Anthony S. Waters,140,150,G,"At the beginning of your upkeep, put a spore counter on Utopia Mycon.
+Remove three spore counters from Utopia Mycon: Put a 1/1 green Saproling creature token into play.
+Sacrifice a Saproling: Add one mana of any color to your mana pool.",,0,2,,1
+620,Llanowar Reborn,,,Land,,,,Futuresight,Uncommon,Philip Straub,171,180,,"Llanowar Reborn comes into play tapped.
+T: Add G to your mana pool.
+Graft 1 (This land comes into play with a +1/+1 counter on it. Whenever a creature comes into play, you may move a +1/+1 counter from this land onto it.)",,,,,1
+621,Zoetic Cavern,,,Land,,,,Futuresight,Uncommon,Lars Grant-West,180,180,,"T: Add 1 to your mana pool.
+Morph 2 (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)","Nothing lives within it, yet there is life.",,,,1
+622,Augur il-Vec,,,Creature,Human,Cleric,,Futuresight,Common,Darren Bader,2,180,1W,"Shadow (This creature can block or be blocked by only creatures with shadow.)
+Sacrifice Augur il-Vec: You gain 4 life. Play this ability only during your upkeep.","""If it would end this exile, my life is yours.""",1,3,,5
+623,Gift of Granite,,,Enchantment,Aura,,,Futuresight,Common,Hideaki Takamura,7,180,W,"Flash (You may play this spell any time you could play an instant.)
+Enchant creature
+Enchanted creature gets +0/+2..",The blessing adds both protection to the recipient and weightlessness to the stone.,,,,2
+624,Knight of Sursi,,,Creature,Human,Knight,,Futuresight,Common,Cyril Van Der Haegen,10,180,3W,"Flying, flanking
+Suspend 3—W (Rather than play this card from your hand, you may pay W and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)",,2,2,,2
+625,Lymph Sliver,,,Creature,Sliver,,,Futuresight,Common,Ittoku,26,180,4W,"All Sliver creatures have absorb 1. (If a source would deal damage to a Sliver, prevent 1 of that damage.)","Its skin remains in a flowing, liquid state that keeps its body coated wth potent restorative lymph.",3,3,,2
+626,Samite Censer-Bearer,,,Creature,Human,Rebel,Cleric,Futuresight,Common,William Simpson,15,180,W,"W, Sacrifice Samite Censer-Bearer: Prevent the next 1 damage that would be dealt to each creature you control this turn.",Samite alchemists extracted aromatic traces of healing minerals from the residue of the receding salt dunes.,1,1,,4
+627,Aven Augur,,,Creature,Bird,Wizard,,Futuresight,Common,Dan Scott,32,180,3U,"Flying
+Sacrifice Aven Augur: Return up to two target creatures to their owners' hands. Plan this ability only during your upkeep.","""I have seen the future. It does not include you.""",2,2,,1
+628,Blind Phantasm,,,Creature,Illusion,,,Futuresight,Common,Khang Le,49,180,2U,,,2,3,,2
+629,Leaden Fists,,,Enchantment,Aura,,,Futuresight,Common,Shishizaru,38,180,2U,"Flash (You may play this spell any time you could play an instant.)
+Enchant creature
+Enchanted creature gets +3/+3 and doesn't untap during its controller's untap step.",,,,,3
+630,Venser's Diffusion,,,Instant,,,,Futuresight,Common,Heideaki Takamura,47,180,2U,Return target nonland permanent or suspended card to its owner's hand.,"""Each reality is but the dream of another, and each sleeper a god unknowing.""",,,,1
+631,Whip-Spine Drake,,,Creature,Drake,,,Futuresight,Common,Eric Fortune,62,180,3UU,"Flying
+Morph 2W (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)","""I swear the clouds were created just so the drakes would have a place to lurk.""—Kasharri, skyknight",3,3,,1
+632,Cutthroat il-Dal,,,Creature,Human,Rogue,,Futuresight,Common,Vance Kovacs,64,180,3B,Hellbent — Cutthroat il-Dal has shadow as long as you have no cards in hand. (It can block or be blocked by only creatures with shadow.),"Her blades slashed across the noble's shadow. He scoffed, then fell over dead.",4,1,,3
+633,Death Rattle,,,Instant,,,,Futuresight,Common,Vance Kovacs,82,180,5B,"Delve (You may remove any number of cards in your graveyard from the game as you play this spell. It costs 1 less to play for each card removed this way.)
+Destroy target nongreen creature. It can't be regenerated.",,,,,2
+634,Deepcavern Imp,,,Creature,Imp,Rebel,,Futuresight,Common,Scott Altmann,83,180,2B,"Flying, haste
+Echo—Discard a card. (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",,2,2,,6
+635,Grave Peril,,,Enchantment,,,,Futuresight,Common,Daarken,67,180,1B,"When a nonblack creature comes into play, sacrifice Grave Peril. If you do, destroy that creature.","""Sometimes the grave does not wait for death before relishing its feast of flesh and bones.""—Ezrith, druid of the Dark Hours",,,,1
+636,Grave Scrabbler,,,Creature,Zombie,,,Futuresight,Common,Dave Allsop,86,180,3B,"Madness 1B (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)
+When Grave Scrabbler comse into play, it its madness cost was paid, you may return target creature card in a graveyard to its owner's hand.",,2,2,,1
+637,Ichor Slick,,,Sorcery,,,,Futuresight,Common,Zoltan Boros & Gabor Szikszai,68,180,2B,"Target creature gets -3/-3 until end of turn.
+Cycling 2 (2, Discard this card: Draw a card.)
+Madness 3B (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)",,,,,3
+638,Mass of Ghouls,,,Creature,Zombie,Warrior,,Futuresight,Common,Lucio Parrillo,88,180,3BB,,,5,3,,1
+639,Putrid Cyclops,,,Creature,Zombie,Cyclops,,Futuresight,Common,Matt Cavotta,75,180,2B,"When Putrid Cyclops comes into play, scry 1, then reveal the top card of your library. Putrid Cyclops gets -X/-X until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",,3,3,,3
+640,Bogardan Lancer,,,Creature,Human,Knight,,Futuresight,Common,Jim Murray,95,180,1R,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.",,1,1,,3
+641,Fatal Attraction,,,Enchantment,Aura,,,Futuresight,Common,Zoltan Boros & Gabor Szikszai,98,180,2R,"Enchant creature
+When Fatal Attraction comes into play, it deals 2 damage to enchanted creature.
+At the beginning of your upkeep, Fatal Attraction deals 4 damage to enchanted creature.",,,,,7
+642,Gathan Raiders,,,Creature,Human,Warrior,,Futuresight,Common,Parente,90,180,3RR,"Hellbent—Gathan Raiders gets +2/+2 if you have no cards in hand.
+Morph—Discard a card. (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)",,3,3,,3
+643,Ghostfire,,,Instant,,,,Futuresight,Common,Cyril Van Der Haegen,115,180,2R,"Ghostfire is colorless.
+Ghostfire deals 3 damage to target creature or player.","Only those gifted with the eye of Ugin, the spirit dragon, can see his fiery breath.",,,,4
+644,Henchfiend of Ukor,,,Creature,Ogre,,,Futuresight,Common,Nils Hamm,117,180,3R,"Haste
+Echo 1B (At the beginning of your upkeep, if this came under your control since the beginning of your lastupkeep, sacrifice this permanent unless you pay its echo cost.)
+{B/R}: Henchfiend of Ukor gets +1/+0 until end of turn.",,3,2,,2
+645,Riddle of Lightning,,,Instant,,,,Futuresight,Common,Darren Bader,105,180,3RR,"Choose target creature or player. Scry 3 then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that creature or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",,,,,2
+646,Edge of Autumn,,,Sorcery,,,,Futuresight,Common,Jean-Sebastien Rossbach,144,180,1G,"If you control four or fewer lands, search your library for a basic land card, put it into play tapped, then shuffle your library.
+Cycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)","""At harvest are seeds of next year sown.""",,,,2
+647,Kavu Primarhc,,,Creature,Kavu,,,Futuresight,Common,Kev Walker,128,180,3G,"Convoke (Each creature you tap while playing this spell reduces its total cost by 1 or by one mana of that creature's color.)
+Kicker 4 (You may pay an additional 4 as you play this spell.
+IF the kicker cost was paid, Kavu Primarch comes into play with four +1/+1 counters on it.",,3,3,,1
+648,Llanowar Augur,,,Creature,Elf,Shaman,,Futuresight,Common,Tsutoma Kawade,129,180,G,Sacrifice Llanowar Augur: Target creature gets +3/+3 and gains trample until end of turn. Play this ability only during your upkeep.,"""I am irrelevant. The future I hold in my hands is everything.",0,3,,2
+649,Petrified Plating,,,Enchantment,Aura,,,Futuresight,Common,Zoltan Boros & Gabor Szikszai,133,180,2G,"Enchant creature
+Enchanted creature gets +2/+2.
+Suspend 2—G (Rather than play this card from your hand, you may pay G and remove it from the game with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.",,,,,3
+650,Quiet Disrepair,,,Enchantment,Aura,,,Futuresight,Common,Glen Angus,134,180,1G,"Enchant artifact or enchantment
+At the beginning of your upkeep, choose one — Destroy enchanted permanent; or you gain 2 life.","""Artifice has always stood upon nature's shoulders. Let us watch nature take a turn.""—Freyalise",,,,4
+651,Sporoloth Ancient,,,Creature,Fungus,,,Futuresight,Common,James Kei,152,180,3GG,"At the beginning of your upkeep, put a spore counter on Sporotloth Ancient.
+Creatures you control have ""Remove two spore counters from this creature: Put a 1/1 green Saproling creature token into play.""",,4,4,,2
+652,Sprout Swarm,,,Instant,,,,Futuresight,Common,Chippy,138,180,1G,"Convoke (Each creature you tap while playing this spell reduces its total cost by 1 or by one mana of that creature's color.)
+Buyback 3 (You may pay an additional 3 as you lay this spell. If you do, put this card into your hand as it resolves.)
+Put a 1/1 green Saproling creature token into play.",,,,,3
+653,Thornweald Archer,,,Creature,Elf,Archer,,Futuresight,Common,Dave Kendall,154,180,1G,"Reach (This creature can block creatures with flying.)
+Deathtouch (Whenever thsi creature deals damage to a creature, destroy that creature.",Their arrows are tipped with basilisk eyes and fletched with cocatrice feathers.,2,1,,7
+654,Virulent Sliver,,,Creature,Sliver,,,Futuresight,Common,Franz Vohwinkel,155,180,G,"All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)",,1,1,,2
+655,Wrap in Vigor,,,Instant,,,,Futuresight,Common,John Donahue,141,180,1G,Regenerate each creature you control.,Some nature mages unknowingly took advantage of the temporal energies still swirling in Dominaria. What they mistook for healing magic was in fact the manipulation of time.,,,,4
+656,Sword of the Meek,,Artifact,Equipment,,,,Futuresight,Uncommon,Franz Vohwinkel,165,180,2,"Equipped creature gets +1/+2.
+Equip 2
+Whenever a 1/1 creature comes into play under your control, you may return Sword of the Meek from your graveyard to play, then attach it to that creature.",,,,,","
+657,Bound in Silence,,,Tribal,Enchantment,Rebel,Aura,Futuresight,Uncommon,William Simpson,20,180,2W,"Enchant creature
+Enchanted creature can't attack or block.",A fight put off forever is already won.,,,,4
+658,Ramosian Revivalist,,,Creature,Human,Rebel,Cleric,Futuresight,Uncommon,Matt Stewart,30,180,3W,"6, T: Return target Rebel permanent card with converted mana cost 5 or less from your graveyard to play.","The Ramosian tradition is alive, but its namesake has long since been forgotten.",2,2,,2
+659,Reality Strobe,,,Sorcery,,,,Futuresight,Uncommon,Dan Scott,43,180,4UU,"Return target permanent to its owner's hand. Remove Reality Strobe from the game with three time counters on it.
+Suspend 3—2U (Rather than play this card from your hand, you may pay 2U and remove it from the game with three time counters on it. At the beginning of your upkep, remove a time counter. When the last is removed, play it without paying its mana cost.)",,,,,1
+660,Snake Cult Initiation,,,Enchantment,Aura,,,Futuresight,Uncommon,Justin Sweet,89,180,3B,"Enchant creature
+Enchanted creature has poisonous 3. (Whenever it deals combat damage to a player, that player gets three poison counters. A player with ten or more poison counters loses the game.)",,,,,1
+661,Stronghold Rats,,,Creature,Rat,,,Futuresight,Uncommon,Brandon Kitkouski,79,180,2B,"Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Stronghold Rats deals combat  damage to a player, each player discards a card.","In the stronghold's dungeons, the shadows hide in the vermin.",2,1,,1
+662,Haze of Rage,,,Sorcery,,,,Futuresight,Uncommon,Parente,100,180,1R,"Buyback 2 (You may pay an additional 2 as you play this spell. If you do, put this card into your hand as it resolves.)
+Creatures you control get +1/+0 until end of turn.
+Storm (When you play this spell, copy it for each spell played before it this turn.)",,,,,1
+663,Shivan Sand-Mage,,,Creature,Viashino,Shaman,,Futuresight,Uncommon,Dave Kendall,108,180,2RR,"When Shivan Sand-Mage comes into play, choose one — Remove two time counters from target permanent or suspended card; or put two time counters on target permanent with a time counter on it or suspended card.
+Suspend 4—R",,3,2,,1
+664,Dryad Arbor,,,Land,Creature,Forest,Dryad,Futuresight,Uncommon,Eric Fortune,174,180,,"(Dryad Arbor isn't a spell, it's affected by summoning sickness, and it has ""T: Add G to your mana pool."")
+Dryad Arbor is green.","""Touch no tree, break no branch, and speak only the question you wish answered.""—Von Yomm, elder druid, to her initiates.",1,1,,1
+665,Llanowar Mentor,,,Creature,Elf,Spellshaper,,Futuresight,Uncommon,Trevor Hairsine,131,180,G,"G, T, Discard a card: Put a 1/1 green Elf Druid creature token named Llanowar Elves into play with ""T: Add G to your mana pool.""",,1,1,,1
+666,Spellwild Ouphe,,,Creature,Ouphe,,,Futuresight,Uncommon,Scott Altmann,151,180,1G,Spells that target SPellwild Ouphe cost 2 less to play.,"""You'd think that their big glowing eyes would be almost hypnotic to look at. In fact, its the other way around—they are entranced by nearly everything they see.""—Balecki, Spellwild druid",1,3,,1
+667,Blade of the Sixth Pride,,,Creature,Cat,Rebel,,Futuresight,Common,Justin Sweet,19,180,1W,,,3,1,,4
+668,Lucent Liminid,,,Enchantment,Creature,Elemental,,Futuresight,Common,Eric Fortune,24,180,3WW,Flying,"It has a herald of the sun goddess, projected from the hallowed glass whenver her light passes through.",3,3,,1
+669,Lumithread Field,,,Enchantment,,,,Futuresight,Common,Scott Altmann,25,180,1W,"Creatures you control get +0/+1.
+Morph 1W (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)","Having conquered the Bastion of Suns, the Ota took its light for their own.",,,,5
+670,Saltskitter,,,Creature,Wurm,,,Futuresight,Common,Chippy,14,180,3W,"Whenever another creature comes into play, remove Saltskitter from the game. Return Saltskitter to play under its owner's control at end of turn.",,3,4,,2
+671,Mesmeric Sliver,,,Creature,Sliver,,,Futuresight,Common,Michael Bruinsma,53,180,3U,"All Slivers have ""When this permanent comes into play, you may fateseal 1."" (Its controller looks at the top card of an oponent's library, then he or she may put that card on the bottom of that library.)",,2,2,,2
+672,Sarcomite Myr,,Artifact,Creature,Myr,,,Futuresight,Common,Michael Bruinsma,56,180,2U,"2: Sarcomite Myr gains flying until end of turn.
+2, Sacrifice Sarcomite Myr: Draw a card.","""A horrible sight, yes, but the sounds...Its twanging tendons and grinding gears are almost musical.""—Brudicald, Telchor engineer",2,1,,1
+673,Unblinking Bleb,,,Creature,Illusion,,,Futuresight,Common,Shishizaru,45,180,3U,"Morph 2U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Whenever Unblinking Bleb or another permanent is turned face up, you may scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",,1,3,,2
+674,Augur of Skulls,,,Creature,Skeleton,Wizard,,Futuresight,Common,Chippy,63,180,1B,"1B: Regenerate Augur of Skulls.
+Sacrifice Augur of Skulls: Target player discards two cards. Play this ability only during your upkeep.","Within each empty skull, it seeks way sto preserve its own failing undeath.",1,1,,4
+675,Frenzy Sliver,,,Creature,Sliver,,,Futuresight,Common,Glen Angus,85,180,1B,"All Slivers creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)","The Arturan conjurers took the strange, alien fossil and patterned their own twisted creations in its image.",1,1,,3
+676,Emberwilde Augur,,,Creature,Goblin,Shaman,,Futuresight,Common,Brandon Kitkouski,97,180,1R,Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Play this ability only during your upkeep.,Legends say a djinn gave the goblins a gift they could never hope to master.,2,1,,3
+677,Flowstone Embrace,,,Enchantment,Aura,,,Futuresight,Common,Vance Kovacs,113,180,1R,"Enchant creature
+T: Enchanted creature gets +2/-2 until end of turn.","""The seventh symbol, the Mark of Stone, stores the power of ancient Rath.""—Tome of Elemental Mastery",,,,1
+678,Llanowar Empath,,,Creature,Elf,Shaman,,Futuresight,Common,Warren Mahy,130,180,3G,"When Llanowar Empath comes into play, scry 2, then reveal  the top card of your library. If it's a creature card, put it into your hand. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",,2,2,,1

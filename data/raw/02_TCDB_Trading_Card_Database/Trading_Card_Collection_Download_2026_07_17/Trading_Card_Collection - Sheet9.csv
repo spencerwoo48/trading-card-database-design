@@ -1,0 +1,280 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+2135,Buried Ruin,,,Land,,,,M12,Uncommon,Franz Vohwinkel,,224,249,,"T: Add 1 to your mana pool.
+2, T, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.",History has buried its treasures deep.,,,,3
+2136,Angel's Feather,,Artifact,,,,,M12,Uncommon,Alan Pollack,,202,249,2,"Whenever a player casts a white spell, you may gain 1 life.",The angel represents divine perfection; even the smallest feather is imbued with beauty and benevolence.,,,,3
+2137,Crown of Empires,,Artifact,,,,,M12,Uncommon,John Avon,,203,249,2,"3, T: Tap target creature. Gain control of that creature instead if you control artifacts named Scepter of Empires and Throne of Empires.","""With this crown, assert your authority.""
+—Crown inscription
+",,,,3
+2138,Crumbling Colossus,,Artifact,Creature,Golem,,,M12,Uncommon,Michael C. Hayes,,204,249,5,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+When Crumbling Colossus attacks, sacrifice it at end of combat.",,7,4,,4
+2139,Demon's Horn,,Artifact,,,,,M12,Uncommon,Alan Pollack,,205,249,2,"Whenever a player casts a black spell, you may gain 1 life.",Its curve mimics the twists of life and death.,,,,8
+2140,Dragon's Claw,,Artifact,,,,,M12,Uncommon,Alan Pollack,,206,249,2,"Whenever a player casts a red spell, you may gain 1 life.","""If there is a fire that never ceases to burn, it surely lies in the maw of a dragon.""
+—Sarkhan Vol",,,,8
+2141,Elixir of Immortality,,Artifact,,,,,M12,Uncommon,Zoltan Boros,Gabor Szikszai,208,249,1,"2, T: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.","""Bottled life. Not as tasty as I'm used to, rather stale, but it has the same effect.""
+—Baron Sengir",,,,6
+2142,Greatsword,,Artifact,Equipment,,,,M12,Uncommon,Nic Klein,,209,249,3,"Equipped creature gets +3/+0.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)
+The only blow that matters is the killing blow.",,,,,4
+2143,Kite Shield,,Artifact,Equipment,,,,M12,Uncommon,Jim Pavelec,,210,249,0,"Equipped creature gets +0/+3.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)","""To my sword I owe my glory, but to my shield I owe my life.""
+—Sarlena, paladin of the Northern Verge",,,,3
+2144,Kraken's Eye,,Artifact,,,,,M12,Uncommon,Alan Pollack,,211,249,2,"Whenever a player casts a blue spell, you may gain 1 life.",It's seen the wonders of entire worlds trapped int eh depths of a bottomless ocean.,,,,7
+2145,Rusted Sentinel,,Artifact,Creature,Golem,,,M12,Uncommon,Jason Felix,,215,249,4,Rusted Sentinel enters the battlefield tapped.,It has to deliberate a moment on the best way to break your face.,3,4,,5
+2146,Scepter of Empires,,Artifact,,,,,M12,Uncommon,John Avon,,216,249,3,T: Scepter of Empires deals 1 damage to target player. It deals 3 damage to that player instead if you control artifacts named Crown of Empires and Throne of Empires.,"""With this scepter, smite your enemies.""
+—Scepter inscription",,,,4
+2147,Swiftfoot Boots,,Artifact,Enchantment,,,,M12,Uncommon,Svetlin Velinov,,219,249,2,"Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control, and it can attack and T as soon as it comes under your control.)
+Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)",,,,,5
+2148,Thran Golem,,Artifact,Creature,Golem,,,M12,Uncommon,Ron Spears,,220,249,5,"As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.",The golems of the ancient Thran still draw power in ways that baffle the artificers of today.,3,3,,9
+2149,Wurm's Tooth,,Artifact,,,,,M12,Uncommon,Alan Pollack,,223,249,2,"Whenever a player casts a green spell, you may gain 1 life.","Jevna Nor lugged it around, bragging of his triumph over the wurm. Luckily, the tavern regulars didn't notice it was only a baby tooth.",,,,4
+2150,Alabaster Mage,,,Creature,Human,Wizard,,M12,Uncommon,Izzy,,2,249,1W,1W: Target creature you control gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.),"""We hold sacred th epowers of light and life. Truth and honor are our greatest weapons.""
+—Alabaster creed",,,,5
+2151,Arbalest Elite,,,Creature,Human,Archer,,M12,Uncommon,Chris Rahn,,5,249,2WW,"2W, T: Arbalest Elite deals 3 damage to target attacking or blocking creature. Arbalest Elite doesn't untap during your next untap step.","There are few things as satisfying as a good, healthy drink.",2,3,,4
+2152,Celestial Purge,,,Instant,,,,M12,Uncommon,David Palumbo,,11,249,1W,Exile target black or red permanent.,"""A world without evil? Boring. Give me vile fiends to smite and banish any day.""
+—Sarlena, paladin of the Northern Verge
+",,,,2
+2153,Elite Vanguard,,,Creature,Human,Soldier,,M12,Uncommon,Mark Tedin,,15,249,W,,The vanguard is skilled at waging war alone. The enemy is often defeated before its reinforcements reach the front.,2,1,,6
+2154,Oblivion Ring,,,Enchantment,,,,M12,Uncommon,Franz Vohwinkel,,27,249,2W,"When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.",,,,,1
+2155,Roc Egg,,,Creature,Bird,,,M12,Uncommon,Paul Bonner,,32,249,2W,"Defender (This creature can't attack.)
+When Roc Egg dies, put a 3/3 white Bird creature token with flying onto the battlefield.",A thin shell lies between the roc and a world of bite-sized treats.,0,3,,6
+2156,Serra Angel,,,Creature,Angel,,,M12,Uncommon,Greg Staples,,33,249,3WW,"Flying
+Vigilance (Attacking creature doesn't cause this creature to tap.)","Follow the light. In its absence, follow her.",4,4,,8
+2157,Spirit Mantle,,,Enchantment,Aura,,,M12,Uncommon,Izzy,,35,249,1W,"Enchant creature
+Enchanted creature gets +1/+1 and has protection from creatures. (It can't be blocked, targeted, or dealt damage by creatures.)",The shield of unimpeachable purity is as strong as any wrought on the anvil.,,,,2
+2158,Alluring Siren,,,Creature,Siren,,,M12,Uncommon,Chippy,,42,249,1U,T: Target creature an opponent controls attacks you this turn if able.,"She lures victims with promises of flesh, captures them in a net of deceit, and destroys them in the embrace of the sea.",1,1,,5
+2159,Azure Mage,,,Creature,Human,Wizard,,M12,Uncommon,Izzy,,45,249,1U,3U: Draw a card.,"""We draw our power from the infinite ocean of the mind, where all manner of things can be conceived.""
+—Azure creed
+",2,1,,5
+2160,Belltower Sphinx,,,Creature,Sphinx,,,M12,Uncommon,Jim Nelson,,46,249,4U,"Flying
+Whenever a source deals damage to Belltower Sphinx, that source's controller puts that many cards from the top of his or her library into his or her graveyard.",,3,5,,5
+2161,Flashfreeze,,,Instant,,,,M12,Uncommon,Brian Despain,,52,249,1U,Counter target red or green spell.,"""Is cold merely the absence of heat, or a force unto itself? Would a display of its power help you decide?""
+—Zubarek, Icewinder Magus",,,,4
+2162,Levitation,,,Enchantment,,,,M12,Uncommon,Jim Murray,,61,249,2UU,Creatures you control have flying.,"""Why fight over scraps of land when there's so much sky waiting to be claimed?""",,,,2
+2163,Master Thief,,,Creature,Human,Rogue,,M12,Uncommon,Christopher Moeller,,64,249,2UU,"When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief.",Possession is ten-tenths of the law.,2,2,,8
+2164,Mind Control,,,Enchantment,Aura,,,M12,Uncommon,Ryan Pancoast,,67,249,3UU,"Enchant creature
+You control enchanted creature.","""Every primitive mind has a motive.
+Easy to find, and eminently exploitable.""
+—Noyan Dar, Tazeem lullmage",,,,9
+2165,Phantasmal Dragon,,,Creature,Dragon ,Illusion,,M12,Uncommon,Wayne Reynolds,,71,249,2UU,"Flying
+When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.",Its hunger and ire are no less for being wrought of lies and mist.,5,5,,5
+2166,Turn to Frog,,,Instant,,,,M12,Uncommon,Warren Mahy,,78,249,1U,Target creature loses all abilities and becomes a 1/1 blue Frog until end of turn.,"""Ribbit.""",,,,5
+2167,Consume Spirit,,,Sorcery,,,,M12,Uncommon,Justin Sweet,,88,249,X1B,"Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.","""You clerics brag about your strength of spirit, yet I take away the tiniest fragment, and you crumple like a rag doll.""
+—Sorin Markov",,,,6
+2168,Deathmark,,,Sorcery,,,,M12,Uncommon,Steven Belledin,,90,249,B,Destroy target green or white creature.,"""Let the final vision of doom be etched upon their unblinking eyes.""
+—Zul Ashur, lich lord",,,,2
+2169,Onyx Mage,,,Creature,Human,Wizard,,M12,Uncommon,Izzy,,103,249,1B,1B: Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),"""We wield death and darkness, powers that make lesser mages tremble in fear.""
+—Onyx creed",2,1,,1
+2170,Reassembling Skeleton,,,Creature,Skeleton,Warrior,,M12,Uncommon,Austin Hsu,,104,249,1B,1B: Return Reassembling Skeleton from your graveyard to the battlefield tapped.,"""They may show up with the wrong thigh bone or mandible, but they always show up.""
+—Zul Ashur, lich lord",1,1,,2
+2171,Sengir Vampire,,,Creature,Vampire,,,M12,Uncommon,Kev Walker,,107,249,3BB,"Flying
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +11/+1 counter on Sengir Vampire.","Empires rise and fall, but evil is eternal.",4,4,,5
+2172,Smallpox,,,Sorcery,,,,M12,Uncommon,Ryan Pancoast,,108,249,BB,"Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.","Take away a few things, and a rebellion may ensue. Take away everything, and te oppression will be accepted as fate.",,,,7
+2173,Vampire Outcasts,,,Creature,Vampire,,,M12,Uncommon,Clint Cearley,,115,249,2BB,"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",,2,2,,4
+2174,Zombie Infestation,,,Enchantment,,,,M12,Uncommon,Thomas M. Baxa,,120,249,1B,Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.,The nomad's funeral pyres are mroe practical than ceremonial.,,,,5
+2175,Circle of Flame,,,Enchantment,,,,M12,Uncommon,Jaime Jones,,127,249,1R,"Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature.","""Which do you think is a better deterrent: a moat of water or one of fire?""
+—Chandra Nalaar",,,,6
+2176,Combust,,,Instant,,,,M12,Uncommon,Jaime Jones,,128,249,1R,"Combust can't be countered by spells or abilities.
+Combust deals 5 damage to target white or blue creature. The damage can't be prevented.",,,,,3
+2177,Crimson Mage,,,Creature,Human,Shaman,,M12,Uncommon,Izzy,,129,249,1R,R: Target creature you control gains haste until end of turn. (It can attack and T this turn.),"""We wield the fires of rage. War is our blood and destruction our birthright.""
+—Crimson creed",2,1,,6
+2178,Fireball,,,Sorcery,,,,M12,Uncommon,Dave Dorman,,131,249,XR,"Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.
+Fireball costs 1 more to cast for each target beyond the first.
+",,,,,2
+2179,Goblin Bangchuckers,,,Creature,Goblin,Warrior,,M12,Uncommon,Wayne Reynolds,,137,249,2RR,"T: Flip a coin. If you win the flip, Goblin Bangchuckers deals 2 damage to target creature or player. If you lose the flip, Goblin Bangchuckers deals 2 damage to itself.",,2,2,,7
+2180,Goblin Grenade,,,Sorcery,,,,M12,Uncommon,Kev Walker,,140,249,R,"As an addiitonal cost to cast Goblin Grenade, sacrifice a Goblin.
+Goblin Grenade deals 5 damage to target creature or player.",Don't underestimate the aerodynamic qualities of the common goblin.,,,,2
+2181,Tectonic Rift,,,Sorcery,,,,M12,Uncommon,John Avon,,157,249,3R,Destroy target land. Creatures without flying can't block this turn.,"""You will kneel before me, even if I have to split the earth under your feet!""
+—Ash Kronor, Keldon warlord",,,,4
+2182,Volcanic Dragon,,,Creature,Dragon,,,M12,Uncommon,Chris Rahn,,158,249,4RR,"Flying
+Haste (This creature can attack and T as soon as it comes under your control.)
+
+",Sometimes an eruption in Shiv produces something more dangerous than a mere river of molten rock.,4,4,,5
+2183,Acidic Slime,,,Creature,Ooze,,,M12,Uncommon,Karl Kopinski,,161,249,3GG,"Deathtouch (Any amount of damage that this deals to a creature is enough to destroy it.)
+When Acidic Slime enters the battlefield, destroy target artifact, enchantment or land.",,2,2,,3
+2184,Autumn's Veil,,,Instant,,,,M12,Uncommon,Kekai Kotaki,,164,249,G,"Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.",The rustling of leaves and a passing shadow are a dryad's only trace.,,,,3
+2185,Carnage Wurm,,,Creature,Wurm,,,M12,Uncommon,Dave Kendall,,168,249,6G,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)",,6,6,,5
+2186,Cudgel Troll,,,Creature,Troll,,,M12,Uncommon,Jesper Ejsing,,169,249,2GG,"G: Regenerate Cudgel Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",,4,3,,2
+2187,Hunter's Insight,,,Instant,,,,M12,Uncommon,Terese Nielsen,,180,249,2G,"Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards.","""The predator knows the true way of the world. Life is conflict. Only the strong survive.""
+—Garruk Wildspeaker",,,,9
+2188,Jade Mage,,,Creature,Human,Shaman,,M12,Uncommon,Izzy,,184,249,1G,2G: Put a 1/1 green Saproling creature token onto the battlefield.,"""We are one with the wild things. Life blooms from our fingertips and nature responds to our summons.""
+—Jade creed",2,1,,6
+2189,Stingerfling Spider,,,Creature,Spider,,,M12,Uncommon,Dave Allsop,,197,249,4G,"Reach (This creature can block creatures with flying.)
+When Stingerfling Spider enters the battlefield, you may destroy target creature with flying.","The juciest prey is that which grows lazy, thinking itself beyond the reach of danger.",2,5,,7
+2190,Lure,,,Enchantment,Aura,,,M12,Uncommon,D. Alexander Gregory,,183,249,1GG,"Enchant creature
+All creatures able to block enchanted creature do so.","It makes the insignificant conspicuous, the repulsive alluring, and the deadly irresistible.",,,,7
+2191,Overrun,,,Sorcery,,,,M12,Uncommon,Carl Critchlow,,186,249,2GGG,"Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)",,,,,5
+2192,Crumbling Colossus,,Artifact,Creature,Golem,,,M12,Uncommon,Michael C. Hayes,,204,249,5,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+When Crumbling Colossus attacks, sacrifice it at end of combat.",,7,4,,1
+2193,Timely Reinforcements,,,Sorcery,,,,M12,Uncommon,Tomasz Jedruszek,,40,249,2W,"If you have less life than an opponent, you gain 6 life. If you control fewer creatures than an opponent, put three 1/1 white Soldier creature token onto the battlefield.","The gods are not always kind, but they do have a soft spot for plucky underdogs.",,,,1
+2194,Manalith,,Artifact,,,,,M12,Common,Charles Urbach,,212,249,3,T: Add one mana of any color to your mana pool.,"Planeswalkers seek out great monuments throughout the Multiverse, knowing that their builders were unknowingly drawn by the convergence of mana in the area.",,,,8
+2195,Armored Warhorse,,,Creature,Horse,,,M12,Common,rk post,,7,249,WW,,"""When we of the Northern Verge claim a mount, no peasant's nag will do. It must be as strong as our virtue, and must join us of its own will.""
+—Sarlena, paladin of the Northern Verge",2,3,,10
+2196,Assault Griffin,,,Creature,Griffin,,,M12,Common,Jesper Ejsing,,8,249,3W,Flying,"""Griffins do not serve. They give freely to those they trust.""
+—Amira, skycaptain of Thune",3,2,,9
+2197,Benalish Veteran,,,Creature,Human,Soldier,,M12,Common,Steven Belledin,,10,249,2W,"Whenever Benalish Veteran attacks, it gets +1/+1 until end of turn.","""One day I will rest and join my comrades in the afterlife, but not while scum like you still sully this world.""",2,2,,9
+2198,Demystify,,,Instant,,,,M12,Common,Veronique Meignaud,,13,249,WW,Destroy target enchantment.,Behind every mage is a trail of shattered lies.,,,,9
+2199,Gideon's Lawkeeper,,,Creature,Human,Soldier,,M12,Common,Steve Prescott,,18,249,WW,"W, T: Tap target creature.","""The essence of a lawful society is swift deterrence.""",1,1,,11
+2200,Griffin Rider,,,Creature,Human,Knight,,M12,Common,Steve Prescott,,20,249,1W,"As long as you control a Griffin creature, Griffin Rider gets +3/+3 and has flying.","After fighting alongside the griffin riders, older knights of Thune learned to admire a mount that could rip an enemy to shreds in seconds.",1,1,,11
+2201,Griffin Sentinel,,,Creature,Griffin,,,M12,Common,Warren Mahy,,21,249,2W,"Flying
+Vigilance (Attacking doesn't cause this creature to tap.)","Once a griffin sentinel adopts a territory as its own, only death can force it to betray its post.",1,3,,9
+2202,Guardians' Pledge,,,Instant,,,,M12,Common,Christopher Moeller,,22,249,1WW,White creatures you control get +2/+2 until end of turn.,A dozen fighting for each other are worth a thousand fighting for themselves.,,,,10
+2203,Lifelink,,,Enchantment,Aura,,,M12,Common,Terese Nielsen,,24,249,W,"Enchant creature
+Enchanted creature has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)",The spoils of war are not measured only in gold and silver.,,,,12
+2204,Mighty Leap,,,Instant,,,,M12,Common,rk post,,26,249,1W,Target creature gets +2/+2 and gains flying until end of turn.,"""The southern fortress taken by invaders? Heh, sure...when elephants fly.""
+—Brezard Skeinbow, captain of the guard",,,,9
+2205,Peregrine Griffin,,,Creature,Griffin,,,M12,Common,Steve Prescott,,29,249,4W,"Flying
+First strike (This creature deals combat damage before creatures without first strike.)
+",A griffin is not just an eagle's wings and a lion's claws. It is also the fiercest of hearts.,2,4,,8
+2206,Pride Guardian,,,Creature,Cat,Monk,,M12,Common,Chris Rahn,,31,249,W,"Defender (This creature can't attack.)
+Whenever Pride Guardian blocks, you gain 3 life.","""Any hotheaded cub can raise a sword in anger.""",0,3,,7
+2207,Stave Off,,,Instant,,,,M12,Common,Mark Zug,,36,249,W,"Target creature gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)",,,,,10
+2208,Stormfront Pegasus,,,Creature,Pegasus,,,M12,Common,rk post,,38,249,1W,Flying,Its hooves touch the earth only when a hero must rise.,2,1,,7
+2209,Stonehorn Dignitary,,,Creature,Rhino,Soldier,,M12,Common,Dave Kendall,,37,249,3W,"When Stonehorn Dignitary enters the battlefield, target opponent skips his or her next combat phase.",It did not escape the ambassador's notice that the sound of war drums could also marshal the city to attention.,1,4,,3
+2210,Amphin Cutthroat,,,Creature,Salamander,Rogue,,M12,Common,Howard Lyon,,43,249,3U,,"""The amphin have long built their society in secret. While surface dwellers squabbled over trivial borders, they patiently expanded, building their ammonite temple-caves. Now amphin priests eye the shore, and amphin hunters gird for war.""
+—Gor Muldrak, Cryptohistories",2,4,,12
+2211,Cancel,,,Instant,,,,M12,Common,David Palumbo,,47,249,1UU,Counter target spell.,,,,,9
+2212,Coral Merfolk,,,Creature,Merfolk,,,M12,Common,rk post,,49,249,1U,,Merfolk are best known for their subtle magic. But those who try to fight them in their own territory quickly realize that merfolk are hardly defenseless on the field of battle.,2,1,,10
+2213,Divination,,,Sorcery,,,,M12,Common,Howard Lyon,,50,249,2U,Draw two cards.,"""The key to unlocking this puzzle is within you.""
+—Doriel, mentor of Mistral Isle",,,,8
+2214,Flight,,,Enchantment,Aura,,,M12,Common,Mark Zug,,53,249,U,"Enchant creature
+Enchanted creature has flying.","""Those who claim to know the world in its entirety rarely have the requisite perspective.""
+—Ulmarus the Wise",,,,8
+2215,Frost Breath,,,Instant,,,,M12,Common,Mile Bierek,,54,249,2U,Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.,"If you have to be stuck somewhere for a while, it's better to be stuck there with a friend.",,,,11
+2216,Harbor Serpent,,,Creature,Serpent,,,M12,Common,Daarken,,56,249,4UU,"Islandwalk (This creature is unblockable as long as defending player controls an Island.)
+Harbor Serpent can't attack unless tthere are five or more Islands on the battlefield.","Like most giant monsters villagers worship as gods, it proves a fickle master.",5,5,,11
+2217,Ice Cage,,,Enchantment,Aura,,,M12,Common,Mike Bierek,,57,249,1U,"Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+When enchanted creature becomes the target of a spell or ability, destroy Ice Cage.",,,,,10
+2218,Jace's Erasure,,,Enchantment,,,,M12,Common,Jason Chan,,60,249,1U,"Whenever you draw a card, you may have target player put the top card of his or her library into his or her graveyard.","""You should try to clear your mind of idle thoughts. And if you can't, I will.""",,,,10
+2219,Mana Leak,,,Instant,,,,M12,Common,Howard Lyon,,63,249,1U,Counter target spell unless its controller pays 3.,The fatal flaw in every plan is the assumption that you know more than your enemy.,,,,4
+2220,Merfolk Mesmerist,,,Creature,Merfolk,Wizard,,M12,Common,Jana Schirmer,Johannes Voss,66,249,1U,"U, T: Target player puts the top two cards of his or her library into his or her graveyard.","""Don't you think if I saw a half-woman, half-fish with three glowing eyes, I'd have remembered?""
+—Drugo, town guard",1,2,,11
+2221,Negate,,,Instant,,,,M12,Common,Jeremy Jarvis,,69,249,1U,Counter target noncreature spell.,Masters of the arcane savor a delicious irony. Their study of deep and complex arcana leads to such a simple end: the ability to say merely yes or no.,,,,7
+2222,Unsummon,,,Instant,,,,M12,Common,Izzy,,79,249,U,Return target creature to its owner's hand.,"""It's nothing personal. I'd just prefer if you weren't.""
+—Ashurel, voidmage",,,,9
+2223,Blood Seeker,,,Creature,Vampire,Shaman,,M12,Common,Greg Staples,,81,249,1B,"Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.",A drop now is all he needs to find you later.,1,1,,14
+2224,Child of Night,,,Creature,Vampire,,,M12,Common,Ash Wood,,87,249,1B,Lifelink (Damage dealt by this creature also causes you to gain that much life.),Sins that would be too gruesome in the light of day are made more pleasing in the dark of night.,2,1,,9
+2225,Drifting Shade,,,Creature,Shade,,,M12,Common,Tomasz Jedruszek,,96,249,3B,"Flying
+B: Drifting Shade gets +1/+1 until end of turn.","It stalks the fens by the light of the full moon, gathering shadows as it floats among them.",1,1,,12
+2226,Duskhunter Bat,,,Creature,Bat,,,M12,Common,Jesper Ejsing,,97,249,1B,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Flying","The swamps go silent at its approach, but it still hears the heartbeat of the prey within.",1,1,,9
+2227,Gravedigger,,,Creature,Zombie,,,M12,Common,Dermot Power,,99,249,3B,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand",His grim ritual ushers the dead to their new life.,2,2,,7
+2228,Hideous Visage,,,Sorcery,,,,M12,Common,Nils Hamm,,100,249,2B,Creatures you control gain intimidate until end of turn. (Each of those creatures can't be blocked except by artifact creatures and/or creatures that share a color with it.),"""Seeing you cower before me is its own reward.""",,,,11
+2229,Mind Rot,,,Sorcery,,,,M12,Common,Steve Luke,,101,249,2B,Target player discards two cards.,Not every thought is a good one.,,,,8
+2230,Taste of Blood,,,Sorcery,,,,M12,Common,Howard Lyon,,113,249,B,Taste of Blood deals 1 damage to target player and you gain 1 life.,"""How blessed are some people, whose lives have no fears, no dreads, to whom sleep is a blessing that comes nightly, and brings nothing but sweet dreams.""
+—Bram Stoker, Dracula",,,,10
+2231,Tormented Soul,,,Creatue,Spirit,,,M12,Common,Karl Kopinski,,114,249,B,Tormented Soul can't block and is unblockable.,Those who raged most bitterly at the world in life are cursed to roam the nether realms in death.,1,1,,9
+2232,Warpath Ghoul,,,Creature,Zombie,,,M12,Common,rk post,,117,249,2B,,"Ghouls are often found skulking on the fringes of great battles, showing themselves only to snatch the wounded and weak, dragging their victims screaming into the shadows.",3,2,,10
+2233,Wring Flesh,,,Instant,,,,M12,Common,Izzy,,118,249,B,Target creature gets -3/-1 until end of turn.,"""Don't blame me. You're the one walking around with skin.""
+—Zul Ashur, lich lord",,,,10
+2234,Diabolic Tutor,,,Sorcery,,,,M12,Uncommon,Greg Staples,,92,249,2BB,Search your library for a card and put that card into your hand. Then shuffle your library.,The wise always keep an ear open to the whispers of power.,,,,2
+2235,Onyx Mage,,,Creature,Human,Wizard,,M12,Uncommon,Izzy,,103,249,1B,1B: Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),"""We wield death and darkness, powers that make lesser mages tremble in fear.""
+—Onyx creed",2,1,,1
+2236,Auramancer,,,Creature,Human,Wizard,,M12,Common,Rebecca Guay,,9,249,2W,"When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.","""In memories, we can find our deepest reserves of strength.""",2,2,,7
+2237,Divine Favor,,,Enchantment,Aura,,,M12,Common,Allen Williams,,14,249,1W,"Enchant creature
+When Divine Favor enters the battlefield, you gain 3 life.
+Enchanted creature gets +1/+3.
+","With an armory of light, even the squire may champion her people.",,,,7
+2238,Pacifism,,,Enchantment,Aura,,,M12,Common,Robert Bliss,,28,249,1W,"Enchant creature
+Enchanted creature can't attack or block.","For the first time in his life, Grakk felt a little warm and fuzzy inside.",,,,8
+2239,Siege Mastodon,,,Creature,Elephant,,,M12,Common,Matt Cavotta,,34,249,4W,,"""The walls of the wicked will fall before us. Ready the siege engines. We proceed to war!""
+—General Avitora",3,5,,6
+2240,Stonehorn Dignitary,,,Creature,Rhino,Soldier,,M12,Common,Dave Kendall,,37,249,3W,"When Stonehorn Dignitary enters the battlefield, target opponent skips his or her next combat phase.",It did not escape the ambassador's notice that the sound of war drums could also marshal the city to attention.,1,4,,6
+2241,Aether Adept,,,Creature,Human,Wizard,,M12,Common,Eric Deschamps,,41,249,1UU,"When Aether Adept enters the battlefield, return target creature to its owner's hand.","""The universe is my instrument, ad the song I play upon it is one you are forbidden to hear.""",2,2,,8
+2242,Aven Fleetwing,,,Creature,Bird,Soldier,,M12,Common,Wayne Reynolds,,44,249,3U,"Flying
+Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+","""It was too fast, even for our veteran archers. They might as well have been blowing it kisses.""
+—Vulok, elvish archer
+",2,2,,7
+2243,Chasm Drake,,,Creature,Drake,,,M12,Common,Anthony Francisco,,48,249,4U,"Flying
+Whenever Chasm Drake attacks, target creature you control gains flying until end of turn","""Once he's got you, hold on. Fall from a drake and you'll suffer much worse than a bruise.""
+—Garl, drake trainer",3,3,,8
+2244,Merfolk Looter,,,Creature,Merfolk,Rogue,,M12,Common,Austin Hsu,,65,249,1U,"T: Draw a card, then discard a card.","Merfolk don't always know what they're looking for, bu tthey're certain once they find it.",1,1,,5
+2245,Phantasmal Bear,,,Creature,Bear,Illusion,,M12,Common,Ryan Yee,,70,249,U,"When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.","""You know it to be false, but when ts claws find you, what you know won't matter much at all.""
+—Pol Jamaar, illusionist",2,2,,5
+2246,Ponder,,,Sorcery,,,,M12,Common,Dan Scott,,73,249,U,"Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+Draw a card.",Tomorrow belongs to those who prepare for it today.,,,,2
+2247,Skywinder Drake,,,Creature,Drake,,,M12,Common,Dan Scott,,75,249,2U,"Flying
+Skywinder Drake can block ony creatures with flying.",It's so light and fragile that it can glide where the air is thinnest.,3,1,,7
+2248,Bloodrage Vampire,,,Creature,Vampire,,,M12,Common,Steve Prescott,,83,249,2B,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)",The most genteel facades hide the most abominable desires.,3,1,,8
+2249,Brink of Disaster,,,Enchantment,Aura,,,M12,Common,Alex Horley-Orlandelli,,84,249,2BB,"Enchant creature or land
+When enchanted permanent becomes tapped, destroy it.","""When you find yourself teetering on the edge of oblivion, mine will be the hands taking pleasure in giving you the final push.""
+—Liliana Vess",,,,7
+2250,Dark Favor,,,Enchantment,Aura,,,M12,Common,Allen Williams,,89,249,1B,"Enchant creature
+When Dark Favor enters the battlefield, you lose 1 life.
+Enchanted creature gets +3/+1.","When he began to curse what he held holy, his strength grew unrivaled.",,,,8
+2251,Devouring Swarm,,,Creature,Insect,,,M12,Common,Wayne England,,91,249,1BB,"Flying
+Sarifice a creature: Devouring Swarm gets +1/+1 until end of turn.",Their arrival is heralded by the deafening horn of ten thousand wings. Their departure is marked by the silence of the dead.,2,1,,8
+2252,Doom Blade,,,Instant,,,,M12,Common,Chippy,,95,249,1B,Destroy target nonblack creature.,,,,,4
+2253,Disentomb,,,Sorcery,,,,M12,Common,Alex Horley-Orlandelli,,93,249,B,Return target creature card from your graveyard to your hand.,"""Stop complaining. You can rest when you're dead. Oh—sorry.""
+—Liliana Vess",,,,5
+2254,Distress,,,Sorcery,,,,M12,Common,Michael C. Hayes,,94,249,BB,Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.,"""Of course I'm sure I've gone mad. The little man who crawled out of my eye was quite clear on this.""",,,,7
+2255,Sorin's Thirst,,,Instant,,,,M12,Common,Karl Kopinski,,110,249,BB,Sorin's Thirst deals 2 damage to target creature and you gain 2 life.,"""All your steel won't protect you if your will is weak.""",,,,7
+2256,Zombie Goliath,,,Creature,Zombie,Giant,,M12,Common,E. M. Gist,,119,249,4B,,"""Removing the encumbrance of useless brain tissue grants several advantages: a slight increase in mobility, a response of revulsion and horror from the enemy, an, in the case of large specimens, room for passengers.""
+—Zul Ashur, lich lord",4,3,,8
+2257,Act of Treason,,,Sorcery,,,,M12,Common,Eric Deschamps,,121,249,2R,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and T this turn.),"""Rage courses in every heart, yearning to betray its rational prison.""
+—Sarkhan Vol",,,,11
+2258,Blood Ogre,,,Creature,Ogre,Warrior,,M12,Common,Christopher Moeller,,122,249,2R,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+First strike (This creature deals combat damage before creatures without first strike.)",,2,2,,5
+2259,Bonebreaker Giant,,,Creature,Giant,,,M12,Common,Kev Walker,,123,249,4R,,One thing's for sure—his fists are harder than your skull.,4,4,,10
+2260,Chandra's Outrage,,,Instant,,,,M12,Common,Christopher Moeller,,125,249,2RR,Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.,"Chandra ever believed in using her ""inside voice.""",,,,9
+2261,Firebreathing,,,Enchantment,Aura,,,M12,Common,Aleksi Briclot,,132,249,R,"Enchant creature
+R: Enchanted creature gets +1+0 until end of turn.",The mage breathed in life-giving air and breathed out death-bringing fire.,,,,8
+2262,Fiery Hellhound,,,Creature,Elemental,Hound,,M12,Common,Ted Galaday,,130,249,1RR,R: Fiery Hellhound gets +1/+0 until end of turn.,There's nothing more exciting than a game of fetch the still-beating heart.,2,2,,7
+2263,Fling,,,Instant,,,,M12,Common,Parente,,134,249,1R,"As an additional cost to cast Fling, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to target creature or player.","About halfway to the target, Snukk vowed that he had been tricked for the last time.",,,,9
+2264,Goblin Arsonist,,,Creature,Goblin,Shaman,,M12,Common,Wayne Reynolds,,136,249,R,"When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.",With great power comes great risk of getting yourself killed.,1,1,,10
+2265,Goblin Fireslinger,,,Creature,Goblin,Warrior,,M12,Common,Pete Venters,,139,249,R,T: Goblin Fireslinger deals 1 damage to target player.,A rock between your eyes hurts. A burning rock between your eyes ruins your whole day.,1,1,,6
+2266,Goblin Piker,,,Creature,Goblin,Warrior,,M12,Common,DiTerlizzi,,141,249,1R,,"Once he'd worked out which end of the thing was sharp, he was promoted to guard duty.",2,1,,8
+2267,Goblin Tunneler,,,Creature,Goblin,Rogue,,M12,Common,Jesper Ejsing,,142,249,1R,T: Target creature with power 2 or less is unblockable this turn.,"""The best way over the mountain is through.""",1,1,,7
+2268,Goblin War Paint,,,Enchantment,Aura,,,M12,Common,Austin Hsu,,143,249,1R,"Enchant creature
+Enchanted creature gets +2/+2 and has haste. (It can attack and T no matter when it came under its controller's control.)","""The secret to our war paint is hot peppers and stinkbugs. Lots of stinkbugs.""
+—Skab, goblin secretkeeper",,,,8
+2269,Gorehorn Minotaurs,,,Creature,Minotaur,Warrior,,M12,Common,Wayne Reynolds,,144,249,2RR,"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)",Some of the eleven minotaur clans of Mirtiin are expert crafters and learned philosophers. Others just like to hit stuff.,3,3,,10
+2270,Incinerate,,,Instant,,,,M12,Common,Zoltan Boros,Gabor Szikszai,146,249,1R,Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.,"""Spontaneous combustion is a myth. If you burst into flame, someone wanted you to.""
+—Chandra Nalaar",,,,11
+2271,Lava Axe,,,Sorcery,,,,M12,Common,Brian Snoddy,,148,249,4R,Lava Axe deals 5 damage to target player.,It can chop down a redwood in a single stroke. Your sternum isn't going to fare any better.,,,,8
+2272,Lightning Elemental,,,Creature,Elemental,,,M12,Common,Kev Walker,,149,249,3R,Haste (This creature can attack and T as soon as it comes under your control.),"""Oh, it's easy enough to kill, but I'm not going anywhere near it.""
+—Norin the Wary",4,1,,3
+2273,Manic Vandal,,,Creature,Human,Warrior,,M12,Common,Christopher Moeller,,151,249,2R,"When Manic Vandal enters the battlefield, destroy target artifact.",It's fun. He doesn't need another reason.,2,2,,6
+2274,Shock,,,Instant,,,,M12,Common,Jon Foster,,154,249,R,Shock deals 2 damage to target creature or player.,"""The beauty of it is they never see it coming. Ever.""
+—Razzix, sparkmage",,,,9
+2275,Slaughter Cry,,,Instant,,,,M12,Common,Matt Cavotta,,155,249,2R,Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),,,,,10
+2276,Wall of Torches,,,Creature,Wall,,,M12,Common,Mike Bierek,,159,249,1R,Defender (This creature can't attack.),The foolish try to leap through the unlit spaces. The arrogant believe the fires harmless. The wise find a different door.,4,1,,9
+2277,Arachnus Web,,,Enchantment,Aura,,,M12,Common,Karl Kopinski,,163,249,2G,"Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+At the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.",,,,,6
+2278,Bountiful Harvest,,,Sorcery,,,,M12,Common,Jason Chan,,166,249,4G,You gain 1 life for each land you control.,"""When we fail to see the beauty in every tree, we are no better than humans.""
+—Saelia, elvish scout",,,,8
+2279,Brindle Boar,,,Creature,Boar,,,M12,Common,Dave Allsop,,167,249,2G,Sacrifice Brindle Boar: You gain 4 life.,"""Tell the cooks to prepare the fires. Tonight we feast!""
+—Tolar Wolfbrother, Krosan Tracker",2,2,,10
+2280,Fog,,,Instant,,,,M12,Common,Jaime Jones,,173,249,G,Prevent all combat damage that would be dealt this turn.,It's hard enough to find your way through uncharted wilderness when you can see the tip of your nose.,,,,12
+2281,Garruk's Companion,,,Creature,Beast,,,M12,Common,Efrem Palacios,,175,249,GG,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)",,3,2,,8
+2282,Giant Spider,,,Creature,Spider,,,M12,Common,Randy Gallegos,,177,249,3G,Reach (This creature can block creatures with flying.),"""The wild is always changing, but it does have a few constants.""
+—Garruk Wildspeaker",2,4,,9
+2283,Gladecover Scout,,,Creature,Elf,Scout,,M12,Common,Allen Williams,,178,249,G,Hexproof (This creature can't be the target of spells or abilities your components control.),"""The forest is my cover and I hold it close. In such a tight embrace there is no room for wickedness.""",1,1,,8
+2284,Greater Basilisk,,,Creature,Basilisk,,,M12,Common,James Ryman,,179,249,3GG,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),"Bone, stone...both taste the same to a hungry basilisk.",3,5,,6
+2285,Llanowar Elves,,,Creature,Elf,Druid,,M12,Common,Kev Walker,,182,249,G,T: Add G to your mana pool.,"One bone broken for every twig snapped underfoot.
+—Llanowar penalty for trespassing",1,1,,8
+2286,Stampeding Rhino,,,Creature,Rhino,,,M12,Common,Steven Belledin,,196,249,4G,"Trample (If this creature would assign enough damage to its blockers to desetroy them, you may have it assign the rest of its damage to defending player or planeswalker.)",The quickest way to get through the jungle is to agitate a rhino and run in its wake.,4,4,,7
+2287,Lurking Crocodile,,,Creature,Crocodile,,,M12,Common,Donato Giancola,,184,249,2G,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Islandwalk (This creature is unblockable as long as defending player controls an Island.)",,2,2,,15
+2288,Naturalize,,,Instant,,,,M12,Common,Tim Hildebrandt,,185,249,1G,Destroy target artifact or enchantment.,"""When your cities and trinkets crumble, only nature will remain.""
+—Garruk Wildspeaker",,,,8
+2289,Plummet,,,Instant,,,,M12,Common,Pete Venters,,187,249,1G,Destroy target creature with flying.,"""Let nothing own the skies but the wind.""
+—Dejara, Giltwood druid",,,,8
+2290,Rampant Growth,,,Sorcery,,,,M12,Common,Steven Belledin,,190,249,1G,Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.,Nature grows solutions to its problems.,,,,10
+2291,Reclaim,,,Instant,,,,M12,Common,Andrew Robinson,,191,249,G,Put target card from your graveyard on top of your library.,The wise pay as much attention to what they throw away as to what they keep.,,,,10
+2292,Runeclaw Bear,,,Creature,Bear,,,M12,Common,Jesper Ejsing,,193,249,1G,,The only honey it wants is the sweet nectar flowing through your veins.,2,2,,7
+2293,Sacred Wolf,,,Creature,Wolf,,,M12,Common,Matt Stewart,,194,249,2G,Hexproof (This creature can't be the target of splls or abilities your opponents control.),"""I raised my bow, and the wolf stared at me. Under its gaze, my finger would not release the string.""
+—Aref the Hunter",3,1,,9
+2294,Stampeding Rhino,,,Creature,Rhino,,,M12,Common,Steven Belledin,,196,249,4G,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)",The quickest way to get through the jungle is to agitate a rhino and run in its wake.,4,4,,3
+2295,Titanic Growth,,,Instant,,,,M12,Common,Ryan Pancoast,,198,249,1G,Target creature gets +4/+4 until end of turn.,"The pup looked over the treetops, eyeing the man who just yesterday had kicked her. Suddenly, her hunger was infused with pure delight.",,,,11
+2296,Trollhide,,,Enchantment,Aura,,,M12,Common,Steven Belledin,,199,249,2G,"Enchant creature
+Enchanted creature gets +2/+2 and has ""1G: Regenerate this creature."" (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+",,,,,9
+2297,Vastwood Gorger,,,Creature,Wurm,,,M12,Common,Kieran Yanner,,200,249,5G,,"The gorger's insect-like eyes pick up the slightest movement in any direction. Its body then whips toward its prey with startling speed, swallowing it in one engulfing gulp.",5,6,,6
+2298,Angel's Mercy,,,Instant,,,,M12,Common,Andrew Robinson,,4,249,2WW,You gain 7 life.,"Angels appear before both the blessed and the cursed, though most don't know which they are until they feel either the angel's kiss or her sword.",,,,3

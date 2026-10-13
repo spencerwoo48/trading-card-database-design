@@ -1,0 +1,290 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+1270,Angel's Herald,,,Creature,Human,Cleric,,Shards of Alara,Uncommon,Greg Staples,2,249,W,"2W, T, Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel and put it into play. Then shuffle your library.","Rigorous faith an dbelief are rewarded on occasion, and richly so.",1,1,,2
+1271,Rockcaster Platoon,,,Creature,Rhino,Soldier,,Shards of Alara,Uncommon,David Palumbo,23,249,5WW,4G: Rockcaster platoon deals 2 damage to each creature with flying and each player.,"""Aven bandits can be sly. You've got to fill the sky with boulders—and then seek cover immediately.""—Knight-Captain Wyhorn",5,7,,1
+1272,Fatestitcher,,,Creature,Zombie,Wizard,,Shards of Alara,Uncommon,E. M. Gist,43,249,3U,"T: You may tap or untap another target permanent.
+Unearth U (U: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)",,1,2,,1
+1273,Swerve,,,Instant,,,,Shards of Alara,Uncommon,Karl Kopinski,200,249,UR,Change the target of target spell with a single target.,"""We can't beat the necromancers in numbers or raw power. We must beat them with ingenuity and timing.""
+—Rannon, Vithian holdout",,,,3
+1274,Corpse Connoisseur,,,Creature,Zombie,Wizard,,Shards of Alara,Uncommon,Mark Hyzer,68,249,4B,"When Corpse Connoisseur comes into play, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.
+Unearth 3B (3B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)",,3,3,,1
+1275,Demon's Herald,,,Creature,Human,Wizard,,Shards of Alara,Uncommon,Karl Kopinski,72,249,B,"2B, T, Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls and put it into play. Then shuffle your library.","""May these deaths be the first of many.""",1,1,,2
+1276,Jund Charm,,,Instant,,,,Shards of Alara,Uncommon,Brandon Kitkouski,175,249,BRG,Choose one — Remove target player's graveyard from the game; or Jund Charm deals 2 damage to each creature; or put two +1/+1 counters on target creature.,"Jund pulses with raw energy, waiting for shamans to shape it into useful form.",,,,1
+1277,Necrogenesis,,,Enchantment,,,,Shards of Alara,Uncommon,Trevor Claxton,181,249,BG,2: Remove target creature card in a graveyard from the game. Put a 1/1 green Saproling creature token into play.,"""Those may be the squirms of one life ending or of another beginning. Eitehr way, I'd leave it alone.""
+—Rakka Mar",,,,2
+1278,Sprouting Thrinax,,,Creature,Lizard,,,Shards of Alara,Uncommon,Jerrau Wimberly,197,249,BRG,"When Sprouting Thrinax is put into a graveyard from play, put three 1/1 green Saproling creature tokens into play.",The vast network of predation on Jund has actually caused some strange creatures to adapt to being eaten.,3,3,,5
+1279,Bull Cerodon,,,Creature,Beast,,,Shards of Alara,Uncommon,Jesper Ejsing,161,249,4RW,"Vigilance, haste","It holds motionless vigil, watchign Naya in silence through the screen of the whitecover. When it senses anything amiss, it launches forward with the uncannysound of torn fog.",5,5,,5
+1280,Dragon's Herald,,,Creature,Goblin,Shaman,,Shards of Alara,Uncommon,Daarken,98,249,R,"2R, T, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it into play. Then shuffle your library.",The penultimate step of the ritual involves bathing in a delicious glaze.,1,1,,1
+1281,Exuberant Firestoker,,,Creature,Human,Druid,Shaman,Shards of Alara,Uncommon,Zoltan Boros & Gabor Szikszai,99,249,2R,"At the end of your turn, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player.
+T: Add 1 to your mana pool.",The artistry of Etlan's firedancers is more spectacular when behemoths join in.,1,1,,1
+1282,Naya Charm,,,Instant,,,,Shards of Alara,Uncommon,Jesper Ejsing,180,249,RGW,Choose one — Naya Charm deals 3 damage to target creature; or return target card in a graveyard to its owner's hand; or tap all creatures target player controls.,Deep in nature's core lies a potential unsullied by greed or civilization,,,,3
+1283,Rockslide Elemental,,,Creature,Elemental,,,Shards of Alara,Uncommon,Joshua Hagler,112,249,2R,"First Strike
+Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Rockslide Elemental.","On Jund, even the landscape is a deadly hunter. Volcanoes, tar pits, and rock slides seem to prey upon the living.",1,1,,2
+1284,Thunder-Thrash Elder,,,Creature,Viashino,Warrior,,Shards of Alara,Uncommon,Brandon Kitkouski,117,249,2R,"Devour 3 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with three times that many +1/+1 counters on it.)",Viashino thrashes are led by elders who have survived countless challenges.,1,1,,1
+1285,Wooly Thoctar,,,Creature,Beast,,,Shards of Alara,Uncommon,Wayne Reynolds,209,249,RGW,,"One of the most ferocious and deadly gargantuans, but it often awakens surrounded by gifts and sacrifices.",5,4,,2
+1286,Bant Charm,,,Instant,,,,Shards of Alara,Uncommon,Randy Gallegos,155,249,GWU,Choose one — Destroy target artifact; or put target creature on the bottom of its owner's library; or counter target instant spell.,Bant is a world where death and chaos hold no sway.,,,,3
+1287,Behemoth's Herald,,,Creature,Elf,Shaman,,Shards of Alara,Uncommon,Parente,124,249,G,"2G, T, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it into play. Then shuffle your library.","""Mine is an insatiable god, with appetites as magnificent as the jungle itself.""",1,1,,4
+1288,Drumhunter,,,Creature,Human,Druid,Warrior,Shards of Alara,Uncommon,Jim Murray,129,249,3G,"At the end of your turn, if you control a creature with power 5 or greater, you may draw a card.
+T: Add 1 to your mana pool.","""I feel the vine-rhythm as my friends drive the beast to me. I will not miss my mark.""",2,2,,1
+1289,Jhessian Infiltrator,,,Creature,Human,Rogue,,Shards of Alara,Uncommon,Donato Giancola,174,249,GU,Jhessian Infiltrator is unblockable.,The Jhessian navy makes successful raids on Valeron's coastal towns thanks to their spies planted during peacetime.,2,2,,1
+1290,Qsali Ambusher,,,Creature,Cat,Warrior,,Shards of Alara,Uncommon,Kev Walker,184,249,1GU,"Reach
+If a creature is attacking you and you control a Forest and a Plains, you may play Qasali Ambusher without paying its mana cost and as though it had flash.",The surprise of a battle cry can be as deadly as a blade.,2,3,,4
+1291,Rhox Charger,,,Creature,Rhino,Soldier,,Shards of Alara,Uncommon,Chris Rahn,145,249,3G,"Trample
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)","""Momentum is a great ally.""",3,3,,5
+1292,Rhox War Monk,,,Creature,Rhino,Monk,,Shards of Alara,Uncommon,Dan Dos Santos,188,249,GWU,Lifelink,"Rhox monks are dedicated to spiritual growth and learning, and most bear the sigils o fmany students. However, they do not gladly suffer fools or those who disagree with their carefully wrought dogma.",3,4,,1
+1293,Topan Ascetic,,,Creature,Human,Monk,,Shards of Alara,Uncommon,Sal Villagran,151,249,2G,Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of turn.,"Monks from Topa wander all of Bant, encouraging the Unbeholden to find their place in society through honorable combat.",2,2,,1
+1294,Esper Battlemage,,Artifact,Creature,Human,Wizard,,Shards of Alara,Uncommon,Matt Cavotta,40,249,2U,"W, T: Prevent the next 2 damage that would be dealt to you this turn.
+B, T: Target creature gets -1/-1 until end of turn.","She can heal the flesh, or exploit its many weaknesses.",2,2,,2
+1295,Metallurgeon,,Artifact,Creature,Human,Artificer,,Shards of Alara,Uncommon,Warren Mahy,19,249,1W,"W, T: Regenerate target artifact.","""By the time I got there, the heart had stopped. Fortunately, I was able to replace it with something better.",1,2,,3
+1296,Protomatter Powder,,Artifact,,,,,Shards of Alara,Uncommon,Francis Tsai,53,249,2U,"4W, T, Sacrifice Protomatter Powder: Return target artifact card from your graveyard to play.","""There is no such thing as scrap metal. All such material can be repaired with the proper bonding agent.""—Quennus, metallurgeon",,,,1
+1297,Thoughtcutter Agent,,Artifact,Creature,Human,Rogue,,Shards of Alara,Uncommon,Cyril Van Der Haegen,201,249,UB,"UB, T: Target player loses 1 life and reveals his or her hand.",Agents of the Architects of Will mark their victims as the reminder that their secrets are secret no longer.,1,1,,1
+1298,Tidehollow Sculler,,Artifact,Creature,Zombie,,,Shards of Alara,Uncommon,rk post,202,249,WB,"When Tidehollow Sculler comes into play, target opponent reveals his or her hand and you choose a nonland card from it. Remove that card from the game.
+When Tidehollow Sculler leaves play, return the removed card to its owner's hand.",,2,2,,4
+1299,Crumbling Necropolis,,,Land,,,,Shards of Alara,Uncommon,Dave Kendall,222,249,,"Crumbling Necropolis comes into play tapped.
+T: Add U, B, or R to your mana pool.","""They say the ruins of Sedraxis were once a shining capital in Vithia. Now it is a blight, a place to be avoided by the living.""
+—Olcot, Rider of Joffik",,,,4
+1300,Jungle Shrine,,,Land,,,,Shards of Alara,Uncommon,Wayne Reynolds,226,249,,"Jungle Shrine comes into play tapped.
+T: Add R, G, or W to your mana pool.","On Naya, ambition and treachery are scarce, hunted nearly to extinction by the awe owed to terrestrial gods.",,,,3
+1301,Savage Lands,,,Land,,,,Shards of Alara,Uncommon,Vance Kovacs,228,249,,"Savage Lands comes into play tapped.
+T: Add B, R, or G to your mana pool.","Jund is a world as cruel as those who call it home. Their brutal struggles scar the land even as it carves them in its image, a vicious circle spiraling out of control.",,,,1
+1302,Seaside Citadel,,,Land,,,,Shards of Alara,Uncommon,Volkan Baga,229,249,,"Seaside Citadel comes into play tapped.
+T: Add G, W, or U to your mana pool.","For wisdom's sake, it was built high to gaze on all things. For glory's sake, it was built high as a testament of power. For strength's sake, it was built high to repel all attacks.",,,,2
+1303,Akrasan Squire,,,Creature,Human,Soldier,,Shards of Alara,Common,Todd Lockwood,1,249,W,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)","Bant's armies are primarily composed of members of the Mortar caste, loyal commoners who haven't yet earned a sigil.",1,1,,4
+1304,Angelsong,,,Instant,,,,Shards of Alara,Common,Sal Villagran,4,249,1W,"Prevent all combat damage that would be dealt this turn.
+Cycling 2 (2, Discard this card: Draw a card.)
+Clash of sword and cry of beast fall mute when angels sound the call to prayer.",,,,,1
+1305,Excommunicate,,,Sorcery,,,,Shards of Alara,Common,Matt Stewart,11,249,2W,Put target creature on top of its owner's library,Rebels and other malcontents forced into the ritual awake lost in Topa's vast svannahs. Those who find their way back return humble and repentant.,,,,1
+1306,Deft Duelist,,,Creature,Human,Rogue,,Shards of Alara,Common,David Palumbo,165,249,WU,"First strike
+Shroud (This creature can't be the target of spells or abilities.)","Some Serul Cove rogues traffic in stolen sigils, which fetch a high price from those who would rather pay for honor than earn it.",2,1,,1
+1307,Guardians of Akrasa,,,Creature,Human,Soldier,,Shards of Alara,Common,Alan Pollack,12,249,2W,"Defender
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)","""Only by the bravery of those who put loyalty above glory is our home kept safe.""
+—Elspeth",0,4,,5
+1308,Gustrider Exuberant,,,Creature,Human,Wizard,,Shards of Alara,Common,Wayne Reynolds,13,249,2W,"Flying
+Sacrifice Gustrider Exuberant: Creatures you control with power 5 or greater gain flying until end of turn.","""The elves claim the canopy. The nacatl claim the mountains. I suppose you think we ought to stay on the jungle floor?""",1,2,,3
+1309,Hindering Light,,,Instant,,,,Shards of Alara,Common,Chris Rahn,173,249,WU,"Counter target spell that targets you or a permanent you control.
+Draw a card.",Centuries of careful practice have elevated the casting of protective spells to an art form. What little offensive magic remains on Bant stands little chance of breaching them.,,,,4
+1310,Knight of the Skyward Eye,,,Creature,Human,Knight,,Shards of Alara,Common,Matt Stewart,15,249,1W,3G: Knight of the Skyward Eye gets +3/+3 until end of turn. Play this ability only once each turn.,"The Order of the Skyward Eye does the bidding of an evil force, unwittingly stirring fear and mistrust across Bant in accordance with his plans.",2,2,,1
+1311,Oblivion Ring,,,Enchantment,,,,Shards of Alara,Common,Franz Vohwinkel,20,249,2W,"When Oblivion Ring comes into play, remove another target nonland permanent from the game.
+When Oblivion Ring leaves play, return the removed card to play under its owner's control.",A circle of light and a word of confinement.,,,,1
+1312,Soul's Grace,,,Instant,,,,Shards of Alara,Common,Christopher Moeller,28,249,1W,You gain life equal to target creature's power.,An avatar he sculpts of fellowship and light.,,,,3
+1313,Welkin Guide,,,Creature,Bird,Cleric,,Shards of Alara,Common,David Palumbo,30,249,4W,"Flying
+When Welkin Guide comes into play, target creature gets +2/+2 and gains flying until end of turn.","""Those talons really dig into your skin, but it's better than being dropped.""
+—Rafiq of the Many",2,2,,2
+1314,Yoked Plowbeast,,,Creature,Beast,,,Shards of Alara,Common,Steve Argyle,31,249,5WW,"Cycling 2 (2, Discard this card: Draw a card.)","""It is sacrelige to confine a gargantuan to the grinding of straight lines. I will pray that it remembers who is the master of this land.""
+—Syeena, elvish godtoucher",5,5,,4
+1315,Call to Heel,,,Instant,,,,Shards of Alara,Common,Randy Gallegos,32,249,1U,Return target creature to its owner's hand. Its controller draws a card.,"On Bant, a sigil is both a prize of honor and a bond of duty. The one who bears it may be called to fulfill that charge at any moment.",,,,3
+1316,Cathartic Adept,,,Creature,Human,Wizard,,Shards of Alara,Common,Carl Critchlow,34,249,U,T: Target player puts the top card of his or her library into his or her graveyard.,"""Forget. Only then will there be space for hope between the pain and fear.""",1,1,,2
+1317,Jhessian Lookout,,,Creature,Human,Scout,,Shards of Alara,Common,Donato Giancola,46,249,1U,,"She stands ready, always watchful, knowing that weeks of peace and serenity can be overturned by a single distant sail.",2,1,,1
+1318,Kederekt Creeper,,,Creature,Horror,,,Shards of Alara,Common,Mark Hyzer,176,249,UBR,"Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)
+Kederekt Creeper can't be blocked except by two or more creatures.","Bloated with venom, it crawls Grixis looking for victims to ooze onto.",2,3,,4
+1319,Outrider of Jhess,,,Creature,Human,Knight,,Shards of Alara,Common,Alan Pollack,52,249,3U,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)","The island nation of Jhess is under constant siege from Valeron on the mainland. Riders traverse the coastline, always on the lookout for sails or aven.",2,2,,1
+1320,Spell Snip,,,Instant,,,,Shards of Alara,Common,Michael Sutfin,57,249,2U,"Counter target spell unless its controller pays 1.
+Cycling 2 (2, Discard this card: Draw a card.)","""Magic cast through a hand of flesh is just as weak as the flesh itself.""
+—Lodus of the Ethersworn",,,,2
+1321,Banewasp Affliction,,,Enchantment,Aura,,,Shards of Alara,Common,Dave Allsop,65,249,1B,"Enchant creature
+When enchanted creature is put into a graveyard, that creature's controller loses life equal to its toughness.","The consuming undeath of Grixis terrifies the survivors of Vithia, but its fauna is just as fearsome.",,,,1
+1322,Bone Splinters,,,Sorcery,,,,Shards of Alara,Common,Cole Eastburn,67,249,B,"As an additional cost to play Bone Splinters, sacrifice a creature.
+Destroy target creature.","Witches of the Split-Eye Coven speak of a future when Grixis will overflow with life energy. For now, they must harvest vis from the living to fuel their dark magics.",,,,3
+1323,Blister Beetle,,,Creature,Insect,,,Shards of Alara,Common,Anthony S. Waters,66,249,1B,"When Blister Beetle comes into play, target creature gets -1/-1 until end of turn.","Warriors of the Rip Clan wear their beetle-acid scars proudly, even modifying clothing and armor to better display the trophy.",1,1,,1
+1324,Carrion Thrash,,,Creature,Viashino,Warrior,,Shards of Alara,Common,Jaime Jones,162,249,2BRG,"When Carrion Thrash is put into a graveyard from play, you may pay 2. If you do, return another target creature card from your graveyard to your hand.",Viashino hunt in gangs called thrashes. Not all thrashes hunt the freshest game.,4,4,,2
+1325,Death Greeter,,,Creature,Human,Shaman,,Shards of Alara,Common,Dominick Domingo,71,249,B,"Whenever another creature is put into a graveyard from play, you may gain 1 life.","""The bones of allies grant wisdom. The bones of enemies grant strength. The bones of dragons grant life eternal.""",1,1,,1
+1326,Dregscape Zombie,,,Creature,Zombie,,,Shards of Alara,Common,Lars Grant-West,74,249,1B,Unearth B (B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.),The undead of Grixis are fueled by their hatred of the living.,2,1,,2
+1327,Shadowfeed,,,Instant,,,,Shards of Alara,Common,Dave Kendall,86,249,B,Remove target card in a graveyard from the game. You gain 3 life.,"""The future is a snake, devouring your life backwards through time. And when you die, believe me, it doesn't stop feeding.""
+—Sedris, the Traitor King",,,,1
+1328,Shore Snapper,,,Creature,Beast,,,Shards of Alara,Common,Dave Kendall,87,249,2B,U: Shore Snapper gains islandwalk until end of turn.,"Kathari, the sickly aven of Grixis, have learned that the corpses by the shoreline are more trap than treat.",2,2,,2
+1329,Undead Leotau,,,Creature,Zombie,Cat,,Shards of Alara,Common,Carl Critchlow,90,249,5B,"R: Undead Leotau gets +1/-1 until end of turn.
+Unearth 2B (2B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)",,3,4,,2
+1330,Viscera Dragger,,,Creature,Zombie,Ogre,Warrior,Shards of Alara,Common,Ralph Horsley,92,249,3B,"Cycling 2 (2, Discard this card: Draw a card.)
+Unearth 1B (1B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)",,3,3,,1
+1331,Branching Bolt,,,Instant,,,,Shards of Alara,Common,Vance Kovacs,158,249,1RG,Choose one or both — Branching Bolt deals 3 damage to target creature with flying; and/or Branching Bolt deals 3 damage to target creature without flying.,"""Lightning lives in everything, in living flesh and growing things. It must be set free.""
+—Rakka Mar",,,,3
+1332,Dragon Fodder,,,Sorcery,,,,Shards of Alara,Common,Jaime Jones,97,249,1R,Put two  1/1 red Goblin creature tokens into play.,Goblins journey to the sacrificial peaks in pairs so that the rare survivor might be able to relate to the details of the other's grisly demise.,,,,1
+1333,Incurable Ogre,,,Creature,Ogre,Mutant,,Shards of Alara,Common,Carl Critchlow,105,249,3R,,Each mutation causes the incurables to look vastly different from one another. They are left with only one thing in common: their insatiable lust for the slaughter.,5,1,,1
+1334,Lightning Talons,,,Enchantment,Aura,,,Shards of Alara,Common,Pete Venters,107,249,2R,"Enchant creature
+Enchanted creature gets +3/+0 and has first strike.","""This is going to hurt a lot, but on the bright side, you'll be dead soon.""
+—Sedris, the Traitor King",,,,
+1335,Rakeclaw Gargantuan,,,Creature,Beast,,,Shards of Alara,Common,Jesper Ejsing,186,249,2RGW,1: Target creature with power 5 or greater gains first strike until end of turn.,"Naya teems with gargantuans, titanic monsters to whom both nature and civilization defer.",5,3,,2
+1336,Resounding Thunder,,,Instant,,,,Shards of Alara,Common,Jon Foster,110,249,2R,"Resounding Thunder deals 3 damage to target creature or player.
+Cycling 5BRG (5BRG, Discard this card: Draw a card.)
+When you cycle Resounding Thunder, it deals 6 damage to target creature or player.",,,,,2
+1337,Ridge Rannet,,,Creature,Beast,,,Shards of Alara,Common,Jim Murray,111,249,5RR,"Cycling 2 (2, Discard this card: Draw a card.)","""Only those with the strength to seize their destiny deserve to have one.""
+—Nacatl scratchforms",6,4,,2
+1338,Rip-Clan Crasher,,,Creature,Human,Warrior,,Shards of Alara,Common,Justin Sweet,189,249,RG,Haste,"If you breathe, she will fight you. If you breathe fire, she must fight you.",2,2,,5
+1339,Thorn-Thrash Viashino,,,Creature,Viashino,Warrior,,Shards of Alara,Common,Jon Foster,116,249,3R,"Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.)
+G: Thorn-Thrash Viashino gains trample until end of turn.",,2,2,,2
+1340,Vithian Stinger,,,Creature,Human,Shaman,,Shards of Alara,Common,Dave Kendall,120,249,2R,"T: Vithian Stinger deals 1 damage to target creature or player.
+Unearth 1R (1R: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)",,0,1,,1
+1341,Court Archers,,,Creature,Human,Archer,,Shards of Alara,Common,Randy Gallegos,126,249,2G,"Reach (This can block creatures with flying.)
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",The Sun-Dappled Court of Valeron stands secure behind a wall of steel-tipped arrows.,1,3,,1
+1342,Druid of the Anima,,,Creature,Elf,Druid,,Shards of Alara,Common,Jim Murray,128,249,1G,"T: Add R, G, or W to your mana pool.","Although the Anima herself remains at the Sacellum, her druids roam Naya, collecting mana bonds with every location in the world.",1,1,,4
+1343,Elvish Visionary,,,Creature,Elf,Shaman,,Shards of Alara,Common,D. Alexander Gregory,130,249,1G,"When Elvish Visionary comse into play, draw a card.","Before any major undertaking, a Cylian elf seeks the guidance of a visionary to learn the will of the gargantuan ancients.",1,1,,4
+1344,Gift of the Gargantuan,,,Sorcery,,,,Shards of Alara,Common,Jean-Sebastien Rossbach,132,249,2G,Look at the top four cards of your library. You may reveal a creature card and/or a land card from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.,,,,,4
+1345,Godtoucher,,,Creature,Elf,Cleric,,Shards of Alara,Common,Jesper Ejsing,133,249,3G,"1W, T: Prevent all damage that would be dealt to target creature with power 5 or greater this turn.","""Gargantuans die not in moments but in moons. There is still time to aid this noble ancient.""",2,2,,1
+1346,Lush Growth,,,Enchantment,Aura,,,Shards of Alara,Common,Jesper Ejsing,136,249,G,"Enchant land
+Enchanted land is a Mountain, Forest, and Plains.","Naya's bounty spills over upon itself. Each leaf and flower struggles against the next with thrashing thorns, acidic pollen, and strangling roots.",,,,6
+1347,Mosstodon,,,Creature,Plant,Elephant,,Shards of Alara,Common,Parente,139,249,4G,1: Target creature with power 5 or greater gains trample until end of turn.,Whether gargantuans are the manifested will of Progenitus or simply the result of overabundant resources is moot when a herd of tehm is thundering toward you.,5,3,,2
+1348,Naturalize,,,Instant,,,,Shards of Alara,Common,Trevor Hairsine,141,249,1G,Destroy target artifact or enchantment.,The idols of old are rich in minerals and magic. They are torn apart when nature aims to eat well.,,,,3
+1349,Savage Hunter,,,Enchantment,Aura,,,Shards of Alara,Common,Trevor Claxton,147,249,2G,"Enchant creature
+Enchanted creature gets +1/+2 and has trample.
+Cycling 2 (2, Discard this card: Draw a card.)",,,,,3
+1350,Sigil Blessing,,,Instant,,,,Shards of Alara,Common,Matt Stewart,195,249,GW,"Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.","""For unwavering commitment and unflinching strength, the Order of the White Orchid confers its sigil. Rise, knight-captain, and do your duty.""",,,,3
+1351,Soul's Might,,,Sorcery,,,,Shards of Alara,Common,Kev Walker,149,249,4G,"Put X +1/+1 counters on target creature, where X is that creature's power.",An avatar he sculpts of instinct and force.,,,,3
+1352,Steward of Valeron,,,Creature,Human,Druid,Knight,Shards of Alara,Common,Greg Staples,198,249,GW,"Vigilance
+T: Add G to your mana pool.","Knight-stewards guard the Sun-Dappled Court, a grove of immense, sculptured olive trees that represent Valeron's twelve noble families.",2,2,,4
+1353,Waveskimmer Aven,,,Creature,Bird,Soldier,,Shards of Alara,Common,Mark Zug,207,249,2GWU,"Flying
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",The greatest gift you can give a sea aven is solitude.,2,4,,2
+1354,Cloudheath Drake,,Artifact,Creature,Drake,,,Shards of Alara,Common,Izzy,35,249,4U,"Flying
+1W: Cloudheath Drake gains vigilance until end of turn.","A permanent storm rages over the plain of Cloudheath, and drakes ride its currents—two reminders that some elements of Esper will not be controlled.",3,3,,1
+1355,Courier's Capsule,,Artifact,,,,,Shards of Alara,Common,Andrew Murray,37,249,1U,"1U, T, Sacrifice Courier's Capsule: Draw two cards.","In ages past, Esper couriers bore messages written on ornate scrolls. The medium has grown more sophisticated, but hte principle remains the same.",,,,2
+1356,Dispeller's Capsule,,Artifact,,,,,Shards of Alara,Common,Franz Vohwinkel,8,249,W,"2W, T, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.","""I find its symmetry pleasing. It rids our world of offensive refuse while disposing of itself.""
+—Dolomarus, Proctor of the Clean",,,,2
+1357,Executioner's Capsule,,Artifact,,,,,Shards of Alara,Common,Warren Mahy,75,249,B,"1B, T, Sacrifice Executioner's Capsule: Destroy target nonblack creature.","There is always a moment of trepidation before opening a message capsule, for fear of the judgment that might be contained within.",,,,1
+1358,Marble Chalice,,Artifact,,,,,Shards of Alara,Common,Howard Lyon,18,249,2W,T: You gain 1 life.,"The cup was a gift from the sphinx Tameron, who hoped that those who drank fro mit would live long enough to decrypt the sphinxes' wisdom.",,,,2
+1359,Obelisk of Bant,,Artifact,,,,,Shards of Alara,Common,David Palumbo,212,249,3,"T: Add G, W, or U to your mana pool.","Whether incorporated into the structure of castles or admired as lone symbols, the obelisks stand for Bant's values of loyalty, honor, and truth.",,,,1
+1360,Obelisk of Esper,,Artifact,,,,,Shards of Alara,Common,Francis Tsai,213,249,3,"T: Add W, U, or B to your mana pool.","It is a monument as austere, unyielding, and inscrutable as Esper itself.",,,,1
+1361,Obelisk of Grixis,,Artifact,,,,,Shards of Alara,Common,Nils Hamm,214,249,3,"T: Add U, B, or W to your mana pool.","Like most features of Grixis, the obelisks that remain from the time of Alara now exist only for dark exploitation.",,,,1
+1362,Obelisk of Naya,,Artifact,,,,,Shards of Alara,Common,Steve Prescott,216,249,3,"T: Add R, G, or W to your mana pool.","Centuries have passed since the plane shattered, yet the obelisks of each shard faithfully serve their long-forgotten purpose.",,,,5
+1363,Onyx Goblet,,Artifact,,,,,Shards of Alara,Common,rk post,81,249,2B,T: Target player loses 1 life.,"The goblet was a gift from the sphix Gorael, who hoped humans and vedalken would eventually destroy each other to acquire it, leaving all of Esper to her own kind.",,,,2
+1364,Steelclad Serpent,,Artifact,Creature,Serpent,,,Shards of Alara,Common,Carl Critchlow,59,249,5U,Steelclad Serpent can't attack unless you control another artifact.,"""From the highest towers to the deepest sea, all life must be touched by etherium.""
+—Lodus of hte Ethersworn",4,5,,1
+1365,Windwright Mage,,Artifact,Creature,Human,Wizard,,Shards of Alara,Common,Chippy,208,249,WUB,"Lifelink (Whenever this creature deals damage, you gain that much life.)
+Windwright Mage has flying as long as an artifact card is in your graveyard.",She knows the names and secrets of each of Esper's twenty-three winds.,2,2,,2
+1366,Bant Panorama,,,Land,,,,Shards of Alara,Common,Donato Giancola,221,249,,"T: Add 1 to your mana pool.
+1, T, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it into play tapped. Then shuffle your library.",Bant's hearts are as pure as its air and as bright as its skies.,,,,2
+1367,Jund Panorama,,,Land,,,,Shards of Alara,Common,Jaime Jones,225,249,,"T: Add 1 to your mana pool.
+1, T, Sacrifice Jund Panorama: Search your library for a basic Swamp, Moutnain, or Forest card and put it into play tapped. Then shuffle your library.","The sky is the dragon's throne, the seat from which it issues its fiery decrees.",,,,1
+1368,Naya Panorama,,,Land,,,,Shards of Alara,Common,Hideaki Takamura,227,249,,"T: Add 1 to your mana pool.
+1, T, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it into play tapped. Then shuffle your library.",Between the thunderous footfalls of Naya's behemoths lie moments of perfect quiet.,,,,4
+1369,Celestial Purge,,,Instant,,,,Conflux,Uncommon,David Palumbo,5,145,1W,Remove target black or red permanent from the game.,"""This new chaos confounds us. We must fling it into our winds, our storms. These we can control.""
+—Bezzit Plar, Esper stormcaller",,,,1
+1370,Fusion Elemental,,,Creature,Elemental,,,Conflux,Uncommon,Michael Komarck,107,145,WUBRG,,"As the shards merged into the Maelstrom, their mana energies fused nto new monstrosities.",8,8,,1
+1371,Nacatl Hunt-Pride,,,Creature,Cat,Elemental,,Conflux,Uncommon,Steve Prescott,13,145,5W,"Vigilance
+R, T: Target creature can't block this turn.
+G, T: Target creature blocks this turn if able.","""We must hunt and kill the dragon before it can return to raze our ancient city.""",5,4,,2
+1372,Sludge Strider,,Artifact,Creature,Insect,,,Conflux,Uncommon,Franz Vohwinkel,126,145,1WUB,"Whenever another artifact comes into play under your control or another artifact you control leaves play, you may pay 1. If you do, target player loses 1 life and you gain 1 life.",Underneath the cities of Esper are cycles of life unseen by those who feed them.,3,3,,1
+1373,Grixis Slavedriver,,,Creature,Zombie,Giant,,Conflux,Uncommon,Dave Kendall,46,145,5B,"When Grixis Slavedriver leaves play, put a 2/2 black Zombie creature token into play.
+Unearth 3B (3B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)",,4,4,,1
+1374,Hellkite Hatchling,,,Creature,Dragon,,,Conflux,Uncommon,Daarken,111,145,2RG,"Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.)
+Hellkite Hatchling has flying and trample if it devoured a creature.",A killing machine from birth.,2,2,,1
+1375,Hellspark Elemental,,,Creature,Elemental,,,Conflux,Uncommon,Justin Sweet,65,145,1R,"Trample, haste
+At end of turn, sacrifice Hellspark Elemental.
+Unearth 1R (1R: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)",,3,1,,3
+1376,Filigree Fracture,,,Instant,,,,Conflux,Uncommon,Howard Lyon,82,145,2G,"Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.",The sphinx tyrannized Bant until a rhox mage tested the hardiness of her shitty parts.,,,,1
+1377,Shard Convergence,,,Sorcery,,,,Conflux,Uncommon,Vance Kovacs,91,145,3G,"Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.",Alara is broken no more.,,,,1
+1378,Skyward Eye Prophets,,,Creature,Human,Wizard,,Conflux,Uncommon,Matt Stewart,125,145,3GWU,"Vigilance
+T: Reveal the top card of your library. If it's a land card, put it into play. Otherwise, put it into your hand.",They lament the doom that is coming to Bant without realizing the part their own leaders have played in it.,3,3,,1
+1379,Cumber Stone,,Artifact,,,,,Conflux,Uncommon,Warren Mahy,24,145,3U,Creatures your opponents control get -1/-0.,"""The stone is more potent than ever. The flesh that creeps into our land will become even more slovenly and weak.""
+—Niclavs, archmage of Esper",,,,1
+1380,Ancient Ziggurat,,,Land,,,,Conflux,Uncommon,John Avon,141,145,,T: Add one mana of any color to your mana pool. Spend this mana only to play creature spells.,"Built in honor of Alara's creatures, the ziggurat vanished long ago. When Progenitus awakened, the temple emerged again.",,,,1
+1381,Asha's Favor,,,Enchantment,Aura,,,Conflux,Common,Donato Giancola,2,145,2W,"Enchant creature
+Enchanted creature has flying, first strike, and vigilance.","As his new wings lifted him high above Bant, Taric felt his earthly aspirations transform into heavenly resolve.",,,,1
+1382,Aven Squire,,,Creature,Bird,Soldier,,Conflux,Common,David Palumbo,3,145,1W,"Flying
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)","When the meek charge into battle, courage becomes infectious.",1,1,,1
+1383,Aven Trailblazer,,,Creature,Bird,Soldier,,Conflux,Common,Chris Rahn,4,145,2W,"Flying
+Domain — Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.","""The bird wore the form of a man, bereft of filigree. Why do the Texts not speak of it?""
+—Belator of Esper",2,X,,2
+1384,Esper Cormorants,,Artifact,Creature,Bird,,,Conflux,Common,Warren Mahy,105,145,2WU,Flying,"""The smiths of this land must be mad to reach so far and so high for anothe rcreature to decorate.""
+—Cagen Vargan, Jhessian sea scout",3,3,,1
+1385,Gleam of Resistance,,,Instant,,,,Conflux,Common,Matt Stewart,8,145,4W,"Creatures you control get +1/+2 until end of turn. Untap those creatures.
+Basic landcycling 1W (1W, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",,,,,1
+1386,Lapse of Certainty,,,Instant,,,,Conflux,Common,Anthony Francisco,9,145,2W,"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.","Without a connection of mind and body, magic is just an idea stuck in the head, a word on the tip of a tongue.",,,,1
+1387,Rhox Meditant,,,Creature,Rhino,Monk,,Conflux,Common,Donato Giancola,16,145,3W,"When Rhox Meditant comes into play, if you control a green permanent, draw a card.",The weight of her conviction balances on the harmony of her soul.,2,4,,1
+1388,Valiant Guard,,,Creature,Human,Soldier,,Conflux,Common,Chris Rahn,19,145,W,,"As the outsiders invaded Bant, soldiers who once saw sigils as the highest marks of glory began to see the scars of battle as tokens of equal worth.",0,3,,1
+1389,Brackwater Elemental,,,Creature,Elemental,,,Conflux,Common,Thomas M. Baxa,21,145,2U,"When Brackwater Elemental attacks or blocks, sacrifice it at end of turn.
+Unearth 2U (2U: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)",,4,4,,2
+1390,Constricting Tendrils,,,Instant,,,,Conflux,Common,David Palumbo,22,145,U,"Target creature gets -3/-0 until end of turn.
+Cycling 2 (2, Discard this card: Draw a card.)",Priests of Bant protect their temples with traps more elaborate than any mosaic floor.,,,,1
+1391,Frontline Sage,,,Creature,Human,Wizard,,Conflux,Common,Volkan Baga,28,145,2U,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+U, T: Draw a card, then discard a card.",The battle was won in the commander's head before the first weapon was drawn.,0,1,,2
+1392,Grixis Illusionist,,,Creature,Human,Wizard,,Conflux,Common,Mark Tedin,29,145,U,T: Target land you control becomes a basic land type of your choice until end of turn.,"""It's simple, really. If they can't find us, they can't kill us.""",1,1,,1
+1393,Traumatic Visions,,,Instant,,,,Conflux,Common,Cyril Van Der Haegen,36,145,3UU,"Counter target spell.
+Basic landcycling 1U (1U, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. This shuffle your library.)",,,,,1
+1394,Unsummon,,,Instant,,,,Conflux,Common,Izzy,37,145,U,Return target creature to its owner's hand.,"""Send it back to its own strange world so we can avoid another inglorious combat with these wicked beings.""
+—Captain Valek of Jhess",,,,1
+1395,Worldly Counsel,,,Instant,,,,Conflux,Common,Matt Cavotta,39,145,1U,"Domain — Look at the top X cards of your library, where X is hte number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.",Every horizon hides a new possibility.,,,,2
+1396,Zombie Outlander,,,Creature,Zombie,Scout,,Conflux,Common,Nils Hamm,133,145,UB,Protection from green.,The ripe smell of life drifted into Grixis. The dead caught the scent and with reckless hunger followed it back into Jund.,2,2,,2
+1397,Drag Down,,,Instant,,,,Conflux,Common,Trevor Claxton,42,145,2B,Domain — Target creature gets -1/-1 until end of turn for each basic land type among lands you control.,"The barbarians of Jund believe the bottomless tar pits extend forever into other, darker worlds.",,,,1
+1398,Infectious Horror,,,Creature,Zombie,Horror,,Conflux,Common,Pete Venters,47,145,3B,"Whenever Infectious Horror attacks, each opponent loses 2 life.",Not once in the history of Grixis has anyone died of old age.,2,2,,1
+1399,Pestilent Kathari,,,Creature,Bird,Warrior,,Conflux,Common,Dave Kendall,50,145,2B,"Flying
+Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)
+2R: Pestilent Kathari gains first strike until end of turn.",,1,1,,1
+1400,Rotting Rats,,,Creature,Zombie,Rat,,Conflux,Common,Dave Allsop,61,145,1B,"When Rotting Rats comes into play, each player discards a card.
+Unearth 1B (1B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.",,1,1,,1
+1401,Wretched Banquet,,,Sorcery,,,,Conflux,Common,Nils Hamm,56,145,B,Destroy target creature if it has the least power or is tied for least power among creatures in play.,"""The meek inherit nothing.""
+—Sedris, the Traitor King",,,,2
+1402,Yoke of the Damned,,,Enchantment,Aura,,,Conflux,Common,Paul Bonner,57,145,1B,"Enchant creature
+When a creature is put into a graveyard from play, destroy enchanted creature.","The demon's yoke is part leash, part noose.",,,,1
+1403,Canyon Minotaur,,,Creature,Minotaur,Warrior,,Conflux,Common,Steve Prescott,60,145,3R,,"On Jund, the deep canyons were the best places to hide. When the goblins wandered into Naya, they found that was not so true.",3,3,,2
+1404,Exploding Borders,,,Sorcery,,,,Conflux,Common,Zoltan Boros & Gabor Szikszai,106,145,2RG,"Domain — Search your library for a basic land card, put that card into play tapped, then shuffle your library. Exploding borders deals X damage  to target player, where X is the number of basic lands you control.",Reuniting a world is not a gentle process.,,,,3
+1405,Fiery Fall,,,Instant,,,,Conflux,Common,Daarken,63,145,5R,"Fiery Fall deals 5 damage to target creature.
+Basic landcycling 1R (1R, Discard this card: Search you rlibrary for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",Jund feasts on the unprepared.,,,,2
+1406,Nacatl Outlander,,,Creature,Cat,Scout,,Conflux,Common,Zoltan Boros & Gabor Szikszai,119,145,RG,Protection from blue,Survival in the wilds of Naya left Tiyan well equipped to win the civilized battles of Bant.,2,2,,1
+1407,Quenchable Fire,,,Sorcery,,,,Conflux,Common,Jean-Sebastien Rossbach,70,145,3R,Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays U before that step.,You'd better know how to pray for rain. ,,,,1
+1408,Toxic Iguanar,,,Creature,Lizard,,,Conflux,Common,Brandon Kitkouski,72,145,RG,"Toxic Iguanar has deathtouch as long as you control a green permanent.
+(Whenever it deals damage to a creature, destroy that creature.)","There are no ""weak"" creatures on Jund. Even the smallest can strike a deadly blow.",1,1,,2
+1409,Wandering Goblins,,,Creature,Goblin,Warrior,,Conflux,Common,Karl Kopinski,76,145,2R,Domain — 3: Wandering Gobilns gets +1/+0 until end fo turn for each basic land type among lands you control.,"Tired of waiting for a dragon to eat them, some hardy goblins struck out to become meals for the unknown.",0,3,,2
+1410,Matca Rioters,,,Creature,Human,Warrior,,Conflux,Common,Steve Argyle,84,145,2G,Domain — Matca Rioters power and toughness are each equal to the number of basic land types among lands you control.,"When outsiders interrupted the matca championship, things got ugly.",X,X,,1
+1411,Might of Alara,,,Instant,,,,Conflux,Common,Steve Prescott,85,145,G,Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control.,The combined strength of all five planes spawned creations none had seen before.,,,,3
+1412,Nacatl Savage,,,Creature,Cat,Warrior,,Conflux,Common,Parente,86,145,1G,Protection from artifacts,"""Blades dull and armor dents. Marisi taught us that instinct is the only thing a true warrior needs.""
+—Ajani",2,1,,1
+1413,Rhox Bodyguard,,,Creature,Rhino,Monk,Soldier,Conflux,Common,Sal Villagran,122,145,3GW,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+When Rhox Bodyguard comes into play, you gain 3 life.",An enlightened soul caged in a body made for battle.,2,3,,1
+1414,Scattershot Archer,,,Creature,Elf,Archer,,Conflux,Common,Steve Argyle,90,145,G,T: Scattershot Archer deals 1 damage to each creature with flying.,"To train her elves for war, Mayael would drop a sackful of acorns from the tree canopy. Each archer tried to split as many as possible before the acorns hit the forest floor below.",1,2,,1
+1415,Sylvan Bounty,,,Instant,,,,Conflux,Common,Chris Rahn,94,145,5G,"Target player gains 8 life.
+Basic landcycling 1G (1G, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",Some who scouted new lands chose to stay.,,,,2
+1416,Tukatongue Thallid,,,Creature,Fungus,,,Conflux,Common,Vance Kovacs,96,145,G,"When Tukatongue Thallid is put into a graveyard from play, put a 1/1 green Saproling creature token into play.",Jund's thallids tried to disguise their deliciousness by covering themselves in spines harvested from the tukatongue tree.,1,1,,1
+1417,Valeron Outlander,,,Creature,Human,Scout,,Conflux,Common,Matt Stewart,130,145,GW,Protection from black,"After years of honing her philosophy in debate with stubborn rhoxes, Niella was ready to convert any heathen.",2,2,,1
+1418,Wild Leotau,,,Creature,Cat,,,Conflux,Common,Michael Komarck,97,145,2GG,"At the beginning of your upkeep, sacrifice Wild Leotau unless you play G.","""Leotau that were born wild make the best mounts. It's like riding a thunderstorm.""
+—Rafiq of the Many",5,4,,1
+1419,Armillary Sphere,,Artifact,,,,,Conflux,Common,Franz Vohwinkel,134,145,2,"2, T, Sacrifice Armillary Sphere: Search your library for upt to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.",The mysterious purpose of two of the rings had eluded Esper mages—until now.,,,,1
+1420,Darklit Gargoyle,,Artifact,Creature,Gargoyle,,,Conflux,Common,Howard Lyon,7,145,1W,"Flying
+B: Darklit Gargoyle gets +2/-1 until end of turn.",It shines in the darkness of its master's ambitions.,1,2,,1
+1421,Kaleidostone,,Artifact,,,,,Conflux,Common,Chippy,137,145,2,"When Kaleidostone comes into play, draw a card.
+5, T, Sacrifice Kaleidostone: Add WUBRG to your mana pool.","Once broken, who knows what worlds might grow from its shards?",,,,2
+1422,Parasitic Strix,,Artifact,Creature,Bird,,,Conflux,Common,Steven Belledin,32,145,2U,"Flying
+When Parasitic Strix comes into play, if you control a black permanent, target player loses 2 life and you gain 2 life.","After finding no sustenance on the edges of Grixis, it turned to the skies of Bant.",2,2,,1
+1423,Salvage Slasher,,Artifact,Creature,Human,Rogue,,Conflux,Common,Anthony Francisco,52,145,1B,Salvage Slasher gets +1/+0 for each artifact card in your graveyard.,Esper artificers never imagined that one day their scraps would be pressed against their soft and fragile throats.,1,1,,2
+1424,Anathemancer,,,Creature,Zombie,Wizard,,Alara Reborn,Uncommon,Richard Whitters,33,145,1BR,"When Anatemancer comes into play, it deals damage to target player equal to the number of nonbasic lands that player controls.
+Unearth 5BR (5BR: Return this card from your graveyard to play. It gains haste. Remove it from teh game at end of turn or if it would leave play. Unearth only as a sorcery.)",,2,2,,3
+1425,Bituminous Blast,,,Instant,,,,Alara Reborn,Uncommon,Raymond Swanland,34,145,3BR,"Cascade (When you play this spell, remove cards from the top of your library  from the game until you remove a nonland card that costs less. You may play it without paying its mana cost. Put the removed cards on the bottom in a random order.)
+Bituminous Blast deals 4 damage to target creature.",,,,,1
+1426,Sanity Gnawers,,,Creature,Rat,,,Alara Reborn,Uncommon,Pete Venters,44,145,1BR,"When Sanity Gnawers comes into play, target player discards a card at random.",The last thought to go through their victim's mind is the one they tear out through the scalp.,1,1,,1
+1427,Marsi's Twinclaws,,,Creature,Cat,Warrior,,Alara Reborn,Uncommon,Izzy,140,145,2{R/W}G,Double Strike,"""Looks like we're completely outnumbered.""
+""Lucky for us. I thought we'd be bored.""",2,4,,3
+1428,Stun Sniper,,,Creature,Human,Archer,,Alara Reborn,Uncommon,Steve Prescott,100,145,RW,"1, T: Stun Sniper deals 1 damage to target creature. Tap that creature.","The tips of her bolts are blunt, but her aim is deadly sharp.",1,1,,1
+1429,Vengeful Rebirth,,,Sorcery,,,,Alara Reborn,Uncommon,Vance Kovacs,62,145,4RG,"Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.
+Remove Vengeful Rebirth from the game.",,,,,1
+1430,Vithian Renegades,,,Creature,Human,Shaman,,Alara Reborn,Uncommon,rk post,64,145,1RG,"When Vithian Renegades comes into play, destroy target artifact.","""Here is the proof that what has been done may yet be undone. The hope we thought dead wil be gloriously reborn.""",3,2,,1
+1431,Behemoth Sledge,,Artifact,Equipment,,,,Alara Reborn,Uncommon,Steve Prescott,65,145,1GW,"Equipped creature gets +2/+2 and has lifelink and trample.
+Equip 3",Those who worship the great gargantuans should hardly be expected to fight with a subtle weapon.,,,,2
+1432,Sigil Captain,,,Creature,Rhino,Soldier,,Alara Reborn,Uncommon,Howard Lyon,77,145,1GWW,"Whenever a creature comes into play under your control, if that creature is 1/1, put two +1/+1 counters on it.","""One sigil awarded for valor, the other awarded fo rsurviving Hellkite's Pass.""",3,3,,3
+1433,Offering to Asha,,,Instant,,,,Alara Reborn,Common,Daarken,9,145,2WU,Counter target spell unless its controller pays 4. You gain 4 life.,"""His body belongs to Bant now. His soul? I honestly don't know. I expect it belongs to the angels.""
+—Rafiq of the Many",,,,1
+1434,Putrid Leech,,,Creature,Zombie,Leech,,Alara Reborn,Common,Dave Allsop,95,145,BG,Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Play this ability only once each turn.,It reacted to Naya's overabundant food supply by growing additional mouths.,2,2,,3
+1435,Colossal Might,,,Instant,,,,Alara Reborn,Common,Justin Sweet,51,145,RG,Target creature gets +4/+2 and gains trample until end of turn.,"""Never corner a barbarian. You become the path of least resistance.""
+—Sarkhan Vol",,,,1
+1436,Firewild Borderpost,,Artifact,,,,,Alara Reborn,Common,Juan-Sebastien Rossbach,54,145,1RG,"You may pay 1 and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.
+Firewild Borderpost comes into play tapped.
+T: Add R or G to your mana pool.",,,,,2
+1437,Godtracker of Jund,,,Creature,Elf,Shaman,,Alara Reborn,Common,Justin Sweet,55,145,1RG,"Whenever a creature comes into play under your control, you may put a +1/+1 counter on Godtracker of Jund.","""The behemoths are content to graze like cattle, while dragons rage and conquer. I know which example I'll follow.""",2,2,,5
+1438,Naya Hushblade,,,Creature,Elf,Rogue,,Alara Reborn,Common,Jason Chan,141,145,{R/W}G,"As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)",,2,1,,1
+1439,Trace of Abundance,,,Enchantment,Aura,,,Alara Reborn,Common,Dave Kendall,142,145,{RW}G,"Enchant land
+Enchanted land has shroud. (It can't be the target of spells or abilities.)
+Whenever encahnted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).",,,,,3
+1440,Captured Sunlight,,,Sorcery,,,,Alara Reborn,Common,Nils Hamm,66,145,2GW,"Cascade (When you play this spell, remove cards from the top of your library  from the game until you remove a nonland card that costs less. You may play it without paying its mana cost. Put the removed cards on the bottom in a random order.)
+You gain 4 life.",,,,,2
+1441,Crystallization,,,Enchantment,Aura,,,Alara Reborn,Common,Zoltan Boros & Gabor Szikszai,141,145,{G/U}W,"Enchant creature
+Enchanted creature can't attack or block.
+When enchanted creature becomes the target of a spell or ability, remove that creature from the game.",,,,,2
+1442,Grizzled Leotau,,,Creature,Cat,,,Alara Reborn,Common,Lars Grant-West,69,145,GW,,"""There is no glory in a death of age, as even the leotau know. As winter steals into their coats, they seek the deadliest lands, that they may die as they lived.""—Aarsil the Blessed",1,5,,2
+1443,Sigil of hte Nayan Gods,,,Enchantment,Aura,,,Alara Reborn,Common,Warren Mahy,78,145,1GW,"Enchant creature
+Enchanted creature gets +1/+1 for each creature you control.
+Cycling {G/W} ({G/W}, Discard this card: Draw a card.)","As the elves learned the hymns of angels, the knights learned the roars of titans.",,,,4
+1444,Wildfield Borderpost,,Artifact,,,,,Alara Reborn,Common,Zoltan Boros & Gabor Szikszai,80,145,1GW,"You may pay 1 and return a basic land you control to its owner's hand rather than pay Wildfield Borderpost's mana cost.
+Wildfield Borderpost comes into play tapped.
+T: Add G or W to your mana pool.",,,,,2
+1445,Winged Coatl,,,Creature,Snake,,,Alara Reborn,Common,Izzy,105,145,1GU,"Flash
+Flying
+Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)","The nacatl called this new species ""vetli,"" their word for poison arrows.",1,1,,3
+1446,Angelic Benediction,,,Enchantment,,,,Alara Reborn,Common,Michael Komarck,3,145,3W,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, you may tap target creature.","""Even in single combat, I am never alone.""
+—Rafiq of the Many",,,,1

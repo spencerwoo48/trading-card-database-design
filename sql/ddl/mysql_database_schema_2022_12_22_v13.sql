@@ -1,0 +1,18 @@
+INSERT INTO noncreatures(title, extension, rarity, collector_number) VALUES();
+INSERT INTO mana_costs(mana_costs_id, mana_cost, converted_mana_cost) VALUES();
+INSERT INTO noncreatureskinds(noncreatures_id, kinds_id) VALUES();
+--INSERT INTO noncreatureskinds(noncreatures_id, kinds_id) VALUES();
+--INSERT INTO noncreatureskinds(noncreatures_id, kinds_id) VALUES();
+--INSERT INTO noncreatureskinds(noncreatures_id, kinds_id) VALUES();
+INSERT INTO rules_texts(rules_texts_id, rules_text) VALUES();
+INSERT INTO flavor_texts(flavor_texts_id, flavor_text) VALUES();
+INSERT INTO creatures(creatures_id, punch, toughness) VALUES();
+--INSERT INTO planeswalkers(planeswalkers_id, loyalty) VALUES();
+INSERT INTO artists(artist) VALUES();
+--INSERT INTO artists(artist) VALUES();
+INSERT INTO noncreaturesartists(noncreatures_id, artists_id) VALUES();
+--INSERT INTO noncreaturesartists(noncreatures_id, artists_id) VALUES();
+INSERT INTO collections(noncreatures_id, shape, worth) VALUES();
+--INSERT INTO collections(noncreatures_id, shape, worth) VALUES();
+--INSERT INTO collections(noncreatures_id, shape, worth) VALUES();
+--INSERT INTO collections(noncreatures_id, shape, worth) VALUES();

@@ -1,0 +1,345 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total,mana_cost,text_box,flavor_text,punch,toughness,quantity,flip_card_name,flip_subtype_a,flip_subtype_b,flip_subtype_c,flip_subtype_d,flip_punch,flip_toughness,split_card_name,split_mana_cost,split_subtype_a,split_text_box,loyalty_cost_a,loyalty_ability_a,loyalty_cost_b,loyalty_ability_b,loyalty_cost_c,loyalty_ability_c,starting_loyalty,leveler_tier_a,leveler_text_box_a,leveler_tier_a_punch,leveler_tier_a_toughness,leveler_tier_b,leveler_text_box_b,leveler_tier_b_punch,leveler_tier_b_toughness,transform_card_name,transform_supertype,transform_subtype_a,transform_subtype_b,transform_subtype_c,transform_text_box,transform_flavor_text,transform_punch,transform_toughness,modal_card_name,modal_mana_cost,modal_supertype,modal_subtype_c,modal_subtype_b,modal_subtype_a,modal_text_box,modal_punch,modal_toughness,saga_card_name,lore_counter_a,lore_text_box_a,lore_counter_b,lore_counter_text_box,saga_supertype,saga_subtype_a,saga_subtype_b,saga_subtype_c,saga_subtype_d,saga_punch,saga_toughness
+3933,Angel's Grace,,Instant,,,,,,Time Spiral,Rare,Mark Zug,,3,301,{W},"Split Second (As long as this spell is on the stack, players can't play spells or activated abilities that aren't mana abilities.)
+You can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.",,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3934,Chronosavant,,Creature,Giant,,,,,Time Spiral,Rare,Pete Venters,,9,301,{5}{W},{1}{W}: Return Chronosavant from your graveyard to play tapped. Skip your next turn.,"""In my dreams, I hear the voices of my future selves who have died in times yet to come.
+I use that knowledge to avoid those dark futures and continue my search for peace.""",5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3935,Mangara of Corondor,Legendary,Creature,Human,Wizard,,,,Time Spiral,Rare,Zoltan Boros,Gabor Szikszai,28,301,{1}{W}{W},{T}: Remove Mangara of Corondor and target permanent from the game.,"""I have been brought to this place and I cannot leave. I may be free of hte amber, but I am still in prison.""",1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3936,Opal Guardian,,Enchantment,,,,,,Time Spiral,Rare,Christopher Rush,,30,301,{W}{W}{W},"When an opponent plays a creature spell, if Opal Guardian is an enchantment, Opal Guardian becomes a 3/4 Gargoyle creature with flying and protection from red.","It was a moment in time, cast in stone—a moment whose time had come again.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3937,Heroes Remembered,,Sorcery,,,,,,Time Spiral,Rare,Michael Phillippi,,7,165,{6}{W}{W}{W},"You gain 20 life.
+Suspend 10—{W} (Rather than pay this card from your hand, you may pay {W} and remove it from teh game with ten time counters on it. At the beginning of your upkeep, remove a time counter. WHen the last is removed, play it without paying its mana cost.)",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3938,Restore Balance,,Sorcery,,,,,,Planar Chaos,Rare,Mark Poole,,38,301,,"Restore Balance is white.
+Suspend 6—{W}
+Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players sacrifice creatures and discard cards the same way.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3939,Weathered Bodyguards,,Creature,Human,Soldier,,,,Time Spiral,Rare,Wayne Reynolds,,46,301,{5}{W},"As long as Weathered Bodyguards is untapped, all combat damage that would be dealt to Weathered Bodyguards instead.
+Morph {3}{W} (You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",,2,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3940,Angel of Salvation,,Creature,Angel,,,,,Futuresight,Rare,D. Alexander Gregory,,1,180,{6}{W}{W},"Flash convoke (Each creature you tap while playing this spell reduces its cost by {1} or by one mana of that creature's color.
+Flying
+When Angel of Salvation comes into play, prevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.",,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3941,Magus of the Moat,,Creature,Human,Wizard,,,,Futuresight,Rare,John Avon,,12,180,{2}{W}{W},Creatures without flying can't attack.,"""The spirits of the mythic ones ever circle their beloved keep, forbidding entry to all who come with the heavy tread of hate.",0,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3942,Magus of the Tabernacle,,Creature,Human,Wizard,,,,Planar Chaos,Rare,Randy Gallegos,,8,165,{3}{W},"All creatures have ""At the beginning of your upkeep, sacrifice this creature unless you pay {1}.""","The Tabernacle's disciples channel the emanations from Pendrell Vale, spreading its paradoxical demand to be both worshipped and left alone.",2,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3943,"Oriss, Samite Guardian",Legendary,Creature,Human,Cleric,,,,Futuresight,Rare,Michael Komarck,,28,180,{1}{W}{W},"{T}: Prevent all damage that would be dealt to target creature this turn.
+Grandeur — Discard another card named Oriss, Samite Guardian: Target player can't play spells this turn, and creatures that player controls can't attack this turn.",,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3944,"Crovax, Ascendant Hero",Legendary,Creature,Human,Lord,,,,Planar Chaos,Rare,Pete Venters,,3,165,{4}{W}{W},"Other white creatures get +1/+1.
+Nonwhite creatures get -1/-1.
+Pay 2 life: Return Crovax, Ascendant Hero to its owner's hand.","Crovax was destined for an angel's curse, but one warped timeline saw the noble redeemed.",4,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3945,Pulmonic Sliver,,Creature,Sliver,,,,,Time Spiral,Rare,Jeff Easley,,36,301,{3}{W}{W},"All Slivers have flying and ""If this creature would be put into a graveyard, you may put it on top of its owner's library instead.'","Like a great bellows it hisses, and its kin, both living and dead, are lifted to safety.",3,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3946,Retether,,Sorcery,,,,,,Planar Chaos,Rare,Dan Scott,,13,165,{3}{W},Return each Aura card from your graveyard to play. Only creatures can be enchanted this way. (Aura cards that can't enchant a creature in play remain in your graveyard.),"The rifts reach into infinite time streams, bringing the divergent products of alternate pasts into the present.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3947,Ajani Goldmane,,Planeswalker,Ajani,,,,,Lorwyn,Rare,Aleksi Briclot,,1,301,{2}{W}{W},,,,,,,,,,,,,,,,,+1,You gain 2 life.,-1,Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.,-6,"Put a white Avatar creature token into play with ""This creature's power and toughness are each equal to your life total.""",4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3948,Favor of the Mighty,,Tribal,Enchantment,Giant,,,,Lorwyn,Rare,Larry MacDougall,,14,301,{1}{W},Each creature with the highest converted mana cost has protection from all colors.,"""What does a mountain fear of a fly? Giants are barely aware of us, let alone afraid.""
+—Gaddock Teeg",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3949,Mirror Entity,,Creature,Shapeshifter,,,,,Lorwyn,Rare,Zoltan Boros,Gabor Szikszai,31,301,{2}{W},"Changeling (This card is every creature type at all times.)
+{X}: Creatures you control become X/X and gain all creature types until end of turn.","Unaware of Lorwyn's diversity, it sees only itself, reflected a thousand times over.",1,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3950,Preeminent Captain,,Creature,Kithkin,Soldier,,,,Morningtide,Rare,Greg Staples,,20,150,{2}{W},"First strike
+Whenever Preeminent Captain attacks, you may put a Soldier creature card from your hand into play tapped and attacking.","""If you need an example to lead others to the front lines, consider the precedent set.""",2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3951,Order of Whiteclay,,Creature,Kithkin,Cleric,,,,Shadowmoor,Rare,Steven Belledin,,16,301,{1}{W}{W},"{1}{W}{W}, {Q}: Return target creature card with converted mana cost 3 or less from your graveyard to play. ({Q} is the untap symbol.)
+","Made from the clay of burial mounds, the face paint of the priests is a sign of their respect for those whose rest the.y interrupt",1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3952,Divinity of Pride,,Creature,Spirit,Avatar,,,,Eventide,Rare,Greg Staples,,86,180,{W/B}{W/B}{W/B}{W/B}{W/B},"Flying, lifelink
+Divinity of Pride gets +4/+4 as long as you have 25 or more life.","""She spoke of mystery and portent, of such unfathomable things that my mind screamed for pity.""
+—The Seer's Parables",4,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3953,"Venser, the Sojourner",,Planeswalker,Venser,,,,,Scars of Mirrodin,Mythic,Eric Deschamps,,135,249,{3}{W}{U},,,,,,,,,,,,,,,,,+2,Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.,-1,Creatures are unblockable this turn.,-8,"You get an emblem with ""Whenever you cast a spell, exile target permanent",3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3954,Phyrexian Rebirth,,Sorcery,,,,,,Mirrodin Besieged,Rare,Scott Chou,,15,155,{4}{W}{W},"Destroy all creatures, then put an X/X colorless Horror artifact creature token onto the battlefield, where X is the number of creatures destroyed this way.","As long as one drop of the oil exists, the joyous work continues.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3955,White Sun's Zenith,,Instant,,,,,,Mirrodin Besieged,Rare,Mike Bierek,,19,155,{X}{W}{W}{W},Put X 2/2 white Cat creature tokens onto the battlefield. Shuffle White Sun's Zenith into its owner's library.,"After the Battle of Liet Field, the white sun crested above Taj-Nar, bringing hope to all who survived the carnage.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3956,Puresteel Paladin,,Creature,Human,Knight,,,,New Phyrexia,Rare,Jason Chan,,20,175,{W}{W},"Whenever an Equipment enters the battlefield under your control, you may draw a card.
+Metalcraft — Equipment you control have equip {0} as long as you control three or more artifacts.",,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3957,Aegis Angel,,Creature,Angel,,,,,M12,Rare,Aleksi Briclot,,1,249,{4}{W}{W},"Flying
+When Aegis Angel enters the battlefield, another target permanent is indestructible for as long as you control Aegis Angel. (Effects that say ""destroy"" don't destroy that permanent. An indestructible creature can't be destroyed by damage.",,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3958,Day of Judgment,,Sorcery,,,,,,M12,Rare,Vincent Proce,,12,249,{2}{W}{W},Destroy all creatures.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3959,Gideon Jura,,Planeswalker,Gideon,,,,,M12,Mythic,Aleksi Briclot,,16,249,{3}{W}{W},,,,,2,,,,,,,,,,,,+2,"During target opponent's next turn, creatures that player controls attack Gideon Jura if able.",-2,Destroy target tapped creature,0,"Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3960,Gideon's Avenger,,Creature,Human,Soldier,,,,M12,Rare,Randy Gallegos,,17,249,{1}{W}{W},"Whenever a creature an opponent controls becomes tapped, put a +1/+1 counter on Gideon's Avenger.","""The good don't sit and wait fo rthe evil to act. They prepare to defend. They prepare to punish.""",2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3961,Grand Abolisher,,Creature,Human,Cleric,,,,M12,Rare,Eric Deschamps,,19,249,{W}{W},"During your turn, your opponents can't cast spells or activate abilities or artifacts, creatures, or enchantments.","""Your superstitious and mumblings are useless chaff before my righteous.""",2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3962,Mesa Enchantress,,Creature,Human,Druid,,,,M12,Rare,Randy Gallegos,,25,249,{1}{W}{W},"Whenever you cast an enchantment spell, you may draw a card.","""Scholars seek to understand the way the world is. I wish to shape the world into what it should be.""",0,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3963,Nevermore,,Enchantment,,,,,,Innistrad,Rare,Jason A. Engle,,25,264,{1}{W}{W},"As Nevermore enters the battlefield, name a nonland card.
+The named card can't be cast.","""By the law of Avacyn, the following thoughts, words, and deeds are henceforth disallowed.""",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3964,Seance,,Enchantment,,,,,,Dark Ascension,Rare,David Rapoza,,20,158,{2}{W}{W},"At the beginning of each upkeep, you may exile target creature card from your graveyard. If you do, put a token onto the battlefield that's a copy of that card except it's a Spirit in addition to its other types. Exile it at the beginning of the next end step.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3965,Sudden Disappearance,,Sorcery,,,,,,Dark Ascension,Rare,Cliff Childs,,23,158,{5}{W},Exile all nonland permanents target player controls. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3966,Increasing Devotion,,Sorcery,,,,,,Dark Ascension,Rare,Daniel Ljunggren,,11,158,{3}{W}{W},"Put five 1/1 white Human creature tokens onto the battlefield. If Increasing Devotion was cast from a graveyard, put ten of those tokens onto the battlefield instead.
+Flashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3967,Angel of Glory's Rise,,Creature,Angel,,,,,Avacyn Restored,Rare,James Ryman,,1,244,{5}{W}{W},"Flying
+When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.","""Justice isn't done until undeath is undone.""",4,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3968,"Bruna, Light of Alabaster",Legendary,Creature,Angel,,,,,Avacyn Restored,Mythic,Winona Nelson,,208,244,{3}{W}{W}{U},"Flying, vigilance
+Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield any number of Aura cards that could enchant it from your graveyard and/or hand.",,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3969,Cathar's Crusade,,Enchantment,,,,,,Avacyn Restored,Rare,Karl Kopinski,,10,244,{3}{W}{W},"Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.",Avacyn's holy warriors kept hope alive in heir darkest hours. Now they will carry that hope across Innistrad.,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3970,Divine Deflection,,Instant,,,,,,Avacyn Restored,Rare,Steve Prescott,,18,244,{X}{W},"Prevent the next X damage that would be dealt to your and/or permanents you control this turn. If damage is prevented this way, Divine Deflection deals that much damage to target creature or player.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3971,Entreat the Angels,,Sorcery,,,,,,Avacyn Restored,Mythic,Todd Lockwood,,20,244,{X}{X}{W}{W}{W},"Put X 4/4 white Angel creature tokens with flying onto the battlefield.
+Miracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3972,Herald of War,,Creature,Angel,,,,,Avacyn Restored,Rare,Eric Deschamps,,24,244,{3}{W}{W},"Flying
+Whenever Herald of War attacks, put a +1/+1 counter on it.
+Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.",,3,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3973,Silverblade Paladin,,Creature,Human,Knight,,,,Avacyn Restored,Rare,Jason Chan,,36,244,{1}{W}{W},"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Silverblade Paladin is paired with another creature, both creatures have double strike.",,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3974,Deep-Sea Kraken,,Creature,Kraken,,,,,Time Spiral,Rare,Christopher Moeller,,56,301,{7}{U}{U}{U},"Deep-Sea Kraken is unblockable.
+Suspend 9—{2}{U}
+Whenever an opponent plays a spell, if Deep-Sea Kraken is suspended, remove a time counter from it.","The rift remained open for days, slicing ancient seawater. It closed only after the last great tentacle squimed its way through.",6,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3975,Nix,,Instant,,,,,,Futuresight,Rare,Brian Despain,,55,180,{U},Counter target spell if no mana was spent to play it.,"""There is no shortcut to work done true and well. The Creators learned this to their sorrow, the first time they made the world.""
+—Githri the Prisoner",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3976,Chronozoa,,Creature,Illusion,,,,,Planar Chaos,Rare,James Wong,,37,165,{3}{U},"Flying
+Vanishing 3 (This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Chronozoa is put into a graveyard from play, if it had no time counters on it, put two tokens into play that are copies of it.",,3,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3977,Surgespanner,,Creature,Merfolk,Wizard,,,,Lorwyn,Rare,Warren Mahy,,92,301,{2}{U}{U},"Whenever Surgespanner becomes tapped, you may pay {1}{U}. If you do, return target permanent ot its owner's hand.","They ride on waves of Aether, washing out anything that might pollute the Merrow Lanes.",2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3978,Mind Spring,,Sorcery,,,,,,Morningtide,Rare,Mark Zug,,41,150,{X}{U}{U},Draw X cards.,"Fragments of thought refract and multiply, surging in a geyser of dizzying insight.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3979,Argent Sphinx,,Creature,Sphinx,,,,,Scars of Mirrodin,Rare,Chris Rahn,,28,249,{2}{U}{U},"Flying
+Metalcraft — {U}: Exile Argent Sphinx. REturn it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.","A great mirage, a dream of wings and silver.",4,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3980,Consecrated Sphinx,,Creature,Sphinx,,,,,Mirrodin Besieged,Mythic,Mark Zug,,21,155,{4}{U}{U},"Flying
+Whenever an opponent draws a card, you may draw two cards..",Blessed by the hands of Jin-Gitaxias.,4,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3981,Chancellor of the Spires,,Creature,Sphinx,,,,,New Phyrexia,Rare,Nils Hamm,,31,175,{4}{U}{U}{U},"You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent puts the top seven cards of his or her library into his or her graveyard.
+Flying
+When Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.",,5,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3982,"Jace, Memory Adept",,Planeswalker,Jace,,,,,M12,Mythic,D. Alexander Gregory,,58,249,{3}{U}{U},,,,,4,,,,,,,,,,,,+1,Draw a card. Tarrget player puts the top card of his or her library  into his or her graveyard.,0,Target player puts the to pten cards of his or her library into his or her graveyard.,-7,Any number of target players each draw twenty cards.,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3983,Lord of the Unreal,,Creature,Human,Wizard,,,,M12,Rare,Jason Chan,,62,249,{U}{U},Illusion creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.),"""The dream does not end until I say so.""",2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3984,Mind Unbound,,Enchantment,,,,,,M12,Rare,Jason Felix,,68,249,{4}{U}{U},"At the beginning of your upkeep, put a lore counter on Mind Unbound, then draw a card for each lore counter on Mind Unbound.",The creations of the hadn are confined by reality. The creations of hte mind knowo no such limits.,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3985,Phantasmal Image,,Creature,Illusion,,,,,M12,Rare,Nils Hamm,,72,249,{1}{U},"You may hvae Phantasmal Image enter the battlefield as a copy of any creature on the battlefield, except it's an Illusion in addition to its other types and it gains ""When this creature becoems the target of a spell or ability, sacrifice it.""",,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3986,Redirect,,Instant,,,,,,M12,Rare,Izzy,,74,249,{U}{U},You may choose new targets for target spell.,"""It's actually quite simple, but since you've only recently begun to walk upright, it may take some time to explain.""
+—Jace Beleren, to Garruk Wildspeaker",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3987,Sphinx of Uthuun,,Creature,Sphinx,,,,,M12,Rare,Kekai Kotaki,,76,249,{5}{U}{U},"Flying
+When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",,5,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3988,Time Reversal,,Sorcery,,,,,,M12,Mythic,Howard Lyon,,77,249,{3}{U}{U},"Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. Exile Time Reversal.","""Any oaf can conquer a kingdom. It takes true power to conquer time.""
+—Shai Fusan, archmage",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3989,Back from the Brink,,Enchantment,,,,,,Innistrad,Rare,Anthony Palumbo,,44,264,{4}{U}{U},Exile a creature card from your graveyard and pay its mana cost: Put a token onto hte battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery.,"On Innistrad, death is just a career change.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3990,Beguiler of Wills,,Creature,Human,Wizard,,,,Dark Ascension,Mythic,Eric Deschamps,,28,158,{3}{U}{U},{T}: Gain control of target creature with power less than or equal to the number of creatures you control.,"""Come, let me free you of the tyranny of thought.""",1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3991,Havenguul Runebinder,,Creature,Human,Wizard,,,,Dark Ascension,Rare,Bud Cook,,39,158,{2}{U}{U},"{2}{U}, {T}, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield, then put a +1/+1 counter on each Zombie creature you control.","""So many corpses, so little time.""",2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3992,Ludevic's Test Subject,,Creature,Lizard,,,,,Innistrad,Rare,Nils Hamm,,64a,264,{1}{U},"Defender
+{1}{U}: Put a hatchling counter on Ludevic's Test Subject. THen if there are five or more hatchling counters on it, remove all of them and transform it.",,0,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,Ludevic's Abomination,Creature,Lizard,Horror,,Trample,"After several frustrating experiments, th evisionary Ludevic realized he needed to create a monster that fed on torch-wielding mobs.",13,13,,,,,,,,,,,,,,,,,,,,,
+3993,Mirror-Mad Phantasm,,Creature,Spirit,,,,,Innistrad,Mythic,Howard Lyon,,68,264,{3}{U}{U},"Flying
+{1}{U}: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.",,5,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3994,Arcane Melee,,Enchantment,,,,,,Avacyn Restored,Rare,Jaime Jones,,44,244,{4}{U},Instant and sorcery spells cost {2} less to cast.,Debates between wizards are never purely academic.,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3995,Captain of the Mists,,Creature,Human,Wizard,,,,Avacyn Restored,Rare,Allen Williams,,45,244,{2}{U},"Whenever another Human enters the battlefield under your control, untap Captain of the Mists.
+{1}{U}, {T}: You may tap or untap target permanent.","""I am no more ship's captain. The north wind is my accomplice. The tide is my first mate.""",2,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3996,Devastation Tide,,Sorcery,,,,,,Avacyn Restored,Rare,Raymond Swanland,,48,244,{3}{U}{U},"Return all nonland permanents to their owner's hands.
+Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",It's hard to argue with a force made of distant will.,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3997,Lone Revenant,,Creature,Spirit,,,,,Avacyn Restored,Rare,Jaime Jones,,64,244,{3}{U}{U},"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",,4,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3998,Misthollow Griffin,,Creature,Griffin,,,,,Avacyn Restored,Mythic,Jaime Jones,,68,244,{2}{U}{U},"Flying
+You may cast MIsthollow Grififn from exile.","For some creatures, existing is only a whim.",3,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3999,Spirit Away,,Enchantment,Aura,,,,,Avacyn Restored,Rare,Greg Staples,,76,244,{5}{U}{U},"Enchant creature
+You control enchanted creature.
+Enchanted creature gets +2/+2 and has flying.",The fear of slipping from the geist's tenuous grip overwhelmed Tolo's joy at his first flight.,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4000,Stolen Goods,,Sorcery,,,,,,Avacyn Restored,Rare,Anthony Francisco,,78,244,{3}{U}{U},"Target opponent exiles cards from the top of his or her library until end of turn, you may cast that card without paying its mana cost.",,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4001,"Tamiyo, the Moon Sage",,Planeswalker,Tamiyo,,,,,Avacyn Restored,Mythic,Eric Deschamps,,79,244,{3}{U}{U},,,,,,,,,,,,,,,,,+1,Tap target permanent. It doesn't untap during its controller's untap step.,-2,Draw a card for each tapped creature target player controls.,-8,"You get an emblem with ""You have no maximum hand size"" and ""Whenever a card is put into your graveyard from anywhere, you may return it to your hand.""",4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4002,Magus of the Mirror,,Creature,Human,Wizard,,,,Time Spiral,Rare,Christopher Moeller,,116,301,{4}{B}{B},"{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Play this ability only during your upkeep.","""Behold! the image of the enemy and all that she has. Trust your enemy and all that she has. Trust your envy, and take it.""",4,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4003,Magus of the Abyss,,Creature,Human,Wizard,,,,Futuresight,Rare,Kev Walker,,70,180,{3}{B},"At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.",,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4004,"Korlash, Heir to Blackblade",Legendary Creature,Zombie,Warrior,,,,,Futuresight,Rare,Daarken,,87,180,{2}{B}{B},"Korlash, Heir to Blackblade's power and toughness are each equal to the number of Swamps you control.
+{1}{B}: Regenerate Korlash.
+Grandeur — Discard another card named Korlash, Heir to the Blackblade: Search your library for up to two Swamp cards, put them into play tapped, then shuffle your library.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4005,Null Profusion,,Enchantment,,,,,,Planar Chaos,Rare,Kev Walker,,89,165,{4}{B}{B},"Skip your draw step.
+Whenever you play a card, draw a card.
+Your maximum hand size is two.","""Some say that time is cyclical and the history inevitably repeats. My will is my own. I Won't bow to fate.""
+—Volrath",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4006,"Ashling, the Extinguisher",Legendary,Creature,Elemental,Shaman,,,,Eventide,Rare,Wayne Reynolds,,33,180,{2}{B}{B},"Whenever Ashling, the Extinguisher deals combat damage to a player, chose target creature that player controls. He or she sacrifices that creature.",The Aurora had transformed her into a relentless force of destruction.,4,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4007,Memoricide,,Sorcery,,,,,,Scars of Mirrodin,Rare,James Ryman,,69,249,{3}{B},"Name a nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then taht player shuffles his or her library.","""You claim wisdom, yet I see nothing in here but tawdry wishes.""",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4008,Painful Quandary,,Enchantment,,,,,,Scars of Mirrodin,Enchantment,Whit Brachna,,73,249,{3}{B}{B},"Whenever an opponent casts a spell, that player loses 5 life unless he or she discards a card.","""For each word spoken, one forgotten. For each thought, a memory rotten.""
+—Moriok incantation",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4009,Bloodlord of Vaasgoth,,Creature,Vampire,Warrior,,,,M12,Mythic,Greg Staples,,82,249,{3}{B}{B},"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+Flying
+Whenever you cast a Vampire creature spell, it gains bloodthirst 3.",,3,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4010,Monomania,,Sorcery,,,,,,M12,Rare,James Ryman,,102,249,{3}{B}{B},Target player chooses a card in his or her hand and discards the rest.,"""What do vermin cling to when all hope is lost?""
+—Sorin Markov",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4011,Rune-Scarred Demon,,Creature,Demon,,,,,M12,Rare,Michael Komarck,,106,249,{5}{B}{B},"Flying
+When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library.",The litany of the infernal on his flesh pulses to the beating of his dark heart.,6,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4012,Sorin Markov,,Planeswalker,Sorin,,,,,M12,Mythic,Michael Komarck,,109,249,{3}{B}{B},,,,,,,,,,,,,,,,,+2,Sorin Markov deals 2 damage to target creature or player adn you gain 2 life.,-3,Target opponent's life total becomes 10.,-7,You contol target player during that player's next turn.,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4013,Curse of Misfortunes,,Enchantment,Aura,Curse,,,,Dark Ascension,Rare,Terese Nielsen,,56,158,{4}{B},"Enchant player
+At the beginning of your upkeep, you may search your library for a Curse card that doesnn't have the same name as a Curse attaached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4014,"Mikaeus, the Unhallowed",Legendary,Creature,Zombie,Cleric,,,,Dark Ascension,Mythic,Chris Rahn,,70,158,{3}{B}{B}{B},"Intimidate
+Whenever a Human deals damage to you, destroy it.
+Other non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
+",,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4015,Reaper from the Abyss,,Creature,Demon,,,,,Innistrad,Mythic,Matt Stewart,,112,264,{3}{B}{B}{B},"Flying
+Morbid — At the beginning of each end step, if a reature died this turn, destroy target non-Demon creature.","""Avacyn has deserted you. I welcome your devotion in her stead.""",6,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4016,Dark Impostor,,Creature,Vampire,Assassin,,,,Avacyn Restored,Rare,Johannes Voss,,92,244,{2}{B},"{4}{B}{B}: Exile target creature and put a +1/+1 counter on Dark Impostor.
+Dark Impostor has all activated abilities of all creature cards exiled with it.","""Ah this is a nice life. I can see why you were so desperate ot keep it.""",2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4017,Descent into Madness,,Enchantment,,,,,,Avacyn Restored,Mythic,Anthony Francisco,,97,244,{3}{B}{B},"At the beginning of your upkeep, put a despair counter on Descent into Madness, then each player exiles X permanents he or she controls and/or cards from his or her hand, where X is the number of despair counters on Descent into Madness.",The stairs lead down in both directions.,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4018,Demonic Rising,,Enchantment,,,,,,Avacyn Restored,Rare,Trevor Claxton,,94,244,{3}{B}{B},"At the beginning of your eend step, if you contol exactly one creature, put a 5/5 black Demon creature token with flying onto the battlefield.","Which is the greater folly, summoning the demon or expecting gratitude from it?",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4019,Dread Slaver,,Creature,Zombie,Horror,,,,Avacyn Restored,Rare,Dave Kendall,,98,244,{3}{B}{B},"Whenever a creature dealt damage by Dread Slaver this turn dies, return it to the battlefield under your control. That creature is a  black Zombie in addition to its other colors and types.",Half a brain rules the mindless.,3,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4020,Exquisite Blood,,Enchantment,,,,,,Avacyn Restored,Rare,Cynthia Sheppard,,102,244,{4}{B},"Whenever an opponent loses life, you gain that much life.","Even as humans regained the upper hand, some stil willingly traded their lives for a chance at immortality.",,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4021,Gloom Surgeon,,Creature,Spirit,,,,,Avacyn Restored,Rare,Volkan Baga,,104,244,{1}{B},"If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.",He roams the streets of Havengul seeking the sick and delirious so that he may cure them of their lives.,2,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4022,Griselbrand,Legendary,Creature,Demon,,,,,Avacyn Restored,Rare,Igor Kieryluk,,106,244,{4}{B}{B}{B}{B},"Flying, lifelink
+Pay 7 life: Draw seven cards.","""Avacyn emerged from the broken Helvault, but her freedom came at a price—him.""
+—Thalia, Knight-Cathar",7,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4023,Harvester of Souls,,Creature,Demon,,,,,Avacyn Restored,Rare,Slawomir Maniak,,107,244,{4}{B}{B},"Deathtouch
+Whenever another nontoken creature dies, you may draw a card.","""He is judge, jury and executioner because he killed them all.""
+—Bishop Cawle of Elgaud",5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4024,Killing Wave,,Sorcery,,,,,,Avacyn Restored,Rare,Steve Argyle,,111,244,{X}{B},"For each creature, its controller sacrifices it unless he or she pays X life.","""I come looking for the demons and I find a plane full of angels. I hate angels.""
+—Liliana Vess",,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4025,Treacherous Pit-Dweller,,Creature,Demon,,,,,Avacyn Restored,Rare,Svetlin Velinov,,121,244,{B}{B},"When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to hte battlefield under its owner's control. with a +1/+1 counter on it.)",,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4026,Fortune Thief,,Creature,Human,Rogue,,,,Time Spiral,Rare,Christopher Moeller,,156,301,{4}{R},"Damage that would reduce your life total to less than 1 reduces it to 1 instead.
+Morph {R}{R} (You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4027,Greater Gargadon,,Creature,Beast,,,,,Time Spiral,Rare,Rob Alexander,,161,301,{9}{R},"Suspend 10—{R}
+Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Play this ability only if Greater Gargadon is suspended.",,9,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4028,Fatal Frenzy,,Instant,,,,,,Planar Chaos,Rare,Steve Ellis,,98,165,{2}{R},"Until end of turn, target creature you control gains trample and gets +X/+0, where X is its power. Sacrifice it at end of turn.","""I hope to have such a death—lying in triumph upon the broken bodies of those who slew me.""
+—Radha, Keldon warlord",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4029,Molten Firebird,,Creature,Phoenix,,,,,Planar Chaos,Rare,Christopher Moeller,,117,165,{4}{R},"Flying
+When Molten Firebird is put into a graveyard from play, return it to play under its owner's cotnrol at end of turn and you skip your next draw step.
+{4}{R}: Remove Molten Firebird from the game.",,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4030,"Ashling, the Pilgrim",Legendary,Creature,Elemental,Shaman,,,,Lorwyn,Rare,Wayne Reynolds,,149,301,{1}{R},"{1}{R}: Put a +1/+1 counter on Ashling the Pilgrim. If this is the third time this ability has resolved this turn, remove all +1/+1 counters from Ashling the Pilgrim and it deals that much damage to each creature and each player.",,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4031,Brion Stoutarm,Legedary,Creature,Giant,Warrior,,,,Lorwyn,Rare,Zoltan Boros,Gabor Szikszai,246,301,{2}{R}{W},"Lifelink (Whenever this creature deals damage, you gain that much life.)
+{R}, {T}, Sacrifice a creature other than Brion Stoutarm: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player.",,4,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4032,Chandra Nalaar,,Planeswalker,Chandra,,,,,Lorwyn,Rare,Aleksi Briclot,,159,301,{3}{R}{R},,,,,1,,,,,,,,,,,,+1,Chandra Nalaar deals 1 damage to target player.,-X,Chandra Nalaar deals X damage to target creature.,-8,Chandra Nalaar deals 10 damage to target player and each creature he or she controls.,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4033,Incandescent Soulstoke,,Creature,Elemental,Shaman,,,,Lorwyn,Rare,Todd Lockwood,,128,301,{2}{R},"Other Elemental creatures you contorl get +1/+1.
+{1}{R}, {T}: You may put an Elemental creature card from your hand into play. That creature gains haste until end of turn. Sacrifice it at end of turn.",,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4034,Incendiary Command,,Sorcery,,,,,,Lorwyn,Rare,Wayne England,,179,301,{3}{R}{R},"Choose two — Incendiary Command deals 4 damage to target player; or Incendiary Command deals 2 damage to each creature; or destroy target nonbasic land; or each playery discards all the cards in his or her hand, then draws that many cards.",,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4035,Lightning Crafter,,Creature,Goblin,Shaman,,,,Morningtide,Rare,Dan Scott,,93,150,{3}{R},"Champion a Goblin or Shaman (When this comes into play, sacrifice it unless you remove another Goblin or Shaman you control from the game. When this leaves play, that card returns to play.)
+{T}: Lightning Crafter deals 3 damage to target creature or player.",,3,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4036,Balefire Liege,,Creature,Spirit,Horror,,,,Eventide,Rare,Ralph Horsley,,132,180,{2}{R/W}{R/W}{R/W},"Other red creatures you control get +1/+1.
+Other white creatures you control get +1/+1.
+Whenever you play a red spell, Balefire Liege deals 3 damage to target player.
+Whenever you play a white spell, you gain 3 life.",,2,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4037,Nobilis of War,,Creature,Spirit,Avatar,,,,Eventide,Rare,Christopher Moeller,,144,180,{R/W}{R/W}{R/W}{R/W}{R/W},"Flying
+Attacking creatures you control get +2/+0.","""A great siege is a banquet to him; a long and terrible battle, the most exquisite delicacy.""
+—The Seer's Parables",3,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4038,Rise of the Hobgoblins,,Enchantment,,,,,,Eventide,Rare,Jiff Miracola,,145,180,{R/W}{R/W},"When Rise of the Hobgoblins comes into play, you may pay X. If you do, put X 1/1 red and white Goblin Soldier creature tokens into play.
+{R/W}: Red creatures and white creatures you control gain first strike until end of turn.",A river even the merrow dare not cross.,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4039,Cerebral Eruption,,Sorcery,,,,,,Scars of Mirrodin,Rare,Kev Walker,,86,249,{2}{R}{R},"Target opponent reveals the top card of his or her library. Cerebral Eruption deals damage equal to the revealed card's converted mana cost to that player and each creautre he or she controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4040,Molten Psyche,,Sorcery,,,,,,Scars of Mirrodin,Rare,Ryan Yee,,98,249,{1}{R}{R},"Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+Metalcraft — If you control three or more artifacts, Molten Psyche deals damage to each opponent equal to the number of cards that player has drawn this turn.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4041,Hellkite Igniter,,Creature,Dragon,,,,,Mirrodin Besieged,Rare,Jason Chan,,65,155,{5}{R}{R},"Flying, haste
+{1}{R}: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.",It's flight sets the sky itself on fire.,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4042,Hero of Oxid Ridge,,Creature,Human,Knight,,,,Mirrodin Besieged,Mythic,Eric Deschamps,,66,155,{2}{R}{R},"Haste
+Battle cry (Whenever this creature atacks, each other attacking creature gets +1/+0 until end of turn.)
+Whenever Hero of Oxid Ridge attacks, creatures with power 1 or less can't block this turn.",,4,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4043,Bludgeon Brawl,,Enchantment,,,,,,New Phyrexia,Rare,Kev Walker,,80,175,{2}{R},"Each noncreature, non-Equipment artifact is an Equipment with equip {X} and ""Equipped creautre gets +X/+0,"" where X is that artifact's converted mana cost.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4044,Chancellor of the Forge,,Creature,Giant,,,,,New Phyrexia,Rare,Chippy,,81,175,{4}{R}{R}{R},"You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield.
+When Chancellor of the Forge enters the battlefield, put aX 1/1 red Goblin creature tokens with haste onto the battlefield, where X is the number of creatures you control.",,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4045,"Jor Kadeen, the Prevailer",Legendary,Creature,Human,Warrior,,,,New Phyrexia,Rare,Austin Hsu,,128,175,{3}{R}{W},"First strike
+Metalcraft — Creatures you control get +3+0 as long as you control three or more artifacts.","""As long as my hand holds a blade, there's hope for a pure Mirrodin once again.""",5,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4046,Chandra's Phoenix,,Creature,Phoenix,,,,,M12,Rare,Aleksi Briclot,,126,249,{1}{R}{R},"Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.
+",,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4047,Furyborn Hellkite,,Creature,Dragon,,,,,M12,Mythic,Brad Rigney,,135,249,{4}{R}{R}{R},"Bloodthirst 6 (If an opponent was dealt damage this turn, this creature enters the battlefield with six +1+1 counters on it.)
+Flying","""Careful, A drop of blood here means death for us all.""
+—Kalek, mountain guide",6,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4048,Reverberate,,Instant,,,,,,M12,Rare,jD,,152,249,{R}{R},Copy target instant or sorcery spell. You may choose new targets for the copy.,"For every action, there is a swifter and more violent reaction.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4049,Curse of Stalked Prey,,Enchantment,Aura,Curse,,,,Innistrad,Rare,,,136,264,{1}{R},"Enchant player
+Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.","""Innocent thorns can fill the air with your blooodscent. Don't stray from the path.""
+—Elmut, crossway watcher",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4050,Kruin Outlaw,,Creature,Human,Rogue,Werewolf,,,Innistrad,Rare,,,152,264,{1}{R}{R},"First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.","""Hold tight. I've got a surprise for them.""",2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,Terror of Kruin Pass,Creature,Werewolf,,,"Double strike
+Each Werewolf you control can't be blocked except by two or more creatures.
+At the beginning of each upkeep, if a player cast two or more spells last turn, trasnform Terror of Kruin Pass.",,3,3,,,,,,,,,,,,,,,,,,,,,
+4051,Stormkirk Noble,,Creature,Vampire,,,,,Innistrad,Rare,,,164,264,{R},"Stormkirk Noble can't be blocked by Humans.
+Whenever Stormkirk Noble deals combat damage to a player, put a +1/+1 counter on it.","""A responsible king walks among his subjects.""",1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4052,Hellrider,,Creature,Devil,,,,,Dark Ascension,Rare,,,93,158,{2}{R}{R},"Haste
+Whenever a creature you control attacks, Hellrider deals 1 damage to defending player.","""Behind every devil's mayhem lurks a demon's scheme.""
+—Ron Karolus, Blade of the Inquisitors.",3,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4053,Markov Blademaster,,Creature,Vampire,Warrior,,,,Dark Ascension,Rare,,,96,158,{1}{R}{R},"Double strike
+Whenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it.","""Mortals practice swordplay for a few decades at best. How can they ever attaiin the exquisite mastery that eternity has to offer?""",1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4054,"Gisela, Blade of Goldnight",Legendary,Creature,Angel,,,,,Avacyn Restored,Mythic,,,209,244,{4}{R}{W}{W},"Flying, first strike
+If a soruce would deal damage to an opponent or a permanent an opponent controls, taht source deals double that damage to that player or permanent instead.
+If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.",,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4055,Hound of Griselbrand,,Creature,Elemental,Hound,,,,Avacyn Restored,Rare,,,141,244,{2}{R}{R},"Double strike
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to hte battlefield under its owner's control with a +1/+1 counter on it.)",,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4056,Reforge the Soul,,Sorcery,,,,,,Avacyn Restored,Rare,Jaime Jones,,151,244,{3}{R}{R},"Each player discards his or her hand and draws seven cards.
+Miracle {1}{R} (You may cast this card for its miracle cost when you draw it if its's the first card you drew this turn.","In a wave of spells called the Cursemute, Avacyn cleansed the world with divine fire.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4057,Rite of Ruin,,Sorcery,,,,,,Avacyn Restored,Rare,Clint Cearley,,153,244,{5}{R}{R},"Choose an order for artifacts, creatures, and lands. Each player sacrifices one permanent of hte first type, sacrifices two of the second type, then sacrifices three of the third type.",Skirsdag cultists refused to quietly accept Avacyn's ascendancy.,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4058,Tyrant of Discord,,Creature,Elemental,,,,,Avacyn Restored,Rare,Richard Wright,,162,244,{4}{R}{R}{R},"When Tyrant of Discord enters the battlefield, target opponent chooses a permanent he or she controls at radom and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process.",,7,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4059,"Tibalt, the Fiend Blooded",,Planeswalker,Tibalt,,,,,Avacyn Restored,Mythic,Peter Mohrbacher,,161,244,{R}{R},,,,,,,,,,,,,,,,,+1,"Draw a card, then discard a card at random",-4,"Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.",-6,Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4060,Vexing Devil,,Creature,Devil,,,,,Avacyn Restored,Rare,Lucas Graciano,,164,244,{R},"When Vexing Devil enters the battlefield, any opponent may have it deal 4 damage to him or her. If a player does, sacrifice Vexing Devil.",It's not any fun until someone loses an eye.,4,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4061,Magus of the Candelabra,,Creature,Human,Wizard,,,,Time Spiral,Rare,Terese Nielsen,,203,301,{G},"{X}, {T}: Untap X target lands.","""What would Urza think, I wonder, if he could hear how the nature mages still snarl at his name, but venerate the work of his apprentice?""
+—Teferi, to Jhoira",1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4062,Thelonite Hermit,,Creature,Elf,Shaman,,,,Time Spiral,Rare,Chippy,,228,301,{3}{G},"All Saprolings get +1/+1.
+Morph 3GG (You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Thelonite Hermit is turned face up, put four 1/1 green Saproling creature tokens into play.",,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4063,Creeping Corrosion,,Sorcery,,,,,,Mirrodin Besieged,Rare,Ryan Pancoast,,78,155,{2}{G}{G},Destroy all artifacts,"""We will reveal the futility of their heresy by showing them how fragile their relics are.""
+—Vorinlex, Voice of Hunger",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4064,Fresh Meat,,Instant,,,,,,New Phyrexia,Rare,Dave Allsop,,109,175,{3}{G},Put a 33 green Beast creature token onto the battlefield fr each creature put into your graveyard from the battlefield this turn.,A scavenger's favorite appetizer is death.,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4065,Phyrexian Swarmlord,,Creature,Insect,Horror,,,,New Phyrexia,Rare,Svetlin Velinov,,119,175,{4}{G}{G},"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+At the beginning of your upkeep, put a 1/1 green Insect creature token with infect onto the batttlefield for each poison counter your opponents have.",,4,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4066,Arcachnus Spinner,,Creature,Spider,,,,,M12,Rare,Karl Kopinski,,162,249,{5}{G},"Reach (This creature can block creautres with flying.)
+Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle it.",,5,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4067,Birds of Paradise,,Creature,Bird,,,,,M12,Rare,Marcelo Vignali,,165,249,{G},"Flying
+{T}: Add one mana of any color to your mana pool.","""The gods used their feathers to paint all the colors of the world.""
+—Yare-Tiva, warden of Gramur forest",0,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4068,Doubling Chant,,Sorcery,,,,,,M12,Rare,Wayne England,,17,249,{5}{G},"For each creature you control, you may search your library for a creature card with the same name as that creature. Put those cards onto the battlefield, then shuffle your library.",What's scarier than one of every beast in the forest?,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4069,Rites of Flourishing,,Enchantment,,,,,,M12,Rare,Brandon Kitkouski,,192,249,{2}{G},"At the beginning of each player's draw step, that player draws an additional card.
+Each player may play an additional land on each of his or her turns.","""Dance, and bring forth the coil! It is an umbilical to Gaea herself, fatteing us with the earth's rich bounty.""",,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4070,Creeping Renaissance,,Sorcery,,,,,,Innistrad,Rare,Tomasz Jedruszek,,174,264,{3}{G}{G},"Choose a permanent type. Return all cards of the chosen type from your graveyard to yoru hand.
+Flashback {5}{G}{G} (You  may cast this card from your graveyard for its flashback cost. Then exile it.)",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4071,Daybreak Ranger,,Creature,Human,Archer,Werewolf,,,Innistrad,Rare,Steve Prescott,,176,264,{2}{G},"{T}: Daybreak Ranger deals 2 damage to target creature with flying.
+At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.",,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,Nightfall Predator,,Creature,Werewolf,,"{R}, {T}: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)
+At the beginning of each upkep, if a player cast two or more spells last turn, transform Nightfall Predator.",,4,4,,,,,,,,,,,,,,,,,,,,,
+4072,Feed the Pack,,Enchantment,,,,,,Dark Ascension,Rare,Steve Prescott,,114,158,{5}{G},"At the beginning of your end step, you may sacrifice a nontoken creature. If you do, put aX 2/2 green Wolf creature tokens onto the battlefield, where X is the sacrificed creature's toughness.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4073,Lost in the Woods,,Enchantment,,,,,,Dark Ascension,Rare,Matt Stewart,,123,158,{3}{G}{G},"Whenever a creature attacks you or a planeswalker you control, reveal the top card of your library. If it's a Forest card, remove that creature from combat. Then put the revealed card on the bottom of your library.",,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4074,Champion of Lambholt,,Creature,Human,Warrior,,,,Avacyn Restored,Rare,Christopher Moeller,,171,244,{1}{G}{G},"Creatures with power less than Champion of Lambholt's power can't block creatures you control.
+Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.",,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4075,Druid's Repository,,Enchantment,,,,,,Avacyn Restored,Rare,Daarken,,176,244,{1}{G}{G},"Whenever a creature you control attacks, put a charge counter on Druids' Repository.
+Remove a charge counter from Druids' Repository: Add one mana of any color to your mana pool.",,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4076,Revenge of the Hunted,,Sorcery,,,,,,Avacyn Restored,Rare,Christopher Moeller,,191,244,{4}{G}{G},"Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.
+Miracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4077,Somberwald Sage,,Creature,Human,Druid,,,,Avacyn Restored,Rare,Steve Argyle,,194,244,{2}{G},{T}: Add three mana of any one color to your mana pool. Spend this mana only to cast creature spells.,"""You can face any danger when all of nature is on your side.""",0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4078,Soul of the Harvest,,Creature,Elemental,,,,,Avacyn Restored,Rare,Eytan Zana,,195,244,{4}{G}{G},"Trample
+Whenever another nontoken creature enters the battlefield under your control, you may draw a card.","It's there when seed sprouts, when gourds ripen on the vines, and when the reapers cut the grains under the Harvest Moon.",6,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4079,Ulvenwald Tracker,,Creature,Human,Shaman,,,,Avacyn Restored,Rare,Christopher Moeller,,200,244,{G},"{1}{G}, {T}: Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)","""Peace will come to Innistrad, but only after all abominations have been dealt with, one by one.""",1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4080,"Sarpadian Empires, Vol. VII",,Artifact,,,,,,Time Spiral,Rare,Doug Chaffee,,263,301,{3},"As Sarpadian Empires, Vol. VII comes into play, choose white Citizen, blue Camarid, black Thrull, red Goblin, or green Saproling.
+{3}, {T}: Put a 1/1 creature token of the chosen color and type into play.","he past still lives within its pages, waiting for its time to come again.",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4081,Stuffy Doll,,Artifact,Creature,Construct,,,,Time Spiral,Rare,Dave Allsop,,264,301,{5},"As Stuffy Doll comes into play, choose a player.
+Stuffy Doll is indestructible.
+Whenever damage is dealt to Stuffy Doll, it deals that much damage to the chosen player.
+{T}: Stuffy Doll deals 1 damage to itself.",,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4082,Akroma's Memorial,Legendary,Artifact,,,,,,Futuresight,Rare,Dan Scott,,159,180,{7},"Creatures you contorl have flying, first strike, vigilance, trample, haste, protection from black, and protection from red.","""No rest, No mercy. No matter what.""
+—Memorial inscription",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4083,Darksteel Juggernaut,,Artifact,Creature,Juggernaut,,,,Scars of Mirrodin,Rare,Randis Albion,,150,249,{5},"Darksteel Juggernaut's power and toughness are each equal to the numebr of artifacts you control
+Darksteel Juggernaut is indestructible and attacks each turn if able.","One part unstoppable force, one part immovable object.",X,X,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4084,Lux Cannon,,Artifact,,,,,,Scars of Mirrodin,Mythic,Martina Pilcerova,,173,249,{4},"{T}: Put a charge counter on Lux Cannon.
+{T}, Remove three charge counters from Lux Cannon: Destroy target permanent.",There are few problems that can't be solved by putting a hole in the world.,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4085,Myr Battlesphere,,Artifact,Creature,Myr,Construct,,,Scars of Mirrodin,Rare,Franz Vohwinkel,,180,249,{7},"When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creatures tokens onto the battlefield.
+Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.
+",,4,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4086,Strata Scythe,,Artifact,Equipment,,,,,Scars of Mirrodin,Rare,Scott Chou,,206,249,{3},"Imprint — When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library.
+Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card.
+Equip {3}",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4087,Bonehoard,,Artifact,Equpiment,,,,,Mirrodin Besieged,Rare,Chippy,,100,155,{4},"Living weapon (When this Equipment enters the battlefield, pu ta 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards.
+Equip {2}
+",,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4088,Myr Welder,,Artifact,Creature,Myr,,,,Mirrodin Besieged,Rare,Austin Hsu,,118,155,{3},"Imprint — {T}: Exile target artifact card from a graveyard.
+Myr Welder has all ativated abilities of all cards exiled with it.",Memnarch designed some myr to follow the levelers and reaffix lost parts. Mirran partisans put that instinct to good use.,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4089,Psychosis Crawler,,Artifact,Creature,Horror,,,,Mirrodin Besieged,Rare,Stephan Martiniere,,126,155,{5},"Psychosis Crawler's power and toughness are each equla to the number of cards in your hand.
+Whenever you draw a card, each opponent loses 1 life.","""If that brain can't figure out hte secret of the serum, then add more brains.""
+—Rhmir, Hand of the Augur",X,X,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4090,Thopter Assembly,,Artifact,Creature,Thopter,,,,Mirrodin Besieged,Rare,Volkan Baga,,140,155,{6},"Flying
+At the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Asssembly to its owner's hand and put five 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.",,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4091,Titan Forge,,Artifact,,,,,,Mirrodin Besieged,Rare,Svetlin Velinov,,141,155,{3},"{3}, {T}: Put a charge counter on Titan Forge.
+{T}, Remove three charge counters from Titan Forge: Put a 9/9 colorless Golem artifact creature token ont the battlefield.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4092,Myr Superion,,Artifact,Creature,Myr,,,,New Phyrexia,Rare,Jana Schirmer,Johannes Voss,146,175,{2},Spend only mana produced by creatures to cast Myr Superion.,Two kinds of myr survive: the powerful and those that stay close by them.,5,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4093,Norn's Annex,,Artifact,,,,,,New Phyrexia,Rare,James Paick,,17,175,{3}{W/P}{W/P},"({W/P} can be paid with either {W} or 2 life.)
+Creatures can't attack you or a planeswalker you control unless their controller pays {W/P} for each of those creatures.",,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4094,Unwinding Clock,,Artifact,,,,,,New Phyrexia,Rare,Mike Bierek,,164,175,{4},Untap all artifacts you control during each other player's untap step.,"""The partisans have unearthed a strange artifact. None know its origin, but it gives the hope of a life beyond.""
+—Elspeth's journal",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4095,Druidic Satchel,,Artifact,,,,,,M12,Rare,Matt Stewart,,207,249,{3},"{2}, {T}: Reveal the top card of your library. If it's a creature card, put a 1/1 green Saproling creature token onto the battlefield. If it's a land card, put that card onto the battlefield under your control. If it's a noncreature nonland card, you gain 2 life.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4096,Pentavus,,Artifact,Creature,Construct,,,,M12,Rare,Greg Staples,,213,249,{7},"Pentavus enters the battlefield with five +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavit artifact creature token with fllying onto the battlefield.
+{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.
+",,0,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4097,Throne of Empires,,Artifact,,,,,,M12,Rare,John Avon,,221,249,{4},"{1}, {T}: Put a 1/1 white Soldier creature token onto the battlefield. Put five of those tokens onto the battlefield instead if you control artifacts named Crown of Empires and Scepter of Empires.","""With this thone, unite your nation.""
+—Throne inscription",,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4098,Worldslayer,,Artifact,Equipment,,,,,M12,Rare,Greg Staples,,222,249,{5},"Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.
+Equip {5} ({5}: Attach to target creature you contorl. Equip only as a sorcery.)","""If that is what you sseek, try looking in craters.""
+—Fodrus, mastersmith",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4099,"Elbrus, the Binding Blade",Legendary,Artifact,Equipment,,,,,Dark Ascension,Mythic,Eric Deschamps,,147,158,{7},"Equipped creature gets +1/+0.
+When equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.
+Equip {1}",Those who grasp its hilt soon hear the demon's call.,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,Withengar Unbound,Legendary,Creature,Demon,,"Flying, intimidate, trample
+Whenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",There are not enough lives on Innistrad to satisfy his thirst for retribution.,13,13,,,,,,,,,,,,,,,,,,,,,
+4100,"Teneb, the Harvester",Legendary,Creature,Dragon,,,,,Planar Chaos,Rare,Zoltan Boros,Gabor Szikszai,163,165,{3}{G}{W},"Flying
+Whenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do put a target creature card in a graveyard into play under your control.",,6,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4101,Conjurer's Closet,,Artifact,,,,,,Avacyn Restored,Rare,Jason Felix,,214,244,{5},"At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.","""Tomorrow wears yesterday's face.""
+—Kordel the Cryptic",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4102,Moonsilver Spear,,Artifact,Equipment,,,,,Avacyn Restored,Rare,James Paick,,217,244,{4},"Equipped creature has first strike.
+Whenever equipped creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield.
+Equip {4}",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4103,Otherworld Atlas,,Artifact,,,,,,Avacyn Restored,Rare,Sam Wolfe Connelly,,219,244,{4},"{T}: Put a charge counter on Otherworld Atlas.
+{T}: Each player draws a card for each charge counter on Otherworld Atlas.","""Any fool can open it. But it takes a genius to decipher the blank pages.""
+—Kordel the Cryptic",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4104,Kher Keep,Legendary,Land,,,,,,Time Spiral,Rare,Parente,,275,301,,"{T}: Add {1} to your mana pool.
+{1}{R}, {T}: Put a 0/1 red Kobold creature token named Kobolds of Kher Keep into play.","""They're still here?! The cockroach may have finally met its match.""
+—Teferi",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4105,Contested War Zone,,Land,,,,,,Mirrodin Besieged,Rare,Scott Chou,,144,155,,"Whenever a creature deals combat damage to you, that creature's controller gains control of Contested War Zone.
+{T}: Add {1} to your mana pool.
+{1}: {T}: Attacking creatures get +1/+0 until end of turn.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4106,Sunpetal Grove,,Land,,,,,,M12,Rare,Jason Chan,,229,249,,"Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W} to your mana pool.",,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4107,Nephalia Drownyard,,Land,,,,,,Innistrad,Rare,Cliff Childs,,245,264,,"{T}: Add {1} to your mana pool.
+{1}{U}{B}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.","""Some see a coastal disaster. I see a fully-stocked seagraf.""
+—Jadar, ghoulcaller of Nephalia",,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4108,Alchemist's Refuge,,Land,,,,,,Avacyn Restored,Rare,Dan Scott,,225,244,,"{T}: Add {1} to your mana pool.
+{G}{U}, {T}: You may cast nonland cards this turn as though they had flash.","Persecutted alchemists fled deep into Kessig's wilds, seeking solitude to continue their ghoulish craft.",,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

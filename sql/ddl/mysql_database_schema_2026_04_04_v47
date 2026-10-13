@@ -1,0 +1,125 @@
+CREATE TABLE expansion_symbol (
+	expansion_symbol_id INT AUTO_INCREMENT,
+	expansion_symbol VARCHAR() PRIMARY KEY,
+	release_date DATE,
+	total_cards INT
+);
+
+CREATE TABLE rarity (
+	rarity_id INT AUTO_INCREMENT,
+	rarity VARCHAR() PRIMARY KEY
+);
+
+CREATE TABLE artist_information (
+	artist_information_id INT AUTO_INCREMENT,
+	artist_information VARCHAR() PRIMARY KEY
+);
+
+CREATE TABLE permanent (
+	permanent_id INT AUTO_INCREMENT,
+	card_name VARCHAR(),
+	-- mana_cost VARCHAR(),
+	-- supertype VARCHAR(),
+	-- subtype VARCHAR(),
+	expansion_symbol INT,
+	rarity INT,
+	-- text_box VARCHAR(),
+	-- flavor_text VARCHAR(),
+	-- punch INT,
+	-- toughness INT,
+	-- starting_loyalty INT,
+	artist_information INT,
+	collectors_number INT,
+	PRIMARY KEY (card_name, expansion_symbol),
+	FOREIGN KEY (expansion_symbol) REFERENCES expansion_symbol(expansion_symbol_id) ON DELETE SET NULL,
+	FOREIGN KEY (rarity) REFERENCES rarity(rarity_id) ON DELETE SET NULL,
+	FOREIGN KEY (artist_information) REFERENCES artist_information(artist_information_id) ON DELETE SET NULL
+);
+
+CREATE TABLE mana_cost (
+	mana_cost_id INT AUTO_INCREMENT,
+	mana_cost VARCHAR() PRIMARY KEY,
+	converted_mana_cost INT
+);
+
+CREATE TABLE permanent_junction_mana_cost (
+	permanent_id INT PRIMARY KEY,
+	mana_cost_id INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (mana_cost_id) REFERENCES mana_cost(mana_cost_id) ON DELETE SET NULL
+);
+
+CREATE TABLE supertype (
+	supertype_id INT AUTO_INCREMENT,
+	supertype VARCHAR() PRIMARY KEY
+);
+
+CREATE TABLE permanent_junction_supertype (
+	permanent_id INT,
+	supertype_id INT,
+	PRIMARY KEY (permanent_id, supertype_id),
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (supertype_id) REFERENCES supertype(supertype_id) ON DELETE SET NULL
+);
+
+CREATE TABLE subtype (
+	subtype_id INT AUTO_INCREMENT,
+	subtype VARCHAR() PRIMARY KEY
+);
+
+CREATE TABLE permanent_junction_subtype (
+	permanent_id INT,
+	subtype_id INT,
+	PRIMARY KEY (permanent_id, subtype_id),
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (subtype_id) REFERENCES subtype(subtype_id) ON DELETE SET NULL
+);
+
+CREATE TABLE text_box (
+	text_box_id INT PRIMARY KEY AUTO_INCREMENT,
+	text_box VARCHAR()
+);
+
+CREATE TABLE permanent_junction_text_box (
+	permanent_id INT PRIMARY KEY,
+	text_box_id INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (text_box_id) REFERENCES text_box(text_box_id) ON DELETE SET NULL
+);
+
+CREATE TABLE flavor_text (
+	flavor_text_id INT PRIMARY KEY AUTO_INCREMENT,
+	flavor_text VARCHAR()
+);
+
+CREATE TABLE permanent_junction_flavor_text (
+	permanent_id INT PRIMARY KEY,
+	flavor_text_id INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (flavor_text_id) REFERENCES flavor_text(flavor_text_id) ON DELETE SET NULL
+);
+
+CREATE TABLE creature (
+	creature_id INT PRIMARY KEY AUTO_INCREMENT,
+	punch INT,
+	toughness INT
+);
+
+CREATE TABLE permanent_junction_creature (
+	permanent_id INT PRIMARY KEY,
+	creature_id INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (creature_id) REFERENCES creature(creature_id) ON DELETE SET NULL
+);
+
+CREATE TABLE planeswalker (
+	planeswalker_id INT PRIMARY KEY AUTO_INCREMENT,
+	starting_loyalty INT
+);
+
+CREATE TABLE permanent_junction_planeswalker (
+	permanent_id INT PRIMARY KEY,
+	planeswalker INT,
+	FOREIGN KEY (permanent_id) REFERENCES permanent(permanent_id) ON DELETE SET NULL,
+	FOREIGN KEY (planeswalker) REFERENCES planeswalker(planeswalker_id) ON DELETE SET NULL
+);

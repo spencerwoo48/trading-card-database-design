@@ -1,0 +1,188 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+2935,Etched Oracle,,Artifact,Creature,Wizard,,,Modern Masters,Uncommon,Matt Cavotta,,206,229,4,"Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+1, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.",,0,0,,1
+2936,Electrolyze,,,Instant,,,,Modern Masters,Uncommon,Zoltan Boros,Gabor Szikszai,173,229,1UR,"Electrolyze deals 2 damage divided as you chosose among one or two target creatures and/or players.
+Draw a card.",The Izzet learn something from every lesson they teach.,,,,1
+2937,Grinning Ignus,,,Creature,Elemental,,,Modern Masters,Uncommon,James Kei,,118,229,2R,"R, Return Grinning Ignus to its owner's hand: Add 2R to your mana pool. Activate this ability only any time you could cast a sorcery.","""Take care what you offer the ignus. Food, perhaps. Coins. But nothing flammable!""
+—Stovic, village eccentric",2,2,,1
+2938,Otherworldly Journey,,,Instant,Arcane,,,Modern Masters,Common,Vance Kovacs,,23,229,1W,"Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.","""The landscape shimmered and I felt a chill breeze. When my vision cleared, I found myself alone among the corpses of my fallen friends.""
+—Journal found in Numai",,,,2
+2939,Dampen Thought,,,Instant,Arcane,,,Modern Masters,Common,Arnie Swekel,,39,229,1U,"Target player puts the top four cards of his or her library into his or her graveyard.
+Splice onto Arcane 1U (As you cast and Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",,,,,1
+2940,Mothdust Changeling,,,Creature,Shapeshifter,,,Modern Masters,Common,Shelly Wan,,53,229,U,"Changeling (This card is every creature type at all times.)
+Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.","""Ever seen a changeling fly into a lantern?""
+—Calydd, kithkin farmer",1,1,,1
+2941,Petals of Insight,,,Sorcery,Arcane,,,Modern Masters,Common,Anthony S. Waters,,60,229,4U,"Look at the top three cards of your library. You may put those cards on the bottom of your library in any order. If you do, return Petals of Insight to its owner's hand. Otherwise, draw three cards.",,,,,1
+2942,Absorb Vis,,,Sorcery,,,,Modern Masters,Common,Brandon Kitkouski,,74,229,6B,"Target player loses 4 life and you gain 4 life.
+Basic landcycling 1B (1B, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",,,,,1
+2943,Warren Pilferers,,,Creature,Goblin,Rogue,,Modern Masters,Common,Wayne Reynolds,,103,229,4B,"When Warren Pilferers enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.","""What do thy need all this stuff for? They're ded. We're alive. Simple enough.""",3,3,,1
+2944,Rift Elemental,,,Creature,Elemental,,,Modern Masters,Common,Ron Spears,,127,229,R,"1R, Remove time counter from a permanent you control or suspened card you own: Rift Elemental gets +2/+0 until end of turn.","""It's difficult to heal a rift after it begins wandering about on its own.""
+—Teferi",1,1,,1
+2945,Thundering Giant,,,Creature,Giant,,,Modern Masters,Common,Mark Zug,,136,229,3RR,Haste,The giant was felt a few seconds before he was seen.,4,3,,1
+2946,Torrent of Stone,,,Instant,Arcane,,,Modern Masters,Common,Greg Staples,,137,229,3R,"Torrent of Stone deals 4 damage to target creature.
+Splice onto Arcane—Sacrifice two Mountains. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, dd this card's effects to that spell.)",,,,,1
+2947,Kodama's Reach,,,Sorcery,Arcane,,,Modern Masters,Common,Heather Hudson,,151,229,2G,"Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.","""The land grows only where the kami will it.""
+—Dosan the Falling Leaf",,,,1
+2948,Nantuko Shaman,,,Creature,Insect,Shaman,,Modern Masters,Common,Daren Bader,,156,229,2G,"When Nantuko Shaman enters the battlefield, if you control no tapped lands, draw a card.
+Suspend 1—2GG (Rather than cast this card from your hand, you may pay 2GG and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",,3,2,,1
+2949,Search for Tomorrow,,,Sorcery,,,,Modern Masters,Common,Randy Gallegos,,161,229,2G,"Search your library for a basic land card and put it onto the battlefield. Then shuffle your library.
+Suspend 2—G (Rather than cast this card from your hand, you may pay G and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",,,,,1
+2950,Thallid,,,Creature,Fungus,,,Modern Masters,Common,Trevor Claxton,,167,229,G,"At the beginning of your upkeep, put a spore counter on Thallid.
+Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.",,1,1,,1
+2951,Thallid Shell-Dweller,,,Creature,Fungus,,,Modern Masters,Common,Carl Critchlow,,169,229,1G,"Defender
+At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller.
+Remove three spore counters from Thallid Shell-Dweller: Put a 1/1 green Saproling creature token onto the battlefield.",,0,5,,1
+2952,Sporecap Spider,,,Creature,Spider,,,Conspiracy,Common,Lars Grant-West,,179,210,2G,Reach (This creature can block creatures with flying.),"They don't move much, but then again if you get caught in its web, it has all the time in the world to get you.""
+—Saidah, Joraga hunter",1,5,,1
+2953,Gnarlid Pack,,,Creature,Beast,,,Conspiracy,Common,Johann Bodin,,166,210,1G,"Multikicker 1G (You may pay an additional 1G any number of times as you cast this spell.)
+Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.",,2,2,,1
+2954,Skitter of Lizards,,,Creature,Lizard,,,Conspiracy,Common,Warren Mahy,,151,210,R,"Multikicker 1R (You may pay an additional 1R any number of times as you cast this spell.)
+Haste
+Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.",,1,1,,2
+2955,Pitchburn Devils,,,Creature,Devil,,,Conspiracy,Common,Johann Bodin,,149,210,4R,"When Pitchburn Devils dies, it deals 3 damage to target creature or player.","The ingenuity of goblins, the depravity of demons, and the smarts of sheep.",3,3,,1
+2956,Lizard Warrior,,,Creature,Lizard,Warrior,,Conspiracy,Common,Roger Raupp,,146,210,3R,,Don't let its appearance frighten you. Let its claws and teeth do that.,4,2,,2
+2957,Flowstone Blade,,,Enchantment,Aura,,,Conspiracy,Common,Allen Williams,,143,210,R,"Enchant creature
+R: Enchanted creature gets +1/-1 until end of turn.","""Remember the fable of the elf who came upon a cave of gold. In trying to free the largest piece, she was crushed by its weight.""
+—Karn",,,,1
+2958,Chartooth Cougar,,,Creature,Cat,Beast,,Conspiracy,Common,Chase Stone,,139,210,5R,"R: Chartooth Cougar gets +1/+0 until end of turn.
+Mountaincycling 2 (2, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)",,4,4,,1
+2959,Zombie Goliath,,,Creature,Zombie,Giant,,Conspiracy,Common,E. M. Gist,,135,210,4B,,"""Removing the encumbrance of useless brain tissue grants several advantages: a slight increase in mobility, a response of revulsion and horror from the enemy, and, in the case of large specimens, room for passengers.""
+—Zul Ashur, lich lord",4,3,,1
+2960,Unhallowed Pact,,,Enchantment,Aura,,,Conspiracy,Common,Volkan Baga,,131,210,2B,"Enchant creature
+When enchanted creature dies, return that card to the battlefield under your control.",Agreements with demons seldom end at the grave.,,,,1
+2961,Infectious Horror,,,Creature,Zombie,Horror,,Conspiracy,Common,Pete Venters,,115,210,3B,"Whenever Infectious Horror attacks, each opponent loses 2 life.",Not once in the history of Grixis has anyone died of old age.,2,2,,1
+2962,Turn the Tide,,,Instant,,,,Conspiracy,Common,Jason Felix,,110,210,1U,Creatures your opponents control get -2/-0 until end of turn.,"""Le their mindless armies come and face the might of genius.""
+—Varil, Neurok partisan
+",,,,2
+2963,Plated Seastrider,,,Creature,Beast,,,Conspiracy,Common,Izzy,,103,210,UU,,The Neurok buried entangling cables just under the Quicksilver Sea. One seastrider harvest can provide an army's worth of armor and shields.,1,4,,2
+2964,Rousing of Souls,,,Sorcery,,,,Conspiracy,Common,Jeff Simpson,,19,210,2W,"Parley — Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 1/1 white Spirit creature token with flying onto hte battlefield. Then each player draws a card.","""We remember. We rise.""",,,,1
+2965,Pillarfield Ox,,,Creature,Ox,,,Conspiracy,Common,Andrew Robinson,,76,210,3W,,"""May starving fleas birth a thousand generations on your stubborn hide, cow!""
+—Bruse Tarl, Goma Fada nomad",2,4,,2
+2966,Doomed Traveler,,,Creature,Human,Soldier,,Conspiracy,Common,Lars Grant-West,,69,210,W,"When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",He vowed he would never rest until he reached his destination. He doesn't know how right he was.,1,1,,1
+2967,Courier Hawk,,,Creature,Bird,,,Conspiracy,Common,Mark Poole,,68,210,1W,"Flying, vigilance",The Orzhov started using hawks as messengers in oder to bypass the many toll roads and bridges that dot Ravnica. Soon the service became one of their most profitable businesses.,1,2,,1
+2968,Apex Hawks,,,Creature,Bird,,,Conspiracy,Common,David Palumbo,,67,210,2W,"Multikicker 1W (You may pay an additional 1W any number of times as you cast this spell.)
+Flying
+Apex Hawks enters the battlefield with +1/+1 counter on it for each time it was kicked.",,2,2,,1
+2969,Jetting Glasskite,,,Creature,Spirit,,,Conspiracy,Common,Shishizaru,,100,210,4UU,"Flying
+Whenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.","The belt struck with a flash, and there was a terrible sound, as of glass shattering, but the creature was unharmed.",4,4,,1
+2970,Blighted Gorge,,,Land,,,,Battle for Zendikar,Uncommon,Jung Park,,231,274,,"T: Add 1 to your mana pool.
+4R, T, Sacrifice Blighted Gorge: Blighted Gorge deals 2 damage to taget creature or player.","The land is dying, but it will not go peacefully.",,,,1
+2971,Spawning Pod,,,Land,,,,Battle for Zendikar,Uncommon,Jason Felix,,248,274,,"T: Add 1 to your mana pool.
+6, T, Sacrifice Spawning Bed: Put three 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have ""Sacrifice this creature: Add 1 to your mana pool.""","Young Eldrazi crawl forth from the dust, compelled by a greater will.",,,,1
+2972,Slab Hammer,,Artifact,Equipment,,,,Battle for Zendikar,Uncommon,Joseph Meehan,,227,274,2,"Whenever equipped creature attacks, you may return a land you cont
+rol to its owner's hand. If you do, the creature gts +2/+2 until end of turn.
+Equip 2",Neither subtle nor pretty.,,,,1
+2973,Roil's Retribution,,,Instant,,,,Battle for Zendikar,Uncommon,Raymond Swanland,,45,274,3WW,Roil's Retribution deals 5 damage divided as you choose among any number of target attacking or blocking creatures.,"""We can use their hunger to lead them into danger. If we're already prey, we may as well be bait!""
+—Yon Basrel, Oran-Rief survivalist",,,,1
+2974,Unified Front,,,Sorcery,,,,Battle for Zendikar,Uncommon,Dan Scott,,53,274,3W,Converge — Put a 1/1 white Kor Ally creature token onto the battlefield for each color of mana spent to cast Unified Front.,The kor's pride in their independence has given way to a strong sense of community that embraces all of Zendikar.,,,,1
+2975,Coastal Discovery,,,Sorcery,,,,Battle for Zendikar,Uncommon,Kieran Yanner,,73,274,3U,"Draw two cards.
+Awaken 4—5U (If you cast this spell for 5U, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",,,,,1
+2976,Forerunner of Slaughter,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Uncommon,James Zapata,,204,274,BR,"Devoid (This card has no color.)
+1: Target colorless creature gains haste until end of turn.","""While we delay, they're on the move. They will not wait as we bicker. We are losing this war by moments as our goal slips beyond our reach.""
+—Gideon Jura",3,2,,1
+2977,Retreat to Hagra,,,Enchantment,,,,Battle for Zendikar,Uncommon,Kieran Yanner,,121,274,2B,"Landfall — Whenever a land enters the battlefield under your control, choose one —
+Target creature gets +1/+0 and gains deathtouch until end of turn.
+Each opponent loses 1 life and you gain 1 life.",,,,,1
+2978,Skitterskin,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Uncommon,Michael Komarck,,97,274,3B,"Devoid (This card has no color.)
+Skitterskin can't block.
+1B: Regenerate Skitterskin. Activate this ability only if you control another colorless creature.",,4,3,,1
+2979,Vampiric Rites,,,Enchantment,,,,Battle for Zendikar,Uncommon,Anastasia Ovchinnikova,,124,274,BR,"1B, Sacrifice a creature: You gain 1 life and draw a card.","For vampires, blood carries more than life. Memories long erode from the minds of bloodchiefs can be reclaimed from the veins of their sired kin.",,,,1
+2980,Rolling Thunder,,,Sorcery,,,,Battle for Zendikar,Uncommon,Yohann Schepacz,,154,274,XRR,Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.,"""Zendikar is always angry, though I've never seen that anger so precisely directed.""
+—Nablus, North Hada trapper",,,,1
+2981,Tunneling Geopede,,,Creature,Insect,,,Battle for Zendikar,Uncommon,Tomasz Jedruszek,,158,274,2R,"Landfall — Whenever a land enters the battlefield under your control, Tunneling Geopede deals 1 damage to each opponent.","As Ulamog's brood reduces the earth to dust, geopedes burst from their tunnels in search of solid ground.",3,2,,1
+2982,Infuse with Elements,,,Instant,,,,Battle for Zendikar,Uncommon,Daniel Ljunggren,,175,274,3G,"Converge — Put X +1/+1 counters on target creature, where X is the number of colors of mana spent to cast Infuse with the Elements. That creature gains trample until end of turn.","""Zendikar has given us the weapons to wage war on the appropriate scale.""
+—Najiya, leader of the Tajuru",,,,1
+2983,Jaddi Offshoot,,,Creature,Plant,,,Battle for Zendikar,Uncommon,Daarken,,176,274,G,"Defender
+Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.","On Murasa, even the trees grow trees.",0,3,,1
+2984,Plated Crusher,,,Creature,Beast,,,Battle for Zendikar,Uncommon,Jama Jurabaev,,183,274,4GGG,"Trample, hexproof","""It might fight the Eldrazi, but don't mistake it for a companion, Gideon. It's not interested in your concept of strength through unity.""
+—Najiya, leader of the Tajuru",7,6,,1
+2985,Retreat to Kazandu,,,Enchantment,,,,Battle for Zendikar,Uncommon,Kieran Yanner,,186,274,2G,"Landfall — Whenever a land enters the battlefield under your control, choose one —
+Put a +1/+1 counter on target creature.
+You gain 2 life.",,,,,2
+2986,Fertile Thicket,,,Land,,,,Battle for Zendikar,Common,Andreas Rocha,,237,274,,"Fertile Thicket enters the battlefield tapped. When Fertile Thicket enters the battlefield, you may look at the top five cards of your library. If you do, reveal up to one basic land card from among them, then put that card on top of your library and the rest on the bottom in any order.
+T: Add G to your mana pool.",,,,,2
+2987,Looming Spires,,,Land,,,,Battle for Zendikar,Common,Florian De Gesincourt,,238,274,,"Looming Spires enters the battlefield tapped.
+When Looming Spires enters the battlefield, target creature gets +1/+1 and gains first strike until end of turn.
+T: Add R to your mana pool.",,,,,1
+2988,Skyline Cascade,,,Land,,,,Battle for Zendikar,Common,Philip Straub,,246,274,,"Skyline Cascade enters the battlefield tapped.
+When Skyline Cascade enters the battlefield, target creature an opponent controls doesn't untap during its controller's next untap step.
+T: Add U to your mana pool.",,,,,1
+2989,Eldrazi Devastator,,,Creature,Eldrazi,,,Battle for Zendikar,Common,Joseph Meehan,,7,274,8,Trample,"""No matter how big your champion, theirs is bigger. No matter how great your numbers, theirs are greater. No matter how voracious your appetite, they are hungerier. That is why the Eldrazi will win.""
+—Kalitas, thrall of Ulamog
+",8,9,,1
+2990,Hedron Blade,,Artifact,Equipment,,,,Battle for Zendikar,Common,Zack Stella,,224,274,1,"Equipped creature gets +1+1.
+Whenever equipped creature becomes blocked by one or more colorless creatures, it gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)",,,,,1
+2991,Angelic Gift,,,Enchantment,Aura,,,Battle for Zendikar,Common,Josu Hernaiz,,19,274,1W,"Enchant creature
+When Angelic Gift enters the battlefield, draw a card.
+Enchanted creature has flying.","""Zendikar will triumph this day, and our armies will fly with angels.""",,,,2
+2992,Cliffside Lookout,,,Creature,Kor,Scout,Ally,Battle for Zendikar,Common,Eric Deschamps,,20,274,W,4W: Creatures you control get +1/+1 until end of turn.,"Though losses run high among the scouts of the Stone Havens, they never flinch from their duty.",1,1,,1
+2993,Courier Griffin,,,Creature,Griffin,,,Battle for Zendikar,Common,Kieran Yanner,,21,274,3W,"Flying
+When Courier Griffin enters the battlefield, you gain 2 life.","""Sea Gate has fallen. Survivors are on the move. Will send another griffin when we find refuge. Stay hidden. Stay safe.""
+—Message from Tars Olan, kor world-gift",2,3,,1
+2994,Felidar Cub,,,Creature,Cat,Beast,,Battle for Zendikar,Common,Steve Prescott,,25,274,1W,Sacrifice Felidar Cub: Destroy target enchantment.,Felidars that make it through their first year of life can easily live to see a hundred years more.,2,2,,1
+2995,Fortified Rampart,,,Creature,Wall,,,Battle for Zendikar,Common,David Gaillet,,27,274,1W,Defender,"The refuge's defenses allow new recruits to see lesser Eldrazi up close, steeling their stomachs fo what's to come.",0,6,,1
+2996,Ghostly Sentinel,,,Creature,Kor,Spirit,,Battle for Zendikar,Common,Daarken,,28,274,4W,"Flying, vigilance",Mystics of the Stone Havens call upon the spirits of fallen heroes to defend the refuges.,3,3,,2
+2997,Inspired Charge,,,Instant,,,,Battle for Zendikar,Common,Willian Murai,,32,274,2WW,Creatures you control get +2/+1 until end of turn.,"""For the lands you have lost and the beauty that remains, for freedom and the future, we must hold nothing back!""
+—Gideon Jura",,,,1
+2998,Kitesail Scout,,,Creature,Kor,Scout,,Battle for Zendikar,Common,Dan Scott,,33,274,W,Flying,"""The wind in one's hair, teh sun on one's back, the joy of open skies...the next generation of kor must know this kind of peace.""",1,1,,1
+2999,Shadow Glider,,,Creature,Kor,Soldier,,Battle for Zendikar,Common,Steve Prescott,,47,274,2W,Flying,"A few bands of kor sought refuge from the Eldrazi in Zendikar's vast cave networks, relying on their ability to survive in harsh vertical landscapes.",2,2,,1
+3000,Clutch of Currents,,,Sorcery,,,,Battle for Zendikar,Common,Igor Kieryluk,,72,274,U,"Return target creature to its owner's hand.
+Awaken 3—4U (If you cast this spell for 4U, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",,,,,1
+3001,Bone Splinters,,,Sorcery,,,,Battle for Zendikar,Common,Deruchenko Alexander,,105,274,B,"As an additional cost to cast Bone Splinters, sacrifice a creature.","Vastly outnumbered, the Zendikari found creative ways to even the odds.",,,,1
+3002,Culling Drone,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Common,Alejandro Mirabal,,91,274,1B,"Devoid (This card has no color.)
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+Silence rules Bala Ged, broken only by the skittering of Eldrazi.",,2,2,,2
+3003,Demon's Grasp,,,Sorcery,,,,Battle for Zendikar,Common,David Gaillet,,108,274,4B,Target creature gets -5/-5 until end of turn.,"""Take what solace you can in the knowledge that you will not be here to witness Zendikar's demise.""
+—Ob Nixilis",,,,1
+3004,Dominator Drone,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Common,James Zapata,,92,274,2B,"Devoid (This card has no color.)
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.",,3,2,,2
+3005,Dutiful Return,,,Sorcery,,,,Battle for Zendikar,Common,Anna Steinbauer,,110,274,3B,Return up to two target creature cards from your graveyard to your hand.,"When Malakir's surgeons failed, its death-shamans took over.",,,,2
+3006,Geyserfield Stalker,,,Creature,Elemental,,,Battle for Zendikar,Common,Deruchenko Alexander,,111,274,4B,"Menace (This creature can't be blocked except by two or more creatures.)
+Landfall — Whenever a land enters the battlefield under your control, Geyserfield Stalker gets +2/+2 until end of turn.",,3,2,,1
+3007,Kalastria Healer,,,Creature,Vampire,Cleric,Ally,Battle for Zendikar,Common,Anthony Palumbo,,114,274,1B,"Rally — Whenever Kalastria Healer or another Ally enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.","""Time and again, I have demonstrated my skills as a healer. Why, then, are you so ill at ease?""",1,2,,2
+3008,Kalastria Nightwatch,,,Creature,Vampire,Warrior,Ally,Battle for Zendikar,Common,Jama Jurabaev,,115,274,4B,"Whenever you gain life, Kalastria Nightwatch gains flying until end of turn.","""Kalitas may have returned to mindlelss servitude beneath the Eldrazi, but we say never again.""
+—Drana, Kalastria bloodchief",4,5,,1
+3009,Mire's Malice,,,Sorcery,,,,Battle for Zendikar,Common,Jakub Kasper,,117,274,3B,"Target opponent discards two cards.
+Awaken 3—5B (If you cast the spell for 5B, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",,,,,2
+3010,Sludge Crawler,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Common,Johann Bodin,,98,274,B,"Devoid (This card has no color.)
+Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+2: Sludge Crawler gets +1/+1 until end of turn.",,1,1,,2
+3011,Voracious Null,,,Creature,Zombie,,,Battle for Zendikar,Common,Karl Kopinski,,125,274,2B,"1B, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery.","""These days, there's no shortage of food for the nulls of Guul Draz.""
+—Drana, Kalastria bloodchief",2,2,,1
+3012,Boiling Earth,,,Sorcery,,,,Battle for Zendikar,Common,Titus Lunter,,142,274,1R,"Boiling Earth deals 1 damage to each creature your opponents control.
+Awaken 4—6R (If you cast this spell for 6R, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",,,,,1
+3013,Goblin War Paint,,,Enchantment,Aura,,,Battle for Zendikar,Common,Karl Kopinski,,146,274,1R,"Enchant creature
+Enchanted creature gets +2/+2 and has haste.","""The Eldrazi may not be intimidated, but if it boosts the goblins' confidence, I see no reason to discourage it.""
+—Jalun, Affa sentry",,,,1
+3014,Kozilek's Sentinel,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Common,Raymond Swanland,,129,274,1R,"Devoid (This card has no color.)
+Whenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end of turn.",It moves through the tunnels as slowly and surely as the shifting stones.,1,4,,1
+3015,Lavastep Raider,,,Creature,Goblin,Warrior,,Battle for Zendikar,Common,Matt Stewart,,147,274,R,2R: Lavastep Raider gets +2/+0 until end of turn.,"Goblins were first to see the potential of hedrons in the fight against the Eldrazi, for the magical stones came ready-made with pointy bits.",1,2,,1
+3016,Makindi Sliderunner,,,Creature,Beast,,,Battle for Zendikar,Common,Matt Stewart,,148,274,1R,"Trample
+Landfall — Whenever a land enters the battlefield under your control, Makindi Sliderunner gets +1/+1 until end of turn.","After a battle, it breaks the hillsides into manageable pieces to prepare for next time.",2,1,,2
+3017,Nettle Drone,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Common,Clint Cearley,,131,274,2R,"Devoid (This card has no color.)
+T: Nettle Drone deals 1 damage to each opponent.
+Whenever you cast a colorless spell, untap Nettle Drone.",,3,1,,1
+3018,Outnumber,,,Instant,,,,Battle for Zendikar,Common,Tyler Jacobson,,150,274,R,Outnumber deals damage to target creature equal to the number of creatures you control.,Everyone who could still lift a weapon had a part in retaking Sea Gate.,,,,1
+3019,Shatterskull Recruit,,,Creature,Giant,Warrior,Ally,Battle for Zendikar,Common,David Palumbo,,155,274,3RR,Menace (This creature can't be blocked except by two or more creatures.),"Saved from certain death by the kor, he considers himself bound to them by an unbreakable blood oath.",4,4,,1
+3020,Stonefury,,,Instant,,,,Battle for Zendikar,Common,Chris Rallis,,156,274,3RR,Stonefury deals damage to target creature equal to the number of lands you control.,Akoum can make any intruder look small.,,,,3
+3021,Sure Strike,,,Instant,,,,Battle for Zendikar,Common,Jakub Kasper,,157,274,1R,Target creature gets +3/+0 and gains first strike until end of turn.,"To survive imminent doom, it somestimes takes a foolhardy soul who acts first and fears later.",,,,1
+3022,Valakut Predator,,,Creature,Elemental,,,Battle for Zendikar,Common,Kev Walker,,160,274,2R,"Landfall — Whenever a land enters the battlefield under your control, Valakut Predator gets +2/+2 until end of turn.","""Whatever volanoes dream of, its seems like they always wake up grumpy.""
+—Raff Sludgeater, goblin shortcutter",2,2,,2
+3023,Vestige of Emrakul,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Common,Tyler Jacobson,,136,274,3R,"Devoid (This card has no color.)
+Trample.","Emrakul has not been seen in months. Though her brood's numbers have dwindled in her absence, each drone is still a deadly threat.",3,4,,1
+3024,Volcanic Upheaval,,,Instant,,,,Battle for Zendikar,Common,Yeong-Hao Han,,161,274,3R,Destroy target land.,"Like a living organism, Zendikar rids itself of infection, and it does so abruptly and ruthlelssly.",,,,2
+3025,Blisterpod,,,Creature,Eldrazi,Drone,,Battle for Zendikar,Common,Ryan Barger,,163,274,G,"Devoid (This card has no color.)
+When Blisterpod dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has ""Sacrifice this creature: Add 1 to your mana pool.""
+
+",A blisterpod's corpse is a scion's cradle.,1,1,,2
+3026,Earthen Arms,,,Sorcery,,,,Battle for Zendikar,Common,Dan Scott,,172,274,1G,"Put two +1/+1 counters on target permanent.
+Awaken 4—6G (If you cast this spell for 6G, lso put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",,,,,
+3027,Giant Mantis,,,Creature,Insect,,,Battle for Zendikar,Common,Lake Hurwitz,,173,274,3G,Reach (This creature can block creatures with flying.),"""I always thought the greate insects of Tazeem were frightening untilI saw the Eldrazi. Now I welcome the sight of mantises perched in the treetops.""
+—Ryza, Oran-Rief scout",2,4,,1
+3028,Plummet,,,Instant,,,,Battle for Zendikar,Common,Aaron Miller,,184,274,1G,Destroy target creature with flying.,"The elf's blade carved deep into the Eldrazi drone's fleshy lattices. without a sound, the drone lost equilibrium and tumbled from teh sky.",,,,1
+3029,Snapping Gnarlid,,,Creature,Beast,,,Battle for Zendikar,Common,Kev Walker,,190,274,1G,"Landfall — Whenever a land enters the battlefield under your control, Snapping Gnarlid gets +1/+1 until end of turn.",All of Zendikar's beings sense the upheaval that accompanies the Eldrazi.,2,2,,2
+3030,Swell of Growth,,,Instant,,,,Battle for Zendikar,Common,Magali Villeneuve,,191,274,1G,Target creature gets +2/+2 until end of turn. You may put a land card from your hand onto the battlefield.,"""Nissa is not the only one with a deep connection to Zendikar's primal elements.""
+—Kiora",,,,2
+3031,Tajuru Stalwart,,,Creature,Elf,Scout,Ally,Battle for Zendikar,Common,Wesley Burt,,194,274,2G,Converge — Tajuru Stalwart enters the battlefield with  +1+1 counter on it for each color of mana spent to cast it.,"""In its time of hardship, all of Zendikar cries out in pain. Are you listening?""",0,1,,2

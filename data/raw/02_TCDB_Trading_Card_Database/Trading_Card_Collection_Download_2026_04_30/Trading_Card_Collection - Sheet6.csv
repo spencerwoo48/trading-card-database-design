@@ -1,0 +1,275 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+1662,Demolish,,,Sorcery,,,,Zendikar,Common,John Avon,121,249,3R,Destroy target artifact or land,"""This is why I hate settlements. They lull you into a false sense of security.""
+—Yon Basrel, Oran-Rief survivalist",,,,2
+1663,Goblin Bushwhacker,,,Creature,Goblin,Warrior,,Zendikar,Common,Mark Tedin,125,249,R,"Kicker R (You may pay an additional R as you cast this spell.)
+When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.",,1,1,,1
+1664,Goblin Shortcutter,,,Creature,Goblin,Scout,,Zendikar,Common,Jesper Ejsing,128,249,1R,"When Goblin Shortcutter enters the battlefield, target creature can't block thist turn.","""Goblins are cheap, but be careful. It's a lot easier to steal from a corpse than a customer.""",2,1,,1
+1665,Goblin War Paint,,,Enchantment,Aura,,,Zendikar,Common,Austin Hsu,129,249,1R,"Enchant creature
+Enchanted creature gets +2/+2 and has haste.","War paint made from kolya fruit heightens senses and lessens fear. Unfortunately, fear is usually what keeps you alive.",,,,1
+1666,Highland Berserker,,,Creature,Human,Berserker,Ally,Zendikar,Common,Chris Rahn,132,249,1R,"Whenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.",He gets paid by the axe.,2,1,,1
+1667,Molten Ravager,,,Creature,Elemental,,,Zendikar,Common,Dave Kendall,138,249,2R,R: Molten Ravager gets +1/+0 until end of turn.,"""Only the foolhardy would venture into the Akoum Mountains without a lullmage to tame the raging rocks and living fires.""
+—Sachir, Akoum Expeditionary House",0,4,,1
+1668,Plated Geopede,,,Creature,Insect,,,Zendikar,Common,Eric Deschamps,141,249,1R,"First strike
+Landfall — Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.","""Kor armorers buy the scales and claws. Elf oracles by the rest.""
+—Nablus, North Hada trapper",1,1,,1
+1669,Ruinous Minotaur,,,Creature,Minotaur,Warrior,,Zendikar,Common,Raymond Swanland,145,249,1RR,"Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.",Not every intelligent being is interested in treasure and lost knowledge...or even the basics of speech.,5,2,,1
+1670,Seismic Shudder,,,Instant,,,,Zendikar,Common,Vincent Proce,147,249,1R,Seismic Shudder deals 1 damage to each creature without flying.,"""The land here seems to go out of its way to kill you.""
+—Chandra Nalaar",,,,3
+1671,Shatterskull Giant,,,Creature,Giant,Warrior,,Zendikar,Common,Kekai Kotaki,148,249,2RR,,"""Now I know why they call it Shatterskull Pass. Rocks fell all night like hammers smashing an anvil. It's no wonder the giants are angry all the time.""
+—Mitra, Bala Ged missionary",4,3,,2
+1672,Torch Slinger,,,Creature,Goblin,Shaman,,Zendikar,Common,Andrew Robinson,151,249,2R,"Kicker 1R (You may pay an additional 1R as you cast this spell.)
+When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.","Once thrown, twice burned.",2,2,,2
+1673,Zektar Shrine Expedition,,,Enchantment,,,,Zendikar,Common,Justin Sweet,155,249,1R,"Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Zektar Shrine Expedition.
+Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.",,,,,1
+1674,Beast Hunt,,,Sorcery,,,,Zendikar,Common,Kieran Yanner,158,249,3G,Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.,"""Surely we could tame something besides hurdas and pillarfield oxen!""","Sheyda, Ondu gamekeeper",,,6
+1675,Grazing Gladeheart,,,Creature,Antelope,,,Zendikar,Common,Ryan Pancoast,163,249,2G,"Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life.
+","""Don't be fooled. If it were as docile as it looks, it would've died off long ago.""
+—Yon Basrel, Oran-Rief survivalist",2,2,,1
+1676,Joraga Bard,,,Creature,Elf,Rogue,Ally,Zendikar,Common,Volkan Baga,166,249,3G,"Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.","Adventuring bards recite Chanter's Epics, never-ending tales that keep their comrades' minds alert to danger.",1,4,,1
+1677,Khalni Heart Expedition,,,Enchantment,,,,Zendikar,Common,Jason Chan,167,249,1G,"Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.
+Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic alnd cards, put them onto the battlefield tapped, then shuffle your library.",,,,,2
+1678,Mold Shambler,,,Creature,Funugs,Beast,,Zendikar,Common,Karl Kopinski,169,249,3G,"Kicker 1G (You may pay an additional 1G as you cast this spell.)
+When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.","When civilization encroaches on nature, Zendikar encroaches back.",3,3,,1
+1679,Nissa's Chosen,,,Creature,Elf,Warrior,,Zendikar,Common,Jaime Jones,171,249,GG,"If Nissa's Chosen would be put into a graveyard from the battlefield, put it on the bottom of its owner's library instead.","""Nissa will save the elves, but only the ones who have proved their worth.""",2,3,,4
+1680,Oran-Rief Recluse,,,Creature,Spider,,,Zendikar,Common,Lars Grant-West,173,249,2G,"Kicker 2G (You may pay an additional 2G as you cast this spell.)
+Reach (This creature can block creatures with flying.)
+When Oran-Rief Recluseenters the battlefield, if it was kicked, destroy target creature with flying.",,1,3,,1
+1681,Oran-Rief Survivalist,,,Creature,Human,Warrior,Ally,Zendikar,Common,Kev Walker,174,249,1G,"Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.","""I'm strong enough to survive alone. I'm smart enough to want companions at my side.""",1,1,,2
+1682,Relic Crush,,,Instant,,,,Zendikar,Common,Steven Belledin,179,249,4G,Destroy target artifact or enchantment and up to one other target artifact or enchantment.,"There are many ruins, but there used to be many more.",,,,1
+1683,Savage Silhouette,,,Enchantment,Aura,,,Zendikar,Common,Dave Kendall,184,249,2G,"Enchant creature
+Enchanted creature gets +2/+2 and has 1G: Regenerate this creature.""",Some elves believe that their survival instincts are born of many cycles of reincarnation.,,,,3
+1684,Tanglesap,,,Instant,,,,Zendikar,Common,Trevor Claxton,186,249,1G,Prevent all combat damage that would be dealt this turn by creatures without trample.,"""The blood of the forest is beholden to no one.""
+—Nissa Revane",,,,2
+1685,Territorial Baloth,,,Creature,Beast,,,Zendikar,Common,,188,249,4G,"Landfall — Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.",Its territory is defined by wherever it is at the moment.,4,4,,4
+1686,Timbermaw Larva,,,Creature,Beast,,,Zendikar,Common,Matt Cavotta,189,249,3G,"Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each Forest you control.","""You can't trust your eyes. A tree might look healthy, but its insides tell a different tale.""
+—Zahr Gada, Halimar expedition leader",2,2,,1
+1687,Explorer's Scope,,Artifact,Equipment,,,,Zendikar,Common,Vincent Proce,202,249,1,"Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
+Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)",,,,,2
+1688,Hedron Scrabbler,,Artifact,Creature,Construct,,,Zendikar,Common,Jason Felix,204,249,2,"Landfall — Whenever a land enters the battlefield under your control, Hedron Scrabbler gets +1/+1 until end of turn.","""I don't care when the hedrons awoke. Why is the question that really matters.""
+—Anowon, the Ruin Sage",1,1,,3
+1689,Spidersilk Net,,Artifact,Equipment,,,,Zendikar,Common,Zoltan Boros & Gabor Szikszai,206,249,0,"Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)",,,,,2
+1690,Piranha Marsh,,,Land,,,,Zendikar,Common,Nic Klein,222,249,,"Piranha Marsh enters the battlefield tapped.
+When Piranha Marsh enters the battlefield, target player loses 1 life.
+T: Add B to your mana pool.",,,,,2
+1691,Soaring Seacliff,,,Land,,,,Zendikar,Common,Izzy,225,249,,"Soaring Seacliff enters the battlefield tapped.
+When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.
+T: Add U to your mana pool.",,,,,1
+1692,Turntimber Grove,,,Land,,,,Zendikar,Common,Rob Alexander,227,249,,"Turntimber Grove enters the battlefield tapped.
+When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.
+T: Add G to your mana pool.",,,,,3
+1693,Arrow Volley Trap,,,Instant,Trap,,,Zendikar,Uncommon,Steve Argyle,2,249,3WW,"If four or more creatures are attacking, you may pay 1W rather than pay Arrow Volley Traps mana cost.
+Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.",,,,,1
+1694,Bold Defense,,,Instant,,,,Zendikar,Common,Scott Chou,3,249,2W,"Kicker 3W (You may pay an additional 3W as you cast this spell.)
+Creatures you control get +1/+1 until end of turn. If Bold Defense was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.",,,,,3
+1695,Caravan Hurda,,,Creature,Giant,,,Zendikar,Common,Dave Kendall,5,249,4W,Lifelink (Damage dealt by this creature also causes you to gain that much life.),"""Not too bright, but good enough for the job required—carrying and walking in a straight line.""
+—Bruse Tarl, Goma Fada nomad",1,5,,4
+1696,Cliff Threader,,,Creature,Kor,Scout,,Zendikar,Common,Paul Bonner,7,249,1W,Mountainwalk,"""The crossing demands singular focus. Your life consists of these ropes, these hooks, and these rocky craggs. Your past is miles below.""",2,1,,2
+1697,Kabira Crossroads,,,Land,,,,Zendikar,Common,James Paick,216,249,,"Kabira Crossroads enters the battlefield tapped.
+When Kabira Crossroads enters the battlefield, you gain 2 life.
+T: Add W to your mana pool.",,,,,2
+1698,Kor Hookmaster,,,Creature,Kor,Soldier,,Zendikar,Common,Wayne Reynolds,20,249,2W,"When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.","""For us, a rope represents the ties that bind the kor. For you, it's more literal.""",2,2,,5
+1699,Kor Outfitter,,,Creature,Kor,Soldier,,Zendikar,Common,Kieran Yanner,21,249,WW,"When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.","""We take only what we need to survive. Believe me, you will need this.""",2,2,,2
+1700,Kor Skyfisher,,,Creature,Kor,Soldier,,Zendikar,Common,Dan Scott,23,249,1W,"Flying
+When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.","""Sometimes I snare the unexpected, but I know its purpose will be revealed in time.""",2,3,,5
+1701,Makindi Shieldmate,,,Creature,Kor,Soldier,Ally,Zendikar,Common,Howard Lyon,26,249,2W,"Defender
+Whenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.
+","The more who rely on him, the more resolute he becomes.",0,3,,2
+1702,Narrow Escape,,,Instant,,,,Zendikar,Common,Karl Kopinski,27,249,2W,Return target permanent you control to its owner's hand. You gain 4 life.,"""A good explorer has to be as slippery as a gomazoa, as tough as a scute bug, and luckier than a ten-fingered trapfinder.""
+—Arhana, Kazandu trapfinder",,,,2
+1703,Nimbus Wings,,,Enchantment,Aura,,,Zendikar,Common,Chris Rahn,28,249,1W,"Enchant creature
+Encahnted creature gets +1/+2 and has flying.","Explorers may find ways into the Sky Ruin, but they find its secrets well protected by shifting hedrons and Roil winds.",,,,1
+1704,Noble Vestige,,,Creature,Spirit,,,Zendikar,Common,Jason Chan,29,249,2W,"Flying
+T: Prevent the next 1 damage that would be dealt to target player this turn.","Most spirits are chained to this world by their despair, but he remains tethered by his hope for better days.",1,2,,2
+1705,Ondu Cleric,,,Creature,Kor,Cleric,Ally,Zendikar,Common,Jim Murray,30,249,1W,"Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.",A cleric's true balm is the confidence he inspires in his compatriots.,1,1,,2
+1706,Pillarfield Ox,,,Creature,Ox,,,Zendikar,Common,Andrew Robinson,31,249,3W,,These stubborn and unpredictable oxen inspire the plains nomads' most colorful curses.,2,4,,2
+1707,Shieldmate's Blessing,,,Instant,,,,Zendikar,Common,Mike Bierek,35,249,WW,Prevent the next 3 damage that would be dealt to target creature or player this turn.,"""Even land dwellers may call for Emeria's grace in times of need.""
+—Emeria's Creed",,,,1
+1708,Steppe Lynx,,,Creature,Cat,,,Zendikar,Common,Nic Klein,36,249,WW,Landfall — Whenever a land enters the battlefield under your control. Steppe Lynx gets +2/+2 until end of turn.,Nothing quickens the predator's blood like unfamiliar scents of new hunting grounds and the mewling cries of new prey.,0,1,,8
+1709,Sunspring Expedition,,,Enchantment,,,,Zendikar,Common,Chris J. Anderson,37,249,WW,"Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Sunspring Expedition.
+Remove three quest counters from Sunspring Expedition and sacrifice it: You gain 8 life.",,,,,4
+1710,Windborne Charge,,,Sorcery,,,,Zendikar,Uncommon,Ryan Pancoast,38,249,2WW,Two target creatures you control each get +2/+2 and gain flying until end of turn.,The merfolk call the sky goddess Emeria. The kor call her Kamsa. The two races agree on little except that she offers many blessings to the faithful.,,,,1
+1711,Aether Figment,,,Creature,Illusion,,,Zendikar,Uncommon,Thomas M. Baxa,40,249,1U,"Kicker 3 ( You may pay an additional 3 as you cast this spell.)
+Aether Figment is unblockable.
+If Aether Figment was kicked, it enters the battlefield with two +1/+1 counters on it.",,1,1,,1
+1712,Cancel,,,Instant,,,,Zendikar,Common,Scott Chou,44,249,1UU,Counter target spell.,Zendikar's volatile mana is the basis for many spectacular spells—and some equally astonishing failures.,,,,5
+1713,Hedron Crab,,,Creature,Crab,,,Zendikar,Uncommon,Jesper Ejsing,47,249,U,"Landfall — Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.",Hedrons perplex minds both great and small.,0,2,,4
+1714,Into the Roil,,,Instant,,,,Zendikar,Common,Kieran Yanner,48,249,1U,"Kicker 1U (You may pay an additional 1U as you cast this spell.)
+Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.","""Roil tide! Roil tide! Tie yourselves down!""",,,,1
+1715,Ior Ruin Expedition,,,Enchantment,,,,Zendikar,Common,Chris Rahn,49,249,1U,"Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.
+Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.",,,,,2
+1716,Kraken Hatchling,,,Creature,Kraken,,,Zendikar,Common,Jason Felix,50,249,U,,"A spike and a maul are needed to crack their shells, but the taste is worth the effort.",0,4,,8
+1717,Lethargy trap,,,Instant,Trap,,,Zendikar,Common,Anthony Francisco,51,249,3U,"If three or more creatures are attacking, you may pay U rather than pay Lethargy Trap's mana cost.
+Attacking creatures get -3/-0 until end of turn.","Suddenly, Zurdi didn't care about treasure, glory, food...or the drakes circling above.",,,,1
+1718,Merfolk Wayfinder,,,Creature,Merfolk,Scout,,Zendikar,Uncommon,Christopher Moeller,56,249,2U,"Flying
+When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.",,1,2,,1
+1719,Paralyzing Grasp,,,Enchantment,Aura,,,Zendikar,Common,Izzy,58,249,2U,"Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.",The Halimar Sea Caves are both the breeding ground of giant squids and the dumping ground of hardened criminals.,,,,1
+1720,Reckless Scholar,,,Creature,Human,Wizard,,Zendikar,Common,Steve Prescott,60,249,2U,"T: Target player draws a card, then discards a card.","""Any good prospector must sift the gold from the sand.""",2,1,,1
+1721,Shoal Serpent,,,Creature,Serpent,,,Zendikar,Common,Trevor Claxton,65,249,5U,"Defender
+Landfall — Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.","""It's like a reef that runs aground on ships.""
+—Jay, Silundi Sea nomad",5,5,,1
+1722,Welkin Tern,,,Creature,Bird,,,Zendikar,Common,Austin Hsu,76,249,1U,"Flying
+Welkin Tern can block only creatures with flying.","""The sky hedrons are covered with tern nests. It's as though the birds have given up on the land altogether.""
+—Ilori, merfolk falconer",2,1,,1
+1723,Whiplash Trap,,,Instant,Trap,,,Zendikar,Common,Zoltan Boros & Gabor Szikszai,77,249,3UU,"If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay U rather than pay Whiplash Trap's mana cost.
+Return two target creatures to their owners' hands.",,,,,1
+1724,Windrider Eel,,,Creature,Fish,,,Zendikar,Common,Austin Hsu,78,249,3U,"Flying
+Landfall — Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.","""The best spot to hook one is right behind the gills.""
+—Rana Cloudwake, kor skyfisher",2,2,,1
+1725,Blood Seeker,,,Creature,Vampire,Shaman,,Zendikar,Common,Greg Staples,80,249,1B,"Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.",A drop now is all he needs to find you later.,1,1,,4
+1726,Desecrated Earth,,,Sorcery,,,,Zendikar,Common,Daarken,86,249,4B,Destroy target land. Its controller discards a card.,"""The land is swollen with mana, cursed relics, and secrets. If you puncture it, you never know what will burst out.""
+—Javad Nasrin, Ondu relic hunter",,,,4
+1727,Hagra Crocodile,,,Creature,Crocodile,,,Zendikar,Common,Daren Bader,94,249,3B,"Hagra Crocodile can't block.
+Landfall — Whenever a land enters the battlefield under your control, Hagra Crocodile gets +2/+2 until end of turn.","The creatures of Zendikar are opportunists, eating whatever is available to them. Like goblins. Or boats.",3,1,,1
+1728,Mind Sludge,,,Sorcery,,,,Zendikar,Common,Howard Lyon,102,249,4B,Target player discards a card for each Swamp you control.,"""Guard your thoughts. You never know who might wish to take them from you.""
+—Kalitas, Bloodchief of Ghet",,,,1
+1729,Needlebite Trap,,,Instant,Trap,,,Zendikar,Common,Daarken,105,249,5BB,"If an opponent gained life thist urn, you may pay B rather than pay Needlebite Trap's mana cost.
+Target player loses 5 life and you gain 5 life.",The traps around the vampire city of Malakir hint at the thirst of its inhabitants.,,,,1
+1730,Nimana Sell-Sword,,,Creature,Human,Warrior,Ally,Zendikar,Common,Daarken,106,249,3B,"Whenever Nimana Sell-Sword or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Nimana Sell-Sword.","""He asked if I had work for him. No wasn't the right answer.""
+—Samila, Murasa Expeditionary House",2,2,,1
+1731,Quest for the Gravelord,,,Enchantment,,,,Zendikar,Common,Chris Rahn,108,249,B,"Whenever a creature is put into a graveyard from the battlefield, you may put a quest counter on Quest for the Gravelord.
+Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.",,,,,3
+1732,Bladetusk Boar,,,Creature,Boar,,,Zendikar,Common,Paul Bonner,118,249,3R,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.),"Those who dare stnd in its path are either brave or mindless. Or in the case of goblins, both.",3,2,,1
+1733,Geyser Glider,,,Creature,Elemental,Beast,,Zendikar,Uncommon,Warren Mahy,134,249,3RR,"Landfall — Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.","""Quit pontificating, mage. The last thing we want to do is give it more hot air.""
+—Tala Vertan, Makindi shieldmate",4,4,,1
+1734,Hellfire Mongrel,,,Creature,Elemental,Hound,,Zendikar,Uncommon,Dan Scott,130,249,2R,"At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.",There is no fondness between the hound and its master. There is only a common appreciation of the hunt.,2,2,,3
+1735,Murasa Pyromancer,,,Creature,Human,Shaman,Ally,Zendikar,Uncommon,Kekai Kotaki,139,249,4RR,"Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.","""Fire is my accomplice. For enough coin, it can be yours as well.""",3,2,,1
+1736,Quest for Pure Flame,,,Enchantment,,,,Zendikar,Uncommon,Cyril Van Der Haegen,144,249,R,"Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.
+Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control woudl deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.",,,,,3
+1737,Runeflare Trap,,,Instant,Trap,,,Zendikar,Uncommon,Franz Vohwinkel,146,249,4RR,"If an opponent drew three or more cards this turn, you may pay R rather than pay Runeflare Trap's mana cost.
+Runeflare Trap deals damage to target player equal to the number of cards in that player's hand.",,,,,1
+1738,Cobra Trap,,,Instant,Trap,,,Zendikar,Uncommon,Scott Chou,160,249,4GG,"If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay G rather than pay Cobra Trap's mana cost.
+Put four 1/1 green Snake creature tokens onto the battlefield.",,,,,2
+1739,Frontier Guide,,,Creature,Elf,Scout,,Zendikar,Uncommon,Wayne Reynolds,161,249,1G,"3G, T: Search your library for a basic land card adn put it onto the battlefield tapped. Then shuffle your library.","""The elders say Zendikar has no safe, peaceful places. How would they know? They've never looked.""",1,1,,1
+1740,Greenweaver Druid,,,Creature,Elf,Druid,,Zendikar,Uncommon,Justin Sweet,164,249,2G,T: Add GG to your mana pool.,"The other tribes call them fanatics, but none deny that the Mul Daya elves have an iron-strong bond to some force greater than themselves.",1,1,,4
+1741,Primal Bellow,,,Instant,,,,Zendikar,Uncommon,Daren Bader,176,249,G,Target creature gets +1/+1 until end of turn for each Forest you control.,"""A might spell can be hany against baloths, giants, kraken, the Roil—or if you lose your bearings in teh woods.""
+—Chadir the Navigator",,,,3
+1742,Quest for the Gemblades,,,Enchantment,,,,Zendikar,Uncommon,Karl Kopinski,177,249,1G,"Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.
+Remove a quest counter from Quest for Gemblades and sacrifice it: Put four +1/+1 counters on target creature.",,,,,3
+1743,Blazing Torch,,Artifact,Equipment,,,,Zendikar,Uncommon,Vance Kovacs,197,249,1,"Equipped creature can't be blocked by Vampires or Zombies.
+Equipped creature has ""T, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player.""
+Equip 1",,,,,2
+1744,Carnage Altar,,Artifact,,,,,Zendikar,Uncommon,James Paick,198,249,2,"3, Sacrifice a creature: Draw a card.","""In these bloodstains I will find the fingerprints of our oppressors.""
+—Anowon, the Ruin Sage",,,,1
+1745,Trailblazer's Boots,,Artifact,Equipment,,,,Zendikar,Uncommon,Zoltan Boros & Gabor Szikszai,208,249,2,"Equipped creature has nonbasic landwalk. (It's unblockable as long as defending player controls a nonbasic land.)
+Equip 2",It's much easier to list the places they haven't been,,,,1
+1746,Trusty Machete,,Artifact,Equipment,,,,Zendikar,Uncommon,Raymond Swanland,209,249,1,"Equipped creature gets +2/+1.
+Equip 2","""Until this expedition is done, that blade is your guardian, your liberator, and your best friend all rolled into one.""
+—Yon Basrel, Oran-Rief survivalist",,,,1
+1747,Sejiri Refuge,,,Land,,,,Zendikar,Uncommon,Ryan Pancoast,224,249,,"Sejiri Refuge enters the battlefield tapped.
+When Sejiri Refuge enters the battlefield, you gain 1 life.
+T: Add W or U to your mana pool.",,,,,1
+1748,Everflowing Chalice,,Artifact,,,,,Worldwake,Uncommon,Steve Argyle,123,145,0,"Multikicker 2 (You may pay an additional 2 any number of times as you cast this spell.)
+Everflowing Chalice enters the battlefield  with a charge counter on it for each time it was kicked.
+T: Add 1 to your mana pool for each charge counter on Everflowing Chalice.",,,,,2
+1749,Razor Boomerang,,Artifact,Equipment,,,,Worldwake,Uncommon,Franz Vohwinkel,129,145,3,"Equipped creature has ""T: Unattach Razor Boomerang: Razor Boomerang deals 1 damage to target creature or player. Return Razor Boomerang to its owner's hand.""
+Equip 2",Few can catch it without losing a finger.,,,,1
+1750,Loam Lion,,,Creature,Cat,,,Wordlwake,Uncommon,Daniel Ljunggren,13,145,W,Loam Lion gets +1/+2 as long as you control a Forest.,"In Zendikar, today's grassland could be tomorrow's jungle, and hunting grounds change as quickly as the weather.",1,1,,1
+1751,Vapor Snare,,,Enchantment,Aura,,,Worldwake,Uncommon,Trevor Claxton,44,145,4U,"Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, sacrifice Vapor Snare unless you return a land you control to its owner's hand.",,,,,1
+1752,Scrib Nibblers,,,Creature,Rat,,,Worldwake,Uncommon,Daren Bader,66,145,2B,"T: Exile the top card of target player's library. If it's a land card, you gain 1 life.","Landfall — Whenever a land enters the battlefield under your control, you may untap Scrib Nibblers",1,1,,1
+1753,Shoreline Salvager,,,Creature,Surrakar,,,Worldwake,Uncommon,Igor Kieryluk,67,145,3B,"Whenever Shoreline Salvager deals combat damage to a player, if you control an Island, you may draw a card.","""They search for treasures that wash up from the depths. Tracking one could lead you to riches. Or in circles.""
+—Javad Nasrin, Ondu relic hunter",3,3,,1
+1754,Nemesis Trap,,,Instant,Trap,,,Worldwake,Uncommon,Ryan Pancoast,61,145,4BB,"If a white creature is attacking you may pay BB rather than pay Nemesis Trap's mana cost.
+Exile target attacking creature. Put a creature token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.",,,,,1
+1755,Deathforge Shaman,,,Creature,Ogre,Shaman,,Worldwake,Uncommon,Dave Kendall,80,145,4R,"Multikicker R (You may pay an additional R any number of times as you cast this spell.)
+When Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.",,4,3,,1
+1756,Slavering Nulls,,,Creature,Goblin,Zombie,,Worldwake,Uncommon,Dave Kendall,92,145,1R,"Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.
+Having lost their minds, they now want yours.",,2,1,,1
+1757,Tuktuk Scrapper,,,Creature,Goblin,Artificer,Ally,Worldwake,Uncommon,Matt Cavotta,94,145,3R,"Whenever Tuktuk Scrapper or another Ally enters the battlefield under your control, you may destroy target artifact. If that artifact is put into a graveyard this way, Tuktuk Scrapper deals damage to that artifact's controller equal to the numebr of Allies you control.",,2,2,,1
+1758,Bestial Menace,,,Sorcery,,,,Worldwake,Uncommon,Andrew Robinson,97,145,3GG,"Put a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token onto the battlefield.","""My battle cry reaches ears far keener  than yours.""
+—Saidah, Joraga hunter",,,,1
+1759,Canopy Cover,,,Enchantment,Aura,,,Worldwake,Uncommon,Igor Kieryluk,98,145,1G,"Enchant creature
+Enchanted creature can't be blocked except by creatures with flying or reach.
+Enchanted creature can't be the target of spells or abilities your opponents control.",,,,,3
+1760,Leatherback Baloth,,,Creature,Beast,,,Worldwake,Uncommon,Dave Kendall,107,145,GGG,,"Heavy enough to withstand the Roil, leatherback skeletons are havens for travelers in storms and landshifts.",4,5,,2
+1761,Quicksand,,,Land,,,,Worldwake,Uncommon,Matt Stewart,140,145,,"T: Add 1 to your mana pool.
+T, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.",Not all deaths are etched with mythic meaning and iconic glory.,,,,1
+1762,Sejiri Steppe,,,Land,,,,Worldwake,Common,Anthony Francisco,142,145,,"Sejiri Steppe enters the battlefield tapped.
+When Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.
+T: Add W to your mana pool.",,,,,1
+1763,Apex Hawks,,,Creature,Bird,,,Worldwake,Common,David Palumbo,2,145,2W,"Multikicker 1W (You may pay an additional 1W any number of times as you cast this spell.)
+Flying
+Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.",,2,2,,2
+1764,Battle Hurda,,,Creature,Giant,,,Worldwake,Common,Christopher Moeller,4,145,4W,First strike,"""Murasan hurdas were too aggressive to tolerate a harness, so we put them on guard duty. Now the bandits can't get within spitting distance of us.""
+—Bruse Tarl, Goma Fada nomad",3,3,,1
+1765,Fledgling Griffin,,,Creature,Griffin,,,Worldwake,Common,Christopher Moeller,5,145,1W,"Landfall — Whenever a land enters the battlefield under your control, Fledgling Griffin gains flying until end of turn.","""We're making progress, but its desire to explore still far exceeds its ability.""
+—Amadi, Halimar griffin-master",2,2,,1
+1766,Iona's Judgment,,,Sorcery,,,,Worldwake,Common,Mike Bierek,8,145,4W,Exile target creature or enchantment.,"Beneath the gaze of angels, only the righteous may stand without fear.",,,,1
+1767,Kitesail Apprentice,,,Creature,Kor,Soldier,,Worldwake,Common,Austin Hsu,10,145,W,"As long as Kitesail Apprentice is equipped, it gets +1/+1 and has flying.","Carving lines through the sky, kite sailors map trails for the pilgrims below to follow.",1,1,,2
+1768,Marsh Threader,,,Creature,Kor,Scout,,Worldwake,Common,David Palumbo,14,145,1W,Swampwalk,"""Give me a sturdy rope over the advice of any so-called expert. I can thread the dark wilds better than anyone.""",2,1,,1
+1769,Rest for the Weary,,,Instant,,,,Worldwake,Common,James Paick,18,145,1W,"Target player gains 4 life.
+Landfall — If you had a land enter the battlefield under your control this turn, that player gains 8 life instead.","Zendikar is a brutal taskmaster, but sometimes it offers unexpected solace.",,,,1
+1770,Veteran's Reflexes,,,Instant,,,,Worldwake,Common,Scott Chou,23,145,W,Target creature gets +1/+1 until end of turn. Untap that creature.,"""Assume everything wants to kill you. At the very least, assume everything wants what's in your pack.""",,,,2
+1771,Aether Tradewinds,,,Instant,,,,Worldwake,Common,Kieran Yanner,24,145,2U,Return target permanent you control and target permanent you don't control to their owners' hands.,"""The wind smells of misfortune. Check your knots.""
+—Anitan, Ondu cleric",,,,1
+1772,Calcite Snapper,,,Creature,Turtle,,,Worldwake,Common,David Palumbo,25,145,1UU,"Shroud (This creature can't be the target of spells or abilities.)
+Landfall — Whenever a land enters the battlefield under your control, you may switch Calcite Snapper's power and toughness until end of turn.",,1,4,,2
+1773,Dispel,,,Instant,,,,Worldwake,Common,Vance Kovacs,26,145,U,Counter target instant spell,The Jwari winds undo reality as easily as they scatter a pile of leaves.,,,,1
+1774,Enclave Elite,,,Creature,Merfolk,Soldier,,Worldwake,Common,Igor Kieryluk,27,145,2U,"Multikicker 1U (You may pay an additional 1U any number of times as you cast this spell.)
+Islandwalk
+Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.",,2,2,,1
+1775,Mysteries of the Deep,,,Instant,,,,Worldwake,Common,Veronique Meignaud,33,145,4U,"Draw two cards.
+Landfall — If you had a land enter the battlefield under your control this turn, draw three cards instead.","""The Roil is destructive, but not random. It's Zendikar's way of revealing secrets.""
+—Ilori, merfolk falconer",,,,1
+1776,Twitch,,,Instant,,,,Worldwake,Common,Scott Chou,43,145,2U,"You may tap or untap target artifact, creature, or land.
+Draw a card.","""The flow is diverted. Your path is clear. What are you waiting for—the cave to bid you welcome?""
+—Maizah Shere, Tazeem lullmage",,,,1
+1777,Wind Zendikon,,,Enchantment,Aura,,,Worldwake,Common,Vincent Proce,46,145,U,"Enchant land
+Enchanted land is a 2/2 blue Elemental creature with flying. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.",,,,,1
+1778,Brink of Disaster,,,Enchantment,Aura,,,Worldwake,Common,Alex Horley-Orlandelli,52,145,2BB,"Enchant creature or land
+When enchanted permanent becomes tapped, destroy it.","""You always have a choice. That doesn't mean you always have a good choice.""
+—Alubri, Guul Draz gatekeeper",,,,1
+1779,Corrupted Zendikon,,,Enchantment,Aura,,,Worldwake,Common,John Avon,55,145,1B,"Enchant land
+Enchanted land is a 3/3 black Ooze creature. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.",,,,,1
+1780,Tomb Hex,,,Instant,,,,Worldwake,Common,Izzy,69,145,2B,"Target creature gets -2/-2 until end of turn.
+Landfall — If you had a land enter the battlefield under your control this turn, that creature gets -4/-4 until end of turn instead.",,,,,3
+1781,Akoum Battlesinger,,,Creature,Human,Berserker,Ally,Worldwake,Common,Adi Granov,71,145,1R,"Haste
+Whenever Akoum Battlesinger or another Ally enters the battlefield under your control, you may have Ally creatures you control get +1/+0 until end of turn.",,1,1,,1
+1782,Bull Rush,,,Instant,,,,Worldwake,Common,Cristopher Moeller,73,145,R,Target creature gets +2/+0 until end of turn.,"""It's gone mad! Loose the chains and save what you can!""",,,,1
+1783,Claws of Valakut,,,Enchantment,Aura,,,Worldwake,Common,Igor Kieryluk,75,145,1RR,"Enchant creature
+Enchanted creature gets +1/+0 for each Mountain you control and has first strike.","""Swords may sunder. Shields may fail. My will is stronger than steel, and my flesh and bone far more deadly.""",,,,1
+1784,Cosi's Ravager,,,Creature,Elemental,,,Worldwake,Common,Zoltan Boros & Gabor Szikszai,77,145,3R,"Landfall — Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.","""Cosi has many followers. Even the volcano finds a way to do his bidding.""
+—Zakken, Enclave cleric",,,,2
+1785,Goblin Roughrider,,,Creature,Goblin,Knight,,Worldwake,Common,Jesper Ejsing,82,145,2R,,"Astride the bucking creature, Gribble hurtled down the mountainside while his Grotag brethren cheered. It was at that moment that legend of the Skrill Tamer was born.",3,2,,2
+1786,Grotag Thrasher,,,Creature,Lizard,,,Worldwake,Common,Jesper Ejsing,83,145,4R,"Whenever Grotag Thrasher attacks, target creature can't block this turn.",The goblin fancied himself a rider. The lizard was happy with its new flail.,3,3,,1
+1787,Skitter of Lizards,,,Creature,Lizard,,,Worldwake,Common,Warren Mahy,91,145,R,"Multikicker 1R (You may pay an additional 1R any number of times as you cast this spell.)
+Haste
+Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.",,1,1,,1
+1788,Arbor Elf,,,Creature,Elf,Druid,,Worldwake,Common,rk post,95,145,G,T: Untap target Forest,"The Mul Daya elves reject their Tajuru kin, calling them arrogant tree-binders who think the roots serve the canopy.",1,1,,2
+1789,Explore,,,Sorcery,,,,Worldwake,Common,John Avon,99,145,1G,"You may play an additional land this turn.
+Draw a card.",An explorer's reward is a view of tomorrow's possibilities.,,,,3
+1790,Gnarlid Pack,,,Creature,Beast,,,Worldwake,Common,Johann Bodin,101,145,1G,"Multikicker 1G (You may pay an additional 1G any number of times as you cast this spell.)
+Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.",,2,2,,2
+1791,Grappler Spider,,,Creature,Spider,,,Worldwake,Common,Austin Hsu,102,145,1G,"Reach (This creature can block creatures with flying.)
+Creatures of the air wisely avoid the darkest regions of Guul Draz—which is why grappler spiders inhabit the few places touched by the sun's rays.",,2,1,,1
+1792,Nature's Claim,,,Instant,,,,Worldwake,Common,Daarken,108,145,G,Destroy target artifact or enchantment. It's controller gains 4 life.,"""On this plane, the use of magic can provoke a ferocious reprisal from nature. Whoever the Eldrazi were, their relics left Zendikar forever enraged.""
+—Jace Beleren",,,,1
+1793,Vastwood Zendikon,,,Enchantment,Aura,,,Worldwake,Common,Rob Alexander,117,145,4G,"Enchant land
+Enchanted land is a 6/4 green Elemental creature. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.",,,,,1
+1794,Hedron Rover,,Artifact,Creature,Construct,,,Worldwake,Common,Jason Felix,125,145,4,"Landfall — Whenever a land enters the battlefield under your control, Hedron Rover gets +2/+2 until end of turn.","""Now that it has woken up and wandered off, we shoudl go see what it was guarding.""
+—Gotzen, Bulwark explorer",2,2,,1
+1795,Pilgrim's Eye,,Artifact,Creature,Thopter,,,Worldwake,Common,Dan Scott,128,145,3,"Flying
+When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into you rhand, then shuffle your library.",The kor send their thopter kites to see if the land is in a welcoming mood.,1,1,,1
+1796,Walking Atlas,,,Creature,Construct,,,Worldwake,Common,Rob Alexander,131,145,2,T: You may put a land card from your hand onto the battlefield.,"Crafted by lullmages and bound to the land, it alters itself to match the tumultuous terrain.",1,1,,1
+1797,Bojuka Bog,,,Land,,,,Worldwake,Common,Howard Lyon,132,145,,"Bojuka Bog enters the battlefield tapped.
+When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.
+T: Add B to your mana pool.",,,,,2
+1798,Khalni Garden,,,Land,,,,Worldwake,Common,Ryan Pancoast,138,145,,"Khalni Garden enters the battlefield tapped.
+When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.
+T: Add G to your mana pool.",,,,,4
+1799,Ikiral Outrider,,,Creature,Human,Soldier,,Rise of Eldrazi,Common,Kekai Kotaki,27,248,1W,Level up 4 (4: Put a level counter on this. Level up only as a sorcery.),,1,2,,3
+1800,Flame Slash,,,Sorcery,,,,Rise of Eldrazi,Common,Raymond Swanland,145,248,R,Flame Slash deals 4 damage to target creature.,"After millenia asleep, the Eldrazi had forgotten about Zendikar's fiery temper and dislike of strangers.",,,,4
+1801,Staggershock,,,Instant,,,,Rise of Eldrazi,Common,Raymond Swanland,166,248,2R,"Staggershock deals 2 damage to target creature or player.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",,,,,1
+1802,Forked Bolt,,,Sorcery,,,,Rise of Eldrazi,Uncommon,Tomasz Jedruszek,146,248,R,Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.,"""Play no favorites. Everybody dies.""
+—Sparkmage saying",,,,2
+1803,Bramblesnap,,,Creature,Elemental,,,Rise of Eldrazi,Uncommon,James Ryman,180,248,1G,"Trample
+Tap an untapped creature you control:
+Bramblesnap gets +1/+1 until end of turn.",A bramblesnap is formed by grafting together thirteen different plants that already hunger for meat.,1,1,,1
+1804,Joraga Treespeaker,,,Creature,Elf,Druid,,Rise of Eldrazi,Uncommon,Cyril Van Der Haegen,190,248,G,Level up 1G (1G: Put a level coutner on this. Level up only as a sorcery.),,1,1,,3

@@ -1,0 +1,749 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+2299,Cloistered Youth,,,Creature,Human,,,Innistrad,Uncommon,Igor Kieryluk,,8a,264,1W,"At the beginning of your upkeep, you may transform Cloistered Youth.","""I heard her talking in her sleep—pleading, shrieking, snarling. It was not my daughter's voice. That is not my daughter.""
+—Ekatrin, elder of Hanweir",1,1,,3
+2300,Gallows Warden,,,Creature,Spirit,,,Innistrad,Uncommon,Dan Scott,,16,264,4W,"Flying
+Other Spirit creatures you control get +0/+1.",The spirit cares nothing for the crimes or triumphs of the slain. It shelters all beneath its stormy cloak.,3,3,,2
+2301,Intangible Virtue,,,Enchantment,,,,Innistrad,Uncommon,Clint Cearley,,19,264,1W,Creature tokens you control get +1/+1 and have vigilance.,"In life, they were a motley crew: farmers, lords, cutpurses, priests. In death, they are united in singular, benevolent purpose.",,,,1
+2302,Mausoleum Guard,,,Creature,Human,Scout,,Innistrad,Uncommon,David Palumbo,,20,264,3W,"When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.","""Ghoulcallers trying to get in, geists trying to get out....This duty is never dull.""",2,2,,4
+2303,Rally the Peasants,,,Instant,,,,Innistrad,Uncommon,Jaime Jones,,28,264,2W,"Creatures you control get +2/+0 until end of turn.
+Flashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)","""If you must go out at night, bring a mob.""
+—Master of the Elgaud Cathars",,,,4
+2304,Slayer of the Wicked,,,Creature,Human,Soldier,,Innistrad,Uncommon,Anthony Palumbo,,32,264,3W,"When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.",You don't want to see his trophy room.,3,2,,3
+2305,Spectral Rider,,,Creature,Spirit,Knight,,Innistrad,Uncommon,Igor Kieryluk,,33,264,WW,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.),"Never a word. Never a warning. Only the sound of hoofbeats along the crossways, and the screams of the avenged.",2,2,,3
+2306,Battleground Geist,,,Creature,Spirit,,,Innistrad,Uncommon,Clint Cearley,,45,264,4U,"Flying
+Other Spirit creatures you control get +1/+0.","Not content to nudge vases and chill drawing rooms, some giests muster spectral armies to claw at the hearts of the living.",3,3,,5
+2307,Civilized Scholar,,,Creature,Human,Advisor,,Innistrad,Uncommon,Michael C. Hayes,,47a,264,2U,"T: Draw a card, then discard a card. If a creature card is discared this way, untap Civilized Scholar, then transform it.","""Me, angry? Of course not. thanks to my research, I'm above such petty emotions now.""",0,1,,4
+2308,Curiosity,,,Enchantment,Aura,,,Innistrad,Uncommon,Igor Kieryluk,,49,264,U,"Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.","""Surely you know the joy of the hunt, my furry friend. My kind of hunt just takes a different form than yours.""",,,,1
+2309,Dissipate,,,Instant,,,,Innistrad,Uncommon,Tomasz Jedruszek,,53,264,1UU,"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.","""This abomination never belonged in our world. I'm merely setting it free.""
+—Dierk, geistmage",,,,2
+2310,Grasp of Phantoms,,,Sorcery,,,,Innistrad,Uncommon,Izzy,,58,264,3U,"Put target creature on top of its owner's library.
+Flashback 7U (You may cast this card from your graveyard for its flashback cost. Then exile it.",,,,,2
+2311,Lantern Spirit,,,Creature,Spirit,,,Innistrad,Uncommon,Johann Bodin,,62,264,2U,"Flying
+U: Return Lantern Spirit to its owner's hand.
+","Bound to the square where she died, she calls out to those in danger—usually scaring them straight into the peril she warns of.",2,1,,2
+2312,Murder of Crows,,,Creature,Bird,,,Innistrad,Uncommon,Drew Baker,,70,264,3UU,"Flying
+Whenever another creature dies, you may draw a card. If you do, discard a card.","Even more than carrion, they crave the last words of the dying.",4,4,,1
+2313,Runic Repetition,,,Sorcery,,,,Innistrad,Uncommon,Svetlin Velinov,,72,264,2U,Return target exiled card with flashback you own to your hand.,"""What some call obsession, I call the quest for perfection.""",,,,5
+2314,Skaab Goliath,,,Creature,Zombie,Giant,,Innistrad,Uncommon,Volkan Baga,,76,264,5U,"As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.
+Trample","""Three heads, six arms, and some armor grafts are better than...the normal numbers of those things.""
+—Stitcher Geralf",6,9,,3
+2315,Abattoir Ghoul,,,Creature,Zombie,,,Innistrad,Uncommon,Volkan Baga,,85,264,3B,"First strike
+Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.",Death took his humanity but not his skill with the knife.,3,2,,5
+2316,Bitterheart Witch,,,Creature,Human,Shaman,,Innistrad,Uncommon,Karl Kopinski,,88,264,4B,"Deathtouch
+When Bitterheart Witch dies, you may search your library for a Curse card, put it into the battlefield attached to target player, then shuffle your library.",,1,2,,3
+2317,Disciple of Griselbrand,,,Creature,Human,Cleric,,Innistrad,Uncommon,Clint Cearley,,98,264,1B,"1, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.","The demon Griselbrand dared to stand against Avacyn, earning him the loathing of thousands and the admiration of a few.",1,1,,3
+2318,Falkenrath Noble,,,Creature,Vampire,,,Innistrad,Uncommon,Slawomir Maniak,,100,264,3B,"Flying
+Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.","""I often think on how excited they must feel to be chosen as my prey.""",2,2,,2
+2319,Moan of the Unhallowed,,,Sorcery,,,,Innistrad,Uncommon,Nils Hamm,,109,264,2BB,"Put two 2/2 black Zombie creature tokens onto the battlefield.
+Flashback 5BB (You may cast this card from your graveyard for its flashback cost. Then exile it.)","For a ghoul, every village is a buffet and every disaster is a reunion.",,,,3
+2320,Morkrut Banshee,,,Creature,Spirit,,,Innistrad,Uncommon,Svetlin Velinov,,110,264,3BB,"Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.","""Let go your grudges, or risk wandering the bogs forever in a murderous rage.""
+—Hildin, priest of Avacyn",4,4,,1
+2321,Screeching Bat,,,Creature,Bat,,,Innistrad,Uncommon,Slawomir Maniak,,114a,264,2B,"Flying
+At the beginning of your upkeep, you may pay 2BB. If you do, transform Screeching Bat.",The bat has such clarity of hearing that simple sounds become symphonies.,2,2,,3
+2322,Village Cannibals,,,Creature,Human,,,Innistrad,Uncommon,Bud Cook,,125,264,2B,"Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.",Some have endured the horrors of Innistrad by becoming the worst monsters of all.,2,2,,3
+2323,Burning Vengeance,,,Enchantment,,,,Innistrad,Uncommon,Raymond Swanland,,133,264,2R,"Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to target creature or player.",Mist is teh geists' sorrow. Wind is their pain. Fire is their vengeance.,,,,6
+2324,Curse of the Nightly Hunt,,,Enchantment,Aura,Curse,,Innistrad,Uncommon,Daarken,,137,264,2R,"Enchant player
+Creatures enchanted player controls attack each turn if able.","When the moon rises and the bloodlust takes hold, nothing matters but the kill.",,,,4
+2325,Desperate Ravings,,,Instant,,,,Innistrad,Uncommon,John Stanko,,139,264,1R,"Draw two cards, then discard a card at random.
+Flashback 2U (You may cast this card from your graveyard for its flashback cost. Then exile it.)","Her mind was quite gone, yet she spoke nothing but truth.",,,,2
+2326,Hanweir Watchkeep,,,Creature,Human,Warrior,Werewolf,Innistrad,Uncommon,Wayne Reynolds,,145a,264,2R,"Defender
+At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.","He scans for wolves, knowing there's one he can never anticipate.",1,5,,2
+2327,Into the Maw of Hell,,,Sorcery,,,,Innistrad,Uncommon,Raymond Swanland,,150,264,4RR,Destroy target land. Into the Maw of Hell deals 13 damage to target creature.,"Few entrances lead to where demons and devils lurk. Unfortunately, they occasionally open new ones.",,,,1
+2328,Rage Thrower,,,Creature,Human,Shaman,,Innistrad,Uncommon,Pete Mohrbacher,,157,264,5R,"Whenever another creature dies, Rage Thrower deals 2 damage to target player.","""Some lament these haunted times, but I'm a geist flame-tank-half-full kind of person.""",4,2,,3
+2329,Rakish Heir,,,Creature,Vampire,,,Innistrad,Uncommon,Winona Nelson,,158,264,2R,"Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.","""If you're not having fun, what's the point of living forever?""",2,2,,2
+2330,Scourge of Geier Reach,,,Creature,Elemental,,,Innistrad,Uncommon,Jung Park,,162,264,3RR,Scourge of Geier Reach gets +1/+1 for each creature your opponents control.,Stensian villagers mourned the loss of human life. Thraben vampire slayers mourned the loss of living wood.,3,3,,4
+2331,Skirsdag Cultists,,,Creature,Human,Shaman,,Innistrad,Uncommon,Slawomir Maniak,,163,264,2RR,"R, T, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.","""Within blood is life. Within life is fire. Within fire is the path to our masters' glory!""",2,2,,3
+2332,Boneyard Wurm,,,Creature,Wurm,,,Innistrad,Uncommon,Jaime Jones,,171,264,1G,Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.,The only thing it likes more than discovering a pit of bones is adding to it.,X,X,,4
+2333,Gatstaf Shepherd,,,Creature,Human,Werewolf,,Innistrad,Uncommon,Mark Evans,,182a,264,1G,"At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.","""What is worse than a wolf in sheep's clothing?""
+—Wolfhunter's riddle",2,2,,3
+2334,Hamlet Captain,,,Creature,Human,Warrior,,Innistrad,Uncommon,Wayne Reynolds,,187,264,1G,"Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn.","""I would fear this fight, bloodsucker, were I alone.""",2,2,,1
+2335,Hollowhenge Scavenger,,,Creature,Elemental,,,Innistrad,Uncommon,Slawomir Maniak,,188,264,3GG,"Morbid — When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.","After werewolves slaughtered the citizenry of Hollowhenge, other creatures moved in.",4,5,,2
+2336,Lumberknot,,,Creature,Treefolk,,,Innistrad,Uncommon,Jason A. Engle,,191,264,2GG,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever a creature dies, put a +1/+1 counter on Lumberknot.","Animated by geists fused in its oak, it hungers for more life to add to its core.",1,1,,3
+2337,Make a Wish,,,Sorcery,,,,Innistrad,Uncommon,Howard Lyon,,192,264,3G,Return two cards at random from your graveyard to your hand.,"In Gavony wishing is taken as a sign of weakness, yet the wells usually brim with silver.",,,,2
+2338,Ulvenwald Mystics,,,Creature,Human,Shaman,Werewolf,Innistrad,Uncommon,Dan Scott,,208a,264,2GG,"At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.","""With this ritual, we cast aside our fragile humanity...""",3,3,,4
+2339,Wreath of Geists,,,Enchantment,Aura,,,Innistrad,Uncommon,Jason A. Engle,,211,264,G,"Enchant creature
+Enchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.","Before you travel the woods of Kessig, first get permission from those who died trying.",,,,5
+2340,Galvanic Juggernaut,,Artifact,Creature,Juggernaut,,,Innistrad,Uncommon,Lucas Graciano,,222,264,4,"Galvanic Juggernaut attacks each turn if able.
+Galvanic Juggernaut doesn't untap during your untap step.
+Whenever another creature dies, untap Galvanic Juggernaut.
+",,5,5,,3
+2341,Butcher's Cleaver,,Artifact,Equipment,,,,Innistrad,Uncommon,Jason Felix,,217,264,3,"Equipped creature gets +3/+0
+As long as equipped creature is a Human it has lifelink.
+Equip 3","Outside the safety of Thraben, there is little distinction between tool and weapon.",,,,2
+2342,Silver-Inlaid Dagger,,Artifact,Equipment,,,,Innistrad,Uncommon,Austin Hsu,,233,264,1,"Equipped creature gets +2/+0.
+As long as equipped creature is a Human, it gets an additional +1+0.
+Equip 2",Magical etchings turned a whittler's tool into a wolfhunter's weapon.,,,,3
+2343,Demonmail Hauberk,,Artifact,Equipment,,,,Innistrad,Uncommon,Jason Felix,,221,264,4,"Equipped creature gets +4/+2.
+Equip—Sacrifice a creature.",It comes off as easily as your own skin.,,,,3
+2344,Butcher's Cleaver,,Artifact,Equipment,,,,Innistrad,Uncommon,Jason Felix,,217,264,3,"Equipped creature gets +3/+0.
+As long as equipped creature is a Human, it has lifelink.
+Equip 3","Outside the safety of Thraben, there is little distinction between tool and weapon.",,,,2
+2345,Sharpened Pitchfork,,Artifact,Equipment,,,,Innistrad,Uncommon,Winona Nelson,,232,264,2,"Equipped creature has first strike.
+As long as equipped creature is a Human, it gets +1/+1.
+Equip 1","Not everyone can have a sword of blessed silver. Not everyone needs one, either.",,,,1
+2346,Mask of Avacyn,,Artifact,Equipment,,,,Innistrad,Uncommon,James Paick,,229,264,2,"Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)
+Equip 3",It hides the face and protects the soul.,,,,3
+2347,Graveyard Shovel,,Artifact,,,,,Innistrad,Uncommon,Martina Pilcerova,,225,264,2,"2, T: Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life.","Thanks to Havengul's thriving illegal market for corpses, the shovel that interred a body during the day is usually the same one digging it out at night.",,,,1
+2348,Trepanation Blade,,Artifact,Equipment,,,,Innistrad,Uncommon,Daniel Ljunggren,,235,264,3,"Whenever equipped creature attacks, defending player reveals cards from the top of his or her library until he or she reveals a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts teh revealed cards into his or her graveyard.
+Equip 2",,,,,1
+2349,Geistcatcher's Rig,,Artifact,Creature,Construct,,,Innistrad,Uncommon,Vincent Proce,,223,264,6,"When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.","The rigs were outlawed except in Nephalia, where Malign spirits are as plentiful as crazed inventors.",4,5,,2
+2350,Abbey Griffin,,,Creature,Griffin,,,Innistrad,Common,Jaime Jones,,1,264,3W,"Flying, Vigilance","""The darkness crawls with vampires and ghouls, but we are not without allies.""
+—Mikaeus, the Lunarch",2,2,,3
+2351,Avacynian Priest,,,Creature,Human,Cleric,,Innistrad,Common,Greg Staples,,4,264,1W,"1, T: Tap target non-Human creature.",Moorlanders speak in awe of hte priests' talent for arriving just in time to drive off the wicked things that prowl the ravished parish.,1,2,,7
+2352,Bonds of Faith,,,Enchantment,Aura,,,Innistrad,Common,Steve Argyle,,5,264,1W,"Enchant creature
+Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.","""What cannot be destroyed will be bound.""
+—Oath of Avacyn",,,,8
+2353,Chapel Geist,,,Creature,Spirit,,,Innistrad,Common,Peter Morbacher,,2,264,1W,Flying,"Death has bound it with chains of past regrets. Forever it searches for atonement, each kindness removing a single link.",2,3,,5
+2354,Elder Cathar,,,Creature,Human,Soldier,,Innistrad,Common,Chris Rahn,,12,264,2W,"When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.","""My greatest hope is that you will surpass me in every way, consigning my name to some forgotten corner of history.""",2,2,,5
+2355,Ghostly Possession,,,Enchantment,Aura,,,Innistrad,Common,Howard Lyon,,18,264,2W,"Enchant creature
+Enchanted creature has flying.
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.",,,,,3
+2356,Monument of Heroism,,,Instant,,,,Innistrad,Common,Christopher Moeller,,24,264,1W,Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.),"""My faith is stronger than fang, claw, or mindless hunger.""",,,,3
+2357,Rebuke,,,Instant,,,,Innistrad,Common,Igor Kieryluk,,29,256,2W,Destroy target attacking creature.,"""No one chooses to be stitched together into a skaab. If it could speak, it would beg for its own destruction.""
+—Thalia, Knight-Cathar",,,,5
+2358,Selfless Cathar,,,Creature,Human,Cleric,,Innistrad,Common,Slawomir Maniak,,30,256,W,"1W, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.","""If I fail to offer myself, we will surely be overrun. My fate would be the same.""",1,1,,5
+2359,Silverchase Fox,,,Creature,Fox,,,Innistrad,Common,Howard Lyon,,31,264,1W,"1W, Sacrifice Silverchase Fox: Exile target enchantment.","""Be careful in your hunt. The clever little creature can steal your wards and lead you right into the werewolf's den.""
+—Britta, midwife of Gatstaf",2,2,,5
+2360,Smite the Monstrous,,,Instant,,,,Innistrad,Common,Jason Felix,,33,264,3W,Destroy target creature with power 4 or greater.,"Though the old holy wards and roadside shrines have begun to fail, faith in Avacyn still holds true power.",,,,5
+2361,Spare from Evil,,,Instant,,,,Innistrad,Common,Jason Felix,,34,264,1W,Creatures you control gain protection from non-Human creatures until end of turn.,"""As long as we can utter a prayer or lift a weapon, we have the power to fight back.""
+—Thalia, Knight-Cathar",,,,4
+2362,Thraben Purebloods,,,Creature,Hound,,,Innistrad,Common,Martina Pilcerova,,37,264,4W,,"""I've learned to trust my dogs' instincts. When they're calm, I'm calm. And when they get nervous, I get my crossbow.""
+—Hinrik of House Cecani",3,5,,8
+2363,Thraben Sentry,,,Creature,Human,Soldier,,Innistrad,Common,David Rapoza,,38a,264,3W,"Vigilance
+Whenever another creature you control dies, you may transform Thraben Sentry.","""looks like it's going to be a quiet night.""",2,2,,5
+2364,Unruly Mob,,,Creature,Human,,,Innistrad,Common,Ryan Pancoast,,39,264,1W,"Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.","""Who says werewolves are the only ones who can hunt as a pack?""
+—Kolman, elder of Gatstaf",1,1,,3
+2365,Urgent Exorcism,,,Instant,,,,Innistrad,Common,Svetlin Velinov,,40,264,1W,Destroy target Spirit or Enchantment.,"""To show geists pity is to prolong their agonies. Whether they know it or not, they seek the Blessed Sleep, and we are to give it to them.""
+—Mikaeus, the Lunarch",,,,7
+2366,Village Bell-Ringer,,,Creature,Human,Scout,,Innistrad,Common,David Palumbo,,41,264,2W,"Flash (You may cast this spell any time you could cast an instant.)
+When Village Bell-Ringer enters the battlefield, untap all creatures you control.","""Priests, hunters, slayers—to arms! The enemy approaches!""",1,4,,5
+2367,Voiceless Spirit,,,Creature,Spirit,,,Innistrad,Common,Daarken,,42,264,2W,"Flying, first strike","""I'd rather take on a neckbiter or moonhowler any day. Oh well, looks like I'm going to end up parrying with empty air half the night.""
+—Saint Trogen, the Slayer",2,1,,2
+2368,Armored Skaab,,,Creature,Zombie,Warrior,,Innistrad,Common,Volkan Baga,,43,264,2U,"When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.",Literally made for battle.,1,4,,8
+2369,Claustrophobia,,,Enchantment,Aura,,,Innistrad,Common,Ryan Pancoast,,48,264,1UU,"Enchant creature
+When Claustrophobia enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",Six feet of earth muffled his cries.,,,,1
+2370,Curse of the Bloody Tome,,,Enchantment,Aura,Curse,,Innistrad,Common,Jaime Jones,,50,264,2U,"Enchant player
+At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.","After seeing his life's work drip away, the mage decided it was a good time to go crazy.",,,,4
+2371,Deranged Assistant,,,Creature,Human,Wizard,,Innistrad,Common,Nils Hamm,,52,264,1U,"T, Put the top card of your library into your graveyard: Add 1 to your mana pool.","""Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting.",1,1,,3
+2372,Forbidden Alchemy,,,Instant,,,,Innistrad,Common,David Rapoza,,55,264,2U,"Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Flashback 6B (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,,,2
+2373,Fortress Crab,,,Creature,Crab,,,Innistrad,Common,Vincent Proce,,56,264,3U,"Unbreakable and unappetizing, the crab grows uninterrupted, sometimes to the size of a cottage and beyond.",,1,6,,6
+2374,Frightful Delusion,,,Instant,,,,Innistrad,Common,Anthony Palumbo,,57,264,2U,Counter target spell unless its controller pays 1. That player discards a card.,"Whether he actually exists is in question, but the terror she feels is excruciatingly real.",,,,5
+2375,Hysterical Blindness,,,Instant,,,,Innistrad,Common,Wayne England,,59,264,2U,Creatures your opponents control get -4/-0 until end of turn.,"""The panic is amusing, but the real fun comes when the spell passes and the villagers start looking for a scapegoat.""
+—Ludevic, necro-alchemist",,,,5
+2376,Lost in the Mist,,,Instant,,,,Innistrad,Common,David Palumbo,,63,264,3UU,Counter target spell. Return target permanent to its owner's hand.,"The secrets she carried would have saved many lives, but they quietly drowned with her.",,,,5
+2377,Makeshift Mauler,,,Creature,Zombie,Horror,,Innistrad,Common,James Ryman,,65,264,3U,"As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.","""It always amazes me what perfectly good things people throw away.""
+—Ludevic, necro-alchemist",4,5,,5
+2378,Moon Heron,,,Creature,Spirit,Bird,,Innistrad,Common,Charles Urbach,,69,264,3U,Flying,The heron is the symbol of the archangel Avacyn. The fact that such spirits still fly gives the church hope that its founder may one day return.,3,2,,5
+2379,Selhoff Occultist,,,Creature,Human,Rogue,,Innistrad,Common,Igor Kieryluk,,73,264,2U,"Whenever Selhoff Occultist or another creature does, target player puts the top card of his or her library into his or her graveyard.","""The mist whispers to those who know it to be more than a mundane fog.""",2,3,,4
+2380,Sensory Deprivation,,,Enchantment,Aura,,,Innistrad,Common,Steven Belledin,,74,264,U,"Enchant creature
+Enchanted creature gets -3/-0.","They call it ""stitcher's anesthesia,"" a spell to deaden the senses while the mad doctors begin their grisly work.",,,,3
+2381,Silent Departure,,,Sorcery,,,,Innistrad,Common,John Avon,,75,264,U,Return target creature to its owner's hand.,Flashback 4U (You may cast this card from your graveyard for its flashback cost. Then exile it.),The same magic that lets geists pass thorugh our realm can force them out of it.,,,5
+2382,Spectral Flight,,,Enchantment,Aura,,,Innistrad,Common,Johann Bodin,,79,264,1U,"Enchant creature
+Enchanted creature gets +2/+2 and has flying.","""The church looks down on binding spirits into armor, but now I can look down on them.""
+—Dierk, geistmage
+",,,,4
+2383,Stitcher's Apprentice,,,Creature,Homunculus,,,Innistrad,Common,Johann Bodin,,81,264,1U,"1U, T: Put a 2/2 blue Homunculus creature token onto the battlefield, then sacrifice a creature.","""Oglor create life, Oglor take it away. Oglor god!...until Master return.""",1,2,,5
+2384,Stitched Drake,,,Creature,Zombie,Drake,,Innistrad,Common,Chris Rahn,,80,264,1UU,"As an additional cost to cast Stitched Drake, exile a creature card from your graveyard.
+Flying","""The best skaab are more powerful and more beautiful than the sum of their parts.""
+—Stitcher Geralf",3,4,,7
+2385,Altar's Reap,,,Instant,,,,Innistrad,Common,Donato Giancola,,86,264,1B,"As an additional cost to cast Altar's Reap, sacrifice a creature.
+Draw two cards.","""The demons don't care if we mutter niceties and act out ceremonies. Just kill him.""
+—Bishop Volpaig, servant of Griselbrand",,,,6
+2386,Brain Weevil,,,Creature,Insect,,,Innistrad,Common,Anthony Jones,,91,264,3B,"Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.",,1,1,,6
+2387,Bump in the Night,,,Sorcery,,,,Innistrad,Common,Kev Walker,,92,264,B,"Target opponent loses 3 life.
+Flashback 5R (You may cast this card from your graveyard for its flashback cost. Then exile it.)",It's not just the wind. It's not all in your head. And it's definitely something to worry about.,,,,4
+2388,Corpse Lunge,,,Instant,,,,Innistrad,Common,Christopher Moeller,,93,264,2B,"As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.
+Corpse Lunge deals damage equal to the exiled card's power to target creature.",,,,,4
+2389,Curse of Oblivion,,,Enchantment,Aura,Curse,,Innistrad,Common,Jana Schirmer,Johannes Voss,95,264,3B,"Enchant player
+At the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.",The first step to peace is to learn how to forget.,,,,7
+2390,Dead Weight,,,Enchantment,Aura,,,Innistrad,Common,Randy Gallegos,,96,264,B,"Enchant creature
+Enchanted creature gets -2/-2.",The crueler vampires' idea of free-range farming.,,,,2
+2391,Ghoulcaller's Chant,,,Sorcery,,,,Innistrad,Common,Randy Gallegos,,101,264,B,Choose one — Return target creature card from your graveyard to your hand; or return two target Zombie cards from your graveyard to your hand.,"""The living are born small and weak. The dead rise ready to serve. The choice is obvious.""
+—Gisa, ghoulcaller of Gavony",,,,4
+2392,Ghoulraiser,,,Creature,Zombie,,,Innistrad,Common,Steve Prescott,,102,264,1BB,"When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.","""Come. Bring your brothers. Tonight, you feast on living flesh.""
+—Jadar, ghoulcaller of Nephalia",2,2,,6
+2393,Gruesome Deformity,,,Enchantment,Aura,,,Innistrad,Common,Matt Stewart,,103,264,B,"Enchant creature
+Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",She wanted to inspire terror wherever she went. The demons happily granted her wish.,,,,3
+2394,Manor Skeleton,,,Creature,Skeleton,,,Innistrad,Common,Eric Deschamps,,106,264,1B,"Haste
+1B: Regenerate Manor Skeleton.",Lungs dried to parchment wheeze blasphemies within a cage of bleached bone.,1,1,,3
+2395,Markov Patrician,,,Creature,Vampire,,,Innistrad,Common,Jana Schirmer,Johannes Voss,107,264,2B,Lifelink (Damage dealt by this creature also causes you to gain that much life.),"Vampires of the Markov bloodline pride themselves on their exquisite taste in fashion, art, and ""wine of the vein.""",3,1,,4
+2396,Maw of the Mire,,,Sorcery,,,,Innistrad,Common,Vincent Proce,,108,264,4B,Destroy target land. You gain 4 life.,"As the chapel was dragged under, the bell in the tower rang until the murkey depths forever silenced its toll.",,,,7
+2397,Night Terrors,,,Sorcery,,,,Innistrad,Common,Christopher Moeller,,111,264,2B,Target player reveals his or her hand. You choose a nonland card from it. Exile that card.,Innistrad is a place where dreams invade the mind and mere shadows exact a terrible toll.,,,,5
+2398,Rotting Fensnake,,,Creature,Zombie,Snake,,Innistrad,Common,Tomasz Jedruszek,,113,264,3B,,"Its venom sacs are long gone, but its crushing strength is somehow greater than ever.",5,1,,4
+2399,Stormkirk Patrol,,,Creature,Vampire,Soldier,,Innistrad,Common,Karl Kopinski,,118,264,4B,"Whenever Stormkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.","""You'd best move along, human. Our palates are fare less discerning than our master's.""",4,3,,4
+2400,Typhoid Rats,,,Creature,Rat,,,Innistrad,Common,Kev Walker,,120,264,B,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),Kidnappers caught in Havengul are given two choices: languish in prison or become rat catchers. The smart ones go to prison.,1,1,,4
+2401,Vampire Interloper,,,Creature,Vampire,Scout,,Innistrad,Common,James Ryman,,123,264,1B,"Flying
+Vampire Interloper can't block.","He listens to every heartbeat, deciding which one of hundreds he will stop.",2,1,,3
+2402,Victim of Night,,,Instant,,,,Innistrad,Common,Winona Nelson,,124,264,BB,"Destroy target non-Vampire, non-Werewolf, non-Zombie creature.","""Do not touch a drop. Not yet. I want to watch this so-called slayer's lasts crisis of faith.""
+—Olivia Voldaren",,,,6
+2403,Walking Corpse,,,Creature,Zombie,,,Innistrad,Common,Igor Kieryluk,,126,264,1B,,"""Is it hopeless? When wave upon wave of our dead return as mindless flesh-eaters to claw upon Thraben's walls? We're too busy cutting them down to indulge ourselves in such philosophical foppery.""
+—Mikaeus, the Lunarch",2,2,,6
+2404,Ashmouth Hound,,,Creature,Elemental,Hound,,Innistrad,Common,Daarken,,128,264,1R,"Whenever Ashenmouth Hound blocks or becomes blocked by a creature, Ashenmouth Hound deals 1 damage to that creature.","Its fiery paws make it easy to track, which is very useful when you want to go in exactly the opposite direction.",2,1,,6
+2405,Bloodcrazed Neonate,,,Creature,Vampire,,,Innistrad,Common,Cynthia Sheppard,,131,264,1R,"Bloodcrazed Neonate attacks each turn if able.
+Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.","While elder vampires select their meals with care, the newly sired frenzy at th efirst whiff.",2,1,,8
+2406,Crossway Vampire,,,Creature,Vampire,,,Innistrad,Common,Mark Evans,,135,264,1RR,"When Crossway Vampire enters the battlefield, target creature can't block this turn.","""do not flatter Fate. It did not guide you into my clutches tonight. That was all my doing.""",3,2,,2
+2407,Curse of the Pierced Heart,,,Enchantment,Aura,Curse,,Innistrad,Common,E. M. Gist,,138,264,1R,"Enchant player
+At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.","""May your veins weep, and may every vampire take notice.""
+—Stension curse",,,,4
+2408,Feral Ridgewolf,,,Creature,Wolf,,,Innistrad,Common,Martina Pilcerova,,143,264,2R,"Trample
+1R: Feral Ridgewolf gets+2/+0 until end of turn.","""The wolves no longer hunt just to feed. They kill for sport, or for some madness behind their eyes.""
+—Elmut, crossway watcher",1,2,,8
+2409,Furor of the Bitten,,,Enchantment,Aura,,,Innistrad,Common,Randy Gallegos,,141,264,R,"Enchant creature
+Enchanted creature gets +2/+2 and attacks each turn if able.",Those who only believe themselves infected with lycanthropy can be as dangerous as those who really are.,,,,6
+2410,Geistflame,,,Instant,,,,Innistrad,Common,Scott Chou,,144,264,R,"Geistflame deals 1 damage to target creature or player.
+Flashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Innistrad pyromancers find their best raw materials in the fury of the dead.,,,,4
+2411,Harvest Pyre,,,Instant,,,,Innistrad,Common,Ryan Yee,,146,264,1R,"As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.
+Harvest Pyre deals X damage to target creature.",Corpses destroyed by fire form the most destructive geists.,,,,5
+2412,Infernal Plunge,,,Sorcery,,,,Innistrad,Common,Daarken,,148,264,R,"As an additional cost to cast Infernal Plunge, sacrifice a creature.
+Add RRR to your mana pool.","""Oh mighty Griselbrand, Scourge of the Headless World, gladly I consume myself for thee!""",,,,3
+2413,Kessig Wolf,,,Creature,Wolf,,,Innistrad,Common,Wayne England,,151,264,2R,1R: Kessig Wolf gains first strike until end of turn.,"""Don't be afraid when you hear the wolves howl. Be afraid when you don't hear them at all.""
+—Saint Trogen, the Slayer",3,1,,3
+2414,Nightbird's Clutches,,,Sorcery,,,,Innistrad,Common,Jason A. Engle,,154,264,1R,"Up to two target creatures can't block this turn.
+Flashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)","Shiny polished silver can ward off many creatures, but it attracts others.",,,,4
+2415,Night Revelers,,,Creature,Vampire,,,Innistrad,Common,Steve Argyle,,153,264,4R,Night Revelers has haste as long as an opponent controls a Human.,"Vampires think of themselves as teh indisputable nobility of Innistrad, able to do as they please. There are few who can prove them wrong.",4,4,,6
+2416,Pitchburn Devils,,,Creature,Devil,,,Innistrad,Common,Johann Bodin,,156,264,4R,"When Pitburn Devils dies, it deals 3 damage to target creature or player.","The ingenuity of goblins, the depravity of demons, and the smarts of sheep.",3,3,,5
+2417,Riot Devils,,,Creature,Devil,,,Innistrad,Common,Svetlin Velionov,,160,264,2R,,"Devils are demons' unearthly desires made flesh. Let loose on the world, they satisfy their mad craving for destruction in a whirlwind of chaos.",2,3,,5
+2418,Tormented Pariah,,,Creature,Human,Warrior,Werewolf,Innistrad,Common,Bud Cook,,165a,264,3R,"At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.","""Hey lads, the moon's rising. All the better to watch him beg for mercy.""",3,2,,4
+2419,Traitorous Blood,,,Sorcery,,,,Innistrad,Common,Raymond Swanland,,166,264,1RR,Gain control of target creature until end of turn. It gains trample and haste until end of turn.,"""I can make you dance to my tune like a puppet, your very blood eager to obey.""
+—Olivia Voldaren",,,,2
+2420,Vampiric Fury,,,Instant,,,,Innistrad,Common,Matt Stewart,,167,264,1R,Vampire creatures you control get +2/+0 and gain first strike until end of turn.,Many peasants secretly admire vampires' glamour and elegance—until they witness a moment of pure bloodlust.,,,,5
+2421,Village Ironsmith,,,Creature,Human,Werewolf,,Innistrad,Common,Christopher Moeller,,168a,264,1R,"First strike
+At the beginning of each upkeep, if no spels were cast last turn, transform Village Ironsmith.","Each night, he abandons the trappings of civilization.",1,1,,4
+2422,Ambush Viper,,,Creature,Snake,,,Innistrad,Common,Alan Pollack,,169,264,1G,"Flash (You may cast this spell any time you could cast an instant.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)","""Living creatures seldom impress me. But I like this one.""
+—Uta Falkenrath",2,1,,4
+2423,Avacyn's Pilgrim,,,Creature,Human,Monk,,Innistrad,Common,Jana Schirmer,Johannes Voss,170,264,G,T: Add W to your mana pool.,"""Avacyn's protection is everywhere. From the holy church to the sacred glade, all that we see is under her blessed touch.""",1,1,,2
+2424,Caravan Vigil,,,Sorcery,,,,Innistrad,Common,Drew Baker,,173,264,G,"Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+Morbid — You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.",,,,,4
+2425,Darkthicket Wolf,,,Creature,Wolf,,,Innistrad,Common,Wayne England,,175,264,1G,2G: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.,"Werewolf slayers don't know for certain how werewolves are created. So they kill all the wolves, just to be safe.",2,2,,10
+2426,Festerhide Boar,,,Creature,Boar,,,Innistrad,Common,Nils Hamm,,179,264,3G,"Trample
+Morbid — Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.","""Bury your dead deep. The boars are hungriest while the corpse is still warm.""
+—Paulin, trapper of Somberwald",3,3,,2
+2427,Gnaw to the Bone,,,Instant,,,,Innistrad,Common,Scott Chou,,183,264,2G,"You gain 2 life for each creature card in your graveyard.
+Flashback 2G (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,,,1
+2428,Grave Bramble,,,Creature,Plant,,,Innistrad,Common,Anthony Jones,,184,264,1GG,"Defender, protection from Zombies",Nature abhors a zombie.,3,4,,4
+2429,Grizzled Outcasts,,,Creature,Human,Werewolf,,Innistrad,Common,Randy Gallegos,,185a,264,4G,"At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.","Seen as unsavory, the hunters were never allowed in town—until one night they vanished.",4,4,,6
+2430,Kindercatch,,,Creature,Spirit,,,Innistrad,Common,Terese Nielsen,,190,264,3GGG,,"In the forest villages of Kessig, parents feed their children wormwood and other bitter herbs, hoping to make them less palatable to things that roam the night.",6,6,,5
+2431,Moonmist,,,Instant,,,,Innistrad,Common,Ryan Yee,,195,264,1G,Transform all Humans. Prevent all combat damage that would be deaalt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.),,,,,5
+2432,Mulch,,,Sorcery,,,,Innistrad,Common,Christopher Moeller,,196,264,1G,Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.,The land knows no differene between teh graves of commoers and nobles.,,,,2
+2433,Naturalize,,,Instant,,,,Innistrad,Common,Scott Chou,,197,264,1G,Destroy target artifact or enchantment,"""Stone and thought fade into ruin. Only the wind in the leaves will endure.""
+—Tomb inscription",,,,8
+2434,Orchard Spirit,,,Creature,Spirit,,,Innistrad,Common,Howard Lyon,,198,264,2G,Orchard Spirit can't be blocked except by creatures with flying or reach.,"""Pick not the rotten fruit, but neither touch the best. Leave those as an offering for our unseen guests.""
+—Radwick, farmer of Gatstaf",2,2,,8
+2435,Prey Upon,,,Sorcery,,,,Innistrad,Common,Dave Kendall,,200,264,G,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.),"""You don't find many old werewolf hunters.""
+—Paulin, trapper of Somberwald",,,,6
+2436,Rangers Guile,,,Instant,,,,Innistrad,Common,Steve Prescott,,201,264,G,Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),"In the remote corners of Kessig, protection is found in secret powers unknown to the Church of Avacyn.",,,,3
+2437,Somberwald Spider,,,Creature,Spider,,,Innistrad,Common,Volkan Baga,,202,264,4G,"Reach (This creature can block creatures with flying.)
+Morbid — Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.",Stensian vampires encourage spiders near their manors so they can rob the webs.,2,4,,6
+2438,Spidery Grasp,,,Instant,,,,Innistrad,Common,James Ryman,,204,264,2G,Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.),"""Nobody's seen the Lady of Videns for years. Poor dear, no companions at all in that old castle.""
+—Yonda of Gavony",,,,6
+2439,Villagers of Estwald,,,Creature,Human,Werewolf,,Innistrad,Common,Kev Walker,,209a,264,2G,"At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.",You can spot a werewolf-infested town by its lack of butcher shops.,2,3,,4
+2440,Woodland Sleuth,,,Creature,Human,Scout,,Innistrad,Common,Tomasz Jedruszek,,210,264,3G,"Morbid — When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand.","""Whatever did this is near. Death reversion has not yet occurred. Be alert!""",2,3,,7
+2441,Blazing Torch,,Artifact,Equipment,,,,Innistrad,Common,Scott Chou,,216,264,1,"Equipped creature can't be blocked by Vampires or Zombies.
+Equipped creature has ""T, Sacrifice Blazing Torch: Blazing Torch dealls 2 damage to target creature or player.""
+Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)
+",,,,,2
+2442,Cobbled Wings,,Artifact,Equipment,,,,Innistrad,Common,Matt Stewart,,219,264,2,"Equipped creature has flying.
+Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)","For the necro-alchemist, any puzzle can be solved with intelligence and harvested body parts.",,,,6
+2443,Ghoulcaller's Bell,,Artifact,,,,,Innistrad,Common,Lars Grant-West,,224,264,1,T: Each player puts the top card of his or her library into his or her graveyard.,The bell's chime heralds the rise of the uhallowed from the grave and the fall of their vicitims into the earth.,,,,5
+2444,One-Eyed Scarecrow,,Artifact,Creature,Scarecrow,,,Innistrad,Common,Dave Kendall,,230,264,3,"Defender
+Creatures with flying your opponents control get -1/-0.",Farmhands and priests mutter curses at the ragged thing; it unnerves more than just the crows.,2,3,,6
+2445,Wooden Stake,,Artifact,Equipment,,,,Innistrad,Common,David Palumbo,,237,264,2,"Equipped creature gets +1/+0.
+Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.
+Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)",,,,,5
+2446,Shimmering Grotto,,,Land,,,,Innistrad,Common,Cliff Childs,,246,264,,"T: Add 1 to your mana pool.
+1, T: Add one mana of any color to your mana pool.","""This is the price of being last in the food chain. We must keep our places of beauty hidden away instead of displayed for all to see.""
+—Hildin, priest of Avacyn",,,,1
+2447,Chalice of Life,,Artifact,,,,,Dark Ascension,Uncommon,Ryan Yee,,146a,158,3,"T: You gain 1 life. THen if you have at least 10 life more than your starting life total, transform Chalice of Life.",The sweet taste of hopes promise.,,,,1
+2448,Niblis of the Urn,,,Creature,Spirit,,,Dark Ascension,Uncommon,Igor Kieryluk,,16,158,1W,"Flying
+Whenever Niblis of the Urn attacks, you may tap target creature.","""I never had the nerve to open that bottle. I'll bet you're wishing right now you hadn't been so curious yourself.""
+—Old Rutstein",1,1,,2
+2449,Tower Geist,,,Creature,Spirit,,,Dark Ascension,Uncommon,Izzy,,53,158,3U,"Flying
+When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.",Jenrik's tower is served by those who once sought to enter it uninvited.,2,2,,3
+2450,Wakedancer,,,Creature,Human,Shaman,,Dark Ascension,Uncommon,Austin Hsu,,79,158,2B,"Morbid — When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.","Hers is an ancient form of necromancy, steeped in shamanic trance and ritual that few skaberen or ghoulcallers comprehend.",2,2,,3
+2451,Blood Feud,,,Sorcery,,,,Dark Ascension,Uncommon,Winona Nelson,,83,158,4RR,Target creature fights another target creature. (Each deals damage equal to its power to the other.),"Succession is a matter of blood, and by blood it is often decided.",,,,2
+2452,Tracker's Instincts,,,Sorcery,,,,Dark Ascension,Uncommon,Jung Park,,128,158,1G,"Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard.
+Flashback 2U (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,,,4
+2453,Evolving Wilds,,,Land,,,,Dark Ascension,Common,Cliff Childs,,155,158,,"T, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.","""Our world is vast, but Thraben is its heart. The cathedral must stand even if the hinterlands are lost.""
+—Thalia, Knight-Cathar",,,,3
+2454,Executioner's Hood,,Artifact,Equipment,,,,Dark Ascension,Common,Anthony Palumbo,,148,158,2,"Equipped creature has intimidate. (This creature can't be blocked except by artifact creatures and/or creatures sthat share a color with it.)
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)",,,,,3
+2455,Break of Day,,,Instant,,,,Dark Ascension,Common,Karl Kopinski,,5,158,1W,"Creatures you control get +1/+1 until end of turn.
+Fateful hour — If you hve 5 or less life, those creatures also are indestructible this turn. (Lethal damage and effects that say ""destroy"" don't destroy them.)",,,,,1
+2456,Burden of Guilt,,,Enchantment,Aura,,,Dark Ascension,Common,John Stanko,,4,158,W,"Enchant creature
+1: Tap enchanted creature.","""Grab an axe and defend the gate! Your despair is an extravagance we can ill afford.""
+—Thalia, Knight-Cathar",,,,6
+2457,Gather the Townsfolk,,,Sorcery,,,,Dark Ascension,Common,Dan Scott,,8,158,1W,"Put two 1/1 white Human creature tokens onto the battlefield.
+Fateful hour — If you have 5 or less life, put five of those tokens onto the battlefield instead.",In the memories of those they lost lies the strength needed to defend their city.,,,,1
+2458,Loyal Cathar,,,Creature,Human,Soldier,,Dark Ascension,Common,Ryan Pancoast,,13a,158,WW,"Vigilance
+When Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step.","""I trust myself to do my duty, even unto death. It's what comes after what I'm afraid of.""
+—Constable Visil, to Thalia",2,2,,2
+2459,Artful Dodge,,,Sorcery,,,,Dark Ascension,Common,Tomasz Jedruszek,,27,158,U,"Target creature is unblockable this turn.
+Flashback U (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Those who know the alleys and sewers of the Erdwal can disappear like smoke.,,,,3
+2460,Bone to Ash,,,Instant,,,,Dark Ascension,Common,Clint Cearley,,29,158,2UU,"Counter target creature spell.
+Draw a card.","""I can think of worse ways to go. On second thought, maybe not.""
+—Ludevic, necro-alchemist",,,,1
+2461,Gruesome Discovery,,,Sorcery,,,,Dark Ascension,Common,John Stanko,,66,158,2BB,"Target player discards two cards.
+Morbid — If a creature died this turn, instead that player reveals his or her hand, you choose two cards from it, then that player discards those cards.",,,,,6
+2462,Highborn Ghoul,,,Creature,Zombie,,,Dark Ascension,Common,Volkan Baga,,68,158,BB,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.),"""All the dead sleep lightly here, no matter how refined their beds may be.""
+—Grafdigger Wulmer",2,1,,3
+2463,Fling,,,Instant,,,,Dark Ascension,Common,Izzy,,90,158,1R,"As an additional cost to cast Fling, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature's power to target creature or player.",Masters of the sword know the bade is not the only weapon at their disposal.,,,,5
+2464,Talons of Falkenrath,,,Enchantment,Aura,,,Dark Ascension,Common,Svetlin Velinov,,105,158,1R,"Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature has ""1R: This creature gets +2/+0 until end of turn.""",,,,,3
+2465,Crushing Vines,,,Instant,,,,Dark Ascension,Common,Scott Chou,,110,158,2G,Choose one — Destroy target creature with flying; or destroy target artifact.,"""Your veil's curse won't stop me, deathmage. I have taken down countless night hunters and this dark plane is not big enough for you to hide.""
+—Garruk Wildspeaker, to Liliana Vess",,,,3
+2466,Dawntreader Elk,,,Creature,Elk,,,Dark Ascension,Common,John Avon,,111,158,1G,"G, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.","Silent as winter snow, it seeks wild places unspoiled by the walking dead.",2,2,,6
+2467,Hunger of the Howlpack,,,Instant,,,,Dark Ascension,Common,Nils Hamm,,119,158,G,Put a +1/+1 counter on target creature. Morbid — Put three +1/+1 counters on that creature instead if a creature died this turn.,"""Werewolves are an unholy mix of a predator's instinct and a human's hatred.""
+—Alena, trapper of Kessig
+",,,,4
+2468,Angelic Armaments,,Artifact,Equipment,,,,Avacyn Restored,Uncommon,Daniel Ljunggren,,212,244,3,"Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types.
+Equip 4",Forged in dark hours from the flame that would not die.,,,,6
+2469,Tandem Lookout,,,Creature,Human,Scout,,Avacyn Restored,Uncommon,Kev Walker,,80,244,2U,Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.),"As long as Tandem Lookout is paired with another creature, each of those creatures had ""Whenever this creature deals damage to an opponent, draw a card.""",2,1,,2
+2470,Second Guess,,,Instant,,,,Avacyn Restored,Uncommon,Karl Kopinski,,74,244,1U,Counter target spell that's the second spell cast this turn.,"""I see where you're going with that. I don't like it.""
+—Dierk, geistmage",,,,3
+2471,Fettergeist,,,Creature,Spirit,,,Avacyn Restored,Uncommon,Izzy,,52,244,2U,"Flying
+At the beginning of your upkeep, sacrifice Fettergeist unless you pay 1 for each other creature you control.",The choices of the living will tether them in death.,3,4,,3
+2472,Latch Seeker,,,Creature,Spirit,,,Avacyn Restored,Uncommon,Vincent Proce,,63,244,1UU,Latch Seeker is unblockable.,"It seeks a tomb that will hold it, a coffin that will give it rest.",3,1,,7
+2473,Favorable Winds,,,Enchantment,,,,Avacyn Restored,Uncommon,Winona Nelson,,51,244,1U,Creatures you control with flying get +1/+1.,"Long thought to be extinct, flocks of gryffs reappeared with Avacyn's return.",,,,4
+2474,Nephalia Smuggler,,,Creature,Human,Rogue,,Avacyn Restored,Uncommon,Matt Stewart,,69,244,U,"3U, T: Exile another target creature you control, then return that card to the battlefield under your control.","""My drivers are trustworthy. I removed their tongues myself. Any other questions?""",1,1,,6
+2475,Tandem Lookout,,,Creature,Human,Scout,,Avacyn Restored,Uncommon,Kev Walker,,80,244,2U,Soulbond (You may pair this creature with another untapped creature when either enters the battlefield. They remain paired for as long as you control both of them.),"As long as Tandem Lookout is paired with another creature, each of those creatures has ""Whenever this creature deals damage to an opponent, draw a card.""",2,1,,4
+2476,Ghostly Touch,,,Enchantment,Aura,,,Avacyn Restored,Uncommon,Jason Felix,,58,244,1U,"Enchant creature
+Enchanted creature has ""Whenever this creature attacks, you may tap or untap target permanent.""","""Geists wish to make themselves known. I'm merely the vessel for their efforts.""",,,,7
+2477,Into the Void,,,Sorcery,,,,Avacyn Restored,Uncommon,Daarken,,62,244,3U,Return up to two target creatures to their owner's hands.,"""The cathars have their swords, the inquisitors their axes. I prefer the 'diplomatic' approach.""
+—Terhold, archmage of Drunau",,,,5
+2478,Stern Mentor,,,Creature,Human,Wizard,,Avacyn Restored,Uncommon,Igor Kieryluk,,77,244,3U,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Stern Mentor is pared with another creature, each of those creatures has ""T: Target player puts the top two cards of his or her library into his or her graveyard.""",,2,2,,6
+2479,Vanishment,,,Instant,,,,Avacyn Restored,Uncommon,Daarken,,82,244,4U,"Put target nonland permanent on top of its owner's library.
+Miracle U (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+",,,,,6
+2480,Mass Appeal,,,Sorcery,,,,Avacyn Restored,Uncommon,Christopher Moeller,,66,244,2U,Draw a card for each Human you control.,"""We have emerged triumphant from the darkness. Let our hard-won wisdom guide us to prosperity.""",,,,3
+2481,Appetite for Brains,,,Sorcery,,,,Avacyn Restored,Uncommon,Michael C. Hayes,,84,244,B,Target opponent reveals his or her hand. You choose a card from it with converted mana cost 4 or greater and exile that card.,"Just as with a peach, the first bite is always the juiciest.",,,,5
+2482,Barter in Blood,,,Sorcery,,,,Avacyn Restored,Uncommon,Eric Deschamps,,85,244,2BB,Each player sacrifices two creatures.,"""We must all make sacrifices for hte good of Innistrad.""
+—Sorin Markov",,,,9
+2483,Corpse Traders,,,Creature,Human,Rogue,,Avacyn Restored,Uncommon,Kev Walker,,90,244,3B,"2B, Sacrifice a creature: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.",Those without breath can't complain.,3,3,,8
+2484,Demonic Taskmaster,,,Creature,Demon,,,Avacyn Restored,Uncommon,Chris Rahn,,95,244,2B,"Flying
+At the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.",Subservience to greater power is the only law in the pit.,4,3,,10
+2485,Evernight Shade,,,Creature,Shade,,,Avacyn Restored,Uncommon,Nic Klein,,101,244,3B,"B: Evernight Shade gets +1/+1 until end of turn.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",,1,1,,2
+2486,Human Frailty,,,Instant,,,,Avacyn Restored,Uncommon,David Palumbo,,109,244,B,Destroy target Human creature.,"""I have seen a hundred mortal families rise and fall. I shall outlast a thousand more.""
+—Olivia Voldaren",,,,4
+2487,Maalfeld Twins,,,Creature,Zombie,,,Avacyn Restored,Uncommon,Mike Sass,,112,244,5B,"When Maalfield Twins dies, put two 2/2 black Zombie creature tokens onto the battlefield.","""Who am i to break up a family?""
+—Gisa the Mad",4,4,,5
+2488,Marrow Bats,,,Creature,Bat,Skeleton,,Avacyn Restored,Uncommon,Jason A. Engle,,113,244,4B,"Flying
+Pay 4 life: Regenerate Marrow Bats.","""No matter how far we push into Stensia, uneath will always remain in these lands.""
+—Terhold, archmage of Drunau ",4,1,,3
+2489,Triumph of Cruelty,,,Enchantment,,,,Avacyn Restored,Uncommon,Izzy,,122,244,2B,"At the beginning of your upkeep, target opponent discards a card if you control the creature with the greatest power or tied for the greatest power.","""I've seen corpses prettier than you, beastmage.""
+—Liliana Vess",,,,8
+2490,Aggravate,,,Instant,,,,Avacyn Restored,Uncommon,Matt Stewart,,125,244,3BB,Aggravate deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able.,"""Barbarians! They burned my favorite chair! We'll kill them all!""
+—Anje Falkenrath",,,,4
+2491,Gang of Devils,,,Creature,Devil,,,Avacyn Restored,Uncommon,Erica Yang,,136,244,5R,"When Gang ofo Devils dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.","""Well, how could I know they'd explode?""
+—Gregel, township militia",3,3,,7
+2492,Havengul Vampire,,,Creature,Vampire,,,Avacyn Restored,Uncommon,James Ryman,,139,244,3R,"Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.
+Whenever another creature dies, put a +1+1 counter on Havengul Vampire.","""That slowly decreasing pulse—that's the beat I waltz to.""",2,2,,8
+2493,Kessig Malcontents,,,Creature,Human,Warrior,,Avacyn Restored,Uncommon,John Stanko,,142,244,2R,"When Kessig Malcontents enters the battlefield, it deals damage to target player equal to the number of Humans you control.",Discontent is a powerful weapon in the hands of a mob.,3,1,,6
+2494,Lightning Prowess,,,Enchantment,Aura,,,Avacyn Restored,Uncommon,David Rapoza,,145,244,2R,"Enchant creature
+Enchanted creature has haste and ""T: This creature deals 1 damage to target creature or player.""","""Undead flesh is dry and papery. A single spark and 'poof."" No more ghoul.""",,,,5
+2495,Lightning Mauler,,,Creature,Human,Berserker,,Avacyn Restored,Uncommon,Dave Kendall,,144,244,1R,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Lightning Mauler is paired with another creature, both creatures have haste.",,2,1,,7
+2496,Rush of Blood,,,Instant,,,,Avacyn Restored,Uncommon,Cynthia Sheppard,,154,244,2R,"Target creature gets +X/+0 until end of turn, where X is its power.",Sometimes it's not for sustenance or to feed the dependence. Sometimes it's just to feel again.,,,,7
+2497,Stonewright,,,Creature,Human,Shaman,,Avacyn Restored,Uncommon,Wesley Burt,,157,244,R,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Stonewright is paired with another creature, each of those creatures has ""R: This creature gets +1/+0 until end of turn.""",,1,1,,11
+2498,Thunderous Wrath,,,Instant,,,,Avacyn Restored,Uncommon,Adam Paquette,,160,244,4RR,"Thunderous Wrath deals 5 damage to target creature or player.
+Miracle R (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+",,,,,7
+2499,Vigilante Justice,,,Enchantment,,,,Avacyn Restored,Uncommon,Steve Prescott,,165,244,3R,"Whenever a Human enters the battlefield under your control, Vigilante Justice deals 1 damage to target creature or player.",It begins as a whisper and ends with teh red roar of fire.,,,,9
+2500,Triumph of Ferocity,,,Enchantment,,,,Avacyn Restored,Uncommon,James Ryman,,198,244,2G,"At the beginning of your upkeep, draw a card if you control the creture with the greatest power or tied for the greatest power.","""Rid me of this curse, witch, or die with me.""
+—Garruk Wildspeaker",,,,7
+2501,Angel's Tomb,,Artifact,,,,,Avacyn Restored,Uncommon,Dan Scott,,211,244,3,"Whenever a creature enters the battlefield under your control, you may have Angel's Tomb become a 3/3 white Angel artifact creature with flying until end of turn.","""Faith can quicken the stones themselves with life.""
+—Writings of Mikaeus",,,,6
+2502,Haunted Guardian,,Artifact,Creature,Construct,,,Avacyn Restored,Uncommon,Daniel Ljunggren,,216,244,2,"Defender, first strike","""Drain the victim's blood, sell the corpse, and use the soul on guard duty. No muss, no fuss, no problems.""
+—Olivia Voldaren",2,1,,8
+2503,Tormentor's Trident,,Artifact,Equipment,,,,Avacyn Restored,Uncommon,Anthony Palumbo,,222,244,2,"Equipped creature gets +3/+0 and attacks each turn if able.
+Equip 3",To a demon there is no such thing as restraint.,,,,4
+2504,Wolfir Avenger,,,Creature,Wolf,Warrior,,Avacyn Restored,Uncommon,Daniel Ljunggren,,205,244,1GG,"Flash (You may cast this spell any time you could cast an instant.)
+1G: Regenerate Wolfir Avenger.",Released from a dark curse and bound to a higher calling.,3,3,,5
+2505,Yew Spirit,,,Creature,Spirit,Treefolk,,Avacyn Restored,Uncommon,Dan Scott,,207,244,4G,"2GG: Yew Spirit gets +X/+X until end of turn, where X is its power.","""I wonder what dwelled in th eprimoridal forests before humans existed.""
+—Elder Rimheit",3,3,,8
+2506,Vorstclaw,,,Creature,Elemental,Horror,,Avacyn Restored,Uncommon,Lucas Graciano,,201,244,4GG,,"""Where'd the werewolves go? Maybe that got hungry.""
+—Halana of Ulvenwald",7,7,,7
+2507,Vessel of Endless Rest,,Artifact,,,,,Avacyn Restored,Uncommon,John Avon,,224,244,3,"When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library.
+T: Add one mana of any color to your mana pool.",,,,,4
+2508,Archangel,,,Creature,Angel,,,Avacyn Restored,Uncommon,Cynthia Sheppard,,5,244,5WW,"Flying, Vigilance","The sky rang with the cries of armored seraphs, and the darkness made a tactical retreat.",5,5,,8
+2509,Banishing Stroke,,,Instant,,,,Avacyn Restored,Uncommon,Igor Kieryluk,,7,244,5W,"Put target artifact, creature, or enchantment on the bottom of its owner's library.
+Miracle W (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",,,,,2
+2510,Builder's Blessing,,,Enchantment,,,,Avacyn Restored,Uncommon,John Stanko,,8,244,3W,Untapped creatures you control get +0/+2.,"""Mix the mortar with holy wards, or blood will run in the streets.""
+—Vadvar, Thraben stonewright
+",,,,9
+2511,Commander's Authority,,,Enchantment,Aura,,,Avacyn Restored,Uncommon,Johannes Voss,,13,244,4W,"Enchant creature
+Enchanted creaure has ""At the beginning of your upkeep, put a 1/1 white Human creature token onto the battlefield.""","""Wear her symbol with honor, a sign of faith upheld and honest deeds bravely done.""",,,,6
+2512,Defy Death,,,Sorcery,,,,Avacyn Restored,Uncommon,Karl Kopinski,,16,244,3WW,"Return target creature card from your graveyard to the battlefield. If it's an Angel, put two +1/+1 counters on it.","Gisela cornered the murderous demon among the graves of the dead villagers. ""A fitting end,"" she murmured as she raised her sword.",,,,8
+2513,Devout Chaplain,,,Creature,Human,Cleric,,Avacyn Restored,Uncommon,Lucas Graciano,,17,244,2W,"T, Tap two untapped Humans you control: Exile target artifact or enchantment.","""By Avacyn's decree, we shall cleanse these relics of their demonic past.""",2,2,,10
+2514,Emancipation Angel,,,Creature,Angel,,,Avacyn Restored,Uncommon,Scott Chou,,19,244,1WW,"Flying
+When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.","""You have done your best. I give you leave to rest.""",3,3,,2
+2515,Goldnight Commander,,,Creature,Human,Cleric,Soldier,Avacyn Restored,Uncommon,Chris Rahn,,22,244,3W,"Whenever another creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn.","""One faith, but many hands in victory.""",2,2,,8
+2516,Goldnight Redeemer,,,Creature,Angel,,,Avacyn Restored,Uncommon,Karl Kopinski,,23,244,4WW,"Flying
+When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.",The host sings of Avacyn's return without a single verse about its own suffering.,4,4,,5
+2517,Nearheath Pilgrim,,,Creature,Human,Cleric,,Avacyn Restored,Uncommon,Erica Yang,,31,244,1W,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink.",,2,1,,12
+2518,Blessings of Nature,,,Sorcery,,,,Avacyn Restored,Uncommon,Anthony Palumbo,,168,244,4G,"Distribute four +1/+1 counters among any number of target creatures.
+Miracle G (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",,,,,6
+2519,Bower Passage,,,Enchantment,,,,Avacyn Restored,Uncommon,Cliff Childs,,170,244,1G,Creatures with flying can't block creatures you control.,"In the darkest hours, some denied Avacyn. Now the Kessig wilds are their only haven.",,,,8
+2520,Eaten by Spiders,,,Instant,,,,Avacyn Restored,Uncommon,Slawomir Maniak,,177,244,2G,Destroy target creature with flying and all Equipment attached to that creature.,"After sampling many victims, the spider developed a perference for the undead and their accoutrements.",,,,7
+2521,Gloomwidow,,,Creature,Spider,,,Avacyn Restored,Uncommon,Svetlin Velinov,,180,244,2G,"Reach
+Gloomwidow can block only creatures with flying.",The abandoned towns on the moors didn't stay empty for long.,3,3,,10
+2522,Howlgeist,,,Creature,Spirit,Wolf,,Avacyn Restored,Uncommon,David Rapoza,,182,244,5G,"Creatures with power less than Howlgeist's power can't block it.
+Undying (hen this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",,4,2,,6
+2523,Rain of Thorns,,,Sorcery,,,,Avacyn Restored,Uncommon,Sam Burley,,190,244,4GG,Choose one or more — Destroy target artifact; destroy target enchantment; and/or destroy target land.,"When the forests became havens for evil, the archmages devised new ways to cleanse the wilds.",,,,8
+2524,Cellar Door,,Artifact,,,,,Innistrad,Uncommon,Rob Alexander,,218,264,2,"3, T: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creautre token onto the battlefield.","As if anyone needed another reason to avoid dark, dank cellars.",,,,1
+2525,Memory's Journey,,,Instant,,,,Innistrad,Uncommon,Slawomir Maniak,,66,264,1U,"Target player shuffles up to three target cards from his ro her graveyard into his or her library.
+Flashback G (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,,,2
+2526,Invisible Stalker,,,Creature,Human,Rogue,,Innistrad,Uncommon,Bud Cook,,60,264,1U,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Invisible Stalker is unblockable.","""All that concerns me is the vampires' sense of smell and those freezing Nephalian nights.""",1,1,,1
+2527,Farbog Boneflinger,,,Creature,Zombie,,,Dark Ascension,Uncommon,Tomasz Jedruszek,,61,158,4B,"When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn.","""Here are some bones for you to choke on, dear brother!""
+—Gisa, to Geralf",2,2,,2
+2528,Tribute to Hunger,,,Instant,,,,Innistrad,Uncommon,Dave Kendall,,119,264,2B,Target opponent sacrifices a creature. You gain life equal to that creature's toughness.,"Marella was delighted. The ball had attracted so many suitors for her daughter, including that handsome stranger. She wondered where the two were now....",,,,1
+2529,Unburial Rites,,,Sorcery,,,,Innistrad,Uncommon,Ryan Pancoast,,122,264,4B,"Return target creature card from your graveyard to the battlefield.
+Flashback 3W ( You may cast this card from your graveyard for its flashback cost. Then exile it.)",All crave the Blessed Sleep. Few receive it.,,,,1
+2530,Rolling Temblor,,,Sorcery,,,,Innistrad,Uncommon,Cliff Childs,,161,264,2R,"Rolling Temblor deals 2 damage to each creature without flying.
+Flashback 4RR (You may cast this card from your graveyard for its flashback cost. Then exile it.)","When demons open a path to your front door, it's time to move.",,,,1
+2531,Spider Spawning,,,Sorcery,,,,Innistrad,Uncommon,Daniel Ljunggren,,203,264,4G,"Put a 1/2 green Spider creature token with reach onto the battlefield for each creature card in your graveyard.
+Flashback 6B (You may cast t his card from your graveyard for its flashback cost. Then exile it.)",,,,,1
+2532,Doomed Traveler,,,Creature,Human,Soldier,,Innistrad,Common,Lars Grant-West,,11,264,W,"When doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",He vowed he would never rest until he reached his destination. He doesn't know the right he was.,1,1,,1
+2533,Feeling of Dread,,,Instant,,,,Innistrad,Common,John Stanko,,14,264,1W,"Tap up to two target creatures.
+Flashback 1U (You may cast this card from your graveyard fr its flashback cost. Then exile it.)","People only say ""I'm sure it ws nothing"" when they're sure it was something.",,,,4
+2534,Moment of Heroism,,,Instant,,,,Innistrad,Common,Christopher Moeller,,24,264,1W,Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.),"""My faith is stronger than fang, claw, or mindless hunger.""",,,,2
+2535,Skeletal Grimace,,,Enchantment,Aura,,,Innistrad,Common,Eric Deschamps,,116,264,1B,"Enchant creature
+Enchanted creature gets +1/+1 and has ""B: Regenerate this creature.""","""And then I realized we all have skeletons on the inside. Why wait until the bodies are dead to contol them?""
+—Jadar, ghoulcaller of Nephalia",,,,2
+2536,Erdwal Ripper,,,Creature,Vampire,,,Dark Ascension,Common,Kev Walker,,86,158,1RR,"Haste
+Whenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it.",Savage vampires lurk in the Erdwal's network of passageways where prey is plentiful and easy to catch.,2,1,,4
+2537,Feral Ridgewolf,,,Creature,Wolf,,,Innistrad,Common,Martina Pilcerova,,142,264,2R,"Trample
+1R: Feral Ridgewolf gets +2/+0 until end of turn.","""The wolves no longer hunt just to feed. They kill for sport, for some madness behind their eyes.""
+—Elmut, crossway watcher",1,2,,3
+2538,Ranger's Guile,,,Instant,,,,Innistrad,Common,Steve Prescott,,201,264,G,Target creature you control gets +1/+1 and gains hexproof until end of turn.. (It can't be the starget of spells or abilities your opponents control.),"In the remote corners of Kessig, protection is found in secret powers unknown to the Church of Avacyn.",,,,1
+2539,Travel Preparations,,,Sorcery,,,,Innistrad,Common,Vincent Proce,,206,264,1G,"Put a +1/+1 counter on each of up to two target creatures.
+Flashback 1W (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Visiting a shrine at the start of a journey makes the traveler more likely to finish it.,,,,4
+2540,Altar of the Lost,,Artifact,,,,,Dark Ascension,Uncommon,Daarken,,144,158,3,"Altar of the Lost enters the battlefield tapped.
+T: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast spells with flashback from a graveyard.",,,,,2
+2541,Warden of the Wall,,Artifact,,,,,Dark Ascension,Uncommon,Daniel Ljunggren,,153,158,3,"Warden of the Wall enters the battlefield tapped.
+T: Add 1 to your mana pool.
+As long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying.",,,,,4
+2542,Wolfhunter's Quiver,,Artifact,Equipment,,,,Dark Ascension,Uncommon,Daniel Ljunggren,,154,158,1,"Equipped creature has ""T: This creature deals 1 damage to target creature or player"" and ""T: This creature deals 3 damage to target Werewolf creature.""
+Equip 5","""Steel in the heart, silver in the ow.""
+—Wolfhunter's creed",,,,1
+2543,Faith's Shield,,,Instant,,,,Dark Ascension,Uncommon,Svetlin Velinov,,7,158,W,"Target permanent you control gains protection from the color of your choice until end of turn.
+Fateful hour — If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn.",,,,,1
+2544,Gavony Ironwright,,,Creature,Human,Soldier,,Dark Ascension,Uncommon,Karl Kopinski,,9,158,2W,"Fateful hour — As long as you have 5 or less life, other creatures you control get +1/+4.","""I wish my work could shelter everyone, yet I pray we are never so few that it does.""",1,4,,2
+2545,Hollowhenge Spirit,,,Creature,Spirit,,,Dark Ascension,Uncommon,Lars Grant-West,,10,158,3W,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat.",Some spirits mourn. Others terrorize.,2,2,,1
+2546,Lingering Souls,,,Sorcery,,,,Dark Ascension,Uncommon,Bud Cook,,12,158,2W,"Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Flashback 1B (You may cast this card from your graveyard for its flashback cost. Then exile it.)",The murdered inhabitants of Hollowhenge impart to hte living the terror they felt in death.,,,,1
+2547,Drogskol Captain,,,Creature,Spirit,Soldier,,Dark Ascension,Uncommon,Peter Morbacher,,136,158,1WU,"Flying
+Other Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+","Dead or alive, true leaders can inspire an entire army.",2,2,,2
+2548,Chill of Foreboding,,,Sorcery,,,,Dark Ascension,Uncommon,Terese Nielsen,,32,158,2U,"Each player puts the top five cards of his or her library into his or her graveyard.
+Flashback 7U (You may cast this card from your graveyard for its flashback cost. Then exile it.)","""Wait...did you fellows hear something.""",,,,1
+2549,Mystic Retrieval,,,Sorcery,,,,Dark Ascension,Uncommon,Scott Chou,,42,158,3U,"Return target instant or sorcery card from your graveyard to your hand.
+Flashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)",,,,,1
+2550,Niblis of the Breath,,,Creature,Spirit,,,Dark Ascension,Uncommon,Igor Kieryluk,,44,158,2U,"Flying
+U, T: You may tap or untap target creature.","""Why do the dead remain among us? Where is Flight Alabaster to lead them home? Where is Avacyn?""
+—Eruth of Lambholt",2,1,,1
+2551,Relentless Skaabs,,,Creature,Zombie,,,Dark Ascension,Uncommon,Karl Kopinski,,45,158,3UU,"As an additional cost to cast Relentless Skaabs, exile a creature card from your graveyard.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",,4,4,,2
+2552,Secrets of the Dead,,,Enchantment,,,,Dark Ascension,Uncommon,Eytan Zana,,48,158,2U,"Whenever you cast a spell from your graveyard, draw a card.","""The veil between the living and the dead is so very thin that the whispers of the ancients can finally be heard.""
+—Amalric of Midvast Hall",,,,1
+2553,Curse of Thirst,,,Enchantment,Aura,Curse,,Dark Ascension,Uncommon,Christopher Moeller,,57,158,4B,"Enchant player
+At the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.","""May you drink until you drown but never be sated.""
+—Odila, witch of Morkrut",,,,1
+2554,Deadly Allure,,,Sorcery,,,,Dark Ascension,Uncommon,Steve Argyle,,58,158,B,"Target creature gains deathtouch unti end o fturn and must be blocked this turn if able.
+Flashback G (You may cast this card from your graveyard for its flashback cost. Then exile it.)",What could be more irresistible than death?,,,,2
+2555,Skirsdag Flayer,,,Creature,Human,Cleric,,Dark Ascension,Uncommon,Austin Hsu,,74,158,1B,"3B, T, Sacrifice a Human: Destroy target creature.","Certain initiates into the Skirsdag cult take a vow of blindness, pledging obedience to none but demonkind.",1,1,,2
+2556,Vengeful Vampire,,,Creature,Vampire,,,Dark Ascension,Uncommon,Lucas Graciano,,78,158,4BB,"Flying
+Undying (When this creature dies, if it had no +1+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",He wields the full power of wrath unfettered by the sympathies of a soul.,3,2,,1
+2557,Afflicted Deserter,,,Creature,Human,Werewolf,,Dark Ascension,Uncommon,David Palumbo,,81a,158,3R,"At the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter.",The rising of the first full moon eliminated any doubt as to the horrible truth lurking within.,3,2,,1
+2558,Burning Oil,,,Instant,,,,Dark Ascension,Uncommon,Trevor Claxton,,84,158,1R,"Burning Oil deals 3 dmage to target attacking or blocking creature.
+Flashback 3W (You may cast this card from your graveyard for its flashback cost. Then exile it.)","Every now nd then, a devil's prank can give you a good idea.",,,,1
+2559,Immerwolf,,,Creature,Wolf,,,Dark Ascension,Uncommon,Terese Nielsen,,141,158,1RG,"Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Other Wolf and Werewolf creatures you control get +1/+1.
+Non-Human Werewolves you control can't transform.",,2,2,,2
+2560,Briarpack Alpha,,,Creature,Wolf,,,Dark Ascension,Uncommon,Daarken,,108,158,3G,"Flash (You may cast this spell any time you could cast an instant.)
+When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.","""The wolves turned on us and a chill swept over me. The pack had a new leader.""
+—Alena, trapper of Kessig",3,3,,1
+2561,Gravetiller Wurm,,,Creature,Wurm,,,Dark Ascension,Uncommon,Slawomir Maniak,,116,158,5G,"Trample
+Morbid — Gravetiller Wurm enters teh battlefield with four +1+1 counters on it if a creature died this turn.","As the creatures of the night closed in on humanity, Innistrad's primeval forces stirred, as though waking to watch the slaughter.",4,4,,2
+2562,Grim Flowering,,,Sorcery,,,,Dark Ascension,Uncommon,Adam Paquette,,117,158,5G,Draw a card for each creature card in your graveyard.,"""Nothing in nature goes to waste, not even the rotting corpse of a good-for-nothing, blood-sucking vampire.""
+—Halana of Ulvenwald",,,,4
+2563,Lambholt Elder,,,Creature,Human,Werewolf,,Dark Ascension,Uncommon,Matt Stewart,,122a,158,2G,"At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.","""Be wary of the seemingly gentle souls. The weak here were slaughtered long ago.""
+—Rem Karolus, Blade of the Inquisitors",1,2,,2
+2564,Haunted Fengraf,,,Land,,,,Dark Ascension,Uncommon,Adam Paquette,,157,158,,"T: Add 1 to your mana pool. 3, T, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand.",A ghoulcaller's playground.,,,,2
+2565,Heavy Mattock,,Artifact,Equipment,,,,Dark Ascension,Common,Winona Nelson,,150,158,3,"Equipped creature gets +1/+1.
+As long as equipped creature is a Human, it gets and additional +1/+1.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)",,,,,2
+2566,Bar the Door,,,Instant,,,,Dark Ascension,Common,Ryan Pancoast,,2,158,2W,Creatures you contorl get +0/+4 until end of turn.,"""It may not look like much, but it's a good old door with strong wards. It'll hold.""
+—Olgard of the Skiltfolk",,,,2
+2567,Break of Day,,,Instant,,,,Dark Ascension,Common,Kark Kopinski,,3,158,1W,Creatures you contol get +1/+1 until end of turn.,"Fateful hour — If you have 5 or less life, those creatures also are indestructible this turn. (Lethal damage and effects that say ""destroy"" don't destroy them.)",,,,4
+2568,Elgaud Inquisitor,,,Creature,Human,Cleric,,Dark Ascension,Common,Slawomir Maniak,,6,158,3W,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When Elgaud Inquisitor dies, put a 1/1 white Spirit creature token with flying onto the battlefield.","""It will take more than steel alone to purge this world of evil.""",2,2,,1
+2569,Gather the Townsfolk,,,Sorcery,,,,Dark Ascension,Common,Dan Scott,,8,158,1W,"Put two 1/1 white Human creature tokens onto the battlefield.
+Fateful hour — If you have 5 or less life, put five of those tokens onto the battlefield instead.",In the memories of those they lost lies the strength needed to defend their city.,,,,3
+2570,Midnight Guard,,,Creature,Human,Soldier,,Dark Ascension,Common,Jason A. Engle,,14,158,2W,"Whenever another creature enters the battlefield, untap Midnight Guard.","""When you're on watch, no noise is harmless and no shadow can be ignored.""
+—Olguard of the Skiltfolk",2,3,,3
+2571,Niblis of the Mist,,,Creature,Spirit,,,Dark Ascension,Common,Igor Kieryluk,,15,158,2W,"Flying
+When Niblis of the Mist enters the battlefield, you may tap target creature.","""Not even a roaring fire could thaw the chill it put in my heart.""
+—Vonn, geist-trapper",2,1,,1
+2572,Ray of Revelation,,,Instant,,,,Dark Ascension,Common,Cliff Childs,,17,158,1W,"Destroy target enchantment.
+Flashback G (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+","""May angels carry him into the Blessed Sleep with dreams of sunlit days and moonless nights.""
+—Tomb inscription of Saint Raban",,,,2
+2573,Sanctuary Cat,,,Creature,Cat,,,Dark Ascension,Common,David Palumbo,,19,158,W,,Cats prowl the corridors of Avacyn's churches in search of devisl or signs of their mischief.,1,2,,3
+2574,Skillful Lunge,,,Instant,,,,Dark Ascension,Common,Jason Felix,,22,158,1W,Target creature gets +2/+0 and gains first strike until end of turn.,"""Valor is a currency of the living that serves us well.""
+—Cosper Lowe of the Silbern Guard",,,,1
+2575,Chant of the Skifsang,,,Enchantment,Aura,,,Dark Ascension,Common,Nils Hamm,,31,158,2U,"Enchant creature
+Enchanted creature gets -13/-0.","""The skifsang, seafarers of Nephalia, craft spells like other sailors craft nets— making them strong enough to snare even the deadliest catch.",,,,3
+2576,Divination,,,Sorcery,,,,Dark Ascension,Common,Scott Chou,,35,158,2U,Draw two cards.,"Even the House of Galan, who takes the most scholarly approach to the mystic traditions, has resorted to exploring more primitive methods in Avacyn's absence.",,,,2
+2577,Griptide,,,Instant,,,,Dark Ascension,Common,Igor Kieryluk,,38,158,3U,Put target creature on to pof its owner's library.,"""Beware the seagrafs just off the shore. These waters are filled with hungry geists looking for an easy meal.""
+—Captain Eberhart",,,,1
+2578,Headless Skaab,,,Creature,Zombie,Warrior,,Dark Ascension,Common,Johann Bodin,,40,158,2U,"As an additional cost to cast Headless Skaab, exile a creature card from your graveyard, exile a creature card from your graveyard.
+Headless Skaab enters the battlefield tapped.",A head is a needless encumbrance when muscle is all that's required.,3,6,,1
+2579,Nephalia Seakite,,,Creature,Bird,,,Dark Ascension,Common,Wayne England,,43,158,3U,"Flash (You may cast this spell any time you could cast an instant.)
+Flying","""Keep one eye on the cliff road or you may fall to your death. Keep one on the sky or your death may fall on you.""
+—Manfried Ulmach, Elgaud Master-at-Arms",2,3,,2
+2580,Saving Grasp,,,Instant,,,,Dark Ascension,Common,Matt Stewart,,46,158,U,"Return target creature you own to your hand.
+Flashback W (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Nothing's more valuable than perfect timing.,,,,2
+2581,Screeching Skaab,,,Creature,Zombie,,,Dark Ascension,Common,Clint Cearley,,47,158,1U,"When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.",Its screching is the sound of you losing your mind.,2,1,,3
+2582,Shriekgeist,,,Creature,Spirit,,,Dark Ascension,Common,Raymond Swanland,,49,158,1U,"Flying
+Whenever Shriekgeist deals combat damage to a player, that player puts the top two cards of his or her library into his or her graveyard.",Wounds of the flesh are so easy to heal. Wounds of the mind may never be undone.,1,1,,2
+2583,Stormbound Geist,,,Creature,Spirit,,,Dark Ascension,Common,Dan Scott,,51,158,1UU,"Flying
+Stormbound Geist can block only creatures with flying.
+Undying (When this creature dies, if it had no +1+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",,2,2,,2
+2584,Chosen of Markov,,,Creature,Human,,,Dark Ascension,Common,Steve Argyle,,55a,158,2B,"T, Tap an untapped Vampire you control: Transform Chosen of Markov.","""I have been found worthy by his great house...""",2,2,,5
+2585,Death's Caress,,,Sorcery,,,,Dark Ascension,Common,James Ryman,,59,158,3BB,"Destroy target creature. If that creature was a Human, you gain life equal to its toughness.","The faint smell of cloves, the rustling of the wind, and a paralyzing descent into an airless, fathomless tomb.",,,,3
+2586,Falkenrath Torturer,,,Creature,Vampire,,,Dark Ascension,Common,Steve Argyle,,60,158,2B,"Sacrifice a creature: Falkenrath Torturer gains flying until end of turn. If the sacrificed crature was a Human, put a +1/+1 counter on Falkenrath Torturer.","""There was a time when our cages rang with wailing. Now only a handful of these whimpering fools remain.""",2,1,,4
+2587,Gravepurge,,,Instant,,,,Dark Ascension,Common,Zoltan Boros,,65,158,2B,"Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.","""The Blessed sleep? Ha! Wake up my lovelies, there's work to be done!""
+—Gisa, ghoulcaller of Gavony",,,,2
+2588,Highborn Ghoul,,,Creature,Zombie,,,Dark Ascension,Common,Volkan Baga,,68,158,BB,"Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that can share a color with it.)
+""All the dead sleep lightly here, no matter how refined their beds may be.""
+—Grafdigger Wulmer",,2,1,,1
+2589,Reap the Seagraf,,,Sorcery,,,,Dark Ascension,Common,James Ryman,,72,158,2B,"Put a 2/2 black Zombie creature token onto the battlefield.
+Flashback 4U (You may cast this card from your graveyard for its flashback cost. Then exile it.)","The wreck hung on the jagged reef, each night disgorging more of its gruesome cargo.",,,,1
+2590,Sightless Ghoul,,,Creature,Zombie,Soldier,,Dark Ascension,Common,Svetlin Velinov,,73,158,3B,"Sightless Ghoul can't block.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)","It blindly marches on Thraben's gates, guided by its master's direful will.",2,2,,2
+2591,Spiteful Shadows,,,Enchantment,Aura,,,Dark Ascension,Common,John Stanko,,75,158,1B,"Enchant creature
+Whenever enchanted creature is dealt damage, it deals that much damage to its controller.","""Let us remind these human cattle why they fear the shadows of this world.""
+—Aldreg, Skirsdog cultist",,,,2
+2592,Tragic Slip,,,Instant,,,,Dark Ascension,Common,Christopher Moeller,,76,158,BB,"Target creature gets -1/-1 until end of turn.
+Morbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.",Longer on death's door and risk being invited in.,,,,1
+2593,Undying Evil,,,Instant,,,,Dark Ascension,Common,Kev Walker,,77,158,BB,"Target creature gains undying until end of turn. (When it dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)","""Is it true the evil that people do follows them into death? Let's find out.""
+—Liliana Vess",,,,3
+2594,Fires of Undeath,,,Instant,,,,Dark Ascension,Common,Jason Chan,,88,158,2R,"Fires of Undeath deals 2 damage to target creature or player.
+Flashback 5B (You may cast this card from your graveyard for its flashback cost. Then exile it.)","""I drink of those who are worthy of my palate. The rest I burn.""",,,,2
+2595,Forge Devil,,,Creature,Devil,,,Dark Ascension,Common,Austin Hsu,,91,158,R,"When Forge Devil enters the  battlefield, it deals 1 damage to target creature and 1 damage to you.","Devils infiltrated teh lower levels of Thraben Cathedral, making cracks in load-bearing pillars and setting fire to precious archives.",1,1,,3
+2596,Hinterland Hermit,,,Creature,Human,Werewolf,,Dark Ascension,Common,Steven Belledin,,94a,158,1R,"At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit.",He tried to live far from those he could hurt...,2,1,,1
+2597,Nearheath Stalker,,,Creature,Vampire,Rogue,,Dark Ascension,Common,Michael C. Hayes,,100,158,4R,"Undying (When this creature dies, if it had no +1/+1 coutners on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)","""Do not speak of this to the elders. They look unfavorably upon my indulgences.""",4,1,,4
+2598,Russet Wolves,,,Creature,Wolf,,,Dark Ascension,Common,Christopher Moeller,,102,158,3R,,"""The wolves of our valley are bred to detest the scent of ghouls. For centuries they have kept our estates clear of such carrion.""
+—Olivia Voldaren",3,3,,3
+2599,Scorch the Fields,,,Sorcery,,,,Dark Ascension,Common,Jaime Jones,,103,158,4R,Destroy target land. Scorch the Fields deals 1 damage to each Human creature.,"""Your fields will turn as black as ghoul's tongue and fire shall be your only harvest.""
+—Minaldra, the Vizag Atum",,,,4
+2600,Torch Fiend,,,Creature,Devil,,,Dark Ascension,Common,Winona Nelson,,106,158,1R,"R, Sacrifice Torch Fiend: Destroy target artifact.",Devils redecorate every room with fire.,2,1,,1
+2601,Wrack with Madness,,,Sorcery,,,,Dark Ascension,Common,Todd Lockwood,,107,158,3R,Target creature deals damage to itself equal to its power.,"The skathul, spirits consumed by revenge, fester and seethe while looking for weak minds to assault.",,,,1
+2602,Clinging Mists,,,Instant,,,,Dark Ascension,Common,Anthony Francisco,,109,158,2G,"Prevent all combat damage that would be dealt thsi turn.
+Fateful hour — If you have 5 or less life, tap all attacking creatures.
+Those creatures don't untap during their controller's next untap step.",,,,,2
+2603,Hollowhenge Beast,,,Creature,Beast,,,Dark Ascension,Common,Dave Kendall,,118,158,3GG,,"In a world of monsters, it's the stuff of nightmares.",5,5,,3
+2604,Kessig Recluse,,,Creature,Spider,,,Dark Ascension,Common,Vincent Proce,,121,158,2GG,"Rerach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)","Its silk is highly prized, but then again, so is your life.",2,3,,2
+2605,Scorned Villager,,,Creature,Human,Werewolf,,Dark Ascension,Common,Cynthia Sheppard,,125a,158,1G,"T: Add G to your mana pool.
+At the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager.","""My village's fear drove me into the wild...""",1,1,,2
+2606,Somberwald Druid,,,Creature,Druid,,,Dark Ascension,Common,Jaime Jones,,126,158,1G,Forestwalk (This creature is unblockable as long as defending player controls a Forest.),"The Somberwald is her domain, and she has yet to hear an acceptable excuse for trespassing.",2,2,,4
+2607,Ulvenwald Bear,,,Creature,Bear,,,Dark Ascension,Common,Jason A. Engle,,129,158,2G,"Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.","Out chasing bears
+—Kessig expression meaning ""died in the woods""",2,2,,1
+2608,Wild Hunger,,,Instant,,,,Dark Ascension,Common,Karl Kopinski,,132,158,2G,"Target creature gets +3/+1 and gains trample until end of turn.
+Flashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Otto the Hunter was filled with many grand ambitions. The snake was filled only with Otto.,,,,2
+2609,Holy Justicar,,,Creature,Human,Cleric,,Avacyn Restored,Uncommon,David Rapoza,,25,244,3W,"2W, T: Tap target creature. If that creature is a Zombie, exile it.","Her eyes see through the rotting flesh and glimpse a soul in agony, begging for the Blessed Sleep.",2,1,,3
+2610,Blood Artist,,,Creature,Vampire,,,Avacyn Restored,Uncommon,Johannes Voss,,86,244,1B,"Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.","""Great art can never be created without great suffering.""",0,1,,2
+2611,Homicidal Seclusion,,,Enchantment,,,,Avacyn Restored,Uncommon,Cliff Childs,,108,244,4B,"As long as you control exactly one creature, that creature gets +3/+1 and has lifelink.","""Damned crows and their endless squawking...blocks out the voices in my head...""
+—Hermit of Hanne Hall",,,,5
+2612,Falkenrath Exterminator,,,Creature,Vampire,Archer,,Avacyn Restored,Uncommon,Winona Nelson,,154,244,1R,"Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.
+2R: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.",,1,1,,6
+2613,Druid's Familiar,,,Creature,Bear,,,Avacyn Restored,Uncommon,Adam Paquette,,175,244,3G,"Soulbond (You may pair this creature with another unpaired creature when either enters the batlefield. They remain paired for as long as you control both of them.)
+As long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2.",,2,2,,6
+2614,Seraph Sanctuary,,,Land,,,,Avacyn Restored,Common,David Palumbo,,228,244,,"When Seraph Sanctuary enters the battlefield, you gain 1 life.
+Whenever an Angel enters the battlefield under your control, you gain 1 life.
+T: Add 1 to your mana pool.",,,,,15
+2615,Narstad Scrapper,,Artifact,Creature,Construct,,,Avacyn Restored,Common,Steven Belledin,,218,244,5,2: Narstad Scrapper gets +1/+0 until end of turn.,"""Finally, the principles of corpse animation applied to bloodless materials!""
+—Ludevic, necro-alchemist",3,3,,12
+2616,Scroll of Avacyn,,Artifact,,,,,Avacyn Restored,Common,Cliff Childs,,220,244,1,"1, Sacrifice Scroll of Avacyn: Draw a card. If you control an Angel, you gain 5 life.",Words to blesss hte eye that reads them telling of a future beyond the reach of fear.,,,,15
+2617,Vanguard's Shield,,Artifact,Equipment,,,,Avacyn Restored,Common,Ryan Pancoast,,223,244,2,"Equipped creature gets +0/+3 and can block an additional creature.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)",Wars are not fought on a single front.,,,,9
+2618,Angel's Mercy,,,Instant,,,,Avacyn Restored,Common,Greg Staples,,5,244,2WW,You gain 7 life.,"""I understand your fears. I pity your doubts. I absolve you of both.""",,,,15
+2619,Angelic Wall,,,Creature,Wall,,,Avacyn Restored,Common,Allen Williams,,4,244,1W,"Defender, flying","""The air stirred as if fanned by angels' wings, and the enemy was turned aside.""
+—Tales of  Ikarov the Voyager",0,4,,11
+2620,Call to Serve,,,Enchantment,Aura,,,Avacyn Restored,Common,Jaime Jones,,9,244,1W,"Enchant nonblack creature
+Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.","Grace is a gift, never a reward.",,,,12
+2621,Cathedral Sanctifier,,,Creature,Human,Cleric,,Avacyn Restored,Common,Michael C. Hayes,,11,244,W,"When Cathedral Sanctifier enters the battlefield, you gain 3 life.","""Evil will soon be vanquished. What Innistrad most needs now is healing.""",1,1,,15
+2622,Cursebreak,,,Instant,,,,Avacyn Restored,Common,Sam Wolfe Connelly,,14,244,1W,Destroy target enchantment. You gain 2 life.,No longer the village pariah. No longer taunted and shamed. Sigrun was finally free.,,,,3
+2623,Cloudshift,,,Instant,,,,Avacyn Restored,Common,Howard Lyon,,12,244,W,"Exile target creature you control, then return that card to the battlefield under your control.","""Even storm clouds bow to worship Avacyn.""
+—Elder Rimheit",,,,12
+2624,Defang,,,Enchantment,Aura,,,Avacyn Restored,Common,Steven Belledin,,15,244,1W,"Enchant creature
+Prevent all damage that would be dealt by enchanted creature.","Once vampires are disarmed, they're given wooden swords and forced to assist in the training of Midnight Duelists.",,,,17
+2625,Leap of Faith,,,Instant,,,,Avacyn Restored,Common,Gabor Szikszai,,26,244,2W,Target creature gains flying until end of turn. Prevent all damage that would be dealt to that creature this turn.,The finest maneuvers take place in three dimensions.,,,,9
+2626,Midnight Duelist,,,Creature,Human,Soldier,,Avacyn Restored,Common,Bud Cook,,27,244,W,Protection from Vampires,Avacyn's return did not rid him of his desire for revenge.,1,2,,13
+2627,Midvast Protector,,,Creature,Human,Wizard,,Avacyn Restored,Common,James Ryman,,28,244,3W,"When Midvast Protector enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.","""I cultivated my faith in Avacyn despite meager returns. Now my faith is repaid.""",2,3,,9
+2628,Righteous Blow,,,Instant,,,,Avacyn Restored,Common,Clint Clearley,,34,244,W,Righteous Bow deals 2 damage to target attacking or blocking creature.,"""Monsters will no longer find safety under the mists of Morkrut!""
+—Bruna, Light of Alabaster
+",,,,16
+2629,Seraph of Dawn,,,Creature,Angel,,,Avacyn Restored,Common,Todd Lockwood,,35,244,2WW,"Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+",She parts the clouds so sunlight can reach even the darkest lairs and duskiest tombs.,2,4,,17
+2630,Spectral Gateguards,,,Creature,Spirit,Soldier,,Avacyn Restored,Common,Wayne England,,37,244,4W,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Spectral  Gateguards is paired with another creature, both creatures have vigilance.",,2,5,,9
+2631,Thraben Valiant,,,Creature,Human,Soldier,,Avacyn Restored,Common,Jason Chan,,39,244,1W,Vigilance,"""Once more into Devil's Breach, soldiers. I want another devil tail for my collection.""",2,1,,14
+2632,Zealous Strike,,,Instant,,,,Avacyn Restored,Common,Bud Cook,,41,244,1W,Target creature gets +2/+2 and gains first strike until end of turn.,"""Cower, fiend. The night is yours no longer.""",,,,8
+2633,Amass the Components,,,Sorcery,,,,Avacyn Restored,Common,Matt Stewart,,43,244,3U,"Draw three cards, then put a card from your hand on the bottom of your library.","""I knew I'd find a use for all that newt spittle!""",,,,13
+2634,Crippling Chill,,,Instant,,,,Avacyn Restored,Common,Svetlin Velinov,,46,244,2U,"Tap target creature. It doesn't untap during its controller's next untap step.
+Draw a card.",One breath of the geist turns veins to rivers of ice and freezes hearts midbeat.,,,,15
+2635,Dreadwaters,,,Sorcery,,,,Avacyn Restored,Common,Cliff Childs,,49,244,3U,"Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of lands you control.",Stray into the Morkrut and it may rise to claim you.,,,,13
+2636,Elgaud Shieldmate,,,Creature,Human,Soldier,,Avacyn Restored,Common,Anthony Palumbo,,50,244,3U,"Soulbound (You may pair this creature with another unpaired creature when either entes the battlefield. They remain paired for as long as you control both of them.)
+As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)",,2,3,,11
+2637,Fleeting Distraction,,,Instant,,,,Avacyn Restored,Common,Ryan Yee,,53,244,U,"Target creature gets -1/-0 until end of turn.
+Draw a card.","The first spell taught to young mages, it has spared the lives of many whose hands are too small to hold a sword.",,,,15
+2638,Galvanic Alchemist,,,Creature,Human,Wizard,,Avacyn Restored,Common,Svetlin Velinov,,54,244,2U,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Galvanic Alchemist is paired with another creature, each of those creatures has ""2U: Untap this creature.""",,1,4,,11
+2639,Geist Snatch,,,Instant,,,,Avacyn Restored,Common,Dan Scott,,55,244,2UU,Counter target creature spell. Put a 1/1 blue Spirit creature token with flying onto the battlefield.,Angels and demons aren't the only ones listening to your prayers.,,,,13
+2640,Ghostly Flicker,,,Instant,,,,Avacyn Restored,Common,Raymond Swanland,,57,244,2U,"Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.",Sometimes it's useful to take a break from existence.,,,,13
+2641,Gryff Vanguard,,,Creature,Human,Knight,,Avacyn Restored,Common,Jason Chan,,59,244,4U,"Flying
+When Gryf Vanguard enters the battlefield, draw a card.","""Ghouls smashed the door, but I heard the call of the gryffs and knew we were saved.""
+—Ekka, shopkeeper of Hanweir",3,2,,9
+2642,Mist Raven,,,Creature,Bird,,,Avacyn Restored,Common,John Avon,,67,244,2UU,"Flying
+When Mist Raven enters the battlefield, return target creature to its owner's hand.","""When you see a raven, head for the hills. It knows when the ghost-tide is headed in.""
+—Sved, fisherman of Nephalia",2,2,,10
+2643,Outwit,,,Instant,,,,Avacyn Restored,Common,Erica Yang,,70,244,U,Counter target spell that targets a player.,The student asks how a spell is begun. The master ponders what ends it.,,,,14
+2644,Peel from Reality,,,Instant,,,,Avacyn Restored,Common,Jason Felix,,71,244,1U,Return target creature you cotrol and target creature you dont' control to their owners' hands.,"""Soulless demon, you are bound to me. Now we will both dwell in oblivion.""",,,,13
+2645,Rotcrown Ghoul,,,Creature,Zombie,,,Avacyn Restored,Common,Dave Kendall,,72,244,4U,"When Rotcrown Ghoul dies, target player puts the top five cards of his or her library into his or her graveyard.","""Don't look into its eyes. It's thinking things no dead thing should think.""
+—Captain Eberhart",3,3,,16
+2646,Spectral Prison,,,Enchantment,Aura,,,Avacyn Restored,Common,Vicnent Proce,,75,244,1U,"Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+When enchanted creature becomes the target of a spell, sacrifice Spectral Prison.",,,,,19
+2647,Scrapskin Drake,,,Creature,Zombie,Drake,,Avacyn Restored,Common,Kev Walker,,73,244,2U,"Flying
+Scrapskin Drake can  block only creatures with flying.","""The cathars killed my skaabs down below. Let's see how high their swords can reach.""
+—Ludevic, necro-alchemist",2,3,,10
+2648,Wingcrafter,,,Creature,Human,Wizard,,Avacyn Restored,Common,Matt Stewart,,83,244,U,"Soulbond (You may pair this creature with another unpaired creature when wither enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Wingcrafter is paired with another creature, both creatures have flying.",,1,1,,10
+2649,Bloodflow Connoisseur,,,Creature,Vampire,,,Avacyn Restored,Common,Slawomir Maniak,,87,244,2B,Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.,"""Death not for survival but for vanity and pleasure? This is the decadence I sought to curb.""
+—Sorin Markov",1,1,,12
+2650,Bone Splinters,,,Sorcery,,,,Avacyn Restored,Common,Nils Hamm,,88,244,B,"As an additional cost to cast Bone Splinters, sacrifice a creature.
+Destroy target creature.","""Which do you deserve, the heft of a femur or the graceful sharpness of a forearm? Decisions, decisions...""
+—Gisa the Mad",,,,11
+2651,Butcher Ghoul,,,Creature,Zombie,,,Avacyn Restored,Common,Christopher Moeller,,89,244,1B,"Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)","Without a mind, it doesn't fear death. WIthout a soul, it doesn't mind killing.",1,1,,14
+2652,Death Wind,,,Instant,,,,Avacyn Restored,Common,Tomasz Jedruszek,,93,244,XB,Target creature gets -X/-X until end of turn.,"Leukin stared at the smoldering angel feathers. ""Run!"" he screamed to his patrol. ""We don't stand a chance!""",,,,10
+2653,Driver of the Dead,,,Creature,Vampire,,,Avacyn Restored,Common,James Ryman,,99,244,3B,"When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.",Some vampires resorted to corpse trading after cathars burned their estates and drove them from their ancestral feeding grounds.,3,2,,20
+2654,Ghoulflesh,,,Enchantment,Aura,,,Avacyn Restored,Common,Igor Kieryluk,,103,244,B,"Enchant creature
+Enchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.
+","The body dies in stages. First the skin, then the muscle. The brain is last, much to the victim's dismay.",,,,8
+2655,Grave Exchange,,,Sorcery,,,,Avacyn Restored,Common,Sam Wolfe Connelly,,105,244,4BB,Return target creature from your graveyard to your hand. Target player sacrifices a creature.,"""It's a cold, dark journey either way.""
+—Eruth of Lambholt",,,,12
+2656,Hunted Ghoul,,,Creature,Zombie,,,Avacyn Restored,Common,Ryan Pancoast,,110,244,B,Hunted Ghoul can't block Humans.,"Even after Hanweir was saved, Gisa's lost ghouls would shamble through, still following the twisted orders of their imprisoned master.",1,2,,16
+2657,Mental Agony,,,Sorcery,,,,Avacyn Restored,Common,Greg Staples,,114,244,3B,Target player discards two cards and loses 2 life.,"""His mind is feeble. Feed him to the bats.""",,,,11
+2658,Polluted Dead,,,Creature,Zombie,,,Avacyn Restored,Common,Jason A. Engle,,116,244,4B,"When Polluted Dead dies, destroy target land.","After the zombie attack, crops withered on the vine, and th thriving village became a ghost town almost overnight.",3,3,,9
+2659,Predator's Gambit,,,Enchantment,Aura,,,Avacyn Restored,Common,Zoltan Boros,,117,244,B,"Enchant creature
+Enchanted creature gets +2/+1.
+Enchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",,,,,7
+2660,Renegade Demon,,,Creature,Demon,,,Avacyn Restored,Common,Tomasz Jedruszek,,118,244,3BB,,"""Have you ever cornered a wounded vampire? That's a walk in the cathedral garden in comparison.""
+—Tristen, Cathar Marshal",5,3,,14
+2661,Searchlight Geist,,,Creature,Spirit,,,Avacyn Restored,Common,Steven Belledin,,119,244,2B,"Flying
+3B: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)","It rises with the fall of darkness, seeking souls to extinguish.",2,1,,13
+2662,Soulcage Fiend,,,Creature,Demon,,,Avacyn Restored,Common,Jason A. Engle,,120,244,1BB,"When Soulcage Fiend dies, each player loses 3 life.","Vowing to free the souls of her children, Kastinne followed the tormentors into the ghastly network of caves below Stensia.",3,2,,11
+2663,Undead Executioner,,,Creature,Zombie,,,Avacyn Restored,Common,Dave Kendall,,123,244,3B,"When Undead Executioner dies, you may have target creature get -2/-2 until end of turn.","Heartless killer in life, brainless killer in death.",2,2,,12
+2664,Unhallowed Pact,,,Enchantment,Aura,,,Avacyn Restored,Common,Volkan Baga,,124,244,2B,"Enchant creature
+When enchanted creature dies, return that card to the battlefield under your control.",Agreements with demons seldom end at hte grave.,,,,15
+2665,Banners Raised,,,Instant,,,,Avacyn Restored,Common,Mike Bierek,,127,244,R,Creatures you control get +1/+0 until end of turn.,"After the destruction of the Helvault, fearful mobs soon became fearless battalions.",,,,10
+2666,Battle Hymn,,,Instant,,,,Avacyn Restored,Common,Nils Hamm,,128,244,1R,Add R to your mana pool for each creature you control.,"""A church is just wood and walls. A congregation is the faithful praising the angels.""
+—Kolmn, elder of Gatstaf",,,,12
+2667,Dangerous Wager,,,Instant,,,,Avacyn Restored,Common,Drew Baker,,131,244,1R,"Discard your hand, then draw two cards.","""C'mon friend, take a turn tossing the knucklebones. What've you got to lose?""
+—Tobias, trader of Erdwal",,,,10
+2668,Demolish,,,Sorcery,,,,Avacyn Restored,Common,Raymond Swanland,,132,244,3R,Destroy target artifact or land.,"""To truly defeat a skaberen, you must destroy not the monster but the lab.""
+—Rem Karolus, Blade of the Inquisitors.",,,,9
+2669,Fervent Cathar,,,Creature,Human,Knight,,Avacyn Restored,Common,Steven Belledin,,133,244,2R,"Haste
+When Fervent Cathar enters the battlefield, target creature can'at block this turn.","""I'll put my sword down only to die. And I don't plan on doing that today.""",2,1,,12
+2670,Guise of Fire,,,Enchantment,Aura,,,Avacyn Restored,Common,Dave Kendall,,137,244,R,"Enchant creature
+Enchanted creature gets +1/-1 and attacks each turn if able.","""Fire will eventually destroy a zombie, but a fiery zombie destroys a lot of other thingsn first.""
+—Rem Karolus, Blade of the Inquisitors",,,,14
+2671,Hanweir Lancer,,,Creature,Human,Knight,,Avacyn Restored,Common,Steve Prescott,,138,244,2R,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Hanweir Lancer is paired with another creature, both creatures have first strike.",,2,2,,10
+2672,Heirs of Stormkirk,,,Creature,Vampire,,,Avacyn Restored,Common,Winona Nelson,,140,244,2RR,"Intimiddate (This creature can't be blocked except by arifact creatures and/or creatures that share a color with it.)
+Whenever Heirs of Stormkirk deals combat damage to a player, put a +1/+1 counter on it.",,2,2,,17
+2673,Kruin Striker,,,Creature,Human,Warrior,,Avacyn Restored,Common,Christopher Moeller,,143,244,1R,"Whenever another creature enters the battlefield under your control, Kruin Striker gets +1/+0 and gains trample until end of turn.","Unhappy with the creation of the wolfir, Rorica broke with her order and led a crusade againstthe ""reformed werewolves.""",2,1,,13
+2674,Mad Prophet,,,Creature,Human,Shaman,,Avacyn Restored,Common,Wayne Reynolds,,146,244,3R,"Haste
+T, Discard a card: Draw a card.","""There's no heron in the moon! It's a shrew, a five-legged shrew, witha voice like whispering thunder!""",2,2,,7
+2675,Malicious Intent,,,Enchantment,Aura,,,Avacyn Restored,Common,Kev Walker,,147,244,1R,"Enchant creature
+Enchanted creature has ""T: Target creature can't block this turn.""","As peace returned to Thraben, some cathars made the mistake of letting down their guard.",,,,25
+2676,Pillar of Flame,,,Sorcery,,,,Avacyn Restored,Common,Karl Kopinski,,149,244,R,"Pillar of Flame deals 2 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.","""May the worthy spend an eternity in Blessed Sleep. May hte wicked find the peace of oblivion.""",,,,8
+2677,Raging Poltergeist,,,Creature,Spirit,,,Avacyn Restored,Common,Slawomir Maniak,,150,244,4R,,"Some tried cremating their dead to stop the ghoulcallers. But hte dead returned, furious about their fate.",6,1,,9
+2678,Riot Ringleader,,,Creature,Human,Warrior,,Avacyn Restored,Common,Gabor Szikszai,,152,244,2R,"Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn.","""So the vampires like hot blood, do they? Let's see how they handle ours.""",2,2,,14
+2679,Scalding Devil,,,Creature,Devil,,,Avacyn Restored,Common,Erica Yang,,155,244,1R,2R: Scalding Devil deals 1 damage to target player.,Demons massacre. Devils annoy.,1,1,,11
+2680,Thatcher Revolt,,,Sorcery,,,,Avacyn Restored,Common,Ryan Pancoast,,158,244,2R,Put three 1/1 red Human creature tokens with haste onto the battlefield. Sacrifice those tokens at the beginning of the next end step.,The dark times left the peasantry ready to fight with whatever weapons were at hand.,,,,13
+2681,Thunderbolt,,,Instant,,,,Avacyn Restored,Common,Anthony Francisco,,159,244,1R,Choose one — Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.,"""My next aerial design will use less metal.""
+—Hadaken, alchemist of Nephalia",,,,13
+2682,Uncanny Speed,,,Instant,,,,Avacyn Restored,Common,Raymond Swanland,,163,244,1R,Target creature gets +3/+0 and gains haste until end of turn.,"""To survive, we must embrace hte savagery we knew in our race's infancy.""
+—Edgar Markov",,,,15
+2683,Diregraf Escort,,,Creature,Human,Cleric,,Avacyn Restored,Common,Ryan Pancoast,,174,244,G,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.",,1,1,,15
+2684,Flowering Lumberknot,,,Creature,Treefolk,,,Avacyn Restored,Common,Nic Klein,,178,244,3G,Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.,"""It used to eat us trappers. Now it follows us around like some kind of hound dog.""
+—Alena, trapper of Kessig",5,5,,12
+2685,Geist Trappers,,,Creature,Human,Warrior,,Avacyn Restored,Common,Anthony Palumbo,,179,244,4G,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Geist Trappers is paired with another creature, both creatures have reach.",,3,5,,9
+2686,Grounded,,,Enchantment,Aura,,,Avacyn Restored,Common,Greg Staples,,181,244,1G,"Enchant creature
+Enchanted creature loses flying.","""We've tracked Ludevic's monster across four provinces. When it lands, make sure it stays put.""
+—Alena, trapper of Kessig, to Halana of Ulvenwald",,,,15
+2687,Natural End,,,Instant,,,,Avacyn Restored,Common,Scott Chou,,185,244,2G,Destroy target artifact or enchantment. you gain 3 life.,"The haunted blade shattered, and the geist drifted gratefully to the Blessed Sleep.",,,,13
+2688,Pathbreaker Wurm,,,Creature,Wurm,,,Avacyn Restored,Common,Nils Hamm,,188,244,4GG,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Pathbreaker Wurm is paired with another creature, both creatures have trample.",,6,4,,15
+2689,Sheltering Word,,,Instant,,,,Avacyn Restored,Common,Igor Kieryluk,,192,244,1G,Target creature you control gains hexproof until end of turn. You gain life equal to that creature's toughness. (A creature with hexproof can't be the target of spells or abilities your opponents control.),,,,,11
+2690,Snare in the Skies,,,Instant,,,,Avacyn Restored,Common,Ryan Yee,,193,244,G,Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.),A hunter's precision and a durkvine's strength are a potent combination.,,,,4
+2691,Terrifying Presence,,,Instant,,,,Avacyn Restored,Common,Jaime Jones,,196,244,1G,Prevent all combat damage that would be dealt by creatures other than target creature this turn.,"Elmut had slaughtered vampires, slain werewolves, and destroyed hordes of zombies. Sadly, he never got over hsi fear of spiders.",,,,13
+2692,Timberland Guide,,,Creature,Human,Scout,,Avacyn Restored,Common,Zotlan Boros,,197,244,1G,"When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.","""Can you build a fire? Track a deer? Identify Killer trees? Then you'll never survive Kessig without me.""",1,1,,15
+2693,Trusted Forcemage,,,Creature,Human,Shaman,,Avacyn Restored,Common,Cynthia Sheppard,,199,244,2G,"Soulbond (You may pair this cerature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Trusted Forcemage is paired for another creature, each of those creatures gets +1/+1.",,2,2,,13
+2694,Bladed Bracers,,Artifact,Equipment,,,,Avacyn Restored,Common,Ryan Yee,,213,244,1,"Equipped creature gets +1/+1.
+As long as equipped creature is a Human or an Angel, it has vigilance.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)",Forged from the rubble of hte Helvault.,,,,6
+2695,Scroll of Griselbrand,,Artifact,,,,,Avacyn Restored,Common,Cliff Childs,,221,244,1,"1, Sacrifice Scroll of Griselbrand: Target opponent discards a card. If you control a Demon, that player loses 3 life.","Words no eyes should see, telling things no sane mind could fathom.",,,,6
+2696,Cursebreak,,,Instant,,,,Avacyn Restored,Common,Sam Wolfe Connelly,,14,244,1W,Destroy target enchantment. You gain 2 life.,No longer the village pariah. No longer taunted and shamed. Sigrun was finally free.,,,,7
+2697,Farbog Explorer,,,Creature,Human,Scout,,Avacyn Restored,Common,Scott Chou,,21,244,2W,Swampwalk (The creature is unblockable as long as defending player controls a swamp.),"""I'd slog through a thousand swamps to help one soul find rest.""",2,3,,8
+2698,Moonlight Geist,,,Creature,Spirit,,,Avacyn Restored,Common,Dan Scott,,29,244,2W,"Flying
+3W: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.",Waisl and whispers are the only weapons she has left.,2,1,,8
+2699,Moorland Inquisitor,,,Creature,Human,Soldier,,Avacyn Restored,Common,David Palumbo,,30,244,1W,2W: Moorland Inquisitor gains first strike until end of turn.,"Inquisitors are taught scripture, philosophy, and the fine art of sharpening an axe.",2,2,,10
+2700,Voice of the Provinces,,,Creature,Angel,,,Avacyn Restored,Common,Igor Kieryluk,,40,244,4WW,"Flying
+When Voice of the Provinces enters the battlefield, put a 1/1 white Human creature token onto the battlefield.","Her horn is heard across Innistrad, lifting the hearts of the righteous.",3,3,,10
+2701,Zealous Strike,,,Instant,,,,Avacyn Restored,Common,Bud Cook,,41,244,1W,Target creature gets +2/+2 and gains first strike until end of turn.,"""Cower, fiend. The night is yours no longer.""",,,,2
+2702,Alchemist's Apprentice,,,Creature,Human,Wizard,,Avacyn Restored,Common,David Palumbo,,42,244,1U,Sacrifice Alchemist's Apprentice: Draw a card.,"Side effects may include foul odors, scaling steam, and spontaneous nonexistence.",1,1,,10
+2703,Havengul Skaab,,,Creature,Zombie,Horror,,Avacyn Restored,Common,Vintent Proce,,60,244,5U,"Whenever Havengul Skaab attacks, return another creature you control to its owner's hand.",An abomination so violent that the other fiends tremble at the sight of it.,4,5,,10
+2704,Ghostform,,,Sorcery,,,,Avacyn Restored,Common,Scott Chou,,56,244,1U,Up to two target creatures are unblockable this turn.,"""There's no such thing as 'impenetrable.'""",,,,8
+2705,Crypt Creeper,,,Creature,Zombie,,,Avacyn Restored,Common,Scott Chou,,91,244,1B,Sacrifice Crypt Creeper: Exile target card from a graveyard.,"""I guess what they say is true. What doesn't kill you makes you stronger. Or at least stranger.""
+—Captain Eberhart",2,1,,8
+2706,Essence Harvest,,,Sorcery,,,,Avacyn Restored,Common,Daarken,,100,244,2B,"Target player loses X life and you gain X life, where X is the greatest power among creatures you control.",Captain Lewenheart uncovered evidence of a demon cult among the clergy. The Skirsdag never gave him a chance to prove his case.,,,,8
+2707,Necrobite,,,Instant,,,,Avacyn Restored,Common,Nils Hamm,,115,244,2B,Target creature gains deathtouch until end of turn. Regenerate it.,"An undead snake doesn't bite in self-defense. It hungers as any zombie, never sated.",,,,4
+2708,Somberwald Vigilante,,,Creature,Human,Warrior,,Avacyn Restored,Common,John Stanko,,156,244,R,"Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.",He has nothing left but his resentment.,1,1,,9
+2709,Abundant Growth,,,Enchantment,Aura,,,Avacyn Restored,Common,Vincent Proce,,167,244,G,"Enchant land
+When Abundant Growth enters the battlefield, draw a card.
+Enchanted land has ""T: Add one mana of any color toyour mana pool.""",,,,,9
+2710,Borderland Ranger,,,Creature,Human,Spirit,,Avacyn Restored,Common,Zoltan Boros,,169,244,2G,"When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.","""There's only one route from Kessig into Stensia. Unless you come with me.""",2,2,,8
+2711,Joint Assault,,,Instant,,,,Avacyn Restored,Common,Raymond Swanland,,183,244,G,"Target creature gets +2/+2 until end of turn. If it's paired with a creature, that creature also gets +2/+2 until end of turn.","""By my power, werewolves shall become the woflir, our allies in combat against darkness.""
+—Avacyn's Cursemute Decree",,,,13
+2712,Lair Delve,,,Sorcery,,,,Avacyn Restored,Common,Jason A. Engle,,184,244,2G,Reveal the top two cards of your library. Put all creature and land cards revealed this way into your hand and the rest on the bottom of your library in any order.,"""The fiends have fled. Well, good riddance. Nothing I like more than an empty lair.""",,,,10
+2713,Nightshade Peddler,,,Creature,Human,Druid,,Avacyn Restored,Common,John Stanko,,187,244,1G,"Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Nightshade Peddler is spaired with another creature, both creatures have deathtouch.",,1,1,,5
+2714,Nettle Swine,,,Creature,Boar,,,Avacyn Restored,Common,Christopher Moeller,,186,244,3G,,"""I killed one and found bricks and bones in its belly. It had eaten a whole cottage, thatch and all.""
+—Paulin, Somberwald trapper",4,3,,3
+2715,Snare the Skies,,,Instant,,,,Avacyn Restored,Common,Ryan Yee,,193,244,G,Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.),A hunter's precision and a durkvine's strength are a potent combination.,,,,8
+2716,Wandering Wolf,,,Creature,Wolf,,,Avacyn Restored,Common,Tomasz Jedruszek,,202,244,1G,Creatures with power less than Wandering Wolf's power can't block it.,"Humans still feared wolves, though no connection between them and the curse of lycanthropy had ever been proved.",2,1,,7
+2717,Wildwood Geist,,,Creature,Spirit,,,Avacyn Restored,Common,Lars Grant-West,,204,244,4G,Wildwood Geist gets +2/+2 as long as it's your turn.,The geists that dwell in the deep forests of Kessig are as untamable as the woods themselves.,3,3,,9

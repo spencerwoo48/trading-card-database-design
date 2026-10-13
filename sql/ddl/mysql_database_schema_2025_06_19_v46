@@ -1,0 +1,164 @@
+CREATE TABLE type_line (
+	type_line_id INT AUTO_INCREMENT,
+	type_line VARCHAR(11),
+	PRIMARY KEY (type_line_id)
+);
+
+CREATE TABLE expansion_symbol (
+	expansion_symbol_id INT AUTO_INCREMENT,
+	expansion_symbol VARCHAR(52),
+	PRIMARY KEY (expansion_symbol_id)
+);
+
+CREATE TABLE rarity (
+	rarity_id INT AUTO_INCREMENT,
+	rarity VARCHAR(8),
+	PRIMARY KEY (rarity_id)
+);
+
+CREATE TABLE artist_information (
+	artist_information_id INT AUTO_INCREMENT,
+	artist_information VARCHAR(24),
+	PRIMARY KEY (artist_information_id)
+);
+
+CREATE TABLE permanent (
+	permanent_id INT AUTO_INCREMENT,
+	card_name VARCHAR(31),
+	-- mana_cost VARCHAR(8),
+	-- supertype VARCHAR(9),
+	type_line_fk INT,
+	-- subtype VARCHAR(59),
+	expansion_symbol_fk INT,
+	rarity_fk INT,
+	-- text_box VARCHAR(769),
+	-- flavor_text VARCHAR(196),
+	-- punch INT,
+	-- toughness INT,
+	-- starting_loyalty INT,
+	artist_information_fk INT,
+	collectors_number INT,
+	PRIMARY KEY (permanent_id),
+	FOREIGN KEY (type_line_fk) REFERENCES type_line(type_line_id),
+	FOREIGN KEY (expansion_symbol_fk) REFERENCES expansion_symbol(expansion_symbol_id),
+	FOREIGN KEY (rarity_fk) REFERENCES rarity(rarity_id),
+	FOREIGN KEY (artist_information_fk) REFERENCES artist_information(artist_information_id)
+);
+
+CREATE TABLE mana_cost (
+	mana_cost_id INT AUTO_INCREMENT,
+	mana_cost VARCHAR(8),
+	PRIMARY KEY (mana_cost_id)
+);
+
+CREATE TABLE permanent_mana_cost (
+	permanent_fk INT,
+	mana_cost_fk INT,
+	PRIMARY KEY (permanent_fk),
+	FOREIGN KEY (permanent_fk) REFERENCES permanent(permanent_id),
+	FOREIGN KEY (mana_cost_fk) REFERENCES mana_cost(mana_cost_id)
+);
+
+CREATE TABLE supertype (
+	supertype_id INT AUTO_INCREMENT,
+	supertype VARCHAR(9),
+	PRIMARY KEY (supertype_id)
+);
+
+CREATE TABLE permanent_supertype (
+	permanent_fk INT,
+	supertype_fk INT,
+	PRIMARY KEY (permanent_fk, supertype_fk),
+	FOREIGN KEY (permanent_fk) REFERENCES permanent(permanent_id),
+	FOREIGN KEY (supertype_fk) REFERENCES supertype(supertype_id)
+);
+
+CREATE TABLE subtype (
+	subtype_id INT AUTO_INCREMENT,
+	subtype VARCHAR(59),
+	PRIMARY KEY (subtype_id)
+);
+
+CREATE TABLE permanent_subtype (
+	permanent_fk INT,
+	subtype_fk INT,
+	PRIMARY KEY (permanent_fk, subtype_fk),
+	FOREIGN KEY (permanent_fk) REFERENCES permanent(permanent_id),
+	FOREIGN KEY (subtype_fk) REFERENCES subtype(subtype_id)
+);
+
+CREATE TABLE text_box (
+	text_box_fk INT AUTO_INCREMENT,
+	text_box VARCHAR(769),
+	PRIMARY KEY (text_box_fk),
+	FOREIGN KEY (text_box_fk) REFERENCES permanent(permanent_id)
+);
+
+CREATE TABLE flavor_text (
+	flavor_text_fk INT AUTO_INCREMENT,
+	flavor_text VARCHAR(196),
+	PRIMARY KEY (flavor_text_fk),
+	FOREIGN KEY (flavor_text_fk) REFERENCES permanent(permanent_id)
+);
+
+CREATE TABLE creature (
+	creature_fk INT,
+	punch INT,
+	toughness INT,
+	PRIMARY KEY (creature_fk),
+	FOREIGN KEY (creature_fk) REFERENCES permanent(permanent_id)
+);
+
+CREATE TABLE planeswalker (
+	planeswalker_fk INT,
+	starting_loyalty INT,
+	PRIMARY KEY (planeswalker_fk),
+	FOREIGN KEY (planeswalker_fk) REFERENCES permanent(permanent_id)
+);
+
+INSERT INTO type_line(type_line) VALUES("Instant");
+INSERT INTO expansion_symbol(expansion_symbol) VALUES("M11");
+INSERT INTO rarity(rarity) VALUES("Common");
+INSERT INTO artist_information(artist_information) VALUES("Christopher Moeller");
+INSERT INTO permanent(card_name, type_line_fk, expansion_symbol_fk, rarity_fk, artist_information_fk, collectors_number) VALUES("Lightning Bolt", 1, 1, 1, 1, 149);
+INSERT INTO mana_cost(mana_cost) VALUES("R");
+INSERT INTO permanent_mana_cost(permanent_fk, mana_cost_fk) VALUES(1, 1);
+/*INSERT INTO supertype(supertype) VALUES();
+INSERT INTO permanent_supertype(permanent_fk, supertype_fk) VALUES();
+INSERT INTO subtype(subtype) VALUES();
+INSERT INTO permanent_subtype(permanent_fk, subtype_fk) VALUES();*/
+INSERT INTO text_box(text_box_fk, text_box) VALUES(1, "Lightning Bolt deals 3 damage to target creature or player.");
+/*INSERT INTO flavor_text(flavor_text_fk, flavor_text) VALUES();
+INSERT INTO creature(creature_fk, punch, toughness) VALUES();
+INSERT INTO planeswalker(planeswalker_fk, starting_loyalty) VALUES();*/
+
+SELECT permanent.permanent_id, permanent.card_name, mana_cost.mana_cost, supertype.supertype, type_line.type_line, subtype.subtype, expansion_symbol.expansion_symbol, rarity.rarity, text_box.text_box, flavor_text.flavor_text, creature.punch AS "power", creature.toughness, planeswalker.starting_loyalty
+FROM permanent
+LEFT JOIN type_line
+ON permanent.type_line_fk = type_line.type_line_id
+LEFT JOIN expansion_symbol
+ON permanent.expansion_symbol_fk = expansion_symbol.expansion_symbol_id
+LEFT JOIN rarity
+ON permanent.rarity_fk = rarity.rarity_id
+LEFT JOIN artist_information
+ON permanent.artist_information_fk = artist_information.artist_information_id
+LEFT JOIN permanent_mana_cost
+ON permanent.permanent_id = permanent_mana_cost.permanent_fk
+LEFT JOIN mana_cost
+ON permanent_mana_cost.mana_cost_fk = mana_cost.mana_cost_id
+LEFT JOIN permanent_supertype
+ON permanent.permanent_id = permanent_supertype.permanent_fk
+LEFT JOIN supertype
+ON permanent_supertype.supertype_fk = supertype.supertype_id
+LEFT JOIN permanent_subtype
+ON permanent.permanent_id = permanent_subtype.permanent_fk
+LEFT JOIN subtype
+ON permanent_subtype.subtype_fk = subtype.subtype_id
+LEFT JOIN text_box
+ON permanent.permanent_id = text_box.text_box_fk
+LEFT JOIN flavor_text
+ON permanent.permanent_id = flavor_text.flavor_text_fk
+LEFT JOIN creature
+ON permanent.permanent_id = creature.creature_fk
+LEFT JOIN planeswalker
+ON permanent.permanent_id = planeswalker.planeswalker_fk;

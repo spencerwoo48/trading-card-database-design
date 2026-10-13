@@ -1,0 +1,244 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+4109,Affa Guard Hound,,,Creature,Hound,,,Rise of Eldrazi,Uncommon,Ryan Pancoast,,14,248,{2}{W},"Flash
+When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.","Once a welcoming hub for explorers, Affa became a place of guarded tongues and quick defenses.",2,2,,2
+4110,Luminous Wake,,,Enchantment,Aura,,,Rise of Eldrazi,Uncommon,Mike Bierek,,35,248,{2}{W},"Enchant creature
+Whenever enchanted creature attacks or blocks, you gain 4 life.","""If destiny's champions have arisen to fight the Ancient Ones, then let me, too, do my part.""
+—Ravuel of Graypelt",,,,4
+4111,Mammoth Umbra,,,Enchantment,Aura,,,Rise of Eldrazi,Uncommon,Howard Lyon,,37,248,{4}{W},"Enchant creature
+Enchanted creature gets +3/+3 and has vigilance.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",,,,,1
+4112,Soulbound Guardians,,,Creature,Kor,Spirit,,Rise of Eldrazi,Uncommon,Erica Yang,,45,248,{4}{W},"Defender, flying",The kor's most righteous dead are given the greatest reward: an eternity tied to the land they so cherish.,4,5,,2
+4113,Survival Cache,,,Sorcery,,,,Rise of Eldrazi,Uncommon,Scott Chou,,48,248,{2}{W},"You gain 2 life. Then if you have more life than an opponent, draw a card.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning  of your next upkeep, you may cast this card from exile without paying its mana cost.)",,,,,2
+4114,Hada Spy Patrol,,,Creature,Human,Rogue,,Rise of Eldrazi,Uncommon,Zoltan Boros,Gabor Szikszai,71,248,{1}{U},Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.),,1,1,,2
+4115,Enclave Cryptologist,,,Creature,Merfolk,Wizard,,Rise of Eldrazi,Uncommon,Igor Kieryluk,,66,248,{U},Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.),,0,1,,1
+4116,Phantasmal Abomination,,,Creature,Illusion,,,Rise of Eldrazi,Uncommon,Goran Jossic,,80,248,{1}{U}{U},"Defender
+When Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.","Create an illusion so strong that it becomes another's reality, and you can become the master of all.",5,5,,1
+4117,Merfolk Skyscout,,,Creature,Merfolk,Scout,,Rise of Eldrazi,Uncommon,rk post,,77,248,{2}{U}{U},"Flying
+Whenever Merfolk Skyscout attacks or blocks, untap target permanent.","""Emeria is a pleasant lie, a figment to hide Emrakul's hideous face. I can only hope to uncover a truth that lies deeper still.",2,3,,1
+4118,Crab Umbra,,,Enchantment,Aura,,,Rise of Eldrazi,Uncommon,Christopher Moeller,,58,248,{U},"Enchant creature
+{2}{U}: Untap enchanted creature.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",,,,,2
+4119,Curse of Wizardry,,,Enchantment,,,,Rise of Eldrazi,Uncommon,Kekai Kotaki,,101,248,{2}{B}{B},"As Curse of Wizardry enters the battlefield, choose a color.
+Whenever a player casts a spell of the chosen color, that player loses 1 life.","""We must all push throuhg the pain to heal our world.""
+—Ayli, Kamsa cleric",,,,2
+4120,Escaped Null,,,Creature,Zombie,Berserker,,Rise of Eldrazi,Uncommon,Ryan Pancoast,,109,248,{3}{B},"Lifelink
+Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.","Left masterless by Kozilek, it wandered the wilds, raving in its ceaseless hunger.",1,2,,2
+4121,Nirkana Cutthroat,,,Creature,Vampire,Warrior,,Rise of Eldrazi,Uncommon,Erica Yang,,119,248,{2}{B},Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.),,3,2,,4
+4122,Pawn of Ulamog,,,Creature,Vampire,Shaman,,Rise of Eldrazi,Uncommon,Daarken,,122,248,{1}{B}{B},"Whenever Pawn of Ulamog or another nontoken creature you control is put into a graveyard from the battlefield, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has ""Sacrifice this creature: Add 1 to your mana pool.""",,2,2,,1
+4123,Skeletal Wurm,,,Creature,Skeleton,Wurm,,Rise of Eldrazi,Uncommon,Zoltan Boros,Gabor Szikszai,127,248,{7}{B},{B}: Regenerate Skeletal Wurm.,"Necromancers are judged by the most powerful undead they've ever created. There are those who have animated just a single being, yet are considered the pinnacle of their dark craft.",7,6,,4
+4124,Akoum Boulderfoot,,,Creature,Giant,Warrior,,Rise of Eldrazi,Uncommon,Alex Horley-Orlandelli,,134,248,{4}{R}{R},"When Akoum Boulderfoot enters the battlefield, it deals 1 damage to target creature or player.","""If you're in Akoun and you glimpse a shadow overhead, the worst thing you can do is duck.""
+—Chadir the Navigator",4,5,,2
+4125,Brimstone Mage,,,Creature,Human,Shaman,,Rise of Eldrazi,Uncommon,Volkan Baga,,137,248,{2}{R},Level up {3}{R} ({3}{R}: Put a level counter on this. Level up only as a sorcery.),,2,2,,1
+4126,Lust for War,,,Enchantment,Aura,,,Rise of Eldrazi,Uncommon,Raymond Swanland,,157,248,{2}{R},"Enchant creature
+Whenever enchanted creature becomes tapped, Lust for War deals 3 damage to that creature's controller.
+Enchanted creature attacks each turn if able.",,,,,1
+4127,Rapacious One,,,Creature,Eldrazi,Drone,,Rise of Eldrazi,Uncommon,Jason A. Engle,,162,248,{5}{R},"Trample
+Whenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have ""Sacrifice this creature: Add {1} to your mana pool.""",,5,4,,2
+4128,Valakut Fireboar,,,Creature,Elemental,Boar,,Rise of Eldrazi,Uncommon,Zoltan Boros,Gabor Szikszai,170,248,{4}{R},"Whenever Valakut Fireboar attacks, switch its power and toughness until end of turn.","""Just move very slowly, and for hte love of Ula, do not get it mad.""
+—Chandir the Navigator",1,7,,2
+4129,Beastbreaker of Bala Ged,,,Creature,Human,Warrior,,Rise of Eldrazi,Uncommon,Karl Kopinski,,178,248,{1}{G},Level up {2}{G} ({2}{G}: Put a level counter on this. Level up only as a sorcery.),,2,2,,2
+4130,Boar Umbra,,,Enchantment,Aura,,,Rise of Eldrazi,Uncommon,Christopher Moeller,,179,248,{2}{G},"Enchant creature
+Enchanted creature gets +3/+3.
+Totem armor (If enchanted creature would be destroyed, instead remove ll damage from it and destroy this Aura.)","""From in here, everything looks like dinner.""",,,,5
+4131,Bramblesnap,,,Creature,Elemental,,,Rise of Eldrazi,Uncommon,James Ryman,,180,248,{1}{G},"Trample
+Tap an untapped creature you control: Bramblesnap gets +1/+1 until end of turn.",A bramblesnap is formed by grafting together thirteen different plants that already hunger for meat.,1,1,,6
+4132,Broodwarden,,,Creature,Eldrazi,Drone,,Rise of Eldrazi,Uncommon,Izzy,,181,248,{3}{G}{G},Eldrazi Spawn creatures you control get +2/+1.,"""The least of gods shall tower over the mightiest of mortals, and death shall reign over all.""
+—Crypt of Agadeem inscription",4,4,,1
+4133,Gravity Well,,,Enchantment,,,,Rise of Eldrazi,Uncommon,Rob Alexander,,185,248,{1}{G}{G},"Whenever a creature with flying attacks, it loses flying until end of turn.","Storms spread throughout Oran-Rief, ripping the skies with wind and rain. Airborne creatures sought shelter where they could.",,,,2
+4134,Irresistible Prey,,,Sorcery,,,,Rise of Eldrazi,Uncommon,Jesper-Ejsing,,188,248,{G},"Target creature must be blocked this turn if able.
+Draw a card.","The baloth's instincts boiled, its muscles pulled taut, and its razor-spines bristled, as it turned to face—a runt meepling.",,,,2
+4135,Pelakka Wurm,,,Creature,Wurm,,,Rise of Eldrazi,Uncommon,Daniel Ljunggren,,204,248,{4}{G}{G}{G},"Trample
+When Pelakka Wurm enters the battlefield, you gain 7 life.
+When Pelakka Wurm is put into a graveyard from the battlefield, draw a card.",It eats what it wants to eat—which is anything that moves.,7,7,,1
+4136,Artisan of Kozilek,,,Creature,Eldrazi,,,Rise of Eldrazi,Uncommon,Jason Felix,,2,248,{9},"When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.
+Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)",,10,9,,1
+4137,Dreamstone Hedron,,Artifact,,,,,Rise of Eldrazi,Uncommon,Eric Deschamps,,216,248,{6},"{T}: Add {3} to your mana pool.
+{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.",Only the Eldrazi mind thinks in the warped paths required to open the hedrons and tap the power within.,,,,2
+4138,Patrazer of Ulamog,,,Creature,Eldrazi,,,Rise of Eldrazi,Uncommon,Austin Hsu,,9,248,{11},"Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.)
+Pathrazer of Ulamog can't be blocked except by three or more creatures.",No thought of hunger. No strategy but destruction.,9,9,,2
+4139,Ruined Servitor,,Artifact,Creature,Construct,,,Rise of Eldrazi,Uncommon,Mike Bierek,,224,248,{2},"When Ruined Servitor is put into a graveyard from the battlefield, each player draws a card.",Scholars had puzzled for centuries over the ruins at Tal Terig. Its secrets had always lived within one rune-carved head.,2,2,,2
+4140,Skittering Invasion,,,Tribal,Sorcery,Eldrazi,,Rise of Eldrazi,Uncommon,Eric Deschamps,,10,248,{7},"Put five 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have ""Sacrifice this creature: Add {1} to your mana pool.""","""The brood spread far faster than we could kill it. I fear the worst is yet to come.""
+—The War Diaries",,,,1
+4141,Warmonger's Chariot,,Artifact,Equipment,,,,Rise of Eldrazi,Uncommon,Warren Mahy,,226,248,{2},"Equipped creature gets +2/+2.
+As long as equipped creature has defender, it can attack as though it didn't have defender.
+Equip {3}",The best defense is a good offense.,,,,4
+4142,Caravan Escort,,,Creature,Human,Knight,,Rise of Eldrazi,Common,Goran Josic,,15,248,{W},Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.),,1,1,,3
+4143,Dawnglare Invoker,,,Creature,Kor,Wizard,,Rise of Eldrazi,Common,Steve Argyle,,16,248,{2}{W},"Flying
+{8}: Tap all creatures target player controls.","""What we knew as Emeria, Ula, and Cosi were not divine beings at all, but a cruel trick, and a grave error.""
+—The Invokers' Tales",2,1,,2
+4144,Eland Umbra,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Howard Lyon,,19,248,{1}{W},"Enchant creature
+Enchanted creature gets +0/+4.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",,,,,6
+4145,Glory Seeker,,,Creature,Human,Soldier,,Rise of Eldrazi,Common,Matt Cavotta,,22,248,{1}{W},,"""There's no contract to sign, no oath to swear. The enlistment procedure is to unsheathe your sword and point it at the enemy.""",2,2,,3
+4146,Guard Duty,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Karl Kopinski,,23,248,{W},"Enchant creature
+Enchanted creature has defender.","""I was told these were standard issue. Do I look standard to you?""",,,,1
+4147,Harmless Assault,,,Instant,,,,Rise of Eldrazi,Common,Chippy,,24,248,{2}{W}{W},Prevent all combat damage that would be dealt this turn by attacking creatures.,"After encasing it in a paralyzing beam of light, the angel studied the Eldrazi as a child would study a bug, curiously and without fear.",,,,4
+4148,Hyena Umbra,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Howard Lyon,,26,248,{W},"Enchant creature
+Enchanted creature gets +1/+1 and has first strike.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",,,,,4
+4149,Ikiral Outrider,,,Creature,Human,Soldier,,Rise of Eldrazi,Common,Kekai Kotaki,,27,248,{1}{W},Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.),,1,2,,2
+4150,Knight of Cliffhaven,,,Creature,Kor,Knight,,Rise of Eldrazi,Common,Matt Cavotta,,29,248,{1}{W},Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.),,2,2,,4
+4151,Kor Line-Slinger,,,Creature,Kor,Scout,,Rise of Eldrazi,Common,Steve Prescott,,30,248,{1}{W},{T}: Tap target creature with power {3} or less.,"""I tried to tell her to stay behind, that this fight was too dangerous. I spent the next hour tied to the rafters.""
+—Zahr Gada, Halimar expedition leader",0,1,,5
+4152,Lone Missionary,,,Creature,Kor,Monk,,Rise of Eldrazi,Common,Svetlin Velinov,,34,248,{1}{W},"When Lone Missionary enters the battlefield, you gain 4 life.","His mission has become a grim pilgrimage, a tour of the Eldrazi-stricken outposts across Zendikar. But he marches on alone, stubborn as the daily dawn.",2,1,,3
+4153,Makindi Griffin,,,Creature,Griffin,,,Rise of Eldrazi,Common,Izzy,,36,248,{3}{W},Flying,"As the hedrons began to coalesce into colossal Eldrazi superstructures, the grifins were forced to seek new territory lest their aeries be crushed between the massive stone monoliths.",2,4,,5
+4154,Puncturing Light,,,Instant,,,,Rise of Eldrazi,Common,Zoltan Boros,Gabor Szikszai,41,248,{1}{W},Destroy target attacking or blocking creature with power 3 or less.,"""The vampires knew what was coming. I know it. And they did nothing. They deserve to feel the same agony they've caused all of us.""
+—Anitan, Ondu cleric",,,,3
+4155,Repel the Darkness,,,Instant,,,,Rise of Eldrazi,Common,Scott Chou,,42,248,{2}{W},"Tap up to two target creatures.
+Draw a card.",A boon to those who cannot see th edark. A bane to those who live in it.,,,,2
+4156,Smite,,,Instant,,,,Rise of Eldrazi,Common,Cyril Van Der Haegen,,43,248,{W},Destroy target blocked creatures.,"""The mighy rely solely on their strength. They are shocked when we do the same.""
+—Tars Olan, kor world-gift",,,,1
+4157,Soul's Attendant,,,Creature,Human,Cleric,,Rise of Eldrazi,Common,Steve Prescott,,44,248,{W},"Whenever another creature enters the battlefield, you may gain 1 life.","In truth, her own faith was gone, trodden in Ulamog's wake. She pantomimed the blessing in the hope that it would inspire others to continue to struggle.",1,1,,2
+4158,Stalwart Shield-Bearers,,,Creature,Human,Soldier,,Rise of Eldrazi,Common,Austin Hsu,,46,248,{1}{W},"Defender
+Other creatures you control with defender get +0/+2.","""Hold fast the line! Either we stop them here or we wake up in their guts!""
+—Tala Vertan, Makindi shieldmate",0,3,,2
+4159,Totem-Guide Hartebeest,,,Creature,Antelope,,,Rise of Eldrazi,Common,John Avon,,50,248,{4}{W},"When Totem-Guide Hartebeest enters th ebattlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.",The kor track hartebeests in hopes of finding magic to help fight the Eldrazi.,2,5,,6
+4160,Aura Finesse,,,Instant,,,,Rise of Eldrazi,Common,Howard Lyon,,54,248,{U},"Attach target Aura you control to target creature.
+Draw a card.","""Although armor and auras can be similar, the brains required to use them are worlds apart.""
+—Zilan, Makindi auramancer",,,,6
+4161,Champion's Drake,,,Creature,Drake,,,Rise of Eldrazi,Common,Lars Grant-West,,56,248,{1}{U},"Flying
+Champion's Drake gets +3/+3 as long as you control a creature with three or more level counters on it.","""'Fraid of heights? Ride a horse. 'Fraid of missing out? Rein up a drake.""
+—Trinda, Hada spy patrol",1,1,,3
+4162,Deprive,,,Instant,,,,Rise of Eldrazi,Common,Izzy,,59,248,{U}{U},"As an additional cost to cast Deprive, return a land you control to its owner's hand.
+Counter target spell.","""That would have brought shame to you as a mage. Tell you what—I'll keep your secret.""
+—Noyan Dar, Tazeem lullmage",,,,1
+4163,Distortion Strike,,,Sorcery,,,,Rise of Eldrazi,Common,Goran Josic,,60,248,{U},"Target creature gets +1/+0 until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",,,,,2
+4164,Eel Umbra,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Howard Lyon,,65,248,{1}{U},"Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +1/+1.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",,,,,4
+4165,Fleeting Distraction,,,Instant,,,,Rise of Eldrazi,Common,Kieran Yanner,,67,248,{U},"Target creature gets -1/-0 until end of turn.
+Draw a card.","""To distract an archmage would take incredible power. But for a simpleton, something sparkly will do.""
+—Noyan Dar, Tazeem lullmage",,,,4
+4166,Frostwind Invoker,,,Creature,Merfolk,Wizard,,Rise of Eldrazi,Common,Svetlin Velinov,,68,248,{4}{U},"Flying
+{8}: Creatures you control gain flying until end of turn.","""We thought Zendikar's rage was kindled by its explorers and plunderers. But hte world had sensed the stirrings of the Eldrazi.
+—The Invokers' Tales",3,3,,4
+4167,Halimar Wavewatch,,,Creature,Merfolk,Soldier,,Rise of Eldrazi,Common,Matt Stewart,,72,248,{1}{U},Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.),,0,3,,2
+4168,Jwari Scuttler,,,Creature,Crab,,,Rise of Eldrazi,Common,Andrew Robinson,,73,248,{2}{U},,"""Yeah, they've got a lot of meat. The only downside to eating 'em is that you often find human bones an dbody parts inside.""
+—Jaby, Silundi Sea nomad",2,3,,4
+4169,Lay Bare,,,Instant,,,,Rise of Eldrazi,Common,Chippy,,74,248,{2}{U}{U},Counter target spell. Look at its controller's hand.,"""It's good to learn from your failures, but I prefer to learn from the failures of otheres.""
+—Jace Beleren",,,,3
+4170,Merfolk Observer,,,Creature,Merfolk,Rogue,,Rise of Eldrazi,Common,Anthony Francisco,,76,248,{1}{U},"When Merfolk Observer enters the battefield, look at the top card of target player's library.","""The structure gets bigger every hour with hedrons coalescing even deep under the surface. If I could only get inside....""",2,1,,2
+4171,Mnemonic Wall,,,Creature,Wall,,,Rise of Eldrazi,Common,Vance Kovacs,,78,248,{4}{U},"Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+","""I'd build an entire fortress of them if I could.""
+—Mzali, Lighthouse archmage",0,4,,1
+4172,Narcolepsy,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Johann Bodin,,79,248,{1}{U},"Enchant creature
+At the beginning of each upkeep, if enchanted creature is untapped, tap it.
+","""It's so cute when it's sleeping, isn't it? Actually, it's still as abhorrent as ever, but at least it's not trying to kill us.""
+—Noyan Dar, Tazeem lullmage",,,,1
+4173,Regress,,,Instant,,,,Rise of Eldrazi,Common,Izzy,,83,248,{2}{U},Return target permanent to its owner's hand.,"""Never look too deep, where the waters turn dark. What the sea has hidden there may not stay down forever.""
+—Jaby, Silundi Sea nomad",,,,4
+4174,Sea Gate Oracle,,,Creature,Human,Wizard,,Rise of Eldrazi,Common,Daniel Ljunggren,,85,248,{2}{U},"When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.","""The secret entrance should be near.""",1,3,,4
+4175,See Beyond,,,Sorcery,,,,Rise of Eldrazi,Common,Andrew Robinson,,86,248,{1}{U},"Draw two cards, then shuffle a card from your hand into your library.",Ancient lore locked in a mind driven mad is just as safe as when it was locked deep underground.,,,,2
+4176,Shared Discovery,,,Sorcery,,,,Rise of Eldrazi,Common,Ryan Pancoast,,87,248,{U},"As an additional cost to cast Shared Discovery, tap four untapped creatures you control.
+Draw three cards.","Riches must be divided, but real wealth can be shared.",,,,1
+4177,Skywatcher Adept,,,Creature,Merfolk,Wizard,,Rise of Eldrazi,Common,Tomasz Jedruszek,,88,248,{U},Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.),,1,1,,2
+4178,Venerated Teacher,,,Creature,Human,Wizard,,Rise of Eldrazi,Common,Greg Staples,,93,248,{2}{U},"When Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.","""The unfathomable is upon us, students. I have no doubt you will rise to the occasion.""",2,2,,1
+4179,Cadaver Imp,,,Creature,Imp,,,Rise of Eldrazi,Common,Dave Kendall,,99,248,{1}{B}{B},"Flying
+When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.",The mouth must be pried open before rigor mortis sets in. Otherwise the returning soul can find no ingress.,1,1,,5
+4180,Bala Ged Scorpion,,,Creature,Scorpion,,,Rise of Eldrazi,Common,Daarken,,95,248,{3}{B},"When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.","Fast and lethal, with a penchant for the weak and infirm.",2,3,,1
+4181,Bloodrite Invoker,,,Creature,Vampire,Shaman,,Rise of Eldrazi,Common,Svetlin Velinov,,97,248,{2}{B},{8}: Target player loses 3 life and you gain 3 life.,"""The brood lineages unfolded acrss the world, each patterned after one of three progenitors, each a study in mindless consumption.""
+—The Invokers' Tales",3,1,,1
+4182,Bloodthrone Vampire,,,Creature,Vampire,,,Rise of Eldrazi,Common,Steve Argyle,,98,248,{1}{B},Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.,"Some humans willingly offered up their blood, hoping it woudl grant the vampire families th estrength to stave off the Eldrazi.",1,1,,6
+4183,Contaminated Ground,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Rob Alexander,,102,248,{1}{B},"Enchant land
+Enchanted land is a Swamp.
+Whenever enchanted land becomes tapped, its controller loses 2 life.","""The Na Plateau is lost. Do not ask what happened, and never return there.""
+—Nirthu, lone missionary",,,,1
+4184,Demonic Appetite,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Igor Kieryluk,,106,248,{B},"Enchant creature you control
+Enchanted creature gets +3/+3.
+At the beginning of your upkeep, sacrifice a creature.","""Morality is just shorthand for the constraints of being powerless.
+—Ob Nixilis",,,,4
+4185,Dread Drone,,,Creature,Eldrazi,Drone,,Rise of Eldrazi,Common,Raymond Swanland,,108,248,{4}{B},"When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have ""Sacrifice this creature: Add {1} to your mana pool.""",Each Eldrazi ancient spawned a lineage of horrors in unfathomable shapes.,4,1,,2
+4186,Essence Feed,,,Sorcery,,,,Rise of Eldrazi,Common,Daarken,,110,248,{5}{B},"Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have ""Sacrifice this creature: Add 1 to your mana pool.""",Eldrazi grow wherever something else dies.,,,,2
+4187,Gloomhunter,,,Creature,Bat,,,Rise of Eldrazi,Common,Lars Grant-West,,111,248,{2}{B},"Flying
+","Scavengers both mundane and magical follow in its wake, feeding on the scraps of flesh and spirit it leaves behind.",2,1,,2
+4188,Induce Despair,,,Instant,,,,Rise of Eldrazi,Common,Igor Kieryluk,,114,248,{2}{B},"As an additional cost to cast Induce Despair, reveal a creature card from your hand.
+Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.",All the angel saw was her doom.,,,,2
+4189,Null Champion,,,Creature,Zombie,Warrior,,Rise of Eldrazi,Common,Chris Rahn,,121,248,{1}{B},Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.),,1,1,,6
+4190,Perish the Thought,,,Sorcery,,,,Rise of Eldrazi,Common,Austin Hsu,,123,248,{2}{B},Target opponent reveals his or her hand. You choose a card from it. That player shuffles that card into his or her library.,It removed only one idea from her mind: defiance.,,,,1
+4191,Shrivel,,,Sorcery,,,,Rise of Eldrazi,Common,Jung Park,,126,248,{1}{B},All creatures get -1/-1 until end of turn.,"""have you ever killed insects nibbling at your crops? I think that's what the Eldrazi believe they're doing to us.""
+—Sheyda, Ondu gamekeeper",,,,5
+4192,Vendetta,,,Instant,,,,Rise of Eldrazi,Common,Karl Kopinski,,130,248,{B},Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.,"""Consider my debt to your kin paid in full.""
+—Idrol, Guul Draz assassin",,,,4
+4193,Zof Shade,,,Creature,Shade,,,Rise of Eldrazi,Common,Jason A. Engle,,132,248,{3}{B},{2}{B}: Zof Shade gets +2/+2 until end of turn.,"It haunts the remnants of the Helix of Zof, leeching strength from the vast Eldrazi ruin.",2,2,,3
+4194,Zulaport Enforcer,,,Creature,Human,Warrior,,Rise of Eldrazi,Common,Matt Stewart,,133,248,{B},Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.),,,,,3
+4195,Battle Rampart,,,Creature,Wall,,,Rise of Eldrazi,Common,Steve Prescott,,135,248,{2}{R},"Defender
+{T}: Target creature gains haste until end of turn.","""I will build no sanctuaries. The safety you seek can be won only by the sword.""
+—Yannash, outpost builder",1,3,,7
+4196,Battle-Rattle Shaman,,,Creature,Goblin,Shaman,,Rise of Eldrazi,Common,Warren Mahy,,136,248,{3}{R},"At the beginning of combat on your turn, you may have target creature get +2+0 until end of turn.",The shaman rattles not to inspire a battle fury but to drown out the shrieks of those fleeing the Eldrazi.,2,2,,2
+4197,Brood Birthing,,,Sorcery,,,,Rise of Eldrazi,Common,Anthony Francisco,,138,248,{1}{R},"If you control an Eldrazi Spawn, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have ""Sacrifice this creature: Add {1} to your mana pool."" Otherwise, put one of those tokens onto the battlefield.",,,,,2
+4198,Emrakul's Hatcher,,,Creature,Eldrazi,Drone,,Rise of Eldrazi,Common,Jaime Jones,,142,248,{4}{R},"When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. THey have ""Sacrifice this creature: Add {1} to your mana pool.""",Wordlessly it leads its abhorrent brood.,3,3,,3
+4199,Flame Slash,,,Sorcery,,,,Rise of Eldrazi,Common,Raymond Swanland,,145,248,{R},Flame Slash deals 4 damage to target creature.,"After millenia asleep, the Eldrazi had forgotten about Zendikar's fiery temper adn dislike of strangers.",,,,1
+4200,Goblin Arsonist,,,Creature,Goblin,Shaman,,Rise of Eldrazi,Common,Wayne Reynolds,,147,248,{R},"When Goblin Arsonist is put into a graveyard from the battlefield, you may have it deal 1 damage to target creature or player.",With great power comes great risk of getting yourself killed.,1,1,,2
+4201,Goblin Tunneler,,,Creature,Goblin,Rogue,,Rise of Eldrazi,Common,Jesper Ejsing,,148,248,{1}{R},{T}: Target creature with power 2 or less is unblockable this turn.,"""You never know what's going to be in goblin tunnels. Even in the best case, there will still be goblins.""
+—Sachir, Akoum Expeditionary House
+",1,1,,3
+4202,Grotag Siege-Runner,,,Creature,Goblin,Rogue,,Rise of Eldrazi,Common,Zoltan Boros,Gabor Szikszai,149,248,{1}{R},"{R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.","""I don't think he's bringing in th email....""
+—Nundari, Sea Gate militia captain",2,1,,2
+4203,Heat Ray,,,Instant,,,,Rise of Eldrazi,Common,Austin Hsu,,150,248,{X}{R},Heat Ray deals X damage to target creature.,"""There was clearly a scream. I'm not sure if there was a mouth.""
+—Sachir, Akoum Expeditionary House",,,,4
+4204,Kiln Fiend,,,Creature,Elemental,Blast,,Rise of Eldrazi,Common,Adi Granov,,153,248,{1}{R},"Whenever you cast an instant or sorcery spell, Kiln Fiend gest +3/+0 until end of turn.",It traps an explosion within its stony skin.,1,2,,1
+4205,Lagac Lizard,,,Creature,Lizard,,,Rise of Eldrazi,Common,Svetlin Velinov,,154,248,{3}{R},"Tracing their ancestry back to Zendikar's earliest forms of life, lagac lizards have seen the comings and goings of planeswalkers and the Eldrazi, and the rise of the vampire clans, none of which has changed them one bit.",,,,,4
+4206,Lavafume Invoker,,,Creature,Goblin,Shaman,,Rise of Eldrazi,Common,Dave Kendall,,155,248,{2}{R},{8}: Creatures you control get +3/+0 until end of turn.,"""Then the ancient masters themselves, towers of rapacity, rose and began their calamitous feast.""
+—The Invokers' Tales",2,2,,4
+4207,Ogre Sentry,,,Creature,Ogre,Warrior,,Rise of Eldrazi,Common,Eric Deschamps,,159,248,{1}{R},Defender,"""You have to appreciate the genius of it. Why bother building defenses when you can just fill the pass with angry ogres?""
+—Javad Nasrin, Ondu relic hunter",3,3,,4
+4208,Raid Bombardment,,,Enchantment,,,,Rise of Eldrazi,Common,Matt Cavotta,,161,248,{2}{R},"Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.",Goblins in the first wave in a fire raid always bemoan the aim of everyone else.,,,,4
+4209,Spawning Breath,,,Instant,,,,Rise of Eldrazi,Common,Trevor Claxton,,164,248,{1}{R},"Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has ""Sacrifice this creature: Add {1} to your mana pool.""","Death by death, Kozilek's lineage spread.",,,,4
+4210,Staggershock,,,Instant,,,,Rise of Eldrazi,Common,Raymond Swanland,,166,248,{2}{R},"Staggershock deals 2 damage to target creature or player.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",,,,,2
+4211,Vent Sentinel,,,Creature,Elemental,,,Rise of Eldrazi,Common,Chris Rahn,,171,248,{3}{R},"Defender
+{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.","""Zendikar fortifies itself against the Great Threat, making sentries of sky, sea, and stone.""
+—The War Diaries",2,4,,2
+4212,Wrap in Flames,,,Sorcery,,,,Rise of Eldrazi,Common,Veronique Meignaud,,173,248,{3}{R},Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.,"""Our pyromancer's flames may not have killed them, but they bought us the time we needed.""
+—The War Diaries",,,,2
+4213,Ancient Stirrings,,,Sorcery,,,,Rise of Eldrazi,Common,Vincent Proce,,174,248,{G},Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.),,,,,1
+4214,Aura Gnarlid,,,Creature,Beast,,,Rise of Eldrazi,Common,Lars Grant-West,,175,248,{2}{G},"Creatures with power less than Aura Gnarlid's power can't block it.
+Aura Gnarlid gets +1/+1 for each Aura on the battlefield.","Kill a gnarlid with your first blow, or it'll cheerfully show you how it's done.",2,2,,7
+4215,Daggerback Basilisk,,,Creature,Basilisk,,,Rise of Eldrazi,Common,Jesper  Ejsing,,182,248,{2}{G},Deathtouch,"""Petrifying gaze, deadly fangs, knifelike dorsal spines, venomous saliva...Am I missing anything?...Toxic Bones? Seriously?""
+—Samil, Murasa Expeditionary House",2,2,,6
+4216,Growth Spasm,,,Sorcery,,,,Rise of Eldrazi,Common,Dan Scott,,186,248,{2}{G},"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has ""Sacrifice this creature: Add {1} to your mana pool.""",,,,,3
+4217,Haze Frog,,,Creature,Frog,,,Rise of Eldrazi,Common,Jesper Ejsing,,187,248,{3}{G}{G},"Flash (You may cast this spell any time you could cast an instant.)
+When Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.",Its breath leaves its prey too drowsy to struggle.,2,1,,2
+4218,Kozilek's Predator,,,Creature,Eldrazi,Drone,,Rise of Eldrazi,Common,Steve Argyle,,193,248,{3}{G},"When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have ""Sacrifice this creature: Add {1} to your mana pool.""",,3,3,,2
+4219,Leaf Arrow,,,Instant,,,,Rise of Eldrazi,Common,Eric Deschamps,,194,248,{G},Leaf Arrow deals 3 damage to target creature with flying.,"""Those who think the trees shall remian bystanders throughout this conflict shall be sorely mistaken.""
+—Sutina, Speaker of the Tajuru",,,,4
+4220,Living Destiny,,,Instant,,,,Rise of Eldrazi,Common,James Ryman,,195,248,{3}{G},"As an additional cost to cast Living Destiny, reveal a creature card from your hand.
+You gain life equal to the revealed card's converted mana cost.","""That our enemies are great only brings us greater hope.""",,,,1
+4221,Might of the Masses,,,Instant,,,,Rise of Eldrazi,Common,Johann Bodin,,196,248,{G},Target creature gets +1/+1 until end of turn for each creature you control.,"The Joraga elves never need ask a troll to leave their territory. They merely grant it their combined strength, and it can't resist embarking on a merry rampage.",,,,6
+4222,Naturalize,,,Instant,,,,Rise of Eldrazi,Common,Howard Lyon,,199,248,{1}{G},Destroy target artifact or enchantment.,"""The scholars wept when we destroyed the hedron. I had no such pity. What would this world be like had we done so sooner?""
+—The War Diaries",,,,2
+4223,Nema Siltlurker,,,Creature,Lizard,,,Rise of Eldrazi,Common,Wayne Reynolds,,200,248,{4}{G},,"In one gargantuan bite, it will swallow not only you but also the riverbank you were standing on.",3,5,,2
+4224,Nest Invader,,,Creature,Eldrazi,Drone,,Rise of Eldrazi,Common,Trevor Claxton,,201,248,{1}{G},"When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has ""Sacrifice this creature: Add {1} to your mana pool.""",It nurtures its masters' glorious future.,2,2,,5
+4225,Ondu Giant,,,Creature,Giant,Druid,,Rise of Eldrazi,Common,Igor Kieryluk,,202,248,{3}{G},"When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",Some druids nurture gardens. Others nurture continents.,2,4,,1
+4226,Overgrown Battlement,,,Creature,Wall,,,Rise of Eldrazi,Common,Franz Vohwinkel,,203,248,{1}{G},"Defender
+{T}: Add {G} to your mana pool for each creature with defender you control.","""Our enemy is nothing less than the end of all life. We shall not want for allies.""
+—The War Diaries",0,4,,4
+4227,Snake Umbra,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Christopher Moeller,,207,248,{2}{G},"Enchant creature
+Enchanted creature gets +1/+1 and has ""Whenever this creature deals damage to an opponent, you may draw a card.""
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",,,,,7
+4228,Spider Umbra,,,Enchantment,Aura,,,Rise of Eldrazi,Common,Christopher Moeller,,208,248,{G},"Enchant creature
+Enchanted creature gets +1/+1 and has reach. (It can block creatures with flying.)
+Totem armor (If enchanted creaure would be destroyed, instead remove all damage from it and destory this Aura.)",,,,,4
+4229,Sporecap Spider,,,Creature,Spider,,,Rise of Eldrazi,Common,Lars Grant-West,,209,248,{2}{G},Reach (This creature can block creatures with flying.),"""They don't move much, but then again, if you get caught in its web, it has all the time in the world to get to you.""
+—Saidah, Joraga hunter",1,5,,5
+4230,Stomper Cub,,,Creature,Beast,,,Rise of Eldrazi,Common,Karl Kopinski,,210,248,{3}{G}{G},Trample,"""This one is only a yearling, but it would be wise to move away before we provide it with excellent hunting practice.""
+—Samila, Murasa Expeditionary House",5,3,,5
+4231,Wildheart Invoker,,,Creature,Elf,Shaman,,Rise of Eldrazi,Common,Erica Yang,,213,248,{2}{G}{G},{8}: Target creature gets +5/+5 and gains trample until end of turn.,"""Life as we know it dangles on the brink of extinction. We must show the strength they would steal from us.""
+—The Invokers' Tales",4,3,,3
+4232,Hand of Emrakul,,,Creature,Eldrazi,,,Rise of Eldrazi,Common,Chippy,,5,248,{9},"You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul's mana cost.
+Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)","""I believed in a beautiful god. But this is the true face of the divine.""
+—Ayli, Kamsa cleric",7,7,,6
+4233,Reinforced Bulwark,,Artifact,Creature,Wall,,,Rise of Eldrazi,Common,Ryan Pancoast,,223,248,{3},"Defender
+{T}: Prevent the next 1 damage thath would be dealt to you this turn.",Built of wood and iron. Held together by hope and prayer.,0,4,,1
+4234,Evolving Wilds,,,Land,,,,Rise of Eldrazi,Common,Steven Belledin,,228,248,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.","Every wordl is an organism, able to grow new lands. Some just do it faster than others.",,,,1
+4235,Reya Dawnbringer,Legendary,,Creature,Angel,,,Tenth Edition,Rare,Matthew D. Wilson,,35,383,{6}{W}{W}{W},"Flying
+At the beginning of your upkeep, you may return target creature card from your graveyard to play.
+","""You have not died until I consent.""",4,6,,1
+4236,Beacon of Destruction,,,Instant,,,,Tenth Edition,Rare,Greg Hildebrandt,,189,383,{3}{R}{R},Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.,"The Great Furnace's blessing is a spectacular sight, but hte best view comes at a high cost.",,,,1
+4237,Suntail Hawk,,,Creature,Bird,,,Tenth Edition,Common,Heather Hudson,,50,383,{W},Flying (This creature can't be blocked except by creatures with flying or reach.),"Its eye the glaring sun, its cry the keening wind.",1,1,,3
+4238,Incinerate,,,Instant,,,,Tenth Edition,Common,Zoltan Boros,Gabor Szikszai,213,383,{1}{R},Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.,"""Yes, I think 'toast' is an appropriate description.""
+—Jaya Ballard, task mage",,,,4

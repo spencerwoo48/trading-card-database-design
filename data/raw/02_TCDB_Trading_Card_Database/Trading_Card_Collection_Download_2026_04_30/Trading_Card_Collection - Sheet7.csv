@@ -1,0 +1,31 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+1805,Condemn,,,Instant,,,,M11,Uncommon,Daren Bader,11,249,W,Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.,"""No doubt the arbiters would put you away, after all the documents are signed. But I will have justice now.""",,,,4
+1806,Liliana's Caress,,,Enchantment,,,,M11,Uncommon,Steve Argyle,103,249,1B,"Whenever an opponent discards a card, that player loses 2 life.","""This might hurt less if you don't fight so hard. But I doubt it.""",,,,1
+1807,Awakener Druid,,,Creature,Human,Druid,,M11,Uncommon,Jason Chan,163,249,2G,"When Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid is on the battlefield. It's still a land.",The druids of Mazar treat each seedcome with respect for hte warrior it will become.,1,1,,1
+1808,Garruk's Packleader,,,Creature,Beast,,,M11,Uncommon,Nils Hamm,177,249,4G,"Whenever another creature with power 3 or greater enters the battlefield under your control, you may draw a card.","""He has learned much in his long years. And unlike selfish humans, he's willing to share.""
+—Garruk Wildspeaker",4,4,,1
+1809,Stone Golem,,Artifact,Creature,Golem,,,M11,Uncommon,Martina Pilcerova,215,249,5,,"The sculptor, like most artists, put his heart and soul in his work. But the newly awakened golem decided he wanted his creator's other, more tangible parts.",4,4,,1
+1810,Mighty Leap,,,Instant,,,,M11,Common,rk post,22,249,1W,Target creature gets +2/+2 and gains flying until end of turn.,"""The southern fortress taken by invaders? Heh, sure...when elephants fly.""
+—Brezard Skeinbow, captain of the guard",,,,1
+1811,Maritime Guard,,,Creature,Merfolk,Soldier,,M11,Common,Allen Williams,63,249,1U,,"Once common in the Kapsho Seas, merfolk were hunted almost to extinction. They survived those dark days and emerged calculating and determined to endure.",1,3,,1
+1812,Negate,,,Instant,,,,M11,Common,Jeremy Jarvis,68,249,1U,Counter target noncreature spell.,Masters of the arcane savor a delicious irony. Their study of deep and complex arcana leads to such a simple end: the ability to say merely yes or no.,,,,1
+1813,Tome Scour,,,Sorcery,,,,M11,Common,Steven Belledin,76,249,U,Target player puts the top five cards of his or her library into his or her graveyard.,"Genius is overrated, especially when it's someone else's.",,,,2
+1814,Unsummon,,,Instant,,,,M11,Common,Izzy,78,249,U,Return target creature to its owner's hand.,"""You're trespassing in my reality. Ask permission next time.""
+—Simun the Quiet",,,,1
+1815,Canyon Minotaur,,,Creature,Minotaur,Warrior,,M11,Common,Steve Prescott,126,249,3R,,"""We'll scale these cliffs, traverse Brittle Bridge, and then fight our way down the volcanic slopes on the other side.""
+""Isn't the shortest route through the canyon?""
+""Yes.""
+""So shouldn't we—""
+""No.""",3,3,,1
+1816,Demolish,,,Sorcery,,,,M11,Common,John Avon,132,249,3R,Destroy target artifact or land.,,,,,1
+1817,Fiery Hellhound,,,Creature,Elemental,Hound,,M11,Common,Ted Galaday,136,249,1RR,R: Fiery Hellhound gets +1/+0 until end of turn.,"""I had hoped to instill in it the loyalty of a guard dog, but with fire's power comes its unpredictability.""
+—Maggath, Sardian elementalist",2,2,,1
+1818,Cultivate,,,Sorcery,,,,M11,Common,Anthony Palumbo,168,249,2G,"Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.","All seeds share a common bond, calling to each other across infinity.",,,,1
+1819,Giant Growth,,,Instant,,,,M11,Common,Matt Cavotta,178,249,G,Target creature gets +3/+3 until end of turn.,,,,,1
+1820,Primal Cocoon,,,Enchantment,Aura,,,M11,Common,Daniel Ljunggren,191,249,G,"Enchant creature
+At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.
+When enchanted creature attacks or blocks, sacrifice Primal Cocoon.",,,,,2
+1821,Sacred Wolf,,,Creature,Wolf,,,M11,Common,Matt Stewart,196,249,2G,Sacred Wolf can't be the target of spells or abilities your opponents control.,"""I raised my bow, and the wolf stared at me. Under its gaze, my finger woul dnot release the string.""
+—Aref the Hunter",3,1,,1
+1822,Wall of Vines,,,Creature,Plant,Wall,,M11,Common,John Stanko,199,249,G,"Defender (This creature can't attack.)
+Reach (This creature can block creatures with flying.)","Like all jungle plants, the vines must fight and claw for sunlight. Once their place is secured, they grow strong, sharp, and impenetrable.",0,3,,1

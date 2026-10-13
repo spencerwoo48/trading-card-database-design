@@ -1,0 +1,336 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information_a,artist_information_b,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+3032,Boggart Shenanigans,,,Tribal,Enchantment,Goblin,,Duel Decks: Elves vs. Goblins,Uncommon,Warren Mahy,,54,62,2R,"Whenever another Goblin you control is put into a graveyard from play, you may have Boggart Shenanigans deal 1 damage to target player.","Boggarts revel in discovering new sensations, from the texture of an otter pellet to the squeak of a dying warren mate.",,,,2
+3033,Flameweave Invoker,,,Creature,Goblin,Mutant,,Duel Decks: Elves vs. Goblins,Uncommon,Dave Dorman,,36,62,2R,7R: Flameweave Invoker deals 5 damage to target player.,Inside even the humblest goblin lurks the potential for far greater things—and far worse.,2,2,,1
+3034,Goblin Matron,,,Creature,Goblin,,,Duel Decks: Elves vs. Goblins,Uncommon,Daniel Gelon,,39,62,2R,"When Goblin Matron comes into play, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.",There's always room for one more.,1,1,,1
+3035,Skirk Drill Sergeant,,,Creature,Goblin,,,Duel Decks: Elves vs. Goblins,Uncommon,Alex Horley-Orlandelli,,49,62,1R,"Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from play, you may pay 2R. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it into play. Otherwise, put it into your graveyard.","""I order you to volunteer.""",2,1,,2
+3036,Tar Pitcher,,,Creature,Goblin,Shaman,,Duel Decks: Elves vs. Goblins,Uncommon,Omar Rayyan,,53,62,3R,"T, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.","""Auntie Grub had caught a goat, a bleating doe that still squirmed in her arms. At the same time, her warren decided to share with her a sensory greeting of hot tar....""
+—A tale of Auntie Grub",2,2,,1
+3037,Goblin Cohort,,,Creature,Goblin,Warrior,,Duel Decks: Elves vs. Goblins,Common,Darrell Riche,,38,62,R,Goblin Cohort can't attack unless you've played a creature spell this turn.,Akki shells provided good protection when downhill chargin became headlong tumbling.,2,2,,3
+3038,Akki Coalflinger,,,Creature,Goblin,Shaman,,Duel Decks: Elves vs. Goblins,Uncommon,Nottsuo,,33,62,1RR,"First strike
+R, T: Attacking creatures gain first strike until end of turn.","No matter where you find them, goblins love rocks.",2,2,,1
+3039,Moonglove Extract,,Artifact,,,,,Duel Decks: Elves vs. Goblins,Common,Terese Nielsen,,24,62,3,Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.,"Diluted, moonglove can etch living tissue. Concentrated, a drop will kill a giant.",,,,1
+3040,Wirewood Herald,,,Creature,Elf,,,Duel Decks: Elves vs. Goblins,Common,Alex Horley-Orlandelli,,16,62,1G,"When Wirewood Herald is put into a graveyard from play, you may search your library for an Elf card. If you do, reveal that card and put it into your hand. Then shuffle your library.","The goblins laughed as the elf ran away, until more came back.",1,1,,1
+3041,Timberwatch Elf,,,Creature,Elf,,,Duel Decks: Elves vs. Goblins,Common,Dave Dorman,,13,62,2G,"T: Target creature gets +X/+X until end of turn, where x is th enumber of Elves in play.","Even through the Mirari's voice, the elves still hear the call of their kinship.",1,2,,1
+3042,Lys Alana Huntmaster,,,Creature,Elf,Warrior,,Duel Decks: Elves vs. Goblins,Common,Pete Venters,,10,62,2GG,"Whenever you play an Elf spell, you may put a 1/1 green Elf Warrior creature token into play.","From the highest tiers of Dawn's Light Palace to the deepest shade of Wren's Run, the silver notes of the horn shimmer through the air, and all who hear it feel its pull.",3,3,,1
+3043,Elvish Eulogist,,,Creature,Elf,Shaman,,Duel Decks: Elves vs. Goblins,Common,Ben Thompson,,3,62,G,Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.,"""No matter how adept our artistic skill, our effigies can never hope to capture the vibrant beauty of a living elf. Perhaps that is truly why we mourn.""",1,1,,2
+3044,Imperious Perfect,,,Creature,Elf,Warrior,,Duel Decks: Elves vs. Goblins,Uncommon,Scott M. Fischer,,8,62,2G,"Other Elf creatures you control get +1/+1.
+G, T: Put a 1/1 green Elf Warrior creature token into play.","In a culture of beauty, th emost beautiful are worshipped as gods.",2,2,,2
+3045,Heedless One,,,Creature,Elf,Avatar,,Duel Decks: Elves vs. Goblins,Uncommon,Mark Zug,,7,62,3G,"Trample
+Heedless One's power and toughness are each equal to the number of Elves in play.","""Channel your vitality through me.""",X,X,,1
+3046,Gempalm Strider,,,Creature,Elf,,,Duel Decks: Elves vs. Goblins,Uncommon,Tim Hildebrandt,,6,62,1G,"Cycling 2GG (2GG, Discard this card: Draw a card.)
+When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.",,2,2,,2
+3047,Gempalm Incinerator,,,Creature,Goblin,,,Duel Decks: Elves vs. Goblins,Uncommon,Luca Zontini,,37,62,2R,"Cycling 1R (1R, Discard this card: Draw a card.)
+When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins in play.",,2,1,,1
+3048,Wirewood Symbiote,,,Creature,Insect,,,Duel Decks: Elves vs. Goblins,Uncommon,Thomas M. Baxa,,17,62,G,Return an Elf you control to its owner's hand: Untap target creature. Play this ability only once each turn.,,1,1,,2
+3049,Elvish Warrior,,,Creature,Elf,Warrior,,Duel Decks: Elves vs. Goblins,Common,Christopher Moeller,,5,62,GG,,"""My tales of war are the stories most asked for around the fires at night, but they're the ones I care least to tell.""",2,3,,3
+3050,Elvish Promenade,,,Tribal,Sorcery,Elf,,Duel Decks: Elves vs. Goblins,Uncommon,Steve Ellis,,20,62,3G,Put a 1/1 green Elf Warrior creature token into play for each Elf you control.,"The faultless and immaculate castes form the lower tiers of elvish society, with the exquisite caste above them. At the pinnacle is the perfect, a consummate blend of aristocrat and predator.",,,,1
+3051,Wood Elves,,,Creature,Elf,Scout,,Duel Decks: Elves vs. Goblins,Common,Christopher Moeller,,18,62,2G,"When Wood Elves comes into play, search your library for a Forest card and put that card into play. Then shuffle your library.","Every branch a crossroads, every vine a swift steed.",1,1,,2
+3052,Wirewood Lodge,,,Land,,,,Duel Decks: Elves vs. Goblins,Uncommon,Anthony S. Waters,,26,62,,"T: Add 1 to your mana pool.
+G, T: Untap target Elf.",,,,,1
+3053,Goblin Burrows,,,Land,,,,Duel Decks: Elves vs. Goblins,Uncommon,David Martin,,58,62,,"T: Add 1 to your mana pool.
+1R, T: Target Goblin creature gets +2/+0 until end of turn.",,,,,1
+3054,Forgotten Cave,,,Land,,,,Duel Decks: Elves vs. Goblins,Common,Tony Szczudlo,,57,62,,"Forgotten Cave comes into play tapped.
+T: Add R to your mana pool.
+Cycling R (R, Discard this card: Draw a card.)",,,,,1
+3055,Tranquil Thicket,,,Land,,,,Duel Decks: Elves vs. Goblins,Common,Heather Hudson,,27,62,,"Tranquil Thicket comes into play tapped.
+T: Add G to your mana pool.
+Cycling G (G, Discard this card: Draw a card.)",,2,,,2
+3056,Sylvan Messenger,,,Creature,Elf,,,Duel Decks: Elves vs. Goblins,Uncommon,Heather Hudson,,12,62,3G,"Trample
+When Sylvan Messenger comes into play, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library.",,2,2,,2
+3057,Skirk Prospector,,,Creature,Goblin,,,Duel Decks: Elves vs. Goblins,Common,Doug Chaffee,,51,62,R,Sacrifice a Goblin: Add R to your mana pool.,"""I like goblins. They make funny little popping sounds when they die.""
+—Braids, dementia summoner",1,1,,1
+3058,Mudbutton Torchrunner,,,Creature,Goblin,Warrior,,Duel Decks: Elves vs. Goblins,Common,Steve Ellis,,46,62,2R,"When Mudbutton Torchrunner is put into a graveyard from play, it deals 3 damage to target creature or player.",The oil sloshes against his skull as he nears his destination: the Frogtosser Games and the lightning of the Flaming Boggart.,1,1,,2
+3059,Spitting Earth,,,Sorcery,,,,Duel Decks: Elves vs. Goblins,Common,Michael Koelsch,,55,62,1R,Spitting Earth deals damage equal to the number of Mountains you control to target creature.,"""Within each of ou is the strength of a landslide.""
+—Kumano, to his pupils.",,,,1
+3060,Wellwisher,,,Creature,Elf,,,Duel Decks: Elves vs. Goblins,Common,Christopher Rush,,15,62,1G,T: You gain 1 life for each Elf in play.,"""Close your ears to the voice of greed, and you can turn a gift for one into a gift for many.""",1,1,,1
+3061,Emberwilde Augur,,,Creature,Goblin,Shaman,,Duel Decks: Elves vs. Goblins,Common,Brandon Kitkouski,,35,62,1R,Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Play this ability only during your upkeep.,Legends say a djinn gave the goblins a gift they could never hope to master.,2,1,,1
+3062,Giant Growth,,,Instant,,,,Duel Decks: Elves vs. Goblins,Common,Matt Cavotta,,21,62,G,Target creature gets +3/+3 until end of turn.,,,,,1
+3063,Wildsize,,,Instant,,,,Duel Decks: Elves vs. Goblins,Common,Jim Murray,,23,62,2G,"Target creature get s+2/+2 and gains trample until end of turn.
+Draw a card.","Two times th esie, four times the smell.",,,,1
+3064,Llanowar Elves,,,Creature,Elf,Druid,,Duel Decks: Elves vs. Goblins,Common,Kev Walker,,9,62,G,T: Add G to your mana pool.,"One bone broken for every twig snapped underfoot.
+—Llanowar penalty for trespassing",1,1,,6
+3065,Wren's Run Vanquisher,,,Creature,Elf,Warrior,,Duel Decks: Elves vs. Goblins,Uncommon,Parente,,19,62,1G,"As an additional cost to play Wren's Run Vanquisher, reveal an Elf card from your hand or pay 3.
+Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)
+",,3,3,,1
+3066,Goblin Ringleader,,,Creature,Goblin,,,Duel Decks: Elves vs. Goblins,Uncommon,Mark Romanoski,,40,62,3R,"Haste
+When Goblin Ringleader comes into play, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and hte rest on the bottom of your library.",,2,2,,1
+3067,Duskhunter Bat,,,Creature,Bat,,,Duel Decks: Sorin vs. Tibalt,Common,Jesper Ejsing,,6,80,1B,"Bloodthirst 1 (If an opponent ws dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Flying","The swamps go silent at its approach, but it still hears the heartbeat of the prey within.",1,1,,2
+3068,Decompose,,,Sorcery,,,,Duel Decks: Sorin vs. Tibalt,Uncommon,Tony Szczudlo,,20,80,1B,Exile up to three target cards from a single graveyard.,"""Sheesh! How am I supposed to make  decent living around here?""
+—Cabal grave robber",,,,1
+3069,Revenant Patriarch,,,Creature,Spirit,,,Duel Decks: Sorin vs. Tibalt,Uncommon,Nick Percival,,16,80,4B,"When Revenant Patriarch enters the battlefield, if W was spent to cast it, target player skips his or her next combat phase.
+Revenant Patriarch can't block.",,4,3,,1
+3070,Vampire Outcasts,,,Creature,Vampire,,,Duel Decks: Sorin vs. Tibalt,Uncommon,Clint Cearley,,15,80,2BB,"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Lifelink (Damage dealt by this creature also causes you to gin that much life.)",,2,2,,1
+3071,Bump in the Night,,,Sorcery,,,,Duel Decks: Sorin vs. Tibalt,Common,Kev Walker,,57,80,B,"Target opponent loses 3 life.
+Flashback 5R (You may cast this card from your graveyard for its flashback cost. Then exile it.)",It's not just hte wind. It's not all in your head. And it's definitely someething to worry about.,,,,1
+3072,Geistflame,,,Instant,,,,Duel Decks: Sorin vs. Tibalt,Common,Scott Chou,,61,80,R,"Geistflame deals 1 damage to target creature or player.
+Flashback 3R (You may cast this card from your graveyard for its flashback cost. Then exile it.)",Innistrad pyromancers find their best raw materials in teh fury of the dead.,,,,1
+3073,Bloodrage Vampire,,,Creature,Vampire,,,Duel Decks: Sorin vs. Tibalt,Common,Steve Prescott,,10,80,2B,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)",The most genteel facades hide the most abominable desires.,3,1,,1
+3074,Ashmouth Hound,,,Creature,Elemental,Hound,,Duel Decks: Sorin vs. Tibalt,Common,Daarken,,45,80,1R,"Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.","Its fiery paws make it easy to track, whhich is very useful when you want to go in exactly th eopposite direction.",2,1,,2
+3075,Vithian Stinger,,,Creature,Human,Shaman,,Duel Decks: Sorin vs. Tibalt,Common,Dave Kendall,,47,80,2R,"T: Vithian Stinger deals 1 damage to target creature or player.
+Unearth 1R (1R: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.",,0,1,,2
+3076,Mad Prophet,,,Creature,Human,Shaman,,Duel Decks: Sorin vs. Tibalt,Common,Wayne Reynolds,,51,80,3R,"Haste
+T, Discard a card: Draw a card.","""There's no heron in the moon! It's a shrew, a five-legged shrew, with a voice whispering like thunder!""",2,2,,1
+3077,Skirsdag Cultist,,,Creature,Human,Shaman,,Duel Decks: Sorin vs. Tibalt,Unommon,Slawomir Maniak,,53,80,2RR,"R, T, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.","""Within blood is life. Within life is fire. Within fire is the path to our masters' glory!""",2,2,,1
+3078,Scourge Devil,,,Creature,Devil,,,Duel Decks: Sorin vs. Tibalt,Uncommon,Dave Kendall,,55,80,4R,"When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.
+Unearth 2R (2R: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",,3,3,,1
+3079,Gang of Devils,,,Creature,Devil,,,Duel Decks: Sorin vs. Tibalt,Uncommon,Erica Yang,,56,80,5R,"When Gang of Devils, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.","""Well, how could I know they'd explode?""
+—Gregel, township militia
+",3,3,,1
+3080,Mausoleum Guard,,,Creature,Human,Scout,,Duel Decks: Sorin vs. Tibalt,Uncommon,David Palumbo,,13,80,3W,"When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.","""Ghoulcallers trying to get in, geists trying to get out....This duty is never dull.""",2,2,,1
+3081,Reassembling Skeleton,,,Creature,Skeleton,Warrior,,Duel Decks: Sorin vs. Tibalt,Uncommon,Austin Hsu,,44,80,1B,1B: Return Reassembling Skeleton from your graveyard to the battlefied tapped.,"""They may show up for the wrong thigh bone or mandible, bu tthey always show up.""
+—Zul Ashur, lich lord",1,1,,1
+3082,Child of Night,,,Creature,Vampire,,,Duel Decks: Sorin vs. Tibalt,Common,Ash Wood,,5,80,1B,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+",Sins that would be too gruesome in the light of day are made more pleasing in the dark of night.,2,1,,1
+3083,Sengir Vampire,,,Creature,Vampire,,,Duel Decks: Sorin vs. Tibalt,Uncommon,Kev Walker,,17,80,3BB,"Flying
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.","Empires rise and fall, but evil is eternal.",4,4,,1
+3084,"Venser, the Sojourner",,,Planeswalker,Venser,,,Duel Decks: Venser vs. Koth,Mythic,Eric Deschamps,,1,77,3WU,"+2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.
+-1: Creatures are unblockable this turn.
+-8: You get an emblem with ""Whenever you cast a spell, exile target permanent.",,,,3,1
+3085,Revoke Existence,,,Sorcery,,,,Duel Decks: Venser vs. Koth,Common,Allen Williams,,26,77,1W,Exile target artifact or enchantment.,"""No half measures, no regrets. We'll tell no stories of this day. It will be as if it never existed at all.""
+—Ganedor, loxodon mystic",,,,1
+3086,Overrule,,,Instant,,,,Duel Decks: Venser vs. Koth,Common,Alan Pollack,,32,77,XWU,Counter target spell unless its controller pays X . You gain X life.,"With one commanding word, the spell was put down and a fine collected for its casting.",,,,2
+3087,Flood Plain,,,Land,,,,Duel Decks: Venser vs. Koth,Uncommon,Pat Morrisey,,34,77,,"Flood Plain enters the battlefield tapped.
+T, Sacrifice Flood plain: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.",,,,,1
+3088,Minamo Sightbender,,,Creature,Human,Wizard,,Duel Decks: Venser vs. Koth,Uncommon,Luca Zontini,,5,77,1U,"X, T: Target creature with power X or less is unblockable this turn.","Woven from threads of th espirit world, the mistcloak rendered its wearer invisible, but quickly fell to tatters.",1,2,,1
+3089,Sphinx of Uthuun,,,Creature,Sphinx,,,Duel Decks: Venser vs. Koth,Uncommon,Kekai Kotaki,,22,77,5UU,"Flying
+When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",,5,6,,1
+3090,Angelic Shield,,,Enchantment,,,,Duel Decks: Venser vs. Koth,Uncommon,Adam Rex,,27,77,WU,"Creatures you control get +0/+1.
+Sacrifice Angelic Shield: Return target creature to its owner's hand.","""If only an angel's wings could shatter us all.""
+—Barrin, master wizard",,,,1
+3091,Safe Passage,,,Instant,,,,Duel Decks: Venser vs. Koth,Common,Christopher Moeller,,29,77,2W,Prevent all damage that would be dealt to you and creatures you control this turn.,"With one flap of her wings, the angel beat back the fires of war.",,,,1
+3092,Sawtooth Loon,,,Creature,Bird,,,Duel Decks: Venser vs. Koth,Uncommon,Heather Hudson,,17,77,2WU,"Flying
+When Sawtooth Loon enters the battlefield, reutrn a white or blue creature you control to its owner's hand.
+When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.",,2,2,,1
+3093,Vanish into Memory,,,Instant,,,,Duel Decks: Venser vs. Koth,Uncommon,Rebekah Lynn,,31,77,2WU,"Exile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to its toughness.","Out of sight, into mind.",,,,1
+3094,Cache Raiders,,,Creature,Merfolk,Rogue,,Duel Decks: Venser vs. Koth,Uncommon,Pete Venters,,18,77,3UU,"At the beginning of your upkeep, return a permanent you control to its owner's hand.","What the current doesn't take, they do.",4,4,,1
+3095,Slith Strider,,,Creature,Slith,,,Duel Decks: Venser vs. Koth,Uncommon,Justin Sweet,,9,77,1UU,"Whenever Slith Strider becomes blocked, draw a card.
+Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.",A slith's form and function are determined by the color of the sun under which it's born.,1,1,,2
+3096,Preordain,,,Sorcery,,,,Duel Decks: Venser vs. Koth,Common,Scott Chou,,24,77,U,"Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",,,,,2
+3097,Sigil of Sleep,,,Enchantment,Aura,,,Duel Decks: Venser vs. Koth,Common,Greg,Tim Hildebrandt,25,77,U,"Enchant creature
+Whenever enchanted creature deals damage to a player, return target creature that player controls to its owner's hand.",,,,,1
+3098,Neurok Invisimancer,,,Creature,Human,Wizard,,Duel Decks: Venser vs. Koth,Common,Izzy,,8,77,1UU,"Neurok Invisimancer is unblockable.
+When Neurok Invisimancer enters the battlefield, target creature is unblockable this turn.","""They won't see your shadow or hear your breath, but they will feel your blade.""",2,1,,1
+3099,Augury Owl,,,Creature,Bird,,,Duel Decks: Venser vs. Koth,Common,Jim Nelson,,3,77,1U,"Flying
+When Augury Owl enters the battlefield, scry 3. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",,1,1,,1
+3100,Sky Spirit,,,Creature,Spirit,,,Duel Decks: Venser vs. Koth,Uncommon,Rebecca Guay,,10,77,1WU,"Flying, first strike","""Like a strain of music: easy to remember but impossible to catch.""
+—Mirri of the Weatherlight",2,2,,1
+3101,Kor Cartographer,,,Creature,Kor,Scout,,Duel Decks: Venser vs. Koth,Common,Ryan Pancoast,,13,77,3W,"When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.",Kor have no concept of exploration. They return to homelands forgotten.,2,2,,1
+3102,Galepowder Mage,,,Creature,Kithkin,Wizard,,Duel Decks: Venser vs. Koth,Rare,Jeremy Jarvis,,12,77,3W,"Flying
+Whenever Galepowder Mage attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",,3,3,,1
+3103,Whitemane Lion,,,Creature,Cat,,,Duel Decks: Venser vs. Koth,Common,Zoltan Boros, Gabor Szikszai,2,77,1W,"Flash (You may cast this spell any time you could cast an instant.)
+When Whitemane Lion enters the battlefield, return a creature you control to its owner's hand.","Saltfield nomads call a sudden storm a ""Whitemane.""",2,2,,1
+3104,Clone,,,Creature,Shapeshifter,,,Duel Decks: Venser vs. Koth,Rare,Kev Walker,,14,77,3U,You may have Clone enter the battlefield as a copy of any creature on the battlefield.,The shapeshifter mimics with a twin's esteem and a mirror's cruelty.,0,0,,1
+3105,Cryptic Annelid,,,Creature,Worm,Beast,,Duel Decks: Venser vs. Koth,Uncommon,Anthony S. Waters,,15,77,3U,"When Cryptic Annelid enters the battlefield, scry 1, then scry 2, then scry 3. (To scry X, look at the top X cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",,1,4,,1
+3106,Primal Plasma,,,Creature,Elemental,Shapeshifter,,Duel Decks: Venser vs. Koth,Common,Luca Zontini,,16,77,3U,"As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.","Tocasia brushed the gears and cogs from the table. There, before two wide-eyed brothers, she began a lesson on raw elemental magic.",X,X,,1
+3107,Jedit's Dragoons,,,Creature,Cat,Soldier,,Duel Decks: Venser vs. Koth,Common,John Matson,,20,77,5W,"Vigilance
+When Jedit's Dragoons enters the battlefield, you gain 4 life.","After Efrava was destroyed, the cat warriors scattered across Dominaria. Those who followed Jedit's example were strong enough to survive the ravages of the apocalypse.",2,5,,1
+3108,Sunblast Angel,,,Creature,Angel,,,Duel Decks: Venser vs. Koth,Rare,Jason Chan,,21,77,4WW,"Flying
+When Sunblast Angel enters the battlefield, destroy all tapped creatures.",There may exist powers even greater than Phyrexia.,4,5,,1
+3109,Steel of the Godhead,,,Enchantment,Aura,,,Duel Decks: Venser vs. Koth,Common,Jason Chan,,30,77,2{W/U},"Enchant creature
+As long as enchanted creature is white, it gets +1/+1 and has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)
+As long as enchanted creature is blue, it gets +1/+1 and is unblockable.",,,,,1
+3110,Windreaver,,,Creature,Elemental,,,Duel Decks: Venser vs. Koth,Rare,Aleksi Briclot,,19,77,3WU,"Flying
+W: Windreaver gains vigilance until end of turn.
+W: Windreaver gets +0/+1 until end of turn.
+U: Switch Windreaver's power and toughness until end of turn.
+U: Return Windreaver to its owner's hand.
+",,1,3,,1
+3111,Mistmeadow Witch,,,Creature,Kithkin,Wizard,,Duel Decks: Venser vs. Koth,Uncommon,Greg Staples,,6,77,1{W/U},2WU: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.,"Olka collected the evening mist for years, studying its secrets. Once she learned its essence, she could vanish with a thought.",1,1,,1
+3112,Scroll Thief,,,Creature,Merfolk,Rogue,,Duel Decks: Venser vs. Koth,Common,Alex Horley-Orlandelli,,7,77,2U,"Whenever Scroll Thief deals combat damage to a player, draw a card.","I've learned how to disable wards, pick locks, and decode the Agaran language—all before even reading the scroll!""",1,3,,2
+3113,Wall of Denial,,,Creature,Wall,,,Duel Decks: Venser vs. Koth,Uncommon,Howard Lyon,,11,77,1WU,"Defender, flying
+Shroud (This creature can't be the target of spells or abilities.)",It provides what every discerning mage requires—time to think.,0,8,,1
+3114,Oblivion Ring,,,Enchantment,,,,Duel Decks: Venser vs. Koth,Uncommon,Franz Vohwinkel,,28,77,2W,"When Oblivion Ring enters the battlefield, exile another target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.",,,,,1
+3115,Coral Fighters,,,Creature,Merfolk,Soldier,,Duel Decks: Venser vs. Koth,Uncommon,Steve Luke,,4,77,1U,"Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.",,1,1,,1
+3116,Sejiri Refuge,,,Land,,,,Duel Decks: Venser vs. Koth,Uncommon,Ryan Pancoast,,36,77,,"Sejiri Refuge enters the battlefield tapped.
+When Sejiri Refuge enters the battlefield, you gain 1 life.
+T: Add W or U to your mana pool.",,,,,2
+3117,Azorius Chancery,,,Land,,,,Duel Decks: Venser vs. Koth,Common,John Avon,,33,77,,"Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
+T: Add WU to your mana pool.",,,,,1
+3118,Soaring Cliff,,,Land,,,,Duel Decks: Venser vs. Koth,Common,Izzy,,37,77,,"Soaring Seacliff enters the battlefield tpped.
+When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.
+T: Add U to your mana pool.",,,,,1
+3119,New Benalia,,,Land,,,,Duel Decks: Venser vs. Koth,Uncommon,Richard Wright,,35,77,,"New Benalia enters the battlefield tapped.
+When New Benalia enters the battlefield, scry 1 (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+T: Add W to your mana pool.",,,,,1
+3120,Koth of the Hammer,,,Planeswalker,Koth,,,Duel Decks: Venser vs. Koth,Mythic,Eric Deschamps,,44,77,2RR,"+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.
+-2: Add R to your mana pool for each Mountain you control.
+-5: You get an emblem with ""Mountains you control have 'T: This land deals 1 damage to target creature or player.'""",,,,3,1
+3121,Armillary Sphere,,Artifact,,,,,Duel Decks: Venser vs. Koth,Common,Franz Vohwinkel,,64,77,2,"2, T, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.",The mysterious purpose of two of the rings had eluded Esper mages—until now.,,,,1
+3122,Downhill Charge,,,Instant,,,,Duel Decks: Venser vs. Koth,Common,Greg,Tim Hildebrandt,69,77,2R,"You may sacrifice a Mountain rather than pay Downhill Charge's mana cost.
+Target creature gets +X/+0 until end of turn, where X is the number of Mountains you control.",,,,,1
+3123,Seismic Strike,,,Instant,,,,Duel Decks: Venser vs. Koth,Common,Christopher Moeller,,70,77,2R,Seismic Strike deals damage to target creature equal to the number of Mountains you control.,"""Life up here is simple. Adaapt to the ways of the mountains and they will reward you. Fight them and they will end you.""
+—Kezim, prodigal pyromancer",,,,2
+3124,Earth Servant,,,Creature,Elemental,,,Duel Decks: Venser vs. Koth,Uncommon,Lucas Graciano,,60,77,5R,Earth Servant gets +0/+1 for each Mountain you control.,"""Fire. Air. Water. These elements spread, filling in the spaces they are not. But earth is implacable like a sullen child.""
+—Jestus Dreya, Of Elements and Eternity",4,4,,1
+3125,Fiery Hellhound,,,Creature,Elemental,Hound,,Duel Decks: Venser vs. Koth,Common,Ted Galaday,,49,77,1RR,R: Fiery Hellhound gets +1/+0 until end of turn.,"""I had hoped to instill in it the loyalty of a guard dog, but with fire's power comes its unpredictability.""
+—Mggath, Sardian elementalist",2,2,,2
+3126,Aether Membrane,,,Creature,Wall,,,Duel Decks: Venser vs. Koth,Uncommon,Zoltan Boros,Gabor Szikszai,47,77,1RR,"Defender
+Reach (This creature can block creatures with flying.)
+Whenever Aether Membrane blocks a creature, return that creature to its owner's hand at end of combat.",,0,5,,1
+3127,Chartooth Cougar,,,Creature,Cat,Beast,,Duel Decks: Venser vs. Koth,Common,Chase Stone,,59,77,5R,"R: Chartooth Cougar gets +1/+0 until end of turn.
+Mountaincycling 2 (2, Discard this card: Search you library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)",,4,4,,1
+3128,Plated Geopede,,,Creature,Insect,,,Duel Decks: Venser vs. Koth,Common,Johann Bodin,,45,77,1G,"First strike
+Landfall — Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.","It prefers a cooked meal, so it will eat you now and lava-bask later.",1,1,,2
+3129,Wayfarer's Bauble,,Artifact,,,,,Duel Decks: Venser vs. Koth,Common,Darrell Riche,,63,77,1,"2, T, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.","It is the forest beyond the horizon, the mountain waiting to be climbed, the new land across the endless sea.",,,,2
+3130,Spire Barrage,,,Sorcery,,,,Duel Decks: Venser vs. Koth,Common,Ryan Pancoast,,71,77,4R,Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.,"Goblin lessons include the 2,071 tips for survivl. Frek only remembered 2,070.",,,,1
+3131,Jaws of Stone,,,Sorcery,,,,Duel Decks: Venser vs. Koth,Uncommon,Zoltan Boros,Gabor Szikszai,72,77,5R,"Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.","When giants find their mountain homes infested, they have a whole range of solutions.",,,,1
+3132,Volley of Boulders,,,Sorcery,,,,Duel Decks: Venser vs. Koth,Rare,Tony Szczudlo,,73,77,8R,"Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.
+Flashback RRRRRR (You may cast this card from your graveyard for its flashback cost. Then exile it.",,,,,1
+3133,Journeyer's Kite,,Artifact,,,,,Duel Decks: Venser vs. Koth,Rare,Hiro Izawa,,65,77,2,"3, T: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.","""From the clouds, you can see as far as the distant horizon. It's a reminder of the infinite possibilities of everyday life.""
+—Noboru, master kitemaker",,,,1
+3134,Vulshok Morningstar,,Artifact,Equipment,,,,Duel Decks: Venser vs. Koth,Uncommon,David Martin,,66,77,2,"Equipped creature gets +2/+2.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)",,,,,1
+3135,Searing Blaze,,,Instant,,,,Duel Decks: Venser vs. Koth,Common,James Paick,,67,77,RR,"Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.
+Landfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.",,,,,1
+3136,Vulshok Sorcerer,,,Creature,Human,Shaman,,Duel Decks: Venser vs. Koth,Common,rk post,,50,77,1RR,"Haste
+T: Vulshok Sorcerer deals 1 damage to target creature or player.","Vulshok sorcerers train by leaping into electrified storm clouds. Dead or alive, they come back down with smiles on their faces.",1,1,,1
+3137,Anger,,,Creature,Incarnation,,,Duel Decks: Venser vs. Koth,Uncommon,Svetlin Velinov,,51,77,3R,"Haste
+As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.","""Molten earth has no anger of its own. Only by infusing it with your own rage can the magma seethe and take shape.""
+—Koth of the Hammer",2,2,,1
+3138,Pygmy Pyrosaur,,,Creature,Lizard,,,Duel Decks: Venser vs. Koth,Common,Dan Frazier,,46,77,1R,"Pygmy Pyrosaur can't block.
+R: Pygmy Pyrosaur gets +1/+0 until end of turn.","Do not judge a lizard by its size.
+—Ghitu proverb",1,1,,1
+3139,Pilgrim's Eye,,Artifact,Creature,Thopter,,,Duel Decks: Venser vs. Koth,Common,Dan Scott,,47,77,3,"Flying
+When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",The kor send their thopter kites to see if the land is in a welcoming mood.,1,1,,2
+3140,Vulshok Berserker,,,Creature,Human,Berserker,,Duel Decks: Venser vs. Koth,Common,Pete Venters,,53,77,3R,Haste,He experiences every emotion with passion and repays every slight with vengeance.,3,2,,1
+3141,Bloodfire Kavu,,,Creature,Kavu,,,Duel Decks: Venser vs. Koth,Uncommon,Greg Staples,,54,77,2RR,"R, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.","Heart of fire, blood of lava, teeth of stone.",2,2,,1
+3142,Stone Giant,,,Creature,Giant,,,Duel Decks: Venser vs. Koth,Uncommon,Warren Mahy,,55,77,2RR,T: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.,A typical day for a giant. A momentus event for a goat.,3,4,,1
+3143,Torchling,,,Creature,Shapeshifter,,,Duel Decks: Venser vs. Koth,Rare,rk post,,58,77,3RR,"R: Untap Torchling.
+R: Target creature blocks Torchling this turn if able.
+R: Change the target of target spell that targets only Torchling.
+1: Torchling gets +1/-1 until end of turn.
+1: Torchling gets -1/+1 until end of turn.",,3,3,,1
+3144,Cosi's Ravager,,,Creature,Elemental,,,Duel Decks: Venser vs. Koth,Common,Zoltan Boros,Gabor Szikszai,52,77,3R,"Landfall — Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.","""Cosi has many followers. Even the volcano finds a way to do his bidding.""
+—Zakken, Enclave cleric",2,2,,1
+3145,Geyser Glider,,,Creature,Elemental,Beast,,Duel Decks: Venser vs. Koth,Rare,Warren Mahy,,56,77,3RR,"Landfall — Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.","""Quit pontificating, mage. The last thing we want to do is give it more hot air.""
+—Tala Vertan, Makindi Shieldmate",4,4,,1
+3146,Lithophage,,,Creature,Insect,,,Duel Decks: Venser vs. Koth,Rare,Mike Ploog,,57,77,3RR,"At the beginning of your upkeep, sacrifice Lithophage unless you sacrifice a Mountain.","It's viciously territorial, destroying every creature on the mountain it has chosen to consume.",7,7,,
+3147,Greater Stone Spirit,,,Creature,Elemental,Spirit,,Duel Decks: Venser vs. Koth,Uncommon,Yokota Katsumi,,61,77,4RR,"Greater Stone Spirit can't be blocked by creatures with flying.
+2R: Until end of turn, target creature gets +0/+2 and gains ""R: This creature gets +1/+0 until end of turn.""","Having charted their way up the difficult face, the two mountaineers had to contend with the moutntain's decision to stand up.",4,4,,1
+3148,Bloodfire Colossus,,,Creature,Giant,,,Duel Decks: Venser vs. Koth,Rare,Greg Staples,,62,77,6RR,"R, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.",It took all its strength to contain the fire within.,6,6,,1
+3149,Vulshok Battlegear,,Artifact,Equipment,,,,Duel Decks: Venser vs. Koth,Uncommon,Kevin Doubler,,68,77,3,"Equipped creature gets +3/+3.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)",,,,,1
+3150,Dominus of Fealty,,,Creature,Spirit,Avatar,,Commander: Political Puppets,Rare,Kev Walker,,194,318,{U/R}{U/R}{U/R}{U/R}{U/R},"Flying
+At the beginning of your upkeep, you may gain control of target permanent until end of turn. If you do, untap it and it gains haste until end of turn.","""Nothing is truly your own. It is his, whether you know it or not.""
+—The Seer's Parables",4,4,,1
+3151,Guard of Gomazoa,,,Creature,Jellyfish,,,Commander: Political Puppets,Uncommon,Rob Alexander,,49,318,2U,"Defender, flying
+Prevent all combat damage that would be dealt to Guard Gomazoa.","It lingers near hte outposts of the Makindi Trenches, inadvertently granting another layer of defense.",1,3,,1
+3152,Command Tower,,,Land,,,,Commander: Political Puppets,Common,Ryan Yee,,269,318,,T: Add to your mana pool one mana of any color in your commander's color identity.,"When defeat is near and guidance is scarce, all eyes look in one direction.",,,,1
+3153,Breath of Darigaaz,,,Sorcery,,,,Commander: Political Puppets,Uncommon,Greg,Tim Hildebrandt,112,318,1R,"Kicker 2 (You may pay an additional 2 as you cast this spell.)
+Breath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.",,,,,1
+3154,Izzet Boilerworks,,,Land,,,,Commander: Political Puppets,Common,John Avon,,278,318,,"Izzet Boilerworks enters the battlefield tapped.
+When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
+T: Add UR to your mana pool.",,,,,1
+3155,Champion's Helm,,Artifact,Equipment,,,,Commander: Political Puppets,Rare,Alan Pollack,,244,318,3,"Equipped creature gets +2/+2.
+As long as equipped creature is legendary, it has hexproof. (It can't be the target of spells or abilities your opponents control.)
+Equip 1",,,,,1
+3156,Spell Crumple,,,Instant,,,,Commander: Political Puppets,Uncommon,Dan Scott,,63,318,1UU,"Counter target spell. If that spell is countered this way, put it on the bottom of its owner's library instead of into that player's graveyard. Put Spell Crumple on the bottom of its owner's library.",,,,,1
+3157,Wild Ricochet,,,Instant,,,,Commander: Political Puppets,Rare,Dan Scott,,139,318,2RR,You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.,"""I knew that trick long before your great-trandmother's great-grandmother was born.""",,,,1
+3158,Oblation,,,Instant,,,,Commander: Political Puppets,Rare,Doug Chaffee,,22,318,2W,"The owner of target nonland permanent shuffles it into his or her library, then draws two cards.","""A richer people could give more but they could never give as much.""",,,,1
+3159,Armillary Sphere,,Artifact,,,,,Commander: Political Puppets,Common,Franz Vohwinkel,,242,318,2,"2, T, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.",The mysterious purpose of two of the rings had eluded Esper mages—until now.,,,,1
+3160,Azorius Guildmage,,,Creature,Vedalken,Wizard,,Commander: Political Puppets,Uncommon,Christopher Moeller,,183,318,{W/U}{W/U},"2W: Tap target creature.
+2U: Counter target activated ability. (Mana abilities can't be targeted.)",,2,2,,1
+3161,Howling Mine,,Artifact,,,,,Commander: Political Puppets,Rare,Ralph Horsley,,251,318,2,"At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.","The mine's riches never end, nor do the moans of the spirits doomed to haunt them.",,,,1
+3162,Spurnmage Advocate,,,Creature,Human,Nomad,,Commander: Political Puppets,Uncommon,Ron Spears,,33,318,W,T: Return two target cards from an opponent's graveyard to his or her hand. Destroy target attacking creature.,"""Our unity humbles our foes.""",1,1,,1
+3163,Dreamstone Hedron,,Artifact,,,,,Commander: Political Puppets,Uncommon,Eric Deschamps,,247,318,6,"T: Add 3 to your mana pool.
+3, T, Sacrifice Dreamstone Hedron: Draw three cards.",Only the Eldrazi mind thinks in the warped paths required to open the hedrons and tap the power within.,,,,1
+3164,Rapacious One,,,Creature,Eldrazi,Drone,,Commander: Political Puppets,Uncommon,Jason A. Engle,,133,318,5R,"Trample
+Whenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have ""Sacrifice this creature: Add 1 to your mana pool.""",,5,4,,1
+3165,Vow of Flight,,,Enchatment,Aura,,,Commander: Political Puppets,Uncommon,Erica Yang,,68,318,2U,"Enchant creature
+Enchanted creature gets +2/+2, has flying, and can't attack you or a planeswalker you control.","""Soaring is wasted on the winged.""
+—Edric, Spymaster of Trest",,,,1
+3166,Whirlpool Whelm,,,Instant,,,,Commander: Political Puppets,Common,Cyril Van Der Hegen,,69,318,1U,"Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,1
+3167,False Prophet,,,Creature,Human,Cleric,,Commander: Political Puppets,Rare,Eric Peterson,,13,318,2WW,"When False Prophet is put into a graveyard from the battlefield, exile all creatures.","""You lived for Serra's love. Will you not die for it?""",2,2,,1
+3168,Skyscribing,,,Sorcery,,,,Commander: Political Puppets,Uncommon,Luca Zontini,,61,318,XUU,"Each player draws X cards.
+Forecast — 2 U, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)",,,,,1
+3169,Punishing Fire,,,Instant,,,,Commander: Political Puppets,Uncommon,Christopher Moeller,,131,318,1R,"Punishing Fire deals 2 damage to target creature or player.
+Whenever an opponent gains life, you may pay R. If you do, return Punishing Fire from your graveyard to your hand.",,,,,1
+3170,Soul Snare,,,Enchantment,,,,Commander: Political Puppets,Uncommon,Carl Critchlow,,32,318,W,"W, Sacrifice Soul Snare: Exile target creature that's attacking you or a planeswalker you control.","""Body and spirit are sworn enemies. They will take any excuse to be rid of each other.""
+—Tariel, Reckoner of Souls",,,,1
+3171,Vedalken Plotter,,,Creature,Vedalken,Wizard,,Commander: Political Puppets,Uncommon,Greg Staples,,66,318,2U,"When Vedalken Plotter enters the battlefield, exchange control of target land you control and target land an opponent controls.","""Fair? At what point in our negotiations did you convince yourself my goal was to be fair?""",1,1,,1
+3172,Ghostly Prison,,,Enchantment,,,,Commander: Political Puppets,Uncommon,Wayne England,,14,318,2W,Creatures can't attack you unless their controller pays 2 for each creature he or she controls that's attacking you.,"""May the memory of our fallen heroes ensnare the violent hearts of lesser men.""
+—Great Threshold of Monserkat inscription",,,,1
+3173,Chromeshell Crab,,,Creature,Crab,Beast,,Commander: Political Puppets,Rare,Ron Spencer,,41,318,4U,"Morph 4U (You may cast this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+When Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.",,3,3,,1
+3174,Chaos Warp,,,Instant,,,,Commander: Political Puppets,Rare,Trevor Claxton,,114,318,2R,"The owner of target permanent shuffles it into his or her ibrary, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield.",,,,,1
+3175,Azorius Chancery,,,Land,,,,Commander: Political Puppets,Common,John Avon,,265,318,,"Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
+T: Add WU to your mana pool.",,,,,1
+3176,Propaganda,,,Enchantment,,,,Commander: Political Puppets,Uncommon,Jeff Miracola,,55,318,2U,Creatures can't attack you unless their controller pays 2 for each creature he or she controls that's attacking you.,"""You've failed Gerrard. You've failed the Legacy. You've failed yourself. I can do no more.""
+—Volrath, to Karn",,,,1
+3177,Insurrection,,,Sorcery,,,,Commander: Political Puppets,Rare,Mark Zug,,126,318,5RRR,Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.,"""Maybe they wanted to be on the winning side for once.""
+—Matoc, lavamancer",,,,1
+3178,Gomazoa,,,Creature,Jellyfish,,,Commander: Political Puppets,Uncommon,Chippy,,48,318,2U,"Defender, flying
+T: Put Gomazoa and each creature it's blocking on top of their owner's libraries, then those players shuffle their libraries.","To explorers, ""point man"" is a polite way of saying ""gomazoa fodder.""",0,3,,1
+3179,"Nin, the Pain Artist",Legendary,,Creature,Vedalken,Wizard,,Commander: Political Puppets,Rare,Brad Rigney,,213,318,UR,"XUR, T: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.","""Your body is a delicate instrument that tells me truths. These devices help me 'tune' that instrument.""",1,1,,1
+3180,Perilous Research,,,Instant,,,,Commander: Political Puppets,Uncommon,Dany Orizio,,54,318,1U,"Draw two cards, then sacrifice a permanent.","When the School of the Unseen fell, so many magical treasures lay abandoned that no amount of death could deter the stream of thieves and desperate scholars.",,,,1
+3181,Prison Term,,,Enchantment,Aura,,,Commander: Political Puppets,Uncommon,Zoltan Boros,Gabor Szikszai,27,318,1WW,"Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+Whenever a creature enters the battlefield under an opponent's control, you may attach Prison Term to that creature.",,,,,1
+3182,Fellwar Stone,,Artifact,,,,,Commander: Political Puppets,Uncommon,John Avon,,248,318,2,T: Add to your mana pool one mana of any color tha ta land an opponent controls could produce.,"""What do you have that I cannot obtain?""
+—Mairsil, the Pretender",,,,1
+3183,Izzet Chronarch,,,Creature,Human,Wizard,,Commander: Political Puppets,Common,Nick Percival,,205,318,3UR,"When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.",He ensures not only whether but also when and where the lightning strikes twice.,2,2,,1
+3184,Brion Stoutarm,Legendary,,Creature,Giant,Warrior,,Commander: Political Puppets,Rare,Zoltan Boros,Gabor Szikszai,187,318,2RW,"Lifelink
+R, T, Sacrifice a creature other than Brion Stoutarm: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player.",,4,4,,1
+3185,Trade Secrets,,,Sorcery,,,,Commander: Political Puppets,Rare,Ron Spears,,64,318,1UU,"Target opponent draws two cards, then you draw up four cards. That Opponentmay repeat this process as many times as he or she chooses.
+",,,,,1
+3186,Scattering Stroke,,,Instant,,,,Commander: Political Puppets,Uncommon,Franz Vohwinkel,,60,318,2UU,"Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add X to your mana pool, where X is that spell's converted mana cost. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if hhis or her card had a higher converted mana cost.)",,,,,1
+3187,Lash Out,,,Instant,,,,Commander: Political Puppets,Common,Scott Hampton,,127,318,1R,"Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,1
+3188,Flametongue Kavu,,,Creature,Kavu,,,Commander: Political Puppets,Uncommon,Slawomir Maniak,,123,318,3R,"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.","""For dim-witted, thick-skulled genetic mutants, they have pretty good aim.""
+—Sisay, captain of the Weatherlight",4,2,,1
+3189,Windborn Muse,,,Creature,Spirit,,,Commander: Political Puppets,Rare,Adam Rex,,38,318,3W,"Flying
+Creatures can't attack you unless their controller pays 2 for each creature he or she controls that's attacking you.","""Her voice is justsice, clear and relentless.""
+—Akroma, angelic avenger",2,3,,1
+3190,Plumeveil,,,Creature,Elemental,,,Commander: Political Puppets,Uncommon,Nils Hamm,,218,318,{W/U}{W/U}{W/U},"Flash (You may cast this spell any time you could cast an instant.)
+Defender, flying","""It ws vast, a great sheet of soaring wings, and equally silent. It caught us unawares and blocked our view of the kithkin stronghold.""
+—Grensch, merrow cutthroat",4,4,,1
+3191,Austere Command,,,Sorcery,,,,Commander: Political Puppets,Rare,Wayne England,,8,318,4WW,Choose two — Destroy all artifacts; or destroy all enchantments; or destroy all creatures with converted man cost 3 or less; or destroy all creatures with converted mana cost 4 or greater.,,,,,1
+3192,Arbiter of Knollridge,,,Creature,Giant,Wizard,,Commander: Political Puppets,Rare,Brandon Dorman,,6,318,6W,"Vigilance
+When Arbiter of Knollridge enters the battlefield, each player's life total becomes the highest lifei ottal among all players.","Though giants are mortal, they live so long and on such a grand scale that many small folk don't believe they ever truly die.",5,5,,1
+3193,Ruhan of the Fomori,Legendary,,Creature,Giant,Warrior,,Commander: Political Puppets,Mythic,Raymond Swanland,,221,318,1RWU,"At the beginning of combat on your turn, choose an opponent at random. Ruhan o fthe Fomori attacks that player this combat if able.","Unfettered by allegiance, driven by war.",7,7,,1
+3194,Prophetic Prism,Common,Artifact,,,,,Commander: Political Puppets,Common,John Avon,,256,318,2,"When Prophetic Prism enters the battlefield, draw a card.
+1, T: Add one mana of any color to your mana pool.","""The explorer who found it got a bad deal when he sold it. He merely got rich.""",,,,1
+3195,"Numot, the Devastator",Legendary,,Creature,Dragon,,,Commander: Political Puppets,Rare,Dan Dos Santos,,215,318,3RWU,"Flying
+Whenever Numot, the Devastator deals combat damage to a player, you may pay 2R. If you do, destroy up to two target lands.",,6,6,,1
+3196,Death by Dragons,,,Sorcery,,,,Commander: Political Puppets,Uncommon,Austin Hsu,,118,318,4RR,Each player other than target player puts a 5/5 red Dragon creature token with flying onto the battlefield.,"Suddenly, Eldo felt very alone.",,,,1
+3197,Jötun Grunt,,,Creature,Giant,Soldier,,Commander: Political Puppets,Uncommon,Franz Vohwinkel,,16,318,1W,"Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",,4,4,,1
+3198,Court Hussar,,,Creature,Vedalken,Knight,,Commander: Political Puppets,Uncommon,Ron Spears,,43,318,2U,"Vigilance
+When Court Hussar enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest of the bottom of your library in any order.
+When Court Hussar enters the battlefield, sacrifice it unless W was spent to cast it.",,1,3,,1
+3199,Wall of Denial,,,Creature,Wall,,,Commander: Political Puppets,Uncommon,Howard Lynn,,237,318,1WU,"Defender, flying
+Shorud (This creature can't be the target of spells or abilities.)",It provides what every discerning mage requires—time to think.,0,8,,1
+3200,Goblin Cadets,,,Creature,Goblin,,,Commander: Political Puppets,Uncommon,Jerry Tiritilli,,125,318,R,"Whenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. (This removes Goblin Cadets from combat.)","""If you kids don't stop that racket, I'm turning this expedition around right now!""",2,1,,1
+3201,Wall of Omens,,,Creature,Wall,,,Commander: Political Puppets,Uncommon,James Paick,,37,318,1W,"Defender
+When Wall of Omens enters the battlefield, draw a card.","""I search for a vision of Zendikar that does not include the Eldrazi.""
+—Expedition journal entry",0,4,,1
+3202,Journey to Nowhere,,,Enchantment,,,,Commander: Political Puppets,Common,Warren Mahy,,17,318,1W,"When Journey to Nowhere enters the battlefield, exile target creature.
+When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.",,,,,1
+3203,Fog Bank,,,Creature,Wall,,,Commander: Political Puppets,Uncommon,Scott Kirschner,,47,318,1U,"Defender, flying
+Prevent all combat damage that would be dealt to and dealt by Fog Bank.",,0,2,,1
+3204,Martyr's Bond,,,Enchantment,,,,Commander: Political Puppets,Rare,Ryan Pancoast,,19,318,4WW,"Whenever Martyr's Bond or another nonland permanent you control is put into a graveyard from the battlefield, each opponent sacrifices a permanent that shares a card type with it.","""Our lives are connected by divine law. The truth of this will be made evident in time.""
+—Zedruu the Greathearted",,,,1
+3205,Vision Skeins,,,Instant,,,,Commander: Political Puppets,Common,Aleksi Briclot,,67,318,1U,Each player draws two cards.,"""I could see in the other mage's eyes that he'd thought of it too. Then it became a race to exploit the knowledge first.""",,,,1
+3206,Crescendo of War,,,Enchantment,,,,Commander: Political Puppets,Rare,Daarken,,12,318,3W,"At the beginning of each upkeep, put a strife counter on Crescendo of War.
+Attacking creatures get +1/+0 for each strife counter on Crescendo of War.
+Blocking creatures you control get +1/+0 for each strife counter on Crescendo of War.",,,,,1
+3207,Murmurs from Beyond,,,Instant,Arcane,,,Commander: Political Puppets,Common,Parente,,53,318,2U,Reveal the top three cards of your library. An opponent choses one of them. Pu thtat card into your graveyard and the rest into your hand.,"Like pools of fog that hid treacherous rocks from sailors' eyes, so too were the hands of the kami.",,,,1
+3208,Repulse,,,Instant,,,,Commander: Political Puppets,Common,Aaron Boyd,,58,318,2U,"Return target creature to its owner's hand.
+Draw a card.","""You aren't invited.""",,,,1
+3209,Vow of Lightning,,,Enchantment,Aura,,,Commander: Political Puppets,Uncommon,Svetlin Velinov,,138,318,2R,"Enchant creature
+Enchanted creature gets +2/+2, has first strike, and can't attack you or a planeswalker you control.","""Ruhan would never agree to such terms.""
+—Ruhan of the Fomori",,,,1
+3210,Evolving Wilds,,,Land,,,,Commander: Political Puppets,Common,Steven Belledin,,272,318,,"T, Sacrifice Evolving Wilds: Search your library for a basic land card adn put it onto the battlefield tapped. Then shuffle your library.","Every world is an organism, able to grow new lands. Some just do it faster than others.",,,,1
+3211,Vow of Duty,,,Encahantment,Aura,,,Commander: Political Puppets,Uncommon,Wayne Reynolds,,36,318,2W,"Enchant creature
+Enchanted creature gets +2/+2, has vigilance, and can'at attack you or a planeswalker you control.","""I prefer loyalty to be a matter of respect, not of magic. But one does what one must.""
+—Kaalia of the Vast",,,,1
+3212,Pollen Lullaby,,,Instant,,,,Commander: Political Puppets,Uncommon,Warren Mahy,,26,318,1W,"Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",,,,,1
+3213,Darksteel Ingot,,Artifact,,,,,Commander: Political Puppets,Common,Martina Pilcerova,,245,318,3,"Darksteel Ingot is indestructible. (""Destroy"" effects and lethal damage don't destroy it.)
+T: Add one mana of any color to your mana pool.
+",,,,,1
+3214,Reins of Power,,,Instant,,,,Commander: Political Puppets,Rare,Colin MacNeil,,57,318,2UU,Untap all creatures you control and all creatures target opponent controls. You and that opponent each gain control of all creatures the other controls until end of turn. Those creatures gain haste until end of turn.,,,,,1
+3215,Flusterstorm,,,Instant,,,,Commander: Political Puppets,Rare,Eric Yang,,46,318,U,"Counter target instant or sorcery spell unless its controller plays 1.
+Storm (When you cast this spell, copy it for each spell cast b efore it this turn. You may choose new targets for the copies.)",,,,,1

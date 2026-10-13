@@ -1,0 +1,490 @@
+permanent_id,card_name,supertype,subtype_a,subtype_b,subtype_c,subtype_d,subtype_e,expansion_symbol,rarity,artist_information,collectors_number,expansion_total_cards,mana_cost,text_box,flavor_text,punch,toughness,starting_loyalty,quantity
+972,Briarberry Cohort,,,Creature,Faerie,Soldier,,Shadowmoor,Common,Carl Critchlow,30,301,1U,"Flying
+Briarberry Cohort gets +1/+1 as long as you control another blue creature.",A clique can cause for more mischief than one faerie on its own.,1,1,,3
+973,Cerulean Wisps,,,Instant,,,,Shadowmoor,Common,Jim Nelson,31,301,U,"Target creature becomes blue until end of turn. Untap that creature.
+Draw a card.","""If you see ghostly lights by the river, eat three twigs of marshroot to ward off kelpies.""—Kithkin superstition",,,,6
+974,Consign to Dream,,,Instant,,,,Shadowmoor,Common,Richard Kane Ferguson,32,301,2U,"Return target permanent to its owner's hand. If that permanent is red or green, put it on to pof its owner's library instead.","""Dreams are fleeting. Reality even more so.""—Oona, queen of the fae",,,,6
+975,Drowner Initiate,,,Creature,Merfolk,Wizard,,Shadowmoor,Common,E. M. Gist,36,301,U,"Whenever a player plays a blue spell, you may pay 1. If you do, target player puts the top two cards of his or her library into his or her graveyard.",Nothing satisfies a merrow as much as drowning what it cannot have.,1,1,,6
+976,Fate Transfer,,,Instant,,,,Shadowmoor,Common,Wayne England,161,301,1{U/B},Move all counters from target creature onto another target creature.,"""The cinders find strength in suffering, the elves in beauty. But if you make an elf suffer, he gets weaker. I wonder what happens if you make a cinder beautiful?""—Hrugash, leech bonder",,,,5
+977,Ghastly Discovery,,,Sorcery,,,,Shadowmoor,Common,Howard Lyon,39,301,2U,"Draw two cards, then discard a card.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)","Korrigans, spirits bound to sources of water, shriek when they come upon their own drowned corpses.",,,,3
+978,Gravelgill Axeshark,,,Creature,Merfolk,Soldier,,Shadowmoor,Common,Dave Kendall,164,301,4{U/B},"Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)","""Their sharp scales would make good armor, if they'd just stay dead.""—Taeryn, cinder armorkeep",3,3,,7
+979,Gravelgill Duo,,,Creature,Merfolk,Rogue,Warrior,Shadowmoor,Common,Brandon Kitkouski,165,301,2{U/B},"Whenever you play a blue spill, Gravelgill Duo gets +1/+1 until end of turn.
+Whenever you play a lack spell, Gravelgill Duo gains fear until end of turn.",,2,1,,6
+980,Helm of the Ghastlord,,,Enchantment,Aura,,,Shadowmoor,Common,Franz Vohwinkel,166,301,3{U/B},"Enchant creature
+As long as enchanted creature is blue, it gets +1/+1 and has ""Whenever this creature deals damage to an opponent, draw a card.""
+As long as enchanted creature is black, it gets +1/+1 and has ""Whenever this creature deals damage to an opponent, that player discards a card.""",,,,,9
+981,Kinscaer Harpoonist,,,Creature,Kithkin,Soldier,,Shadowmoor,Common,Thomas M. Baxa,41,301,3U,"Flying
+Whenever Kinscaer Harpoonist attacks, you may have taret creature lose flying until end of turn.","The suspicious kithkin of Kinscaer patrol the skies, their eyes attuned to the shapes of outsiders.",2,2,,5
+982,Memory Sluice,,,Sorcery,,,,Shadowmoor,Common,Wayne England,170,301,{U/B},"Target player puts the top four cards of his or her llibrary into his or her graveyard.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, compy it and you may choose a new target for the copy.)",,,,,1
+983,Merrow Wavebreakers,,,Creature,Merfolk,Soldier,,Shadowmoor,Common,Alex Horley-Orlandelli,44,301,4U,"1U, {Q}: Merrow Wavebreakers gains flying until end of turn. ({Q} is the untap symbol.)","The merrows' prey have retreated from the shore, so they have learned to follow.",3,3,,5
+984,Oona's Gatewarden,,,Creature,Faerie,Soldier,,Shadowmoor,Common,Mike Dringenberg,173,301,{U/B},"Flying, defender
+Wither (This deals damage to creatures in the form in -1/-1 counters.)","""So now you've seen Glen Elendra. Take a good look. It will be the last thing you'll ever see.""",2,1,,6
+985,Parapet Watchers,,,Creature,Kithkin,Soldier,,Shadowmoor,Common,Scott Altmann,45,301,2U,{W/U}: Parapet Watchers gets +0/+1 until end of turn.,"A kithkin doun is not so much a town as a fortress, built to withstand the constantly besieging darkness. Only those most watchful and trustworthy are tasked with guarding its walls.",2,2,,9
+986,Prismwake Merrow,,,Creature,Merfolk,Wizard,,Shadowmoor,Common,Wayne England,46,301,2U,"Flash
+When Prismwake Merrow comes into play, target permanent becomes the color or colors of your choice until end of turn.","""Seeing is believing"" is a fact the merrows ruthlessly exploit in their dealings with the other residents of Shadowmoor.",2,1,,7
+987,Put Away,,,Instant,,,,Shadowmoor,Common,Matt Cavotta,48,301,2UU,Counter target spell. You may shuffle up to one target card from your graveyard into your library.,Kithkin spellbottlers spend half their time preserving old memories and the other half punishing the new.,,,,8
+988,Scarscale Ritual,,,Sorcery,,,,Shadowmoor,Common,Richard Sardinha,175,301,1{U/B},"As an additional cost to play Scarscale Ritual, put a -1/-1 counter on a creature you control.
+Draw two cards.",Some words are too important to trust to something as fragile as memory.,,,,4
+989,Sinking Feeling,,,Enchantment,Aura,,,Shadowmoor,Common,Ron Brown,51,301,2U,"Enchant creature
+Encahnted creature doesn't untap during its controller's untap step.
+Encahnted creature has ""1, Put a -1/-1 counter on this creature:
+Untap this creature.""",,,,,5
+990,Spell Syphon,,,Instant,,,,Shadowmoor,Common,John Avon,52,301,1U,Counter target spell unless its controller pays 1 for each blue permanent you control.,"Warrik Brutehexer felt betrayed that his aura favored the depths of the Wanderbrine River over its rightful place, hovering around him.",,,,4
+991,Torpor Dust,,,Encahntment,Aura,,,Shadowmoor,Common,Jesper Ejsing,177,301,2{U/B},"Flash
+Enchant creature
+Enchanted creature gets -3/-0","""Some folk these days are too restless to dream the dreams we need. We need to teach them to stop and catch their breath.""",,,,4
+992,Wanderbrine Rootcutters,,,Creature,Merfolk,Rogue,,Shadowmoor,Common,Chippy,178,301,2{U/B}{U/B},Wanderbrine Rootcutters can't be blocked by green creatures.,Most dirtwalkers only know of the vicious merrows that dwell in the shalows. They can't begin to fathom the wickedness that skulks in the Dark Meanders.,3,3,,3
+993,Whimwander,,,Creature,Elemental,,,Shadowmoor,Common,Jeff Easley,54,301,4U,Whimwander can't attack unless defending player controls a blue permanent.,"""Thought? Deceit? Progress? Now you're just making it hungry.""—Abral, kithkin alchemist",6,4,,8
+994,Aphotic Wisps,,,Instant,,,,Shadowmoor,Common,Jim Nelson,55,301,B,"Target creature becomes black and gains fear until end of turn.
+Draw a card.","Merrows skulk the silty bogs around the Wanderbrine, their very thoughts stained with evil.",,,,2
+995,Ashenmoor Cohort,,,Creature,Elemental,Warrior,,Shadowmoor,Common,Lucio Parrillo,56,301,5B,Ashenmoor Cohort gets +1/+1 as long as you control another black creature.,"""None will concede a place for us in this world. If it is not for us, neither shall it be for them. We rest not until they choke in its cold ashes.""—Illulia of Nightearth",4,3,,9
+996,Cinderbones,,,Creature,Elemental,Skeleton,,Shadowmoor,Common,Carl Critchlow,59,301,2B,"Wither (This deals damage to creatures in the form of -1/-1 counters.)
+1B: Regenerate Cinderbones.",Not all coals lie quietly in their beds of cold ash.,1,1,,12
+997,Cinderhaze Wretch,,,Creature,Elemental,Shaman,,Shadowmoor,Common,Steven Belledin,60,301,4B,"T: Target player discards a card. Play this ability only during your turn.
+Put a -1/-1 counter on Cinderhaze Wretch: Untap Cinderhaze Wretch.",Thick smoke billows and twists to form disturbing faces that cackle and click their teeth to the popping embers.,3,2,,4
+998,Corrosive Mentor,,,Creature,Elemental,Shaman,,Shadowmoor,Uncommon,Daarken,61,301,2B,Black creatures you control have wither. (They deal damage to creatures in teh form of -1/-1 counters.),Guttering cinders stoke their dying flames by snuffing out the lights of others.,1,3,,3
+999,Cultbrand Cinder,,,Creature,Elemental,Shaman,,Shadowmoor,Common,Christopher Moeller,182,301,4{B/R},"When Cultbrand Cinder comes into play, put a -1/-1 counter on target creature.","""Your seared flesh will be the first step in your journey to dark enlightenment.""",3,3,,6
+1000,Disturbing Plot,,,Sorcery,,,,Shadowmoor,Common,Larry MacDougall,64,301,1B,"Return target creature card in a graveyard to its owner's hand.
+Conspire (As you play this spell, you may tap two untapped creaturse you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",,,,,5
+1001,Emberstrike Duo,,,Creature,Elemental,Warrior,Shaman,Shadowmoor,Common,Aleksi Briclot,185,301,1{B/R},"Whenever you play a black spell, Emberstrike Duo gets +1/+1 until end of turn.
+Whenever you play a red spell, Emberstrike Duo gains first strike until end of turn.",,1,1,,11
+1002,Faerie Macabre,,,Creature,Faerie,Rogue,,Shadowmoor,Common,rk post,66,301,1BB,"Flying
+Discard Faerie Macabre: Remove up to two target cards in graveyards from the game.",The line between dream and death is gauzy and fragile. She leads those too near it from one side to another.,2,2,,1
+1003,Fists of the Demigod,,,Enchantment,Aura,,,Shadowmoor,Common,Dan Scott,187,301,1{B/R},"Enchant creature
+As long as enchanted creature is black, it gets +1/+1 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)
+As long as enchanted creature is red, it gets +1/+1 and has first strike.",,,,,9
+1004,Gloomlance,,,Sorcery,,,,Shadowmoor,Common,Zoltan Boros & Gabor Szikszai,67,301,3BB,"Destroy target creature. If that creature was green or white, its controller discards a card.","Death stings the victim only once, but those left behind feel the pain of loss with every passing memory.",,,,6
+1005,Loch Korrigan,,,Creature,Spirit,,,Shadowmoor,Common,Daarken,71,301,3B,{U/B}: Loch Korrigan gets +1/+1 until end of turn.,"""Don't look upon still waters without first breaking the surface. The korrigan will catch you with her gaze and drag you to your death.""—Kithkin superstition",1,1,,6
+1006,Manaforge Cinder,,,Creature,Elemental,Shaman,,Shadowmoor,Common,Izzy,191,301,{B/R},1: Add B or R to your mana pool. Play this ability no more than three times each turn.,"Cinder mystics set traps for sluaghs and other spirits of flame, seeking to extract the ssecrets of the fire their own hearts have lost.",1,1,,5
+1007,Poison the Well,,,Sorcery,,,,Shadowmoor,Common,Zoltan Boros & Gabor Szikszai,193,301,2{B/R}{B/R},Destroy target land. Poison the Well deals 2 damage to that land's controller.,"Wells that provide clean, unahunted water are rare enough to be worth building an entire town around.",,,,9
+1008,Rite of Consumption,,,Sorcery,,,,Shadowmoor,Common,Ron Spencer,76,301,1B,"As an additional cost to play Rite of Consumption, sacrifice a creature.
+Rite of Consumption deals damage equal to the sacrificed creature's power to target player. You gain life equal to the damage dealt this way.",,,,,5
+1009,Scarscale Ritual,,,Instant,,,,Shadowmoor,Common,Pete Venters,194,301,{B/R},Put a -1/-1 counter on target creature.,"""What is a scar? A sign of courage in the face of danger? A mere trick of flesh? Or a constant reminder of agonizing pain, and the follies of war.""—Illulia of Nightearth",,,,5
+1010,Sickle Ripper,,,Creature,Elemental,Warrior,,Shadowmoor,Common,Dan Scott,77,301,1B,Wither (This deals damage to creatures in the form of -1/-1 coutnerse.),His sickle was forged in the heat of another cinder's funeral pyre.,2,1,,9
+1011,Smolder Initiate,,,Creature,Elemental,Shaman,,Shadowmoor,Common,Chippy,78,301,B,"Whenever a player plays a black spell, you may pay 1. If you do, target player loses 1 life.","""Life is a circle. Death is a vicious circle.""",1,1,,7
+1012,Sootstoke Kindler,,,Creature,Elemental,Shaman,,Shadowmoor,Common,Mark Zug,195,301,1{B/R},"Haste
+T: Target black or red creature gains haste until end of turn.","""Nothing warms my heart better than a spirit kindled with rage.""",1,1,,8
+1013,Sootwalkers,,,Creature,Elemental,Rogue,,Shadowmoor,Common,Nils Hamm,196,301,2{B/R}{B/R},Sootwalkers can't be blocked by white creatures.,"""Why allow the fires of others to burn, when ours do not? Why leave them content, while we suffer? If there is to be misery, let it be borne by all.""",3,3,,4
+1014,Traitor's Roar,,,Sorcery,,,,Shadowmoor,Common,Jim Pavelee,200,301,4{B/R},"Tap target untapped creature. It deals damage equal to its power to its controller.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",,,,,10
+1015,Splitting Headache,,,Sorcery,,,,Shadowmoor,Common,Thomas Denmark,79,301,3B,"Choose one — Target player discards two cards; or target player reveals his or her hand, you choose a card from i, then that player discards that card.",All faeries delve for dreams. But not all wait for their victims to fall asleep.,,,,4
+1016,Torture,,,Enchantment,Aura,,,Shadowmoor,Common,E. M. Gist,80,301,B,"Enchant creature
+1B: Put a -1/-1 counter on enchanted creature.","What the vigor of life builds up, agony tears down again.",,,,3
+1017,Blistering Dieflyn,,,Creature,Imp,,,Shadowmoor,Common,Scott Altmann,82,301,3R,"Flying
+{B/R}: Blistering Dieflyn gets +1/+- until end of turn.","Any kithkkin smith would love to catch a dieflyn for her kiln, relieving her of ever having to gather fuel again.",0,1,,9
+1018,Bloodshed Fever,,,Enchantment,Aura,,,Shadowmoor,Common,Dan Scott,84,301,R,"Enchant creature
+Enchanted creature attacks each turn if able.",Cinder mages enjoy seeing their victims in the throes of bloodlust—and seeing the regret that inevitably follows.,,,,4
+1019,Boggart Arsonists,,,Creature,Goblin,Rogue,,Shadowmoor,Common,Jesper Ejsing,85,301,2R,"Plainswalk
+2R, Sacrifice Boggart Arsonists: Destroy target Scarecrow or Plains.",The Aurora transformed Nibb and Gyik from mischief-makers into feral marauders. They still don't know much about tool safety.,2,1,,5
+1020,Burn Trail,,,Sorcery,,,,Shadowmoor,Common,Nils Hamm,86,301,3R,"Burn Trail deals 3 damage to target creature or player.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may chose a new target for the copy.)",,,,,3
+1021,Crimson Wisps,,,Instant,,,,Shadowmoor,Common,Jim Nelson,88,301,R,"Target creature becomes red and gains haste until end of turn.
+Draw a card.","The whispers are incomprehensible, yet cinders always hear a message of urgency.",,,,4
+1022,Ember Gale,,,Sorcery,,,,Shadowmoor,Common,Steve Prescott,91,301,3R,Creatures target player controls can't block this turn. Ember Gale deals 1 damage to each white and/or blue creature that player controls.,"""Terrible wind. It whipped sparks into our skin, then stoked them even hotter!""—Bowen, Barrenton guardcaptain",,,,5
+1023,Giantbaiting,,,Sorcery,,,,Shadowmoor,Common,Trevor Hairsine,207,301,2{R/G},"Put a 4/4 red and green Giant Warrior creature token with haste into play. Remove it from the game at end of turn.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)",,,,,1
+1024,Inescapable Brute,,,Creature,Giant,Warrior,,Shadowmoor,Common,Nils Hamm,95,301,5R,"Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Inescapable Brute must be blocked if able.","If you think you made it past him alive, he's just teasing you.",3,3,,8
+1025,Intimidator Initiate,,,Creature,Goblin,Shaman,,Shadowmoor,Common,Ralph Horsley,96,301,R,"Whenever a player plays a red spell, you may pay 1. If you do, target creature can't block this turn.","Don't stand in his way, for his way is full of pointy things and fire.",1,1,,5
+1026,Loamdragger Giant,,,Creature,Giant,Warrior,,Shadowmoor,Common,Pete Venters,210,301,4{R/G}{R/G}{R/G},,"Giants sleep soundly and long, sometimes for long enough that a crust of earth and moss grows over them. But inevitably something disturbs their slumber, and they wake unahappy.",7,6,,2
+1027,Manamorphose,,,Instant,,,,Shadowmoor,Common,Jeff Miracola,211,301,1{R/G},"Add two mana in any combination of colors to your mana pool.
+Draw a card.","For a moment, objects of pure mana glimmered in the wonderstruck boggart's hands. In the next moment, they were in his mouth, as he chewed contentedly.",,,,7
+1028,Morselhoarder,,,Creature,Elemental,,,Shadowmoor,Common,Anthony S. Waters,212,301,4{R/G}{R/G},"Morselhoarder comes into play with two -1/-1 counters on it.
+Remove a -1/-1 counter from Morselhoarder: Add one mana of any color to your mana pool.","It scours the hills for living matter, savoring even the tang of poisonous fungi.",6,4,,4
+1029,Mudbrawler Cohort,,,Creature,Goblin,Warrior,,Shadowmoor,Common,Lucio Parrillo,109,301,1R,"Haste
+Mudbrawler Cohort gets +1/+1 as long as you control another red creature.","Before a raid, the members of Wort's gang egg each other on with tales of their hunger and what they'll do to sate it, each outdoing the last.",1,1,,11
+1030,Mudbrawler Raiders,,,Creature,Goblin,Warrior,,Shadowmoor,Common,Ron Spencer,213,301,2{R/G}{R/G},Mudbrawler Raiders can't be blocked by blue creatures.,"To reach the ravine of the Wanderbrine River, they were told to take the shortcut ""through the mountains."" They took the directions literally.",3,3,,9
+1031,Power of Fire,,,Enchantment,Aura,,,Shadowmoor,Common,Trevor Hairsine,101,301,1R,"Enchant creature
+Enchanted creature has ""T: This creature deals 1 damage to target creature or player.""",The cinders believe their flame was stolen by one they call the Extinguisher. All who now wield fire draw their desperate wrath.,,,,6
+1032,Puncture Bolt,,,Instant,,,,Shadowmoor,Common,Franz Vohwinkel,102,301,1R,Puncture Bolt deals 1 damage to target creature. Put a -1/-1 counter on that creature.,Cinder pyromancers measure their success by counting their enemies' smoking holes.,,,,6
+1033,Runes of the Deus,,,Enchantment,Aura,,,Shadowmoor,Common,Warren Mahy,215,301,4{R/G},"Enchant creature
+As long as enchanted creature is red it gets +1/+1 and has double strike. (It deals both first-strike and regular combat damage.)
+As long as enchanted creature is green, it gets +1/+1 and has trample.",,,,,8
+1034,Rustrazor Butcher,,,Creature,Goblin,Warrior,,Shadowmoor,Common,Ron Spencer,105,301,1R,"First strike
+Wither (This deals damage to creatures in the form of -1/-1 counters.)","A Bloodwort's blade is salted with blood and peppered with rust, seasoning and slaughtering in a single swipe.",1,2,,2
+1035,Scuzzback Marauders,,,Creature,Goblin,Warrior,,Shadowmoor,Common,Pete Venters,216,301,4{R/G},"Trample
+Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)",,5,2,,5
+1036,Scuzzback Scrappers,,,Creature,Goblin,Warrior,,Shadowmoor,Common,Scott Altmann,217,301,{R/G},"Wither (This deals damage to creatures in the form of -1/-1 counters.)
+The Scuzzback gang scavenges rusty armor covered in barbed protrusions. No threat is more effective than the threat of infection.",,1,1,,6
+1037,Smash to Smithereens,,,Instant,,,,Shadowmoor,Common,Pete Venters,107,301,1R,Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.,"The giant Tarvik dreamed that trinkets and machines caused all the world's woe. When he awoke from his troubled sleep, he took the name Tarvik Relicsmasher.",,,,8
+1038,Tattermunge Duo,,,Creature,Goblin,Warrior,Shaman,Shadowmoor,Common,Jesper Ejsing,218,301,2{R/G},"Whenever you play a red spell, Tattermunge duo gets +1/+1 until end of turn.
+Whenever you play a green spell, Tattermunge Duo gains forestwalk until end of turn.",,2,3,,6
+1039,Barkshell Blessing,,,Instant,,,,Shadowmoor,Common,Steven Belledin,224,301,{G/W},"Target creature gets +2/+2 until end of turn.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",,,,,8
+1040,Crabapple Cohort,,,Creature,Treefolk,Warrior,,Shadowmoor,Common,Richard Whitters,109,301,4G,Crabapple Cohort gets +1/+1 as long as you control another green creature.,"Seven wives made seven pies from seven apples, each plucked from its branches. Now bare and bitter, it comes to exact its price: one apple, one bone.",4,4,,10
+1041,Devoted Druid,,,Creature,Elf,Druid,,Shadowmoor,Common,Darrell Riche,110,301,1G,"T: Add G to your mana pool.
+Put a -1/-1 coutner on Devoted Druid: Untap Devoted Druid.","""Mana lurks in all things, even in the depths of one's own heart.""",0,2,,9
+1042,Elvish Hexhunter,,,Creature,Elf,Shaman,,Shadowmoor,Common,Alex Horley-Orlandelli,226,301,{G/W},"{G/W}, T, Sacrifice Elvish Hexhunter: Destroy target enchantment.","""All manner of curses, blights, and luckspoils infect Shadowmoor. We stalk them all, one perilous quest at a time.""",1,1,,7
+1043,Farhaven Elf,,,Creature,Elf,Druid,,Shadowmoor,Common,Brandon Kitkouski,113,301,2G,"When Farhaven Elf comes into play, you may search your library for a basic land card and put it into play tapped. If you do, shuffle your library.","""Verdant bloom does exist. It merely hides for its own safetey.""",1,1,,5
+1044,Foxfire Oak,,,Creature,Treefolk,Shaman,,Shadowmoor,Common,Dave Kendall,115,301,5G,{R/G}{R/G}{R/G}: Foxfire Oak gets +3/+0 until end of turn.,"""The bretheren shall blaze with unnatural fire, and the flame shall consume and purify our rage.""—Treefolk catastrophe myth",3,6,,4
+1045,Gleeful Sabotage,,,Sorcery,,,,Shadowmoor,Common,Todd Luckwood,116,301,1G,"Destroy target artifact or enchantment.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",,,,,17
+1046,Gloomwidow's Feast,,,Instant,,,,Shadowmoor,Common,Thomas M. Baxa,118,301,3G,"Destroy target creature with flying. If that creature was blue or black, put a 1/2 green Spider creature token with reach into play. (It can block creatures with flying.)","Each night, gloomwidows cull fresh prey for their ravenous hatchlings.",,,,8
+1047,Hungry Spriggan,,,Creature,Goblin,Warrior,,Shadowmoor,Common,Drew Tucker,120,301,2G,"Trample
+Whenever Hungry Spriggan attacks, it gets +3/+3 until end of turn.","If a spriggan's eyes are larger than its stomach, its has ways to remedy the situation.",1,1,,8
+1048,Juvenile Gloomwidow,,,Creature,Spider,,,Shadowmoor,Common,Thomas M. Baxa,121,301,GG,"Reach (This can block creatures with flying.)
+Wither (This deals damage to creatures in the form of -1/-1 counters.)","Gloomwidow venom is particularly virulent during the spider's first years, when it does most of its hunting near the forest floor.",1,3,,7
+1049,Medicine Runner,,,Creature,Elf,Cleric,,Shadowmoor,Common,Chippy,230,301,1{G/W},"When Medicine Runner comes into play, you may remove a counter from target permanent.","Elvish hunters carry vials of the balm known as dawnglow, reserving it for those wounds that herbs cannot treat.",2,1,,4
+1050,Nurturer Initiate,,,Creature,Elf,Shaman,,Shadowmoor,Common,Jim Pavelec,124,301,G,"Whenever a player plays a green spell, you may pa 1. If you do, target creature gets +1/+1 until end of turn.",The elves alone preserve the few shreds of beauty left. There is no one else who cares.,1,1,,8
+1051,Old Ghastbark,,,Creature,Treefolk,Warrior,,Shadowmoor,Common,Thomas M. Baxa,232,301,3{G/W}{G/W},,"""Beware of trees that talk. Their words are threats. And mind the ones that sway and creak. They too threaten us, but in a foreign tongue.""—The Book of Other Folk",3,6,,9
+1052,Presence of Gond,,,Enchantment,Aura,,,Shadowmoor,Common,Brandon Kitkouski,125,301,2G,"Enchant creature
+Enchanted creature has ""T: Put a 1/1 green Elf Warrior creature token into play.""","""Here lies Gond, hero of Safehold Taldwen. May he ever guide our quest.""",,,,15
+1053,Raven's Run Dragoon,,,Creature,Elf,Knight,,Shadowmoor,Common,Daren Bader,235,301,2{G/W}{G/W},Raven's Run Dragoon can't be blocked by black creatures.,"""I have a gift. The ability to sense encroaching darkness has saved many lives. And yet constantly feeling the force of so much ugliness is a terrible burden.""",3,3,,6
+1054,Safehold Duo,,,Creature,Elf,Warrior,Shaman,Shadowmoor,Common,Izzy,238,301,3{G/W},"Whenever you play a green spell, Safehold Duo gets +1/+1 until end of turn.
+Whenever you play a white spell, Safehold Duo gains vigilance until end of turn.",,2,4,,13
+1055,Safehold Elite,,,Creature,Elf,Scout,,Shadowmoor,Common,Richard Whitters,239,301,1{G/W},"Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)","""I refuse to die—not at the hands of one such as you.""",2,2,,5
+1056,Safewright Quest,,,Sorcery,,,,Shadowmoor,Common,Dan Scott,240,301,{G/W},"Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shufffle your library.","Elves search for sources of beauty in a nighted world. Meanwhile, the nighted world searches for the blood of elves.",,,,6
+1057,Shield of the Oversoul,,,Enchantment,Aura,,,Shadowmoor,Common,Steven Belledin,242,301,2{G/W},"Enchant creature
+As long as enchanted creature is green, it gets +1/+1 and is indestructible. (Lethal damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+As long as enchanted creature is white, it gets +1/+1 and has flying.",,,,,6
+1058,Toil to Renown,,,Sorcery,,,,Shadowmoor,Common,Larry MacDougall,130,301,1G,"You gain 1 life for each tapped artifact, creature, and land you control.","The last survivor of her patrol, the warrior returned expecting disappointment and scorn. Instead she found gratitude. ""You are alive. That is reason to celebrate.""",,,,8
+1059,Viridescent Wisps,,,Instant,,,,Shadowmoor,Common,Jim Nelson,132,301,G,"Target creature becomes green and gets +1/+0 until end of turn.
+Draw a card.","In the wisps that night, the once timid boggart saw all the terrible, bloody things he was capable of. And it was glorious.",,,,7
+1060,Wildslayer Elves,,,Creature,Elf,Warrior,,Shadowmoor,Common,Dave Kendall,133,301,3G,Wither (This deals damage to creatures in teh form of -1/-1 counters.),"Some elves battled too long in the deep shadow, their swords dipped too often in tainted flesh and poisoned blood.",3,3,,4
+1061,Moonring Island,,,Land,Island,,,Shadowmoor,Uncommon,Brandon Kitkouski,276,301,,"(T: Add U to your mana pool.)
+Moonring Island comes into play tapped.
+U, T: Look at the top card of taret player's library. Play this ability only if you control two or more blue permanents.",,,,,2
+1062,Sapseep Forest,,,Land,Forest,,,Shadowmoor,Uncommon,Aleksi Briclot,279,301,,"(T: Add G to your mana pool.)
+Sapseep Forest comes into play tapped.
+G, T: You gain 1 life. Play this ability only if you control two or more green permanents.",,,,,7
+1063,Gnarled Effigy,,Artifact,,,,,Shadowmoor,Uncommon,Ron Brown,251,301,4,"4, T: Put a -1/-1 counter on target creature.","""Bits of fallen scarecrow, laces of elfskin leather, teeth of an axeshark merrow...An industrious soul can find new uses for the most mundane items.""—Mowagh the Gwyllion",,,,1
+1064,Heap Doll,,Artifact,Creature,Scarecrow,,,Shadowmoor,Uncommon,John Avon,253,301,1,Sacrifice Heap Doll: Remove target card in a graveyard from teh game.,"""I know one night it won't come back. Then I'll know it's truly done its job.""—Braenna, cobblesmith",,,,2
+1065,Illuminated Folio,,Artifact,,,,,Shadowmoor,Uncommon,Jim Pavelec,254,301,5,"1, T, Reveal two cards from your hand that share a color: Draw a card.",Most such relics remain clasped shut for fear of what ominous truths might be carved into the diptych inside.,,,,2
+1066,Lockjaw Snapper,,Artifact,Creature,Scarecrow,,,Shadowmoor,Uncommon,Daren Bader,255,301,4,"Wither (This deals damage to creatures in the form of -1/-1 counters.)
+When Lockjaw Snapper is put into a graveyard from play, put a -1/-1 counter on each creature with a -1/-1 counter on it.",,2,2,,1
+1067,Lurebound Scarecrow,,Artifact,Creature,Scarecrow,,,Shadowmoor,Uncommon,Nils Hamm,256,301,3,"As Lurebound Scarecrow comes into play, choose a color.
+When you control no permanents of the chosen color, sacrifice Lurebound Scarecrow.",It's a fools race to run if all is lost if it be won.,4,4,,5
+1068,Revelsong Horn,,Artifact,,,,,Shadowmoor,Uncommon,Franz Vohwinkel,261,301,2,"1, T, Tap an untapped creature you control: Target creature gets +1/+1 until end of turn.",A deflated sigh breathed into the horn emerges as an inspiring melody.,,,,8
+1069,Trip Noose,,Artifact,,,,,Shadowmoor,Uncommon,Randy Gallegos,206,301,2,"2, T: Tap target creature.",A taut slipknot trigger is the only thing standing between you and standing.,,,,2
+1070,Umbral Mantle,,Artifact,Equipment,,,,Shadowmoor,Uncommon,Richard Sardinha,267,301,3,"Equipped creature has ""3, {Q}: This creature gets +2/+2 until end fo turn."" ({Q} is the untap symbol.)
+Equip 0",It harnesses the power of the night in a land where daylight fears to show itself.,,,,6
+1071,Wicker Warcrawler,,Artifact,Creature,Scarecrow,,,Shadowmoor,Uncommon,Carl Critchlow,269,301,5,"Whenever Wicker Warcrawler attacks or blocks, put a -1/-1 counter on it at end of combat.",It's the twisted creation of a kithkin diviner who dreamed of very large crows.,6,6,,2
+1072,Armored Ascension,,,Enchantment,Aura,,,Shadowmoor,Uncommon,Matt Cavotta,2,301,3W,"Enchant creature
+Enchanted creature gets +1/+1 for each Plains you control and has flying.","""Why enchant feathers to make them sturdy when we can enchant shields to make them fly?""—Braenna, cobblesmith",,,,3
+1073,Glamer Spinners,,,Creature,Faerie,Wizard,,Shadowmoor,Uncommon,Jesper Ejsing,141,301,4{W/U},"Flash
+Flying
+When Glamer Spinners comes into play, attach all Auras enchanting target permanent to another permanent with the same controller.",,2,4,,4
+1074,Kithkin Rabble,,,Creature,Kithkin,,,Shadowmoor,Uncommon,Omar Rayyan,9,301,3W,"Vigilance
+Kithkin Rabble's power and toughness are each equal to the number of white permanents you control.","If even the slightest hint of panic enters the thoughtweft, bakers, potters, and even medics drop their spoons and salves to take up arms.",X,X,,4
+1075,Mistmeadow Skulk,,,Creature,Kithkin,Rogue,,Shadowmoor,Uncommon,Omar Rayyan,14,301,1W,"Lifelink, protection from converted mana cost 3 or greater","Doyo suspected the boggarts of brewing a plot against his crop, so he scythed away his grain to clear the sightlines.",1,1,,2
+1076,Mistmeadow Witch,,,Creature,Kithkin,Wizard,,Shadowmoor,Uncommon,Greg Staples,144,301,1{U/W},2WU: Remove target creature from teh game. Return that card to play under its owner's control at end of turn.,"Olka collected the evening mist for years, studying its secrets. Once she learned its essence, she could vanish with a thought.",1,1,,1
+1077,Pale Wayfarer,,,Creature,Spirit,Giant,,Shadowmoor,Uncommon,Heather Hudson,17,301,5WW,"2WW, {Q}: Target creature gains protection from the color of its controller's choice until end of turn.({Q} is the untap symbol.)","As it wandered Shadowmoor, it did not remember its crime—only its shame.",4,4,,9
+1078,Plumeveil,,,Creature,Elemental,,,Shadowmoor,Uncommon,Nils Hamm,145,301,{W/U}{W/U}{W/U},"Flash
+Flying, defender","""It was vast, a great sheet of soaring wings, and equally silent. It caught us unawares and blocked our view of the kithkin stronghold.""—Grensch, merrow cutthroat",4,4,,3
+1079,Prison Term,,,Enchantment,Aura,,,Shadowmoor,Uncommon,Zoltan Boros & Gabor Szikszai,18,301,1WW,"Enchant creature
+Enchanted creature can't attack or block and its activated abilities can't be played.
+Whenever a creature comes into play under an opponent's control, you may attach Prison Term to that creature.",Clear out the cell. Bring in the next prisoner.,,,,4
+1080,Puresight Merrow,,,Creature,Merfolk,Wizard,,Shadowmoor,Uncommon,Carl Critchlow,146,301,{W/U}{W/U},"{W/U}, {Q}: Look at the top card of your library. You may remove that card from the game. ({Q} is the untap symbol.)","Stripped of his sight, he was free to see only the ideal.",2,2,,5
+1081,Repel Intruders,,,Instant,,,,Shadowmoor,Uncommon,Trevor Hairsine,147,301,3{W/U},"Put two 1/1 white Kithkin Soldier creature tokens into play if W was spent to play Repel Intruders.
+Counter up to one target creature spell if U was spent to play Repel Intruders. (Do both if WU was spent.)",,,,,2
+1082,Resplendent Mentor,,,Creature,Kithkin,Cleric,,Shadowmoor,Uncommon,Franz Vohwinkel,19,301,4W,"White creatures you control have ""T: You gain 1 life.""","Thoughtweft gives new meaning to the phrase ""common knowledge.""",2,2,,6
+1083,Spectral Procession,,,Sorcery,,,,Shadowmoor,Uncommon,Jeremy Enecio,23,301,{2/W}{2/W}{2/W},"({2/W} can be paid with any two mana or with W. This card's converted mana cost is 6.)
+Put three 1/1 white Spirit creature tokens with flying into play.","""The dead have it easy. They suffer no more. If breaking their rest helps the living, so be it.""—Olka, mistmeadow witch",,,,4
+1084,Thoughtweft Gambit,,,Instant,,,,Shadowmoor,Uncommon,Steve Prescott,154,301,4{W/U}{W/U},Tap all creatures your opponents control and untap all creatures you control.,"The kithkin mind-bond is even tighter in Shadowmoor, reinforcing the unity of their community to the point of xenophobia.",,,,4
+1085,Advice from the Fae,,,Sorcery,,,,Shadowmoor,Uncommon,Chippy,28,301,{2/U}{2/U}{2/U},"({2/U} can be paid with any two mana or with U. This card's converted mana cost is 6.)
+Look at the top five cards of your library. If you control more creatures than any other player, put two of those cards into your hand. Otherwise, put one of them into your hand. Then put the rest on the bottom of your library in any order.",,,,,1
+1086,Biting Tether,,,Enchantment,Aura,,,Shadowmoor,Uncommon,Thomas Denmark,29,301,4U,"Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.",A chain of lies as strong as steel.,,,,3
+1087,Cursecatcher,,,Creature,Merfolk,Wizard,,Shadowmoor,Uncommon,Warren Mahy,34,301,U,Sacrifice Cursecatcher: Counter target instant or sorcery spell unless its controller pays 1.,"""Of all the things that can be stolen, opportunity is the most valuable.""",1,1,,3
+1088,Deepchannel Mentor,,,Creature,Merfolk,Rogue,,Shadowmoor,Uncommon,Jesper Ejsing,35,301,5U,Blue creatures you control are unblockable.,The rivers can no longer provide safe passage for travelers and commerce. They serve only as highways for raiders and channels for blood and woe.,2,2,,4
+1089,Dream Salvage,,,Instant,,,,Shadowmoor,Uncommon,Howard Lyon,160,301,{U/B},Draw cards equal to the number of cards target opponent discarded this turn.,"Awylla tried hard to forget the horrors she had seen, but someone else had developed a keen interest in them.",,,,4
+1090,Faerie Swarm,,,Creature,Faerie,,,Shadowmoor,Uncommon,Zoltan Boros & Gabor Szikszai,37,301,3U,"Flying
+Faerie Swarm's power and toughness are each equal to the number of blue permanents you control.","Untouched by the Aurora, Oona's faeries greeted the night like any other day.",X,X,,2
+1091,Flow of Ideas,,,Sorcery,,,,Shadowmoor,Uncommon,Mike Dringenberg,38,301,5U,Draw a card for each Island you control.,"""Beware the merrows, whose envy and covetousness surpasses even that of the ravenous whirlpools where they dwell.""—The Book of Other Folk",,,,1
+1092,Inkfathom Witch,,,Creature,Merfolk,Wizard,,Shadowmoor,Uncommon,Larry MacDougall,168,301,1{U/B},"Fear
+2UB: Each unblocked creature becomes 4/1 until end of turn.",The mark of the Wanderbrine concealed unseemly rituals designed to bring out the worst in merrowkind.,1,1,,1
+1093,Leech Bonder,,,Creature,Merfolk,Soldier,,Shadowmoor,Uncommon,E. M. Gist,43,301,2U,"Leech Bonder comes into play with two -1/-1 counters on it.
+U, {Q}: Move a counter from target creature onto another target creature. ({Q} is the untap symbol.)","Some don't know his face, but his pets are a dead giveaway.",3,3,,3
+1094,Merrow Grimeblotter,,,Creature,Merfolk,Wizard,,Shadowmoor,Uncommon,Cyril Van Der Maegen,171,301,3{U/B},"1{U/B}, {Q}: Target creature gets -2/-0 until end of turn. ({Q} is the untap symbol.)",Grimeblotters spend so much time in the Dark Meanders that they're able to bring a piece with them wherever they go.,2,2,,3
+1095,Wasp Lancer,,,Creature,Faerie,Soldier,,Shadowmoor,Uncommon,Warren Mahy,179,301,{U/B}{U/B}{U/B},Flying,"""I doubt that faeries understand how short their lives are, compared to the rest of us. If they did, would they so readily charge into battle, heedless of the danger before them?""—Awylla, elvish safewright",3,2,,3
+1096,Ashenmoor Gouger,,,Creature,Elemental,Warrior,,Shadowmoor,Uncommon,Matt Cavotta,180,301,{B/R}{B/R}{B/R},Ashenmoor Gouger can't block.,"After his hands had crumbled away, leaving only wickedly sharp points, he decided his only purpose was war.",4,4,,2
+1097,Ashenmoor Liege,,,Creature,Elemental,Knight,,Shadowmoor,Rare,Mark Zug,181,301,1{B/R}{B/R}{B/R},"Other black creatures you control get +1/+1.
+Other red creatures you control get +1/+1.
+Whenever Ashenmooor Liege becomes the target of a spell or ability an opponent controls, that player loses 4 life.",Cinders carry an ancestral grudge that makes them slow to trust and quick to retaliate.,4,1,,2
+1098,Beseech the Queen,,,Sorcery,,,,Shadowmoor,Uncommon,Jason Chan,57,301,{2/B}{2/B}{2/B},"({2/B} can be paid with any two mana or with B. This card's converted mana cost is 6.)
+Search your library for a card with convertted mana cost less than or equal to the nunber of lands you control, reveal it, and put it into your hand. Then shuffle your library.",Those who hear her go mad with inspiration.,,,,2
+1099,Blowfly Infestation,,,Enchantment,,,,Shadowmoor,Uncommon,Drew Tucker,58,301,2B,"Whenever a creature is put into a graveyard from play, if it had a -1/-1 counter on it, put a -1/-1 counter on target creature.","When the giant Tollek Worldslayer fell, a corruption eerupted from his corpse to carry on his name.",,,,9
+1100,Corrupt,,,Sorcery,,,,Shadowmoor,Uncommon,Dave Allsop,62,301,5B,Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.,"There are things beneath the murk for whom the bog is a stew, a thin broth in need of meat.",,,,2
+1101,Crowd of Cinders,,,Creature,Elemental,,,Shadowmoor,Uncommon,Carl Frank,63,301,3B,"Fear
+Crowd of Cinders's power and toughness are each equal to the number of black permanents you control.",They envy the life-giving heat so much that they tear it from those who still possess it.,X,X,,1
+1102,Grief Tyrant,,,Creature,Horror,,,Shadowmoor,Uncommon,Izzy,189,301,5{B/R},"Grief Tyrant comes into play with four -1/-1 counters on it.
+When Grief Tyrant is put into a graveyard from play, put a -1/-1 counter on target creature for each -1/-1 counter on Grief Tyrant",,8,8,,3
+1103,Hollowsage,,,Creature,Merfolk,Wizard,,Shadowmoor,Uncommon,Lucio Parrillo,69,301,3B,"Whenever Hollowsage becomes untapped, you may have the target player discard a card.",Dreams of dark nights to come are said to stir in the minds of scheming hollowsages.,2,2,,1
+1104,Incremental Blight,,,Sorcery,,,,Shadowmoor,Uncommon,Chuck Lukacs,70,301,3BB,"Put a -1/-1 counter on target creature, two -1/-1 counters on another target creature, and three-1/-1 counters on a third target creature.","Shadowmoor's main crops are rot, slime, and despair.",,,,1
+1105,Jaws of Stone,,,Sorcery,,,,Shadowmoor,Uncommon,Zoltan Boros & Gabor Szikszai,97,301,5R,"Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the bumber of Mountains you control as you play Jaws of Stone.","When giants find their mountain homes infested, they have a whole range of solutions.",,,,5
+1106,Kulrath Knight,,,Creature,Elemental,Knight,,Shadowmoor,Uncommon,Daarken,190,301,3{B/R}{B/R},"Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Creatures your opponents control with counters on them can't attack or block.","Mounted cinders circle the blasted peak at Kulrath, hunting the Extinguisher.",3,3,,1
+1107,Murderous Redcap,,,Creature,Goblin,Assassin,,Shadowmoor,Uncommon,Dave Allsop,1921,301,2{B/R}{B/R},"When Murderous Redcap comes into play, it deals damage equal to its power to target creature or player.","Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)",2,2,,4
+1108,Pyre Charger,,,Creature,Elemental,Warrior,,Shadowmoor,Uncommon,Mark Zug,103,301,RR,"Haste
+R: Pyre Charger gets +1/+0 until end of turn.","His blade was forged over coals of moaning treefolk, curved at the optimum angle for severing heads, and heated to volcanic temperatures by his touch.",1,1,,1
+1109,Spiteful Visions,,,Enchantment,,,,Shadowmoor,Rare,Brandon Kitkouski,198,301,2{B/R}{B/R},"At the beginning of each player's draw step, that player draws a card.
+Whenever a player draws a card, Spiteful Visions deals 1 damage to that player.","Knowledge brings the sting of disillusionment, bu tthe pain teaches perspective.",,,,2
+1110,Spiteflame Witch,,,Creature,Elemental,Shaman,,Shadowmoor,Uncommon,William O'Connor,197,301,1{B/R},BR: Each player loses 1 life.,"Cinder beliefs revolve around the Path of Sorrow, a spiritual descent into oblivion. They don't mind taking others on their journey down.",2,1,,2
+1111,Flame Javelin,,,Instant,,,,Shadowmoor,Uncommon,Trevor Hairsine,92,301,{2/R}{2/R}{2/R},"({2/R} can be paid with any two mana or with R. This card's converted mana cost is 6.)
+Flame Javelin deals 4 damage to target creature or player.","Gyara Spearhurler would have been renowned for her deadly accuracy, if it weren't for her deadly accuracy.",,,,3
+1112,Firespout,,,Sorcery,,,,Shdaowmoor,Uncommon,Jeff Miracola,205,301,2{R/G},Firespout deals 3w damage to each creature without flying if R was spent to play Firespout and 3 damage to each creature with flying if G was spent to play it. (Do both if RG was spent.),,,,,4
+1113,Fossil Find,,,Sorcery,,,,Shadowmoor,Uncommon,Dave DeVries,206,301,{R/G},"Return a card at random from your graveyard to your hand, then reorder your graveyard as you choose.","""Some secrets want to be revealed. They burst through the soil of their own accord.""—Dindun of Kulrath Mine",,,,3
+1114,Guttural Response,,,Instant,,,,Shadowmoor,Uncommon,Matt Cavotta,208,301,{R/G},Counter target blue instant spell.,"Wort had a raiding-bellow that could shatter steel, melt auras, and slice countermagic in half.",,,,8
+1115,Horde of Boggarts,,,Creature,Goblin,,,Shadowmoor,Uncommon,Steve Prescott,94,301,3R,"Horde of Boggarts's power and toughness are each equal to the number of red permanents you control.
+Horde of Boggarts can't be blocked except by two or more creatures.","Stragtegies dont come easily to the boggarts' feral minds, but full-on assault hasn't failed them yet.",X,X,,2
+1116,Slinking Giant,,,Creature,Giant,Rogue,,Shadowmoor,Uncommon,Dave Kendall,106,301,2RR,"Wither (This deals damage to creatures in teh form of -1/-1 counters.)
+Whenever Slinking Giant blocks or becomes blocked, it gets -3/-0 until end of turn.","""I need a better hiding place.""",4,4,,2
+1117,Wild Swing,,,Sorcery,,,,Shadowmoor,Uncommon,Richard Kane Ferguson,108,301,3R,Choose three target nonenchantment permanents. Destroy one of them at random.,"Though the shaman rarely got what she wanted, she was never disappointed in the result.",,,,5
+1118,Dawnglow Infusion,,,Sorcery,,,,Shadowmoor,Uncommon,Rebecca Guay,225,301,X{G/W},You gain X life if G was spent to play Dawnglow Infusion and X life if W was spent to play it. (Do both if G/W was spent.),"Dawnglove bloom is a potent nostrum, but the dawnglow brewed from its sap is nothing less than life itself.",,,,5
+1119,Drove of Elves,,,Creature,Elf,,,Shadowmoor,Uncommon,Larry MacDougall,112,301,3G,"Drove of Elves's power and toughness are each equal to the number of green permanents you control.
+Drove of Elves can't be the target of spells or abilities your opponents control.","""The light of beauty protects our journeys through darkness.""",X,X,,6
+1120,Flourishing Defenses,,,Enchantment,,,,Shadowmoor,Uncommon,Dan Scott,114,301,4G,"Whenever a -1/-1 counter is placed on a creature, you may put a 1/1 green Elf Warrior creature token into play.","Many horrors take the bait of brave elf volunteers walking alone, only to fall to hte blades of rescuers lurking nearby.",,,,2
+1121,Gloomwidow,,,Creature,Spider,,,Shadowmoor,Uncommon,Mark Tedin,117,301,2G,"Reach
+Gloomwidow can't block creatures without flying","When gloomwidows mature, they abandon venom in favor of massive webs that span the eaves of cliffs.",3,3,,3
+1122,Howl of the Night Pack,,,Sorcery,,,,Shadowmoor,Uncommon,Lars Grant-West,119,301,6G,Put a 2/2 green Wolf creature token into play for each Forest you control.,"The murderous horrors of Raven's Run are legendary, but even that haunted place goes quiet when the night wolves howl.",,,,4
+1123,Kitchen Finks,,,Creature,Ouphe,,,Shadowmoor,Uncommon,Kev Walker,229,301,1{G/W}{G/W},"When Kitchen Finks comes into play, you gain 2 life.
+Persist (WHen this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)","Accept one favor from an ouphe, and you're doomed to accept another.",3,2,,4
+1124,Mercy Killing,,,Instant,,,,Shadowmoor,Uncommon,Dave Kendall,231,301,2{G/W},"Target creature's controller sacrifices it, then puts X 1/1 green and white Elf Warrior creature tokens into play, where X is the creature's power.","""We will give you the peace you sek, though you may not yet know you seek it.""",,,,8
+1125,Raking Canopy,,,Enchantment,,,,Shadowmoor,Uncommon,Heather Hudson,127,301,1GG,"Whenver a creature with flying attacks you, Raking Canopy deals 4 damage to it.","""Raven's Run has awoken, and ravens will no longer cry in its branches.""—Roon Ghastbark",,,,1
+1126,Roughshod Mentor,,,Creature,Giant,Warrior,,Shadowmoor,Uncommon,Steven Belledin,128,301,5G,Green creatures you control have trample.,He didn't hear the cries of the treefolk whose branches he snapped or of the elves caught underfoot. He had eyes only for hte path ahead.,5,4,,4
+1127,Seedcradle Witch,,,Creature,Elf,Shaman,,Shadowmoor,Uncommon,Steven Belledin,241,301,{G/W},2GW: Target creature gets +3/+3 until end of turn. Untap that creature.,"She whispered a prayer for strength, and her wishes wafted away like seeds on the wind.",1,1,,7
+1128,Tower Above,,,Sorcery,,,,Shadowmoor,Uncommon,Thomas Denmark,131,301,{2/G}{2/G}{2/G},"({2/G} can be paid with any two mana or with G. This card's converted mana cost is 6.)
+Until end of turn, target creature gets +4/+4 and gains trample, wither, and ""When this creature attacks, target creature blocks it this turn if able."" (It deals damage to creatures in the form of -1/-1 counters.)",,,,,6
+1129,Wilt-Leaf Cavaliers,,,Creature,Elf,Knight,,Shadowmoor,Uncommon,Steve Prescott,244,301,{G/W}{G/W}{G/W},Vigilance,"Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.",3,4,,8
+1130,Blazethorn Scarecrow,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Dave Kendall,246,301,5,"Blazethorn Scarecrow has haste as long as you control a red creature.
+Blazethorn Scarecrow has wither as long as you control a green creature.
+(It deals damage to creature sin the form of -1/-1 counters.)",,3,3,,4
+1131,Blight Sickle,,Artifact,Equipment,,,,Shadowmoor,Common,John Avon,247,301,2,"Equipped creature gets +1/+0 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)
+Equip 2",Its scars cut deeper than its blade.,,,,9
+1132,Chainbreaker,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Jeff Miracola,249,301,2,"Chainbreaker comes into play with two -1/-1 counters on it.
+3, T: Remove a -1/-1 counter from target creature.",Scarecrows deemed too malevolent to roam free are shackled to boulders or dolmen stones. Their animosity usually outlives the chains.,3,3,,5
+1133,Elsewhere Flask,,Artifact,,,,,Shadowmoor,Common,Carl Frank,250,301,2,"When Elsewhere Flask comes into play, draw a card.
+Sacrifice Elsewhere Flask: Choose a basic land type. Each land you control becomes that type until end of turn.",One night Oona bottled the sky. The next night she aligned the stars and released it.,,,,6
+1134,Pili-Pala,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Ron Spencer,258,301,2,"Flying
+2, {Q}: Add one mana of any color to your mana pool. ({Q} is the untap symbol.)","It wasn't really expected to fly. THen again, it wasn't expected to move, either.",1,1,,8
+1135,Rattleblaze Scarecrow,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Trevor Hairsine,259,301,6,"Rattleblaze Scarecrow has persist as long as you control a black creature. (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)
+Rattleblaze Scarecrow has haste as long as you control a red creature.",,5,3,,10
+1136,Scrapbasket,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Heather Hudson,262,301,4,1: Scrapbasket becomes all colors until end of turn.,"Once a tool of kithkin farmers, scarecrows of all shapes now skitter and lurch across Shadowmoor, animated by residual rustic magics.",3,2,,9
+1137,Scuttlemutt,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Jeremy Jarvis,263,301,3,"T: Add one mana of any color to your mana pool.
+T: Target creature becomes the color or colors of your choice until end of turn.","Built to shuttle goods from the river, it took off one day carrying a cauldron of dyes.",2,2,,6
+1138,Thornwatch Scarecrow,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Chuck Lukacs,265,301,6,"Thornwatch Scarecrow has wither as long as you control a green creature.
+(It deals damage to creatures in the form of -1/-1 counters.)
+Thornwatch Scarecrow has vigilance as long as you control a white creature.",,4,4,,3
+1139,Watchwing Scarecrow,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Chuck Lukacs,268,301,4,"Watchwing Scarecrow has vigilance as long as you control a white creature.
+Watchwing Scarecrow has flying as long as you control a blue creature.",The wings are held in place by wicker rods. The rods are held in place by pure faith.,2,4,,3
+1140,Wingrattle Scarecrow,,Artifact,Creature,Scarecrow,,,Shadowmoor,Common,Trevor Hairsine,270,301,3,"Wingrattle Scarecrow has flying as long as you control a blue creature.
+Wingrattle Scarecrow has persist as long as you control a black creature. (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.",,2,2,,5
+1141,Aethertow,,,Instant,,,,Shadowmoor,Common,Warren Mahy,136,301,3{W/U},"Put target attacking or blocking creature on top of its owner's library.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",,,,,7
+1142,Apothecary Initiate,,,Creature,Kithkin,Cleric,,Shadowmoor,Common,Kev Walker,1,301,W,"Whenever a player plays a white spell, you may pay 1. If you do, you gain 1 life.",Kithkin jealously hoard their knowledge of poultices and remedies so that no outside thread can benefit from their wisdom.,1,1,,9
+1143,Ballynock Cohort,,,Creature,Kithkin,Soldier,,Shadowmoor,Common,Jesper Ejsing,3,301,2W,"First strike
+Ballynock Cohort gets +1/+1 as long as you control another white creature.",A kithkin's worst enemy is solitude,2,2,,6
+1144,Barrenton Cragtreads,,,Creature,Kithkin,Scout,,Shadowmoor,Common,Daren Bader,138,301,2{W/U}{W/U},Barrenton Cragtreads can't be blocked by red creatures.,"""Boggarts are easy to get around. Just toss some mutton in another direction. Giants are a little harder. You have to be quick to avoid their steps. Cinders are the difficult ones, but even they have fears to be exploited.""",3,3,,3
+1145,Barrenton Medic,,,Creature,Kithkin,Cleric,,Shadowmoor,Common,Trevor Hairsine,4,301,4W,"T: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Put a -1/-1 counter on Barrenton Medic: Untap Barrenton Medic.",His dreams are filled with noxious powders and clinking vials.,0,4,,10
+1146,Curse of Chains,,,Enchantment,Aura,,,Shadowmoor,Common,Drew Tucker,139,301,1{W/U},"Enchant creature
+At the beginning of each upkeep, tap enchanted creature..",The giant's real punishment was the fleeting moment when he was allowed to stand before being dragged down to his knees again.,,,,9
+1147,Goldenglow Moth,,,Creature,Insect,,,Shadowmoor,Common,Howard Lyon,6,301,W,"Flying
+Whenever Goldenglow Moth blocks, you may gain 4 life..","Ordinary moths follow it, drawn to its light.",0,1,,5
+1148,Inquisitor's Snare,,,Instant,,,,Shadowmoor,Common,Michael Sutfin,8,301,1W,"Prevent all damage target attacking or blocking creature would deal this turn. If that creature is black or red, destroy it.","Driven by their paranoia, kithkin inflict on their foes all the agonies they believe woudl have been inflicted on them.",,,,5
+1149,Kithkin Shielddare,,,Creature,Kithkin,Soldier,,Shadowmoor,Common,Christopher Moeller,10,301,1W,"W, T: Target blocking creature gets +2/+2 until end of turn.",The nova glyph is a potent symbol. A shield embossed with it can resist the force of even the most determined giant.,1,1,,5
+1150,Last Breath,,,Instant,,,,Shadowmoor,Common,Thomas Denmark,11,301,1W,Remove target creature with power 2 or less from the game. Its controller gains 4 life.,"""Tsk. You'd think those nasty merrows would know how to hold their breath.""—Olka, mistmeadow witch",,,,3
+1151,Mine Excavation,,,Sorcery,,,,Shadowmoor,Common,Chippy,13,301,1W,"Return target artifact or enchantment card in a graveyard to its owner's hand.
+Conspire (As you play this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",,,,,7
+1152,Niveous Wisps,,,Instant,,,,Shadowmoor,Common,Jim Nelson,15,301,W,"Target creature becomes white until end of turn. Tap that creature.
+Draw a card.","In a world devoid of sun, illumination comes from cheerless fires or the wandering spirits of the dead.",,,,7
+1153,Rune-Cervin Rider,,,Creature,Elf,Knight,,Shadowmoor,Common,Dan Scott,20,301,3W,"Flying
+{G/W}{G/W}: Rune-Cervin Rider gets +1/+1 until end of turn.","Things of beauty are in constant peril. The riders whisk them to safety, ahead of the encroaching darkness.",2,2,,3
+1154,Safehold Sentry,,,Creature,Elf,Warrior,,Shadowmoor,Common,William O'Connor,22,301,1W,"2W, {Q}: Safehold Sentry gets +0/+2 until end of turn. ({Q} is the untap symbol.)","""These bracers were worn by my father and by his mother before him. Boggart fangs have shattered on them. Cinder flames have withered at their touch. While I wear them, the safehold will not fall.""",2,2,,15
+1155,Silkbind Faerie,,,Creature,Faerie,Rogue,,Shadowmoor,Common,Matt Cavotta,148,301,2{W/U},"Flying
+1{W/U}, {Q}: Tap target creature. ({Q} is the untap symbol.)","""The bigger they are, the more fun it is to watch them fall flat on their faces.""",1,3,,7
+1156,Somnomancer,,,Creature,Kithkin,Wizard,,Shadowmoor,Common,Lars Grant-West,149,301,1{W/U},"When Somnomancer comes into play, you may tap target creature.","""Are you tired? You look tired.""",2,1,,5
+1157,Steel of the Godhead,,,Enchantment,Aura,,,Shadowmoor,Common,Jason Chan,150,301,2{W/U},"Enchant creature
+As long as enchanted creature is white, it gets +1/+1 and has lifelink.
+(Whenever it deals damage, its controller g ains that much life.)
+As long as enchanted creature is blue, it gets +1/+1 and is unblockable.",,,,,8
+1158,Strip Bare,,,Instant,,,,Shadowmoor,Common,Ralph Horsley,24,301,W,Destroy all Auras and Equipment attached to target creature.,"""All glamers lifted, all lies revealed, all flesh exposed.""—Awylla, elvish safewright",,,,7
+1159,Thistledown Duo,,,Creature,Kithkin,Soldier,Wizard,Shadowmoor,Common,Zoltan Boros & Gabor Szikszai,152,301,2{W/U},"Whenever you play a white spell, Thistledown Duo gets +1/+1 until end of turn.
+Whenever you play a blue spell, Thistledown Duo gains flying until end of turn.",,2,2,,9
+1160,Turn to Mist,,,Instant,,,,Shadowmoor,Common,Greg Staples,155,301,1{W/U},Remove target creature from the game. Return that card to play under its owner's control at end of turn.,"""Did you expect me to dodge? How quaint.""—Olka, mistmeadow witch",,,,5
+1161,Woeleecher,,,Creature,Elemental,,,Shadowmoor,Common,Izzy,27,301,5W,"W, T: Remove a -1/-1 counter from target creature. If you do, you gain 2 life.",One head senses the curse. The second loosens it from the soul. The third drinks it as an invigorating mist.,3,5,,4
+1162,Zealous Guardian,,,Creature,Kithkin,Soldier,,Shadowmoor,Common,Steven Belledin,157,301,{W/U},Flash,"Parapet watchers patrol the outer edges of the doun, signaling to others who wait patiently in shadow.",1,1,,6
+1163,Batwing Brume,,,Instant,,,,Eventide,Uncommon,Richard Kane Ferguson,81,180,1{W/B},Prevent all combat damage that would be dealt this turn if W was spent to play Batwing Brume. Each player loses 1 life for each attacking creature he or she controls if B was spent to play Batwing Brume. (Do both if WB was spent.),,,,,5
+1164,Endure,,,Instant,,,,Eventide,Uncommon,Ralph Horsley,5,180,3WW,Prevent all damage that would be dealt to you and permanents you control this turn.,"The Aurora had lessened the kithkins' kindness, deepened their paranoia, and dulled their sense of pain.",,,,2
+1165,Flickerwisp,,,Creature,Elemental,,,Eventide,Uncommon,Jeremy Enecio,6,180,1WW,"Flying
+When Flickerwisp comes into play, remove another target permanent from the game. Return that card to play under its owner's control at end of turn..",Its wings disturb more than air.,3,1,,4
+1166,Gwyllion Hedge-Mage,,,Creature,Hag,Wizard,,Eventide,Uncommon,Todd Lockwood,89,180,2{W/B},"When Gwyllion Hedge-Mage comes into play, if you control two or more Plains, you may put a 1/1 white Kithkin Soldier creature token into play.
+When Gwyllion Hedge-Mage comes into play, if you control two or more Swamps, you may put a -1/-1 counter on target creature.",,2,2,,2
+1167,Local Gyrfalcon,,,Creature,Bird,,,Eventide,Uncommon,Darrell Riche,11,180,3W,"Defender, flying
+Whenever you play a white spell, Loyal Gyrfalcon loses defender until end of turn.",It's tethered not to keep it from fleeing but to keep it from eating everything in sight.,3,3,,2
+1168,Patrol Signaler,,,Creature,Kithkin,Soldier,,Eventide,Uncommon,Steve Prescott,12,180,1W,"1W, {Q}: Put a 1/1 white Kithkin Soldier creature token into plapy. ({Q} is the untap symbol.)",Many a keen-eared bogle has run afoul of a clever and silently orchestrated kithkin ambush.,1,1,,2
+1169,Restless Apparition,,,Creature,Spirit,,,Eventide,Uncommon,Jeff Easley,94,180,{W/B}{W/B}{W/B},"{W/B}{W/B}{W/B}: Restless Apparition gets +3/+3 until end of turn.
+Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.",,2,2,,2
+1170,Springjack Shepherd,,,Creature,Kithkin,Wizard,,Eventide,Uncommon,Thomas Denmark,15,180,3W,"Chroma — When Springjack SHepherd comes into play, put a 0/1 white Goat creature token into play for each white mana symbol in the mana costs of permanents you control.","""Better for a doun to lose its cenn than its springjacks.""",1,2,,3
+1171,Suture Spirit,,,Creature,Spirit,,,Eventide,Uncommon,Larry MacDougall,16,180,1W,"Flying
+{W/B}{W/B}{W/B}: Regenerate target creature.",Is her need to heal born out of compassion or penance?,1,1,,2
+1172,Voracious Hatchling,,,Creature,Elemental,,,Eventide,Uncommon,Jeremy Enecio,97,180,3{W/B},"Lifelink
+Voracious Hatchling comes into play with four -1/-1 counters on it.
+Whenever you play a white spell, remove a -1/-1 counter from Voracious Hatchling.
+Whenever you play a black spell, remove a -1/-1 counter from Voracious Hatchling.",,6,6,,4
+1173,Cache Raiders,,,Creature,Merfolk,Rogue,,Eventide,Uncommon,Pete Venters,18,180,3UU,"At the beginning of your upkeep, return a permanent you control to its owner's hand.","What the current doesn't take, they do.",4,4,,1
+1174,Crag Puca,,,Creature,Shapeshifter,,,Eventide,Uncommon,John Howe,101,180,{U/R}{U/R}{U/R},{U/R}: Switch Crag Puca's power and toughness until end of turn.,"""Be happy when you see a puca shaped like mischief. It's far better than one shaped like death."" —Dindun of Kulrath Mine",2,4,,1
+1175,Dream Fracture,,,Instant,,,,Eventide,Uncommon,Howard Lyon,191,180,1UU,"Counter target spell. Its controller draws a card.
+Draw a card.","""Creation is a paradox. It hatches from its opposite.""
+—Olka, Mistmeadow witch",,,,4
+1176,Idle Thoughts,,,Enchantment,,,,Eventide,Uncommon,Steven Belledin,23,180,3U,2: Draw a card if you have no cards in hand.,Inspiration strikes the uncluttered mind.,,,,1
+1177,Noggle Hedge-Mage,,,Creature,Noggle,Wizard,,Eventide,Uncommon,Larry MacDougall,108,180,2{U/R},"When Noggle Hedge-Mage comes into play, if you control two or more Islands, you may tap two target permanents.
+When Noggle Hedge-Mage comes into play, if you control two or more Mountains, you may have Noggle Hedge-Mage deal 2 damage to target player.",,2,2,,1
+1178,Noggle Ransacker,,,Creature,Noggle,Rogue,,Eventide,Uncommon,Alex Horley-Orlandelli,109,180,2{U/R},"When Noggle Ransacker comes into play, each player draws two cards, then discards a card at random.","Noggles live purely by what they can scavenge. There is not a single thing a noggle eats, wears, or uses that did not once belong to another.",2,1,,2
+1179,Nucklavee,,,Creature,Beast,,,Eventide,Uncommon,Trevor Hairsine,110,180,4{U/R}{U/R},"When Nucklavee comes into play, you may return target red sorcery card from your graveyard to your hand.
+When Nucklavee comes into play, you may return target blue instant card from your graveyard to your hand.",It loathes all tastes but two: spells and flesh.,4,4,,1
+1180,Razorfin Abolisher,,,Creature,Merfolk,Wizard,,Eventide,Uncommon,William O'Connor,28,180,2U,"1U, T: Return target creature with a counter on it to its owner's hand.","Once you have been marked by the merrow, you are not long for their waters.",2,2,,2
+1181,Shrewd Hatchling,,,Creature,Elemental,,,Eventide,Uncommon,Carl Frank,112,180,3{U/R},"Shrewd Hatchling comes into play with four -1/-1 counters on it.
+{U/R}: Target creature can't block Shrewd hatchling this turn.
+Whenever you play a blue spell, remove a -1/-1 counter from Shrewd Hatchling.
+Whenever you play a red spell, remove a -1/-1 counter from Shrewd Hatchling.",,6,6,,1
+1182,Talonrend,,,Creature,Elemental,,,Eventide,Uncommon,Nils Hamm,30,180,4{U},"Flying
+{U/R}: Talonrend gets +1/-1 until end of turn.",Change is a denizen of Shadowmoor as much as ouphes and noggles are.,0,5,,1
+1183,Canker Abomination,,,Creature,Treefolk,Horror,,Eventide,Uncommon,Brandon Kitkouski,115,180,2{B/G}{B/G},"As Canker Abomination comes into play, choose an opponent. Canker Abonination comes into play with a -1/-1 counter on it for each creature that player controls.","Once the hideous disease takes hold, it spreads through both bark and mind.",6,6,,1
+1184,Cankerous Thirst,,,Instant,,,,Eventide,Uncommon,Carl Frank,116,180,3{B/G},"If B was spent to play Cankerous Thirst, you may have target creature get -3/-3 until end of turn. If G was spent to play Cankerous Thirst, you may have target creature get +3/+3 until end of turn. (Do both if BG was spent.)",Nothing warms the bark on a chilly day like a draught of elf.,,,,1
+1185,Creakwood Ghoul,,,Creature,Plant,Zombie,,Eventide,Uncommon,Thomas M. Baxa,34,180,4B,{B/G}{B/G}: Remove target card in a graveyard from the game. You gain 1 life.,Some eat the living. Some eat the dead. It eats the past.,3,3,,4
+1186,Crumbling Ashes,,,Enchantment,,,,Eventide,Uncommon,Chuck Lukacs,35,180,1B,"At the beginning of your upkeep, destroy target creature with a -1/-1 counter on it.","""I was there to watch my brothers' quenching. I drew the slightest warmth from their dying rage.""
+—Illulia Nighthearth",,,,2
+1187,Hag Hedge-Mage,,,Creature,Hag,Shaman,,Eventide,Uncommon,Scott Altmann,123,180,2{B/G},"When Hag Hedge-Mage comes into play, if you control two or more Swamps, you may have target player discard a card.
+When Hag Hedge-Mage comes into play, if you control two or more Forests, you may put target card in your graveyard on top of your library.",,2,2,,5
+1188,Lingering Tormentor,,,Creature,Spirit,,,Eventide,Uncommon,Joshua Hagler,36,180,3B,"Fear
+Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control witha -1/-1 counter on it.)",The bogeyman doesn't disappear when you close your eyes.,2,2,,1
+1189,Noggin Whack,,,Tribal,Sorcery,Rogue,,Morningtide,Uncommon,Alan Pollack,70,150,2BB,"Prowl 1B (You may play this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Target player  reveals three cards from his or her hand. You choose two of them. That player discards those cards.",,,,,1
+1190,Noxious Hatchling,,,Creature,Elemental,,,Eventide,Uncommon,Nils Hamm,124,180,3{B/G},"Noxious Hatchling comes into play with four -1/-1 counters on it.
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you play a black spell, remove a -1/-1 counter frmo Noxious Hatchling.
+Whenever you play a green spell, remove a -1/-1 counter from Noxious Hatchling.",,6,6,,3
+1191,Quillspike,,,Creature,Beast,,,Eventide,Uncommon,Carl Critchlow,126,180,2{B/G},"{B/G}, Remove a -1/-1 counter from a creature you control: Quillspike gets +3/+3 until end of turn.","While it's true that a quillspike does heal the sick, it's just because it finds them tastier that way.",1,1,,4
+1192,Soul Snuffers,,,Creature,Elemental,Shaman,,Eventide,Uncommon,Izzy,45,180,2BB,"When Soul Snuffers comes into play, put a -1/-1 counter on each creature.",They once sought to unite with the flame of transcendence. Now they seek only to extinguish the lights of others.,3,3,,4
+1193,Stalker Hag,,,Creature,Hag,,,Eventide,Uncommon,Dave Kendall,129,180,{B/G}{B/G}{B/G},"Swampwalk, forestwalk",Her hunt is silent until a bone snaps or flesh tears. Her victims never know to scream.,3,2,,3
+1194,Syphon Life,,,Sorcery,,,,Eventide,Uncommon,Dan Seagrave,46,180,1BB,"Target player loses 2 life and you gain 2 life.
+Retrace (You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)",Leeches never tire of feeding.,,,,3
+1195,Duergar Cave-Guard,,,Creature,Dwarf,Warrior,,Eventide,Uncommon,Dave Allsop,51,180,3R,"Wither (This deals damage to creatures in teh form of -1/-1 counters.)
+{R/W}: Duergar Cave-Guard gets +1/+0 until end of turn.",Duergars who grow too large to live in the tunels are sent topside to defend the entrances from intruders.,1,3,,1
+1196,Hatchet Bully,,,Creature,Gobiln,Warrior,,Eventide,Uncommon,Paul Bonner,54,180,3R,"2R, T, Put a -1/-1 counter on a creature you control: Hatchet Bully deals 2 damage to target creature or player.","""It's not much for eating, but I think we can find somethin' to do with it.""",3,3,,1
+1197,Hearthfire Hobgoblin,,,Creature,Goblin,Soldier,,Eventide,Uncommon,Steven Belledin,141,180,{R/W}{R/W}{R/W},Double Strike,Hobgoblins are best left alone. They sharpen their farm implements far more than is necessary for their work in the fields.,2,2,,4
+1198,Impelled Giant,,,Creature,Giant,Warrior,,Eventide,Uncommon,Mark Zug,58,180,4RR,"Trample
+Tap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way.",,3,3,,1
+1199,Outrage Shaman,,,Creature,Goblin,Shaman,,Eventide,Uncommon,Cole Eastburn,59,180,3RR,"Chroma — When Outrage Shaman comes into play, it deals damage to target creature equal to the number of red mana symbols in the mana costs of permanents you control.","A boggart's mind is a tinderbox of volatile thoughts, hungry for a spark.",2,2,,3
+1200,Glider Bairn,,,Creature,Ouphe,,,Eventide,Uncommon,Nils Hamm,152,180,1{G/U}{G/U},"2{G/U}, {Q}: For each counter on target permanent, put another of those counters on that permanent. ({Q} is the untap symbol.)","Do the glowing trinkets show it hte way home, or do they set a twisted path for someone else to follow?",1,3,,1
+1201,Groundling Pouncer,,,Creature,Faerie,,,Eventide,Uncommon,Richard Whitters,154,180,1{G/U},{G/U}: Grounding Pounder gets +1/+3 and gains flying until end of turn. Play this ability only once each turn and only if an opponent controls a creature with flying.,Endry was determined to teach his groundlings a few winged-faerie tricks.,2,1,,4
+1202,Invert the Skies,,,Instant,,,,Eventide,Uncommon,Randy Gallegos,155,180,3{G/U},"Creatures your opponents control lose flying until end of turn if G was spent to play Invert the Skies, and creatures you control gain flying until end of turn if U was spent to play it . (Do both if GU was spent.)",,,,,2
+1203,Phosphorescent Feast,,,Sorcery,,,,Eventide,Uncommon,Ron Spencer,72,180,2GGG,Chroma — Reveal any number of cards in your hand. You gain 2 life for each green mana symbol in those cards' mana costs.,The boggarts gorged themselves until their bellies glowed.,,,,1
+1204,Savage Conception,,,Sorcery,,,,Eventide,Uncommon,William O'Connor,75,180,3GG,"Put a 3/3 green Beast creature token into play.
+Retrace (You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)","Some beasts are born not of a mother, but of magic.",,,,2
+1205,Selkie Hedge-Mage,,,Creature,Merfolk,Wizard,,Eventide,Uncommon,Larry MacDougall,158,180,2{G/U},"When Selkie Hedge-Mage comes into play, if you control two or more Forests, you may gain 3 life.
+When Selkie Hedge-Mage cmoes into play, if you control two or more Islands, you may return target tapped creature to its owner's hand.",,2,2,,6
+1206,Sturdy Hatchling,,,Creature,Elemental,,,Eventide,Uncommon,Darrell Riche,163,180,3{G/U},"Sturdy Hatchling comes into play with four -1/-1 counters on it.
+{G/U}: Sturdy Hatchling gains shroud until end of turn.
+Whenever you play a green spell, remove a -1/-1 counter from Sturdy Hatchling.
+Whenever you play a blue spell, remove a -1/-1 counter from Sturdy Hatchling.",,6,6,,5
+1207,Swirling Spriggan,,,Creature,Goblin,Shaman,,Eventide,Uncommon,Thomas M. Baxa,76,180,2GG,{G/U}{G/U}: Target creature you control becomes the color or colors of your choice until end of turn.,"After its encounter with the spriggan, the patrol was red with anger, green with envy, white with fear, and painfully black and blue.",3,3,,2
+1208,Twinblade Slasher,,,Creature,Elf,Warrior,,Eventide,Uncommon,Trevor Hairsine,79,180,G,"Wither (This deals damage to creatures in the form of -1/-1 counters.)
+1G: Twinblade Slasher gets +2/+2 until end of turn.",Righteous anger hones a humble soul.,1,1,,4
+1209,Wistful Selkie,,,Creature,Merfolk,Wizard,,Eventide,Uncommon,Mark Tedin,165,180,{G/U}{G/U}{G/U},"When Wistful Selkie comes into play, draw a card.","Selkies call to a sea they never swam, in a tongue they never spoke, with a song they never learned.",2,2,,6
+1210,Antler Skulkin,,Artifact,Creature,Scarecrow,,,Eventide,Common,Dave Kendall,167,180,5,"2: Target white creature gains persist until end of turn. (When it's put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)","Every skull has a tale to tell, and a skulkin is many dire tales cobbled together.",3,3,,4
+1211,Fang Skulkin,,Artifact,Creature,Scarecrow,,,Eventide,Common,Ron Brown,168,180,2,2: Target black creature gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.),"""Everything falls apart. But living things fall apart in the most fascinating ways.""
+—Mowagh the Gwyllion",2,1,,5
+1212,Hoof Skulkin,,Artifact,Creature,Scarecrow,,,Eventide,Common,Joshua Hagler,169,180,3,3: Target green creature gets +1/+1 until end of turn.,It hunts with the memory of a long lost herd.,2,2,,4
+1213,Jawbone Skulkin,,Artifact,Creature,Scarecrow,,,Eventide,Common,Jeff Easley,170,180,1,2: Target red creature gains haste until end of turn.,"""Ah, skull of shrew—a very potent substance. In powdered form, it gives thrice the zing of noggle hoof pulp.""—Boghald, Barrenton medic",1,1,,5
+1214,Shell Skulkin,,Artifact,Creature,Scarecrow,,,Eventide,Common,Cole Eastburn,173,180,4,3: Target blue creature gains shroud until end of turn.,Skullkins conver strange benefits on unsuspecting patrons.,3,2,,4
+1215,Ballynock Trapper,,,Creature,Kithkin,Soldier,,Eventide,Common,Randy Gallegos,2,180,3W,"T: Tap target creature.
+Whenever you play a white spell, you may untap Ballynock Trapper.","No matter how large or small, fierce or fleeting, the kithkin have a trap for it.",2,2,,5
+1216,Beckon Apparition,,,Instant,,,,Eventide,Common,Larry MacDougall,82,180,{W/B},Remove target card in a graveyard from the game. Put a 1/1 white and black Spirit creature token with flying into play.,"When a graveyard is full, the gwyllions rattle the tombs and unleash the spirits into the sky.",,,,8
+1217,Cenn's Enlistment,,,Sorcery,,,,Eventide,Common,Matt Cavotta,3,180,3W,"Put two 1/1 white Kithkin Soldier creature tokens into play.
+Retrace (Yuo may play this card from your graveyard by discarding a land card in addition to paying its other costs.)",The more the scarier.,,,,6
+1218,Edge of the Divinity,,,Enchantment,Aura,,,Eventide,Common,Dan Scott,87,180,{W/B},"Enchant creature
+As long as enchanted creature is white, it gets +1/+2.
+As long as enchanted creature is black, it gets +2/+1.",The divinity's patronage confers both wicked grace and graceful wickedness.,,,,
+1219,Harvest Gwyllion,,,Creature,Hag,,,Eventide,Common,Nils Hamm,90,180,2{W/B}{W/B},Wither (This deals damage to creatures int eh form of -1/-1 counters.),"She speaks only in vile epithets, spitting out cursess and obscenities that harm others just by the hearing.",2,4,,3
+1220,Kithkin Spellduster,,,Creature,Kithkin,Wizard,,Eventide,Common,Trevor Hairsine,8,180,4W,"Flying
+1W, Sacrifice Kithkin Spellduster:
+Destroy target enchantment.
+Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)",,2,3,,4
+1221,Kithkin Zealot,,,Creature,Kithkin,Cleric,,Eventide,Common,Scott Altmann,9,180,1W,"When Kithkin Zealot comes into play, you gain 1 life for each black and/or red permanent target opponent controls.","The more his flock fears, the more power he wields.",1,3,,10
+1222,Nip Gwyllion,,,Creature,Hag,,,Eventide,Common,Alex Horley-Orlandelli,92,180,{W/B},"Lifelink (Whenever this creature deals damage, you gain that much life.","Once your life and all your worldly possessions have been surrendered to her, a gwyllion can be surprisingly civilized.",1,1,,9
+1223,Nightsky Mimic,,,Creature,Shapeshifter,,,Eventide,Common,Franz Vohwinkel,91,180,1{W/B},"Whenever you play a spell that's both white and black, Nightsky Mimic becomes 4/4 and gains flying until end of turn.","A mimic need only touch a being to learn its shape, but touching usually leads to mauling and messily eating.",2,1,,6
+1224,Recumbent Bliss,,,Enchantment,Aura,,,Eventide,Common,Todd Lockwood,13,180,2W,"Enchant creature
+Enchanted creature can't attack or block.
+At the beginning of your upkeep, you may gain 1 life.",Kithkin somnomancers enjoy the peaceful dreams wafting from their victims.,,,,6
+1225,Unmake,,,Instant,,,,Eventide,Common,Steven Belledin,96,180,{W/B}{W/B}{W/B},Remove target creature from the game.,A gwyllion's favorite trap is the vanity mirror. A bewitched piece of glass traps the looker's soul and does away with the body.,,,,5
+1226,Banishing Knack,,,Instant,,,,Eventide,Common,Howard Lyon,17,180,U,"Until end of turn, target creature gains ""T: Return target nonland permanent to its owner's hand.""","Suddenly he realized that everything was connected by invisible strings, strings that could be pulled—or cut.",,,,8
+1227,Clout of the Dominus,,,Enchantment,Aura,,,Eventide,Common,Jaime Jones,99,180,{U/R},"Enchant creature
+As long as enchanted creature is blue, it gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)
+As long as enchanted creature is red, it gets +1/+1 and has haste.",,,,,8
+1228,Dream Thief,,,Creature,Faerie,Rogue,,Eventide,Common,Howard Lyon,20,180,2U,"Flying
+When Dream Thief comes into play, draw a card if you played another blue spell this turn.",Awylla's salvaged dreams would finally be put to good use.,2,1,,5
+1229,Inside Out,,,Instant,,,,Eventide,Common,Zoltan Boros & Gabor Szikszai,103,180,1{U/R},"Switch target creature's power and toughness until end of turn.
+Draw a card.",Seyden's temperament didn't take well to the puca's magic. Nor did his face.,,,,7
+1230,Merrow Levitator,,,Creature,Merfolk,Wizard,,Eventide,Common,Jim Pavelec,26,180,3U,"T: Target creature gains flying until end of turn.
+Whenever you play a blue spell, you may untap Merrow Levitator","He fancies himself a master thief, claiming to ""steal the ground"" fro mhis victims.",2,3,,9
+1231,Noggle Bandit,,,Creature,Noggle,Rogue,,Eventide,Common,Thomas Denmark,106,180,1{U/R}{U/R},Noggle Bandit can't be blocked except by creatures with defender.,"Noggles believe that they were the first race ever to walk Shadowmoor. They don't ""steal.""They just take back what's rightfully theirs.",2,2,,3
+1232,Noggle Bridgebreaker,,,Creature,Noggle,Rogue,,Eventide,Common,Thomas M. Baxa,107,180,2{U/R}{U/R},"When Noggle Bridgebreaker comes into play, return a land you control to its owner's hand.","""It's always funny till someone gets hurt. Then it's hilarious.""",4,3,,7
+1233,Noggle Hedge-Mage,,,Creature,Noggle,Wizard,,Eventide,Uncommon,Rebecca Guay,27,108,2U,"Target player draws a card.
+Retrace (You may play this card from your graveyard by discarding a land card in addition to playing its other mana costs.)",Oona grants her favored subjects a dream from her own guarded heart.,,,,4
+1234,Riverfall Mimic,,,Creature,Shapeshifter,,,Eventide,Common,Franz Vohwinkel,111,180,1{U/R},"Whenever you play a spell that's both blue and red, Riverfall Mimic becomes 3/3 and is unblockable until end of turn.","Mimics don't hide their natural form well, but their disguises work well enough on boggarts.",2,1,,4
+1235,Stream Hopper,,,Creature,Goblin,,,Eventide,Common,Dave Allsop,113,180,{U/R},{U/R}: Stream Hopper gains flying until end of turn.,"Like many who dwell in Shadowmoor now, he was robbed of his better half by the Aurora.",1,1,,7
+1236,Wilderness Hypnotist,,,Creature,Merfolk,Wizard,,Eventide,Common,Rebecca Guay,32,180,2UU,T: Target red or green creature gets -2/-0 until end of turn.,"""I felt as if I were moving in brackish water, as if I were drowning, even though I knew I stood on dry land.""
+—Dindun of Kulrath Mine",1,3,,5
+1237,Desecrator Hag,,,Creature,Hag,,,Eventide,Common,Fred Harper,119,180,2{B/G}{B/G},"When Desecrator Hag comes into play, return to your hand the creature card in your graveyard with the highest power. If two or more cards are tied for highest power, you choose one of  them.",Loose earth is not a burial but an appetizer.,2,2,,7
+1238,Drain the Well,,,Sorcery,,,,Eventide,Common,Warren Mahy,121,180,2{B/G}{B/G},Destroy target land. You gain 2 life.,Trows have learned that it's not wise to eat cinders without a bucket or two of water nearby.,,,,4
+1239,Gift of the Deity,,,Enchantment,Aura,,,Eventide,Common,Steve Prescott,122,180,4{B/G},"Enchant creature
+As long as enchanted creature is black, it gets +1/+1 and has deathtouch. (Whenever it deals damage to a creature, destroy that creature.)
+As long as enchanted creature is green, it gets +1/+1 and all creatures able to block it do so.",,,,,4
+1240,Merrow Bonegnawer,,,Creature,Merfolk,Rogue,,Eventide,Common,Jim Nelson,37,180,B,"T: Target player removes a card in his or her graveyard from the game.
+Whenever you play a black spell, you may untap Merrow Bonegnawer.","Banished to the Dark Meanders for hideous crimes, some merrows find a taste for the darkness...and the dead.",1,1,,11
+1241,Odious Trow,,,Creature,Troll,,,Eventide,Common,Warren Mahy,125,180,{B/G},1{B/G}: Regenerate Odious Trow.,Trows are the vile trolls that lurk in the bogs of Shadowmoor. They reappear each night to frighten the living and gnaw the dead.,1,1,,6
+1242,Raven's Crime,,,Sorcery,,,,Eventide,Common,Warren Mahy,41,180,B,"Target player discards a card.
+Retrace (You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)",It plucks away memories like choice bits of carrion.,,,,5
+1243,Rendclaw Trow,,,Creature,Troll,,,Eventide,Common,Warren Mahy,127,180,2{B/G},"Wither (This deals damage to creatures in the form of -1/-1 counters)
+Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)",,2,2,,10
+1244,Smoldering Butcher,,,Creature,Elemental,Warrior,,Eventide,Common,Zoltan Boros & Gabor Szikszai,42,180,3B,Wither (This deals damage to creatures int eh form of -1/-1 counters.),A cinder's axe bears no marks from parrying a foe's blade.,4,2,,5
+1245,Soul Reap,,,Sorcery,,,,Eventide,Common,Izzy,44,180,1B,Destroy target nongreen creature. Its controller loses 3 life if you played another black spell this turn.,Their thoughtweft carried Darial's last thoughts back to his down. They sorely wished it had not.,,,,10
+1246,Talara's Bane,,,Sorcery,,,,Eventide,Common,Joshua Hagler,47,180,1B,"Target opponent reveals his or her hand. Choose a green or white creature card from it. You gain life equal to that creature card's toughness, then that player discards a card.","""Your thoughts betray you.""
+—Illulia of Nightearth",,,,2
+1247,Woodlurker Mimic,,,Creature,Shapeshifter,,,Eventide,Common,Franz Vohwinkel,130,180,1{B/G},"Whenever you play a spell that's both black and green, Woodlurker Mimic becomes 4/5 and gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.)",A mimic's disguise fools its victims just long enough to draw them within range of us venomous tentacles.,2,1,,4
+1248,Battlegate Mimic,,,Creature,Shapeshifter,,,Eventide,Common,Franz Vohwinkel,133,180,1{R/W},"Whenever you play a spell that's both red and white, Battlegate Mimic becomes 4/2 and gains first strike until end of turn.","Mimics don't need perfect disguises. They need only the perfect victims: the naive, the young, or the poor of sight.",2,1,,3
+1249,Cinder Pyromancer,,,Creature,Elemental,Shaman,,Eventide,Common,Greg Staples,50,180,2R,"T: Cinder Pyromancer deals 1 damage to target player.
+Whenever you play a red spell, you may untap Cinder Pyromancer.","""If the whole world burns, I'll never grow cold.""",0,1,,9
+1250,Double Cleave,,,Instant,,,,Eventide,Common,rk post,135,180,1{R/W},Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.),"""When in doubt, kill 'em twice.""",,,,3
+1251,Duergar Assailant,,,Creature,Dwarf,Soldier,,Eventide,Common,Paul Bonner,136,180,{R/W},Sacrifice Duergar Assailant: Duergar Assailant deals 1 damage to target attacking or blocking creature.,Some duergars dismiss the world above as a fable. They react violently when their comfortable illusions are dispelled.,1,1,,6
+1252,Fire at Will,,,Instant,,,,Eventide,Common,Pete Venters,140,180,{R/W}{R/W}{R/W},Fire at Will deals 3 damage divided as you choose among any number of target attacking or blocking creatures.,"""Make these shots count. The more foes we drop now, the fewer we'll have trying to kill us later.""",,,,8
+1253,Flame Jab,,,Sorcery,,,,Eventide,Common,rk post,53,180,R,"Flame Jab deals 1 damage to target creature or player.
+Retrace (You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)","""Fire's out. Should be safe now.""
+—Gnarltrunk",,,,6
+1254,Heartlash Cinder,,,Creature,Elemental,Warrior,,Eventide,Common,Steve Prescott,56,180,1R,"Haste
+Chroma — When Heartlash Cinder comes into play, it gets +X/+0 until end of turn, where X is the number of red mana symbols in the mana costs of permanents you control.",,1,1,,4
+1255,Hobgoblin Dragoon,,,Creature,Goblin,Knight,,Eventide,Common,Matt Cavotta,142,180,2{R/W},"Flying, first strike","The faeries snickered at first. A common hob in Oona's skies? But his lance ended their mockery, and now the sound is a cicada's wings brings a shudder to the faerie heart.",1,2,,2
+1256,Hotheaded Giant,,,Creature,Giant,Warrior,,Eventide,Common,Fred Harper,57,180,3R,"Haste
+Hotheaded Giant comes into play with two -1/-1 counters on it unless you played another red spell this turn.","As he races the moon each night, he draws a glowing equator across the world.",4,4,,5
+1257,Puncture Blast,,,Instant,,,,Eventide,Common,Carl Critchlow,60,180,2R,"Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Puncture Blast deals 3 damage to target creature or player.",Gnarltrunk didn't remember having quite that many knotholes.,,,,2
+1258,Scourge of the Nobilis,,,Enchantment,Aura,,,Eventide,Common,Dan Scott,146,180,2{R/W},"Enchant creature
+As long as enchanted creature is red, it gets +1/+1 and has ""{R/W}: This creature gets +1/+0 until end of turn.
+As long as enchanted creature is white, it gets +1/+1 and has lifelink. (Whenever it deals damage, its controller gains that much life.)",,,,,7
+1259,Aerie Ouphes,,,Creature,Ouphe,,,Eventide,Common,Jesper Ejsing,65,180,4G,"Sacrifice Aerie Ouphes: Aerie Ouphes deals damage equal to its power to target creature with flying.
+Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)",,3,3,,8
+1260,Favor of the Overbeing,,,Enchantment,Aura,,,Eventide,Common,Chippy,151,180,1{G/U},"Enchant creature
+As long as enchanted creature is green, it gets +1/+1 and has vigilance.
+As long as enchanted creature is blue, it gets +1/+1 and has flying.",Enlightenment is the mundane seen from the vantage point of the divine.,,,,4
+1261,Grazing Kelpie,,,Creature,Beast,,,Eventide,Common,Drew Tucker,153,180,3{G/U},"{G/U}, Sacrifice Grazing Kelpie: Put target card in a graveyard on the bottom of its owner's library.
+Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)",,2,3,,5
+1262,Monstrify,,,Sorcery,,,,Eventide,Common,Lars Grant-West,70,180,3G,"Target creature gets +4/+4 until end of turn.
+Retrace (You may play this card from your graveyard by discarding a land card in addition to papying its other costs.)",Gackt came to regret keeping his pet toads on his head.,,,,8
+1263,Nettle Sentinel,,,Creature,Elf,Warrior,,Eventide,Common,Kev Walker,71,180,G,"Nettle Squad doesn't untap during its controller's untap step.
+Whenever you play a green spell, you may untap Nettle Sentinel.","Though Shadowmoor's monster-haunted wilds beckon, she never leaves her post.",2,2,,9
+1264,Shorecrasher Mimic,,,Creature,Shapeshifter,,,Eventide,Common,Franz Vohwinkel,159,180,1{G/U},"Whenever you play a spell that's both green and blue, Shorecrasher Mimic becomes 5/3 and gains trample until end of turn.",The Aurora replaced the changelings' innocence with malice and their curiosity with hunger.,2,1,,7
+1265,Slippery Bogle,,,Creature,Beast,,,Eventide,Common,Dave Allsop,160,180,{G/U},Slippery Bogle can't be the target of spells or abilities your opponents control.,,1,1,,5
+1266,Snakeform,,,Instant,,,,Eventide,Common,Jim Nelson,161,180,2{G/U},Target creature loses all abilities and becomes a 1/1 green Snake until end of turn.,"Losing his possessions distressed him, but the lack of limbs was strangely liberating.",,,,7
+1267,Tilling Treefolk,,,Creature,Treefolk,Druid,,Eventide,Common,rk post,78,180,2G,"When Tilling Treefolk comes into play, you may return up to two target land cards from your graveyard to your hand.","He digs his roots into barren ground, searching for old seeds that never had the change to sprout.",1,3,,7
+1268,Trapjaw Kelpie,,,Creature,Beast,,,Eventide,Common,Lars Grant-West,164,180,4{G/U}{G/U},"Flash
+Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)",Travelers in these waters leave a bit of themselves behind.,3,3,,6
+1269,Wickerbough Elder,,,Creature,Treefolk,Shaman,,Eventide,Common,Jesper Ejsing,80,180,3G,"Wickerbough Elder comes into play with a -1/-1 counter on it.
+G, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment.","""Living scarecrows make a mockery of the natural order. Dead ones make fine hats.""",4,4,,11
+1270,Scar,,,Instant,,,,Shadowmoor,Common,Pete Venters,194,301,{B/R},Put a -1/-1 counter on target creature.,"""What is a scar? A sign of courage in the face of danger? A mere trick of flesh? Or a constant reminder of agonizing pain, and the follies of war.""
+—Illulia of Nightearth",,,,3

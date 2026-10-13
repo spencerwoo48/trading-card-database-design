@@ -1,0 +1,53 @@
+CREATE TABLE permanent (
+	permanent_id INT,
+	card_name VARCHAR(),
+	-- mana_cost VARCHAR(),
+	-- supertype VARCHAR(),
+	type_line VARCHAR(),
+	-- subtype VARCHAR(),
+	expansion VARCHAR(),
+	rarity VARCHAR(),
+	-- text_box VARCHAR(),
+	artist_information VARCHAR(),
+	collectors_number INT,
+	-- power INT,
+	-- toughness INT,
+	-- starting_loyalty INT,
+	PRIMARY KEY (permanent_id)
+);
+
+CREATE TABLE mana_cost (
+	mana_cost_id,
+	mana_cost,
+	PRIMARY KEY (mana_cost_id)
+);
+
+CREATE TABLE noncreature (
+	noncreature_id,
+	mana_cost_fk,
+	noncreature_fk,
+	PRIMARY KEY (noncreature_id)
+	FOREIGN KEY (noncreature_fk) REFERENCES permanent(permanent_id)
+	FOREIGN KEY (mana_cost_fk) REFERENCES mana_cost(mana_cost_id)
+);
+
+CREATE TABLE creature (
+	creature_id INT AUTO INCREMENT,
+	power INT,
+	toughness INT,
+	creature_fk INT,
+	mana_cost_fk INT,
+	PRIMARY KEY (creature_id),
+	FOREIGN KEY (creature_fk) REFERENCES permanent(permanent_id)
+	FOREIGN KEY (mana_cost_fk) REFERENCES mana_cost(mana_cost_id)
+);
+
+CREATE TABLE planeswalker (
+	planeswalker_id INT AUTO INCREMENT,
+	starting_loyalty INT,
+	planeswalker_fk INT,
+	mana_cost_fk INT,
+	PRIMARY KEY (planeswalker_id),
+	FOREIGN KEY (planeswalker_fk) REFERENCES permanent(permanent_id)
+	FOREIGN KEY (mana_cost_fk) REFERENCES mana_cost(mana_cost_id)
+);

@@ -1,0 +1,16 @@
+INSERT INTO noncreatures(title, expansion, rarity, gatherer_digit) VALUES();
+INSERT INTO mana_costs(mana_cost, changed_mana_cost) VALUES();
+INSERT INTO noncreaturesmana_costs(noncreatures_id, mana_costs_id) VALUES();
+--INSERT INTO kinds(kind) VALUES();
+INSERT INTO noncreatureskinds(noncreatures_id, kinds_id) VALUES();
+--INSERT INTO expansions(expansion) VALUES();
+--INSERT INTO rarities(rarity) VALUES();
+INSERT INTO ruling_texts(noncreatures_id, ruling_text) VALUES();
+INSERT INTO flavor_texts(noncreatures_id, flavor_text) VALUES();
+INSERT INTO creatures(noncreatures_id, punch, toughness) VALUES();
+INSERT INTO planeswalkers(noncreatures_id, loyalty) VALUES();
+--INSERT INTO artists(artist) VALUES();
+INSERT INTO noncreaturesartists(noncreatures_id, artists_id) VALUES();
+--INSERT INTO shapes(shape) VALUES();
+INSERT INTO nocnreaturesshapesworth(noncreatures_id, shapes_id, worth) VALUES();
+INSERT INTO noncreaturesshapesquantity(noncreatures_id, shapes_id, quantity) VALUES();
